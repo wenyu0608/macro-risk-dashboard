@@ -1,33 +1,96 @@
 {
-  "fetched_at": "2026-08-24T02:09:08.591031+00:00",
+  "fetched_at": "2026-08-25T02:04:25.853834+00:00",
   "headlines": [
     {
-      "title": "Shares flat in Asia before Iran sanctions news, Nvidia results",
+      "title": "S&P 500, Nasdaq end down on tech stocks, investors weigh Iran moves",
+      "source": "Reuters",
+      "published": "2026-08-24T22:26:01+00:00",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmVCQWYzaWpzTVpmVFJPV0xRdEtUcXg0N2JKZHB5Z2JFZWpWRHFwS0Q3R2NtVHp1c29rem5scXhwa0FZMFZJNGtqM3ZCRlVOa1doNGNtWEcxVVZCYXFDSXlEbmJwODhKbG5Kdk15RDJpbDFleUFpWkdmbWEtMkhGWnF0U1FWWVpmSnp4aXp4UzlPc2hzaFNTWllwSm5UVWlpNWtWQlkzX1dqOHJNbkg5ag?oc=5",
+      "description": "S&amp;P 500, Nasdaq end down on tech stocks, investors weigh Iran moves &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Bond market anxiety raises stakes for Warsh's debut Jackson Hole speech",
+      "source": "Reuters",
+      "published": "2026-08-24T21:07:43+00:00",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcnNlclhfMG4yZE9OTExTUEQ4Zi1sUml5RFdoUVZiU2tXd3EtaTJSc0E4YlRBQUp4T1hvSzdmVHRBeFhobTMxV1hodmhsRl80Zm4zSldlTzBWTGJMeTNEd0RnekpmLV9RaVprUWp4SlBCQXJheXc1ZUt4NEx2T3pON0NQQTVlQTlldVA0SWRWdmN6OWVwc25jUlRBeGFTUFIzaC1YNlRQSzFrREtrQ3FXWQ?oc=5",
+      "description": "Bond market anxiety raises stakes for Warsh's debut Jackson Hole speech &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "European stocks flat as markets weigh Iran tensions, await economic data",
+      "source": "Reuters",
+      "published": "2026-08-24T16:46:23+00:00",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYUFOcHRycnRBVzJHNi1CM1o1TWo5dHJha2xIcmFFbEQyTy1PQ2x1WWFSdkpWYjQtQ1RxcW5TYlhJbXE3TGE5S3RqazhrT0dMRjdVbW5rMEdPUk5BUWNrMkJqY0NILVpTNkhQeEJhcjBkc0NwS1ZkVDUyM1BSZkhrakNPUERDNk54LS1kd1BxLWRuVWRiQ084SHhQOG1GVW9GNm1EckhR?oc=5",
+      "description": "European stocks flat as markets weigh Iran tensions, await economic data &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Oil stocks in US Strategic Petroleum Reserve fall by 3.7 million barrels to lowest level since 1982",
+      "source": "Reuters",
+      "published": "2026-08-24T15:29:43+00:00",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcmhLSVR1RUVwZXFYcHJIUFNac0RwMjNmLVJDaFpqWm9MdER5TnFWZnBIWHFUQkdZRlJCaXpNVHBxeUdwZUpCVjUxc3F4Y3VxVVF4eGpveG1jeDlyRjBuNDZENEk3cGFrRk84cVJHQlJ1U3J2enNVclM4eHoyMWdxcEpvVkpCQUNMV1BzVG92RFdRTC0waHV5YTU5TXU2UUoyVHdHZXhTalNFeE9fMG13a2M1Z3JFX1k4V05EZHMzUm5faHdYbEE?oc=5",
+      "description": "Oil stocks in US Strategic Petroleum Reserve fall by 3.7 million barrels to lowest level since 1982 &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Mexico's economy blooms in Q2, fastest growing pace since 2022",
+      "source": "Reuters",
+      "published": "2026-08-24T13:49:28+00:00",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRS1aWXliX1hTQUR3ZTg5NmdkNjZVd0dBbXNwZ2F1UXJIOERYelpSNF95WG1UUXJTVzVrQWFfN21yLTRjenBtZHpNN3J0cWs1WHZQWlh4QjF4WnFiT0pNelRJN0FQd2RnRTZadk1IbW9TbEdZM1NldnY4c3p3ZWU2djBsNjF1b0J1dGtGOUdLN1VBQUhocVVUSGNiSQ?oc=5",
+      "description": "Mexico's economy blooms in Q2, fastest growing pace since 2022 &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "India sugar rally driven by speculation, not supply shortage, official says",
+      "source": "Reuters",
+      "published": "2026-08-24T12:14:32+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTlhMa2c4TWpmYVpYbWhnMGV5ZXhTdzIteXZ0Z3BtNjM2U0JBdmpJcGtwelN3QmlmYk4xb21oZ2l2cDZINXZiSDZibWpkWFVWaF9EMU1CUFFka3UzaWJOY1VPWUh1SHBvTXdzQ3RYU3pkMzZFWEtNenFuUDQtb3VQbFl2ejM0VWNkVTNlakwwLXdHd1k1ZC1MY1gtdFNJOE9tdHg5blhGcDI?oc=5",
+      "description": "India sugar rally driven by speculation, not supply shortage, official says &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "High asset prices, not low interest rates, are driving inflation",
+      "source": "FT",
+      "published": "2026-08-24T12:00:01+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTDFwSEROWmxGdnRfenJJOTZ1UTR4dVUwZ1FaLUI0YkFubVcwQm53WF9iTkVyRXNMazhwdkNxem53eDBlUzBwM3BiSUpFdEM2cWhJeUlPa1MzRFlzTktLaE1jOXBKTUE5TV93SEk1Y00wOWt1U296X2ZfaTlKd1Z2NTFTd1I?oc=5",
+      "description": "High asset prices, not low interest rates, are driving inflation &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "US plans nuclear-powered merchant fleet to challenge China’s shipbuilding dominance",
+      "source": "FT",
+      "published": "2026-08-24T12:00:01+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUUhzTGJkekdMSVlCekthal9LZS02NzV5RHpmdE9jdThPcjVQc2x1Skw2VGMwNVJUMHJsZW1fZ0syamtxY1p1YkY0OUJmMFFLVzdzdnZFZGZLU1dIaDNndHdwbDZiOGFuSFhzX2xPcUdOc1U0Rl9ZblNxeEVGMS1oWXMyVC0?oc=5",
+      "description": "US plans nuclear-powered merchant fleet to challenge China’s shipbuilding dominance &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Gold rally gains momentum ahead of US inflation data, Jackson Hole event",
+      "source": "Reuters",
+      "published": "2026-08-24T04:39:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUkZtQVBPdjlyb21JaVBxeFRicDFEeHVNQ21pZzdGQnlSMUpFYV80MEl3RjJUbF9tYWxmdkZqY2NpaXh5S0NPd1lhbFZxUHZMVVFkTHNyNktCX2hrUU5KN3hjcWRUVTlaQ0hwcmVoMV9VZjBmUkFjMGtTUUY5MXBwRDRFWXBwQnhZTzU1dV81LThOaTNZR1BLVDRGU1JtbDczRjVweFByWkVQbWhhX3VwYTlJZ0VYblU?oc=5",
+      "description": "Gold rally gains momentum ahead of US inflation data, Jackson Hole event &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Singapore offers parents $55,000 in effort to boost birth rates",
+      "source": "FT",
+      "published": "2026-08-24T04:23:37+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRjlrRXZ1Z2puTzNJczhKVjJtSWpCX0xobS1DcV9hWTZKMzlnU0N1cDlSTjdnd2VvZm9taVhUQVFXZ29hYjBXcXVJR3Z6MjlaRnpubHdPaXdCa1BYUGQ5OVNsUi11WHppX2tXOVRuR0dhMkwtX2NIa0MwMFBXUk5IeFRZSUs?oc=5",
+      "description": "Singapore offers parents $55,000 in effort to boost birth rates &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "UBS concern over private markets push by manager of $1bn sustainable finance fund",
+      "source": "FT",
+      "published": "2026-08-24T04:00:05+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVHRWTTJGcVlwaEU5eXRXUFo0Y0NScEZuS1g4ZDU1Um5hcGY1YUxtXzRfXzMyQlZZSnFYVlJMMjVhZWdVUTJQR0ctR0hlcVotNVFFWDVpQTVSazg3QkctcHFlR1M1QUZwcmJEb2FfTFF3OGRXQlZKZ2N5R0dlZHdLNEZRUFY?oc=5",
+      "description": "UBS concern over private markets push by manager of $1bn sustainable finance fund &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "US widens AI-driven investment gap with Europe",
+      "source": "FT",
+      "published": "2026-08-24T04:00:05+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQVcweTlmdVBFUklyV3JpNlI0VndUVmtHc2Q1elJxck8wVFdDeE1vUkl3dl9jSklyOGtrclE1RWM1UUhGQjh2cnp0aUV5SDRub0xrQnByNkhhdUppTVdsb1ZhUklwX1FjZURHOUV4SUlqWE5GcmZ0MllGR2RtcTJxS0IyZUk?oc=5",
+      "description": "US widens AI-driven investment gap with Europe &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Shares dip with pressure from technology, yields and oil fall",
       "source": "Reuters",
       "published": "2026-08-24T00:49:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMG83ZmMxSkVxZFI2eFdsTkhlblVtbE82OFd5SmxFekFOZmtQZEVLSzZOZU1tckZxd2QyOU9vYmRuWGhXeDIzVDhkQ1RaUF96T1hRZkg1SVRHWHAxcGVMTWxmMXBsSjVONURWaEFhMWp2dWdKM0piSGtyWVF1bkJ0YWFxWQ?oc=5",
-      "description": "Shares flat in Asia before Iran sanctions news, Nvidia results &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Oil falls ahead of US announcement on new Iran sanctions",
-      "source": "Reuters",
-      "published": "2026-08-23T23:18:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONkR4RDVXMEFvZ0x5NGhmcVVWVnU0ckNHdF9UZVp4Z05rM2pTRkppNWxTREowb0xEbVVudzlBXzVuc2FkcFQ0TjFoUUduN3hEZlFoVGo0UTVyOG40RHBDNU5FUG1zSFI5MnFlbWEzdDNiMmRoa05GUGFsREZzaWZObUY0T2NGRlNVcVRvZU1xb2I2WFI2bGRlV3lXUWxWZzJILTdaMzk4TTJHVDFaUWZkUmNRdF9CdmJTT0E?oc=5",
-      "description": "Oil falls ahead of US announcement on new Iran sanctions &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "China's property crisis grinds on after Evergrande sentencing",
-      "source": "Reuters",
-      "published": "2026-08-23T23:09:39+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOEFtRENfZGN4U3JLT3U2Mld5dC1TRnZNdHpXMnJJUEI4TUk3UjhFTl9yT3EzblF2WnJ5a3IzTFRCSklxa3ZuMVE1Vk9NaGRacFZod1hRRlZaZERRWW9GNlM3MW5jWkhkbVhfVXRsTDhGSGQyUjdvN2JxcnJFc0FuQldGNG9HWmxKY1RPYVkyWmhjczZfOFJ5SzIzUEVJZTdtemVYeGszXzk?oc=5",
-      "description": "China's property crisis grinds on after Evergrande sentencing &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Europe EV market share tops 25% in July as France, Germany drive growth",
-      "source": "Reuters",
-      "published": "2026-08-23T22:06:12+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONDBHVU1CRk11cEJVVlNPQS03dldaSzZGLVpBNGh3blkxTmJUZkw0WTRpSjAyY1pxTWh3THJKTFlyMUFJQVVqUlVzV0dVMWtuTXpoOUFicGgyR2tKalN6T05Na0RsWHM3Vi1pRkUzbnJYRkRFVVdaS09pMkxwN0pXazI2YXYwM2RoMWU4cVRxa2IzTzhDazJvMVp3WmJieFlfYy1vZWh3SE8tN1ZYdy16UDFoVWM3RTNkb2t2amo0YUhUZGlXWHgwSQ?oc=5",
-      "description": "Europe EV market share tops 25% in July as France, Germany drive growth &nbsp;&nbsp; Reuters"
+      "description": "Shares dip with pressure from technology, yields and oil fall &nbsp;&nbsp; Reuters"
     },
     {
       "title": "Scott Bessent: an economic D-Day is coming for Iran",
@@ -37,25 +100,11 @@
       "description": "Scott Bessent: an economic D-Day is coming for Iran &nbsp;&nbsp; Financial Times"
     },
     {
-      "title": "FirstFT: Kevin Warsh seeks to calm investors’ nerves as signs of economic strain grow",
-      "source": "FT",
-      "published": "2026-08-23T21:27:25+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWElTbFNXV280OTlSQkd0VVFJejZZc1piNUVha25oczFFc05XTi0wcklqb1FqVVh0d3hYeFhTVDNMd2lqSmV1cTJMWnlaRUxMRnVBY1k2UU5oSnJBNlctT3FKRlFsLUlaS0lXTDl0THl3WnZXaUwxQ0V4ZjAtQkFrVWhWQmw?oc=5",
-      "description": "FirstFT: Kevin Warsh seeks to calm investors’ nerves as signs of economic strain grow &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Kevin Warsh seeks to soothe investors’ nerves as signs of economic strain mount",
+      "title": "Kevin Warsh seeks to reassure investors as US economic strains worsen",
       "source": "FT",
       "published": "2026-08-23T18:00:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSm00MzZFZ2FTbnZydXJHVzZBSW9GMXYwTF9OREg4d0VleVdtcVhpRWoyUjQxNE1XTENRbVV3WlpPaTlOdGFNY2RLYnJ1SXRFNWNFX1plZjRIeFNJdHlEWF9Hem92MmltZGVMNWc3U2JpSEc4S1I5d2xuYlliZkV0aFRpYXE?oc=5",
-      "description": "Kevin Warsh seeks to soothe investors’ nerves as signs of economic strain mount &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "A week of keynote speeches",
-      "source": "FT",
-      "published": "2026-08-23T17:15:11+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYmlHWEFDRFpUZnkyYzBlS2lKUkNsQ0ozd2RXOF9KMHpXeDV4U0lSS0JWdmJUejJwWjVJVjloQW1aUmVmSDZkYnA0RjhhWUVyVlc0U2hVVWFUVVdWUG85QXRoVFdtMTRXeFI0cEY1WGliUHN6d1hWUG5GcUFuZDZVNVl0Qk8?oc=5",
-      "description": "A week of keynote speeches &nbsp;&nbsp; Financial Times"
+      "description": "Kevin Warsh seeks to reassure investors as US economic strains worsen &nbsp;&nbsp; Financial Times"
     },
     {
       "title": "How worried should the bond market be about US inflation?",
@@ -63,55 +112,6 @@
       "published": "2026-08-23T14:09:20+00:00",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeklxQkVTYm1ZRUdGaVRhUXhHcW12SmlnZDIyb2haX1VjejRELXJFSFVxQXRtaDhXeEVaR1lua0o0NXRDYnl0Q21kV2drZUpnZWdPUGxKOURMakNYc3BBdTNicjU3RGpsUkZWN3lvNkdSUElIazdaNk5IUGFQQ0h5SnV3clI?oc=5",
       "description": "How worried should the bond market be about US inflation? &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Gulf markets rise as oil gains lift sentiment",
-      "source": "Reuters",
-      "published": "2026-08-23T13:13:45+00:00",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWUctUXh6RjdKQkdiR0xZYTBaX0QwbXNLMUJ0NjNLX21UczhJUFozTDFWMzdkQlJaSnRuVTBFWDdLOG5nUTdHa2JXV3JLVW1oVld0MG9nUWFpRWlEUHJBWXpJLWVGQkx6YkgteHZMVVp0VHlJM0ZEU0xmcUE3dUVBMEJfc3VyMWJ4ekxwZF9XdUx3LUJ5YV9MTTN6NE0?oc=5",
-      "description": "Gulf markets rise as oil gains lift sentiment &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "US buyers snap up Europe’s asset managers at fastest rate in decades",
-      "source": "FT",
-      "published": "2026-08-23T04:30:40+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaGh4cHdDLWFISW5qOXpURUZMa0w0a0wza3NoOTlQM2NCVmR6R0NRcGY1TFlwUXlNRkp5ZlpLTWdFVTRwQzI5OFFfU3pDV3Z3c2x3eVN6ZVQ5alJQaUhkX1piejRuZkx0ellrcDNSWlU1VnNWdjVPSjZlT0QyTmVCSzd3Qkk?oc=5",
-      "description": "US buyers snap up Europe’s asset managers at fastest rate in decades &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "‘I don’t have any close friends in business’: Euronext CEO on a decade shaping Europe’s markets",
-      "source": "FT",
-      "published": "2026-08-23T04:05:49+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPN1BmMURvYmxnMF91NnJHT1lqRTFncmUzb1l1YkVRc2lDWnI5N1VhYnM0WkxSb04zM05MZ2UwX0RqajBnWGN0ZDdEX3ROOXBJY0d4MS1iQW9kU2ZrcWRzeXg2dmE0ZGFpZVFEMTFramtRazM5cEUtWmRvTDcycUxUSENDVXY?oc=5",
-      "description": "‘I don’t have any close friends in business’: Euronext CEO on a decade shaping Europe’s markets &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "India’s reliance on Russian oil hits all-time high",
-      "source": "FT",
-      "published": "2026-08-23T04:05:10+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdEYyLWMxVS1GSlg2YTFtazRRUlhOS0dtYnRGY1BRYjFnX1k3SFVLb0NqX0R3bFhLYlpEUm44S2VjWUNCRDZQYXhERDl4dzcxcC1OR2I5azN1QVN5MW1vbFR2X1loYnAzRFBCX0lCRFpIWFFQZi1iRWpjaUVSSlk4bmdpODY?oc=5",
-      "description": "India’s reliance on Russian oil hits all-time high &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Germany's Merz to press cabinet for faster pro-growth reforms",
-      "source": "Reuters",
-      "published": "2026-08-22T22:11:46+00:00",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR0otdHNUTGRqOFg5N19zbTlobk92YkcyQlR5bTl0ajBzNUdETlluMlZSSHpWNFZrNVU0anV1LWFDWmswSkRJbmZDUm5faFh3Q0Z4RGExNkJFLVM1eTVDV2p3bWpyQlBEQzhQa1NUV2xsOG15RHlEeVp4WlNoVmtBNUk2SUhMZWNiNTl6YzgxclZMQ1dJMTkzTkZCUkQyVUU?oc=5",
-      "description": "Germany's Merz to press cabinet for faster pro-growth reforms &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Putin says Ukraine opened 'Pandora's box' with strikes on economic targets",
-      "source": "Reuters",
-      "published": "2026-08-22T15:53:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNmx1MlE4ak9qOGpNUGN5UUFYTFdMOGNaaFU5aUdmR2ZFS3A4NGlnQ2NqbHlMSWI1eHc5bmQ1eW9rbnFudGt6ZTM3RG9QTy1PeTdtN1J0ZXRMTDRMNVVsMk1qcEhuSmNpTjhraXBXZUtERmw4M3VVbDh6VzF2ZE5vS1hnblpsUEpFLVpUSHpTUmI4dEVIcUxPNC1tUXFmdk0xaVJnX0FlclFHaUl3RHBaX2F0eGpKUkVJ?oc=5",
-      "description": "Putin says Ukraine opened 'Pandora's box' with strikes on economic targets &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Canada to retaliate for US tariffs, worsening ties after talks fail",
-      "source": "Reuters",
-      "published": "2026-08-22T15:39:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ2ZPTUg0NjVrWlY5aVBzbS1ucUhqc014UGZYMkhlX3R1bkpDMnlXMmZyT2hCVEs1dXZNbkE4Nlc1aXZQemtvNUJFWFVyLWJBb1BWelBfVmJBRVlUMk4tR2lNVWw5NW11NG5SOUtGZVZNZ0lIXzJYVlJsNFE0Vlh3TExaMnJmOGhJNmNWSkd1MkE1QmpjeHl1TXQwYUkydWRkSUVxU21UV3VBdHVJZUV2U05NaGI2d1RuNUJvMg?oc=5",
-      "description": "Canada to retaliate for US tariffs, worsening ties after talks fail &nbsp;&nbsp; Reuters"
     }
   ]
 }
