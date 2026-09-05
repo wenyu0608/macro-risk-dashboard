@@ -1,26 +1,103 @@
 {
-  "fetched_at": "2026-09-04T04:58:51.865497+00:00",
+  "fetched_at": "2026-09-05T04:51:40.785874+00:00",
   "headlines": [
+    {
+      "title": "Wall Street ends lower as solid jobs data fuels hawkish Fed bets",
+      "source": "Reuters",
+      "published": "2026-09-04T22:57:36+00:00",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeHN0dDlKUW5GZFotZml1LU1iRHB2dkFERDZDbVhFTUdZcFJtQmdqNFhDS0RsUk9PNEdCVGhTdVEydUZWd1FfM3dENlVFYV9QeXRNX2NWSjN2cS1NRVZ6YjU0WGRqQmJKMkZGOEczeHBzenpSS3Z4aEdZUms1a0RhcWUyOGdKM0ZrUk43N0J1aXBRUi1neE1rcFFR?oc=5",
+      "description": "Wall Street ends lower as solid jobs data fuels hawkish Fed bets &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Citigroup delays Fed rate-cut forecast to 2027 after strong U.S. jobs report",
+      "source": "Reuters",
+      "published": "2026-09-04T22:49:54+00:00",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQnlBSDN4T3YxTDREQ3A2YnFhZ1lUN2E2dm1tZmxjb0tLaHFLUlFSN3NOdERlUFM0ZjBXZUhYOU54T2tKeU5saXBLWjk3dDZxTHl0ZXIxem40LU80bVE1V1ZwYVdUalhtMmVtSGtpRVFCX3F5NVpuUWlOR3o3UDZjcVBVd3N1SFBoR2NIT040R3VGX2xzZm91cVZEQ1JndFFoT3JqdzZWWl9PR2s0OGp2RWVsUUJteGM?oc=5",
+      "description": "Citigroup delays Fed rate-cut forecast to 2027 after strong U.S. jobs report &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Strong job gains signal Fed hike as Trump levels new rate-cut demand",
+      "source": "Reuters",
+      "published": "2026-09-04T22:26:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOF9yZEh3LUNwbXhOOE05b01rVHlLVld4OXkwYXdOczZxZF9DUTUxVU9Ta3pCTGRla0RfMXZTR1phZEx6aVU0VmRWcGVZZzlsd3dhZF9yYjc0UHFfaUZMNEoxaElSSE1YSzY5aEExTEMzNV9oOVpSSEc1SXlsZ0R5UkF4cFFMTWVxQi1SYk43cDlhU204aklNNzhB?oc=5",
+      "description": "Strong job gains signal Fed hike as Trump levels new rate-cut demand &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Trump says if the Fed doesn't cut rates, he'll stop trading with some nations",
+      "source": "Reuters",
+      "published": "2026-09-04T16:03:43+00:00",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNDEzUC1Bb0lOczVCbDlVWGJ1VlQtWGdrYlRrZ2ozUGhqRzFramtncUZZeEFLTWFVZUMwY19zWHMyR1VmbmphSTVPNDAzb1R5T3MzMGVMZzN5SmVYWXE5QmRaR3BJaXZWX0xTdV9pNGpoN3hVdjNkUFlmc2FCSUNUZ3JBRVMtcVU0M05QQUhDX1lkdi1ORzNGaFZZVjVnWWZtWmZuVms0NXZZY1pwYlRzM3E4NnpVQQ?oc=5",
+      "description": "Trump says if the Fed doesn't cut rates, he'll stop trading with some nations &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Are credit rating agencies getting fed up with hyperscalers?",
+      "source": "FT",
+      "published": "2026-09-04T15:06:15+00:00",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43bk0xR2d5SWdOS1hpZzY2am94eGhmWUtlQnB0RXREbnJZZnFfaVVPbUZvZTVjck9BRjVPY0lST255SnNaWjRUWHpPUXI2cGFKaUZZNk5BVHRvSkN0NjBkOWVFYlZ2aFlXelc3elFWZ1c?oc=5",
+      "description": "Are credit rating agencies getting fed up with hyperscalers? &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Take Five: Good evening, Mr Bond",
+      "source": "Reuters",
+      "published": "2026-09-04T13:06:10+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPb0steE9LaDhWRWV0MjJBYTNGcWJTVldmOXNsekxXZWw2b1Y2NzBTU1VWVE11elpWbGVwcTZlZ2lkSldqMUtkNXh4c2RSc0FKeW5CcjRrdjFqRnhJcG00OE5wdVR1UVctcWZuMVpKZ2ZyM245UGVjZElNRlUwNTBZVWxn?oc=5",
+      "description": "Take Five: Good evening, Mr Bond &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "US economy smashes forecast with 162,000 jobs added in August",
+      "source": "FT",
+      "published": "2026-09-04T12:32:03+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZE9YUzl4azBoSEE4Q1V2NjJPQmZHTllCbTRYRVBBVVFQcjJuckNNV3dKSUdGZTg2ZmptUXFrbGQzOTl5MHdxekJzVHhqbktEU2ZaMXpKdFlub1VDNk1XSW1FeVdia21veGg4dXlHb09EVFJJN2RjcXdMV1BmdEpra2RaTVA?oc=5",
+      "description": "US economy smashes forecast with 162,000 jobs added in August &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Katayama becomes Japan’s vital link between Bessent, Takaichi and markets",
+      "source": "FT",
+      "published": "2026-09-04T12:00:06+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd09xck1XSS1XRk9UMW1zY3JMbVBVVTVxNkJkOXRGVEVmMFdxZjRsODIyaGREeUllZ3AxRU9UQmVfYmFXQWhnem9hc2U2VFdDUGFCQmVCR1RoNU5keXRtcUdVejZvOEdvQ20wT29vajRicjRGMVlhVXRwc3RoMVNDTWlpeUg?oc=5",
+      "description": "Katayama becomes Japan’s vital link between Bessent, Takaichi and markets &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Fear not the bond market skinny dippers",
+      "source": "FT",
+      "published": "2026-09-04T11:00:11+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV2ZaYnBKV0VTVVpYQkRIRm51cG1NZDZTd2hSZGc4eHBOem0zR1pycXBuVTdlekdUN1hyWHd2QVBjRmgwM0djVDdJN2VrQkhXTlhSSmlGNTZUWUhMLVlKNmphU25KbzRCR3NjRWdQYXVVTjl5OERpeVRsc1R2YzhZOUdBYW4?oc=5",
+      "description": "Fear not the bond market skinny dippers &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "FirstFT: Markets await US jobs update",
+      "source": "FT",
+      "published": "2026-09-04T10:00:52+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRmo1MkYyZlZ0aHdKRWd3dHZGaFFabHdIRTdkN2N2UE9ERjVtX0Y0Tmdob3dQTzZ1bmpBNmxnT2xWdXdCOUktRlFCcnRDVlBHU3JVSmtEYTVtcDgwUEpxRGpyN0pLVmVVLU1ZRmh6S05yUFVLelI5ZmU5aVJMQkNUUEl1V1U?oc=5",
+      "description": "FirstFT: Markets await US jobs update &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "China lashes back at US over G20 row ahead of Xi-Trump summit",
+      "source": "FT",
+      "published": "2026-09-04T04:04:28+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdTlHaHBLeWdTekJjbGx5TEYySUJSYU9UejV1ck5Ea3VObURwUlNmZVRUd0RFankzbURQNFIzZzZ5WllmdWMyakh6S2QxSlFDdE9rTE5OcGM1dWtJVnFvY1JaUHhzWDZTWHZtVUw5QTRTZ0FIcEpqcUdPSkdMaXJfRmkyYTQ?oc=5",
+      "description": "China lashes back at US over G20 row ahead of Xi-Trump summit &nbsp;&nbsp; Financial Times"
+    },
     {
       "title": "Australian property developer collapse ripples into private credit markets",
       "source": "FT",
-      "published": "2026-09-04T03:02:40+00:00",
+      "published": "2026-09-04T03:02:59+00:00",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPX3hhYm5RR215eGhraWl0cjQ5b2N4dC15WWkybDVBVXdoU3U4UmpWMGRtTndJckZ4WGlxMnA5YmZsemFtWXVObTZqSUwwRVBXSmFoZFlkRllRb0NGVWxCdFhJZzhLeTlWY18xVkUzaHpEX1hZQnJoejVQZ054MHlhZlg5c2E?oc=5",
       "description": "Australian property developer collapse ripples into private credit markets &nbsp;&nbsp; Financial Times"
     },
     {
-      "title": "Asian shares climb ahead of US jobs data, Fed's Waller soothes bonds",
+      "title": "Yields, dollar rise, stocks ease after solid US jobs report",
       "source": "Reuters",
       "published": "2026-09-04T02:34:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9rcFlLejhNNm1fZ1hhM3NvLV8zZTJuOTE5QUVSUVR2V0IxQWpuLUZxVHFmRXpWVHd2OWU0cUR3eW9ZMFZKQnhwcFdrOHBZclNEZkF1X01MYmw4dUZTbU9zWGJPMEJ4N3FXNkY1MHAwSFZWenJGVWM4blVzbw?oc=5",
-      "description": "Asian shares climb ahead of US jobs data, Fed's Waller soothes bonds &nbsp;&nbsp; Reuters"
+      "description": "Yields, dollar rise, stocks ease after solid US jobs report &nbsp;&nbsp; Reuters"
     },
     {
-      "title": "Indian shares open higher as traders trim Fed hike bets",
+      "title": "Dollar bounces on job gains, then pares ahead of CPI",
       "source": "Reuters",
-      "published": "2026-09-04T02:23:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbDdCZUhpTGtQNldGdTlwaTU5UXdtLVpmc011S0kxMFUyeG9YSGFMY0FNUWYwSzMtNlJhUzhxOFdoLWZnTVJqblE5bndZVllfS3JMdVhJVlhlTGZSUjF2LUxUckdLTmN5TXJlMWdhM3dQMFhCTFhGRG9HbEkybkpoaTJVTDJBU3lWanlvTlBPRFNGcnZTZlhrdFdaandycGlqQm1BbTFPNA?oc=5",
-      "description": "Indian shares open higher as traders trim Fed hike bets &nbsp;&nbsp; Reuters"
+      "published": "2026-09-04T01:35:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSUNQZU5RWWN5TXNDaU9CQkIyc1NPTE95RzBLc0lSMGQyRGRnT19DVldpRXF2TEVzYXdKUzRjR1RyNC1KZ3Rka2Z2ZS1HZUhyUkFYLTBYWE1JRXhXSDJBYWV5Tmpkc3psRy1TWHNlZUN1T1hrZnE5TVpkVTlObkdrZWRVSnA5MU41cWVhSEZSNVU2TlBjdG5SbDBSb3BTYTE3SmNGZU5wR3dDVlVDRXFMZkN0SllDUWVh?oc=5",
+      "description": "Dollar bounces on job gains, then pares ahead of CPI &nbsp;&nbsp; Reuters"
     },
     {
       "title": "Wall Street ends sharply higher as Waller remarks ease rate hike fears",
@@ -30,95 +107,11 @@
       "description": "Wall Street ends sharply higher as Waller remarks ease rate hike fears &nbsp;&nbsp; Reuters"
     },
     {
-      "title": "Fed's Waller channels his inner John Lennon with a plea to 'give disinflation a chance'",
-      "source": "Reuters",
-      "published": "2026-09-03T18:11:10+00:00",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLVJjV3EyRTlHeFIwYWxSa0EtRkM1YzFQOExsR0cwaFRrVEo0MUlXWTMtdHhpam5seDNOQWJYQ0NYVGJkVDJNMkR4NHFsX2RJTkxPM1dDd1Z4T2s3R1ZZaFdoQV9CXzE1WUw3YXNZdnpFZFJBZnVGWnkxbVpUeVdoRk11eTdHWHBLVjIwREZldUNmYzQ4TFd0WWlKWXhNYm50MW5hYkpnUE5PaHdaUHhVUUlQWnN4UTE1U21jamtTVQ?oc=5",
-      "description": "Fed's Waller channels his inner John Lennon with a plea to 'give disinflation a chance' &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Fed's Waller says safety premium for Treasuries is gone, pushing neutral rate higher",
-      "source": "Reuters",
-      "published": "2026-09-03T17:47:44+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUVFaVFFacUdlWTV3R2pKeGRYSjR5WDlmQ1d1aTlPVmVEVTZVamxTa0gwMVdvUnJWRkY5MjczVTUxaTEwZHdtTHBqdk1fa1FTRHFnaTFVRWlKRk1EVUJGZzhxV1gxS0ZmdV9oNWVhZXI1eGg3VE80czNCUVdBYnY4ay1UTGNYWlg2bHRocUpUbUNhT2pQQlljUzhPdjBxOXg5OTVVamdSNWN2Z3RxdmJZSUlSN3BxQ2R1YmVGR3pkNWk?oc=5",
-      "description": "Fed's Waller says safety premium for Treasuries is gone, pushing neutral rate higher &nbsp;&nbsp; Reuters"
-    },
-    {
       "title": "Star Citadel trader to step down amid tumult in energy markets",
       "source": "FT",
       "published": "2026-09-03T17:29:32+00:00",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaXh5NnI5ZUNiOU1TTUljam5fZ1NtSHdwQmIwYi1MWmpjU1A3VzhjOFVtM01ZYnlmdEFzQzQxM0k3dHBfQ01CcFM1cjIzUjdDOWdSUC1ncjBaWi1xZnZEaHQtcW9HQlY2Vnd1a1QxcUFVdld4akVrcHpTV0U1UjhMM01yMjY?oc=5",
       "description": "Star Citadel trader to step down amid tumult in energy markets &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Snowflake's AI-powered results send shares soaring, buoy software stocks",
-      "source": "Reuters",
-      "published": "2026-09-03T13:59:22+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMGllenZQOUdyWUY5dll4MzN6UThlWUp1MWdhN2NTNE00U2JvR2tGcE01a2wzdDA1U0tEb2lwS1NnYkU2STNXNHVXY3lJSGxwbTllTGIxc042dGdwUkduOTQ0c2lTM2xCOHBVcFlXNWdJa2xGMl9XcEZOTjdtdWgwcG4wbjRIWkptSjVRWEpBNUUyaHktWU5YUnNEMlZpZnphUUg3bWlXNFU?oc=5",
-      "description": "Snowflake's AI-powered results send shares soaring, buoy software stocks &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Yen surges as traders bet on Japan interest rate rises",
-      "source": "FT",
-      "published": "2026-09-03T12:57:45+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVTJkcENWd0ZHdGZSLW5JbENhRFRHcHdiYnUtSXZjSWY5cFZlOER4aHFST3ZwbG0tZGF5V2REaUlJNDN4MnF4Zm5KNERBdld2RWx5blVwRXlhSVZJYXBfNEZVMGZSRTdIT1B1Tmp4Vmx0OGNYa1RPRldtZ0FERWZWelNReWQ?oc=5",
-      "description": "Yen surges as traders bet on Japan interest rate rises &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Treasury yields fall after top Fed official signals support for rate hold",
-      "source": "FT",
-      "published": "2026-09-03T12:30:23+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONV9sN1lwMEpHa3MwdV9WQWRFQ1UwZzJycnNxM25DZU45WVhEZGdqN3EyU3pBYkw3WnlvS1FkekplTFdUNUdHel9xa0JBeGJWOS1IdlE5OEdKNzhFc0VOb3F1dHF4RURUMWZhektSemRTVzZ2V3U2OEttVTA5aVlQbHJGc04?oc=5",
-      "description": "Treasury yields fall after top Fed official signals support for rate hold &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Waller, The Economic Outlook and Some Comments on My Policy Communication",
-      "source": "Fed Speech",
-      "published": "2026-09-03T12:30:00+00:00",
-      "url": "https://www.federalreserve.gov/newsevents/speech/waller20260903a.htm",
-      "description": "Speech At Reuters NEXT Newsmaker Interview, Washington, D.C."
-    },
-    {
-      "title": "How AI forces us to rethink the economy",
-      "source": "FT",
-      "published": "2026-09-03T10:00:02+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSWQ3dU5XcHBnM2l0aVY4ZDYwYl9RZHRrcjdFQ05XQmdjb1YtN3ptX25zaHU2cDVrZjU2d0s5aEZKdkVXWTdnb2xfY29fUm5jaDlMYVh5dlBDc0dzZGY1OTloNE9HZlJXVmtBcjVwdGlsTkNmWWpaRkctcWFzb0ptVnFxdUc?oc=5",
-      "description": "How AI forces us to rethink the economy &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Swiss economy grows at fastest rate in nearly five years",
-      "source": "Reuters",
-      "published": "2026-09-03T07:59:43+00:00",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa013WmtNTFlKaG1OUlUxYkxRbTNhV0R2RWkxTjZBdzFVWEhGMmlhM3RvdlVQNk1yTHJkU3BzRVdTVUFEbG1pY2RxaEhxMFJCMDhKMzRWUGJ4eVlsdldyUktfY2xERGxpcUZpa3NXX1QzazJVR1RFU2FHc3JFWHNvOXd6LXViZEV3NmNwUFh4TV9Jam1XZ3ZVeEd0TG9wcHZwaThqZ3lLcTlxUGludG1rMA?oc=5",
-      "description": "Swiss economy grows at fastest rate in nearly five years &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "When is an economist not an economist?",
-      "source": "FT",
-      "published": "2026-09-03T04:01:31+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVDZ4am45OWVzOTFvTGJPSTY4SFRaM0FubmlwTjRrXy1BRmZmVFJYYmd1VEYxR0pZR0NjU2c4T1p3OWhPUWRJNlFkTG1qdnE0WjBVeUczQXhCLWRvRl80eXJRUi00a2tXa1ctYmlfX0llOVNmUW9uN2dtZ3NKcUlGYWtLbGQ?oc=5",
-      "description": "When is an economist not an economist? &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Bond yields fall, stocks rally as Fed's Waller comments curb rate hike bets",
-      "source": "Reuters",
-      "published": "2026-09-03T02:02:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZHUxMWV6alo1MWFYM191bnlDTlhjTlc0Y2t0UjE4TndrZW9PczcxTmg5a1M0ZWk5M2Fqb0RvVlNIQWFuNG1nb3BtbjhhM2NmbkhDVENZTF9qYU53UDBWR3ROTl9XSlFDVGNLUF9sN29rSlhZc0xfSGZKcWlFanB4b2R1bw?oc=5",
-      "description": "Bond yields fall, stocks rally as Fed's Waller comments curb rate hike bets &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Dutch central bank moves gold bars out of New York over ‘geopolitical unrest’",
-      "source": "FT",
-      "published": "2026-09-02T17:23:12+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbnhUU0NFUy01VUV4Q05uZDRqYTNxQzdLd2hSMzJHSU1nZ2hpR3NyY3RFSW44T0Z6V2dTejEtZnRIeF9GSnQzYzlaNF96WEdQWUtDaGQyX3k1VjF6WGNwa1RMeFNZQURnVm91QzFLYk95RjYyZE9vSFBtS3ZCaDFzYmY2d3o?oc=5",
-      "description": "Dutch central bank moves gold bars out of New York over ‘geopolitical unrest’ &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "The wrong way to revive Venezuela’s economy",
-      "source": "FT",
-      "published": "2026-09-02T17:22:07+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU0hJM3FwMS1YZWtIUnBMUTltbUl0blpfSDU3MU5Fa2N5ZUJzOUNrZXhvVERkLVc1TWZZYlg4cFFZU1JtREttUUg5eWpUbHlpYVM1bGUwTFYzSFN0Z0l0UXU3WjUzcUZWa1ZmdENSQ2Qtc2RtSmVQRmlIcGw4VEJ1aDB4VVA?oc=5",
-      "description": "The wrong way to revive Venezuela’s economy &nbsp;&nbsp; Financial Times"
     }
   ]
 }
