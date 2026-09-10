@@ -1,19 +1,96 @@
 {
-  "fetched_at": "2026-09-09T05:02:53.344709+00:00",
+  "fetched_at": "2026-09-10T05:06:06.033072+00:00",
   "headlines": [
     {
-      "title": "Warsh might yet be a good Fed chairman",
+      "title": "Bank of Japan must raise rates further, board member says",
+      "source": "FT",
+      "published": "2026-09-10T04:08:42+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcWlMYTl2YXBoM1d5Z2JzNVBvWGF1U205NktqRVJFSjBPbUk3UGVEN3ZmS2w2c2FpLXBfeEZOaDV3dm5yamtsMDU4cmRweHJhR04yQ0tQTlJYeDBnTnpVTW1FZms0ekJKX1dWZm1zOHd4azlaV3VhV0dxaEdVcWZXMDZMb0E?oc=5",
+      "description": "Bank of Japan must raise rates further, board member says &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Currency markets subdued as oil shock lifts global yields; ECB, U.S. inflation eyed",
+      "source": "Reuters",
+      "published": "2026-09-10T02:07:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYU50UmRVNmIyeFBOSmd6azlDeDMxNlh1S0cycHpnYjU4NERYWjhoN2diSmthTngzdWZScmFTdldrTGtUcTh3SDFKbVIySmU2TUx3cnMtOEdKMnFkV3J1d3pYRmdvZDVWb2VPSXNjcG52cEVPTGtLNF9UT1BFSnJ3WlUzOXNuU1FwZmNSdGVTdV9Na1h6M3dPVGVtU0ttYlBlRWc0S1Q0Rl9HSmVCNlZaZXhjMVc0OUduMk1mOGRqVkxjY0d2SGhRbWJsUQ?oc=5",
+      "description": "Currency markets subdued as oil shock lifts global yields; ECB, U.S. inflation eyed &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Asian stocks wilt as Brent holds above $100, yields near 2023 peak",
+      "source": "Reuters",
+      "published": "2026-09-10T02:06:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ydjJlYXlTVHhNV0k4Z3ZMb19VVFdUR2taM2lOVHhOUTN6enJSZVVhODdiSm04TnhTNGFJMDVOUjN4eVhsdGZtcFQ2RVloaFNFZzh4TkpvaUtfQTRFUXFkRmctMjFiRHFnWFE2VlBvQm4yZk5NMmdUZkNOdw?oc=5",
+      "description": "Asian stocks wilt as Brent holds above $100, yields near 2023 peak &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "S&P 500 ends down as oil tops $100 per barrel",
+      "source": "Reuters",
+      "published": "2026-09-09T23:06:18+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZExkRWJ1dThFMjNOZWdHdkJuSFd4UENUUko1cUI2aWJNMkQzb3FtYm5kNWUza3hVRVQ2Qlk0WjFGRnlGZWRhbzVMckNacFc4NDRXbzRqTmdyWWxTdVZoQ3pYNjY2Nm9pNHJRTUo0dlhkNkFzN2NSZ3BYR2Rqb1dfYkFjWHI1eW5USFlQd200RzI1cVVYY0VsdEZMbDdNQnZrLThZ?oc=5",
+      "description": "S&amp;P 500 ends down as oil tops $100 per barrel &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Treasury yields jump as Bessent’s $6bn buyback plan disappoints investors",
+      "source": "FT",
+      "published": "2026-09-09T15:16:35+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcE95dDNESHJwT3Fpc3dxT3pERW81ZXRhdUh2LXpub2hzN2YxM0hWS0U2ejROZmtwUXR2UUNyMjZmelVXV3BuUmZ1emdNMHZlQmxmSlltazdvTEdEc2U1NEFMNWsyNXNKV1BXaVI1aDFQaU93SlhlR0hGdno1Wi0wNEcyQ1o?oc=5",
+      "description": "Treasury yields jump as Bessent’s $6bn buyback plan disappoints investors &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Fed to hold rates steady in rest of 2026; rising number of analysts see at least one hike: Reuters poll",
+      "source": "Reuters",
+      "published": "2026-09-09T13:29:11+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ0NreUFoTnFxX3ZzQnd3YU9FNFVkQmhfZlBrSVBUUm12Q0lCckxRTHdWcUVHbmJpcDZKbVhNZG5RektYQlpqaUZGMjl2TnJ0amhPMGJBWnB6OG9FVTB5dVJPTlc1ZjJaa2djUl9HR3VhYzIxODJjVEx1NUswdkVkblYxNVNSY1dYWlpUdzlEQU9UNTNzaUtVWXVtdXljVEUzSnVOQTV2bTJHSXN6Q2E3U0pzcVk5U19qUmc?oc=5",
+      "description": "Fed to hold rates steady in rest of 2026; rising number of analysts see at least one hike: Reuters poll &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "FirstFT: Oil hits $100 as fears rise over global supplies",
+      "source": "FT",
+      "published": "2026-09-09T10:28:11+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNckd0alZkYWd6T1Z3X2NVZVFuZHFTdzQybVJmd29hV0h1LWRCNDB5Uk43d0xHOHc4S2RUR3ZLU1lvV1dSbXQ4MjhHdVcweHAtZXVWZGRweVZGN3d3Z0xpVXVlLTJRTnZNLURacUdsU1gxMG9veFNPVWppSVRtZ1dGbjM3bG0?oc=5",
+      "description": "FirstFT: Oil hits $100 as fears rise over global supplies &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Is the modern economy a bit too . . . samey?",
+      "source": "FT",
+      "published": "2026-09-09T08:20:53+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU3ZJUnl0eEx6NFdDVUNqNnA0VHZjaWhoR21qTjBSbklkNGR2VllOMXJQa2NCN05wNENpM0VQaGlRTEdvS2RBeXNJT1hjbmFEQV9Ub2VhazlJeFJQYmxwMVYwa25BeGwxa2hNWDRXbVZ5ZVRHZWpndVMxQTV1Ym1WTkRnMDI?oc=5",
+      "description": "Is the modern economy a bit too . . . samey? &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Warsh might yet be a good Fed chair",
       "source": "FT",
       "published": "2026-09-09T04:03:43+00:00",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV2Y5eVk5azZaRUFQNTZ3NWN3QzN4Ym9waGtfclJKWGkycU50UU1rbjNvX2ZNS2RLam01UGtLWmlzSnFEcktCZWNuLVRJTFFPbTlkdE5reEFFdzBnRWNpZ3pYMk81OFg3YkpybmNVeXVndzRKYUFRdzJOeTVFLUVCd2o0R0Q?oc=5",
-      "description": "Warsh might yet be a good Fed chairman &nbsp;&nbsp; Financial Times"
+      "description": "Warsh might yet be a good Fed chair &nbsp;&nbsp; Financial Times"
     },
     {
-      "title": "Oil heads for $100, Asia stocks subdued as Middle East tensions escalate",
+      "title": "Iran turns to crypto to shore up economy",
+      "source": "FT",
+      "published": "2026-09-09T04:02:03+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORE16aWlUYmRpRzFwb1BEdjdILTBhTkNTSGpvZm0zR1JRNlUzSmtLT19yWURKRjFDejZOS0hEeGk2bU5TSXpPQUlOWndVRVRVVC1XVWk2ZWpQbjg0ai1WUU0zR2VmZllWS2lKcmN1N0hjZ1ptRlRVejVNSlhtaVhfVmZHTjA?oc=5",
+      "description": "Iran turns to crypto to shore up economy &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Wall Street dips as $100 oil, inflation worries weigh on investors",
       "source": "Reuters",
       "published": "2026-09-09T02:27:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNV3luYTZkUFBsUEhrV1ByVUg5eTcwT0c4ODVwXzJZTHNvVzlhR1hwNVpLSzJ5MmVCT3VqV2wzMTdXb0ZZM00wY194Z3VCV2R2TUNxcGpVNVJrSk9JSS1XMllpQ0hrbEtFTFhaazN6NzFEaGxELW1NUnFFUFVvR1NjWkRrbw?oc=5",
-      "description": "Oil heads for $100, Asia stocks subdued as Middle East tensions escalate &nbsp;&nbsp; Reuters"
+      "description": "Wall Street dips as $100 oil, inflation worries weigh on investors &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Indian stocks fall to three-month low as Brent oil surges past $100",
+      "source": "Reuters",
+      "published": "2026-09-09T02:20:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUTJ5YTBDcXdScFdqQUJJNmpuSC1YYmZtQUJEbDdlV3dEazhPNWtIb3MwV2lqQTdqakNBZDhlZ21uMHMzNWp4ZFF2djRtZ3hnQnlnRnhzel9CbzJsXzJnSHg3aUlCUGZzZDc1RnpENVBQMEtUUXVYcThYUG1pU1dPdVpqR1BPWjlJSWYwRW02MU9nOVNxV3h5UTFRTHVaSnVPQmU1QW5mZGRWci1oZ2FqUG1TYU9fSGhzS1E?oc=5",
+      "description": "Indian stocks fall to three-month low as Brent oil surges past $100 &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "CVC hires TPG’s second-in-command Todd Sisitsky as co-CEO",
+      "source": "FT",
+      "published": "2026-09-08T23:05:43+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcjEtS2pyY1NISlhRQjB0ZnM5X2JsVmtFVHc1LUFUYjQ4TEh2bUt2MVN1OF9UR3RyVkp4dDB1aWdIQzRkamFGYWhId3lIOWlTMmtfSTlCZlZQdkxybkhJX3ZIT0wyajE0OERMYzFGYzFmMEUyMkFSV2xEMUhHNVZtQlFvaU4?oc=5",
+      "description": "CVC hires TPG’s second-in-command Todd Sisitsky as co-CEO &nbsp;&nbsp; Financial Times"
     },
     {
       "title": "S&P 500 falls as AI worries hit software makers",
@@ -23,25 +100,11 @@
       "description": "S&amp;P 500 falls as AI worries hit software makers &nbsp;&nbsp; Reuters"
     },
     {
-      "title": "Anthropic and OpenAI bankers push for top-tier credit ratings post-IPO",
-      "source": "FT",
-      "published": "2026-09-08T21:04:53+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd3Z6TmVsNklaVTFJUzRYNkxMQjFoN2ZvSnJjbHlmX0JzTzgwUTRGVUlXR3NPM08wemRmUlItRGlBVzZNSlh0cXBiN1BsRW5LRzYtQUZ2QktPSF9ZQUY5SFRNalJYb0puYmtjQVFiQjZWWkNpQ2hQd1ZBUFRRZDhrdVBhbkk?oc=5",
-      "description": "Anthropic and OpenAI bankers push for top-tier credit ratings post-IPO &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "War and weather threaten another burst of UK inflation, BoE governor warns",
-      "source": "FT",
-      "published": "2026-09-08T17:48:40+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNkU3Rk5qajhXN0tGVkRoTEFnT0puVmhXQWFqUllaNk9HUW55dGxMMXBlTDZmUUxhVzJxdldwUU9ySXk3c0xwNzI5Q0g0Uks0bXJQbi03OWlLTW9tY0hKU2VzdDlDX0JXYU5ZZHlSaDF2RThNcGFQWWxJemhxMW5lMzVuNVk?oc=5",
-      "description": "War and weather threaten another burst of UK inflation, BoE governor warns &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Consumers more worried about personal finances and jobs, New York Fed report shows",
+      "title": "Wall Street down, oil up as inflation, Middle East worries persist",
       "source": "Reuters",
-      "published": "2026-09-08T17:16:58+00:00",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMTJHeXY1WWRiVXhNYkFVY01lNmZFR2FWZy1LbVZkczdzZzB4Z2NKRVlabHZmR2tQT3l1b2YyWXpLYWZfX0h3Ynl6Sm4tNGVtWUY2V0JHSGJJVHVEbVdyc1NRSl9IS3FHWGpaTmZBNU5kZTFYM2ZUczk0MWpjRUhtckZ6UVR6UURpVEk5QzNFc3pGYVNxOGZjcE9zVEMyQkw4YWh4VXhyVDV3NWMwYloyRTFGT05GRkxrUDlIV00yaw?oc=5",
-      "description": "Consumers more worried about personal finances and jobs, New York Fed report shows &nbsp;&nbsp; Reuters"
+      "published": "2026-09-08T20:44:25+00:00",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE82VU5LOUdHSU5uLWxoeWs1bi16RTM3dUozczYtZXhPUF9RRFEtUVNTQmphRjloY2k5dkxodEZ1eTZnRjF4NU90clpNZGZJTnk1SEJXME44NDIxT1JNNW5rWW80VGlNbDJXNDdjMHN4YXd4eTRLb3RJLW5Ybw?oc=5",
+      "description": "Wall Street down, oil up as inflation, Middle East worries persist &nbsp;&nbsp; Reuters"
     },
     {
       "title": "Gaming group Evolution’s own report found it made money in banned markets",
@@ -49,69 +112,6 @@
       "published": "2026-09-08T17:06:11+00:00",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWjVMQm92ZlotOGhmUTRSY3J6LWxEY0FwdUlJeTBNOV84MGFBcUhIR3pkVzBpWmRPSTViaVp0OEU5bmY0VGlZVVVTWkFhcl90NmZJajBQZ2NRcVROUk1hQkZaRWh1Ry1POC0xQUFmVGIwcDJIMm1BTEl4VFQ5TERvNmxocUU?oc=5",
       "description": "Gaming group Evolution’s own report found it made money in banned markets &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Oil stocks in US Strategic Petroleum Reserve fall by 1.2 million barrels to lowest level since 1982",
-      "source": "Reuters",
-      "published": "2026-09-08T16:17:44+00:00",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZEprZzBjSzNENHRjMDBEOTdLUkFBQk1KQ3J5VnVYSWxjWHRWSTV5X1ZEa1JWS3pvc3NLM1dSZms0YllJaTB0eVMxUWZuNFcwMTFReUJQTDdHSDdaNVE1WkNPTlhvOEx5OXZ4OG5XT05FNmFwUjJkT1VXZjVBYk8xNHpKQmV5bXZuUWpETi1zNTVMQklJQWotTkpWWmtHRWNhaXVtTC0xdThQaHU0MTM1b05QUHlGcm1RTFFJTHRCYWVDeWdnb0E?oc=5",
-      "description": "Oil stocks in US Strategic Petroleum Reserve fall by 1.2 million barrels to lowest level since 1982 &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "The new fiscal threats to monetary policy",
-      "source": "FT",
-      "published": "2026-09-08T11:30:09+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYmJwWWhKVDlrVEZfampnUXFuQ0RPMVJtWVpKZXdDemk5c1lTRmROLWVwdEY0VTg2Z0pKNjhHQjlOYTRUd0k2NHdCaURETS1BZTFzSkdyN01XdmRJd0RlM25fSEhFZkM2ZXRDSzh0bUJrTFdKa05nQ1FVUjdfOE5IWEZzZkg?oc=5",
-      "description": "The new fiscal threats to monetary policy &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "‘Apollo premium’ drives up debt costs for private equity giant’s portfolio companies",
-      "source": "FT",
-      "published": "2026-09-08T10:20:02+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRlFJU2tNM1BZLUlaci00Mi16cFRWU1JjcFNaaHNRMnJ3R2ZORkJPZVl4TDU1ZkNpRjd4M09mYlVwdUZPaEFEajBjYnIzRVBzRzdfSVFvdlFzRE5sVUU2UUhURWdHRm83SnB5Yk5LTkRIdkFwNTR4NXB4SjBhX3FaeExpOV8?oc=5",
-      "description": "‘Apollo premium’ drives up debt costs for private equity giant’s portfolio companies &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "The world’s $2tn interest bill",
-      "source": "FT",
-      "published": "2026-09-08T09:56:47+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV1dWbmIyamZrZ2c3b3VHdWx3dkdGeExoSzZhcXgtUUUzaGN2U1FQVkhGNmJNQVB3UFVaemEyZEdwQ0Z6ajVMdGJKY0hFNi13WERubTVnTm1nN0pTejlBUlZPOHNKTHA5UVR0OExDU3VBMm55QzNsbndHMVc5aUJuVlVCZHg?oc=5",
-      "description": "The world’s $2tn interest bill &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "COMMENTARY: Trump's baffling Fed threat could be gift to Warsh: Mike Dolan",
-      "source": "Reuters",
-      "published": "2026-09-08T06:00:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUlJyMEZjMzY1WGZkdzZwdlJ3c0NYc1RBOU9yZkRYb1FpNjBCUElLSWU1ejVfemROSmhWOVBUWkhGV1VNWU1XTVlJd3VNcmlXdDZfc01taXJVTnppazFSS05iQ1A4Smw0OVNPS3l0VWNZenBVT1JONkg4U2RsaUozR2xWR3ZubUo3XzVlZXptNEhJOHZGelJtRl92aWRhLS1sSXplRm5TdUQ3Mk1SMnlpdHRiT3JXTk5IMDREWll0dGlsanlNQ1VNTA?oc=5",
-      "description": "COMMENTARY: Trump's baffling Fed threat could be gift to Warsh: Mike Dolan &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "China’s 25% export surge sets stage for record annual trade surplus",
-      "source": "FT",
-      "published": "2026-09-08T03:01:39+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcnkxQXZIUUNxQzlQMXFUYTNMTXpfSjdjcHZaSUtTa0U4dEF1dHZUYzk2QzRDdzJlN0djaFNObE9qSXo1QUthc25Wck16MUZjd1FIVGFmZEg1RDlRZGFFRndWbENRVXpEUWVPRnM5MFd6aWlNaHpIblA0ejNZZW1PT3l1RjU?oc=5",
-      "description": "China’s 25% export surge sets stage for record annual trade surplus &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Wall Street down, oil up as inflation, Middle East worries persist",
-      "source": "Reuters",
-      "published": "2026-09-08T01:48:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE82VU5LOUdHSU5uLWxoeWs1bi16RTM3dUozczYtZXhPUF9RRFEtUVNTQmphRjloY2k5dkxodEZ1eTZnRjF4NU90clpNZGZJTnk1SEJXME44NDIxT1JNNW5rWW80VGlNbDJXNDdjMHN4YXd4eTRLb3RJLW5Ybw?oc=5",
-      "description": "Wall Street down, oil up as inflation, Middle East worries persist &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Japan upgrades Q2 GDP on slight capex improvement",
-      "source": "Reuters",
-      "published": "2026-09-07T23:59:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMDBCbnBuREtSbXVFYTdjdnBKWEJmQVdGS2tTTlZMVnVRSW8zS1dtREV1b2VoelJYZWl0Yk5wUGlNWW9ySWhWUHV2WUM3U2FsMk1Genk2bEdjblc2V3Rmdm1tRGJLcUlpZWQtN0x3dlZya0tWOUx0dGc0N24wVmFGSjQzYnlYZk5QTUJTazFZWmVONlhaWVFGRDg1R2M5YmJTaDREdg?oc=5",
-      "description": "Japan upgrades Q2 GDP on slight capex improvement &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Yen surges to seven-month high; dollar drifts ahead of US inflation",
-      "source": "Reuters",
-      "published": "2026-09-07T21:29:10+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd0p6Q2VESkl4T251Z2lzT0UyVXRwRW1MWHRxeHlTV3hISkZPM3R0c1J1ZVljMnRlOEdHNHFpcHdUUFllby1JbzhFWm9KdXc2ZXZuYW9URVQzSExpMGtzeExtRXVmd3IwZ2F6ZUFXZmVzZUtObkNSQy1ZQ1d5SzhqM2lhYm9nbm1vankxRk9ubXB1RHBLWTNOeVFYTlFNYnlGeVhNdEFqQXI2UQ?oc=5",
-      "description": "Yen surges to seven-month high; dollar drifts ahead of US inflation &nbsp;&nbsp; Reuters"
     }
   ]
 }
