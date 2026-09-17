@@ -1,117 +1,131 @@
 {
-  "fetched_at": "2026-09-16T05:06:45.822358+00:00",
+  "fetched_at": "2026-09-17T05:10:34.703121+00:00",
   "headlines": [
+    {
+      "title": "Donald Trump fails to bend the Federal Reserve to his will",
+      "source": "FT",
+      "published": "2026-09-17T04:00:48+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOY1dQRV9XLUcxZkxLcUlBeEtxM0RxM1dWOF9FM21EckpLT3d2Yk1rX2xzaVdES2dyTURTOEdkTEoxRWwwQ01PQTA4cHZNM3FXeG1oak81Q3N2Uzh6WUJyTUxBRzl3My1HdEM3ZDNMSHh3dDViYVUzZlNxazRwNFkyWllfbXM?oc=5",
+      "description": "Donald Trump fails to bend the Federal Reserve to his will &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Gold rises over 1% as investors digest Fed hike, oil rally stalls",
+      "source": "Reuters",
+      "published": "2026-09-17T02:27:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdmRrQzlscmZjQ08wVi1BSUZCTEU4d0xkdFpFelAzQURMS0VyS21Gb1VWUkV2OEIzRTVUWmJQTXkxRXJnTEltLXR6dWJiWW9UV1pzZWJQOEdJRGpkMnhXV0lIWUlHUEdHNVIzYmU2UTY3OHAwczNsVmpuRDNUVlpkeVl5emEtTlJoWFJrUnhWSUxFTkZqMGxSYUd5M05GVHA0bGZ6eWZ5YWpLWFMy?oc=5",
+      "description": "Gold rises over 1% as investors digest Fed hike, oil rally stalls &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Hawkish Fed lifts dollar to seven-week high as focus turn to BOJ",
+      "source": "Reuters",
+      "published": "2026-09-17T02:08:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTVZNWlJSb0NGaG9WNmRjR0U4YUM2anpuRFREdGRvRmRaRUhwbzVIb2JndlpsZ2g4a1hvbkdZWEl2YUV6WWRjYThBSGt2VGlzak44MmVyWkFPeTJfdlBreG1ERkhYbjVEaTVlLXpwOW9SeDRvbzZIYVJLTUdWcWc1Y2RFTFVPelhoaWNqWVpNd1YxWTR2ZWxaX2U5dzQwUUxNWWFyQXB5U2d4UFJTMXM4?oc=5",
+      "description": "Hawkish Fed lifts dollar to seven-week high as focus turn to BOJ &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Shares tick higher as Fed hikes rates, dollar jumps with short-term yields",
+      "source": "Reuters",
+      "published": "2026-09-17T02:05:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUnBManB6Nl9tbnMzaXhPbHh4RmJVX0xWNmdaeENoNW50NGxxanVfMHFMaWVENklmQ09OSzdDVnFtSFhiXzJ0YTE5RVgzSHYtekRVZHU2QXE0LVNWeS1nalgyNldtV3l1X3FUc3NudktmOWZJVVZORXFNbWloZzlOZkdRWQ?oc=5",
+      "description": "Shares tick higher as Fed hikes rates, dollar jumps with short-term yields &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Goldman Sachs sees October Fed hike after hawkish signal",
+      "source": "Reuters",
+      "published": "2026-09-17T01:26:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNnA4bVp0ZlNGeVVZRGJvNmIwcVdmSHN3N1I1WlpaYldOaDdGUEoxUkxJNjd3ZkFkNkxhN09iR0RJbzU0VnQxdHdqUHhhVHRsZ3B4cnl0dHE5VHh1WHFBbjRFNnhpQ2NtRjlNQXRtUUVHN0w3azFuS2VxMEJ1NHB3SG5MVWl0NzVDcGNNVmlwYXJsMzZoNWpr?oc=5",
+      "description": "Goldman Sachs sees October Fed hike after hawkish signal &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Donald Trump suggests EU-Canada associate member deal would be ‘hostile act’",
+      "source": "FT",
+      "published": "2026-09-17T00:30:30+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUzJhTTdEQzA5bWVMaTB3a2pmZFlNRGkzTzJkTVM3eHpfQzJycTN5MmhiUmlkYkpUWTVjei1xMFBKTkRnWnRidlRtT3JyVVUxRGluWDlUVFFQbERyT2RlWVFLWGZBeW80ZVFkbEJQaHFGdEUyNnNNUF9DWklucC1XQTc3QXE?oc=5",
+      "description": "Donald Trump suggests EU-Canada associate member deal would be ‘hostile act’ &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Holtec pulls IPO over ‘perfect storm’ in AI sector, founder says",
+      "source": "FT",
+      "published": "2026-09-16T23:22:35+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcW43bFcyWE5ZTUtyMlZVZmpQZWZqdExhRHdodEt4aFpiUHVqdGV1T29FRkNoME5OYnFVdS1RenFJVHRIbzBJWk1lYlZQdGhRd1I4VFl3SUFlWVNTdmhUY2NDSWtZY3ZEajlzZkNMdFdZeEE1NklRVDA3NDdQdjdkN2xjMVI?oc=5",
+      "description": "Holtec pulls IPO over ‘perfect storm’ in AI sector, founder says &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Fed policymakers forecast one more rate hike this year",
+      "source": "Reuters",
+      "published": "2026-09-16T23:04:13+00:00",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQm5zRF9jbzFRTVF1RkwxbTBpNGJmeHhRR3RNZU9DMHk5c1pndDJveEhwd2RrZHhRMXBFMGV3cHR4OXlJZUJBdWtjRXhFVkUyYUpRd0F5QWs2Y1NtTllTQzJGdkM4UFBVSzRfa01FQjFuS1Ixc2E0NGJ6Q3Z3a2owYUowN21RM0QwWDBuQzJsZW13bVJzTkJqNGE5aklZWWwzbHBERGNBdWUxZE1BT1M4?oc=5",
+      "description": "Fed policymakers forecast one more rate hike this year &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "US lawmakers pass sanctions bill to put pressure on Russia’s economy",
+      "source": "FT",
+      "published": "2026-09-16T22:52:13+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdHduSm5xOXIyMVA0R05BdjJISU5uekJ5NWcxVG5oVHpCZ0NhdUh2V2QteG1fNWZUNXFNLWVRNTYzZ0loOEdsc0FaRk8xS1Y5OGFhUUxvdUdiQnEzWkdrMVc3X1FHV1Z3MDhnV2pnTUEwVV9yZHB0LWg3LXRNVWRDRDdTU1I?oc=5",
+      "description": "US lawmakers pass sanctions bill to put pressure on Russia’s economy &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Fed's Warsh lays out forces driving up bond yields",
+      "source": "Reuters",
+      "published": "2026-09-16T21:12:42+00:00",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRkpSaC1QeUQ2WEJPVzZaMXRqN1J2MjhjVGFyeTI3VlUtQmMwSUk4bmV0R2xwOWZyVVdpOEtQckpvcnFzSEZHMFdXck9fUlJyMWRwbzdOeVlTN0daUlpPWm1iWWRTOFpFT3VnaUZ6VVl6RlFTSVljU3p3c0h6dU9rV3VYeEJGZTV6NWlzaGhxOXNUYVRkYUZ0eE5VN1E?oc=5",
+      "description": "Fed's Warsh lays out forces driving up bond yields &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Federal Reserve defies Donald Trump with first rate rise since 2023",
+      "source": "FT",
+      "published": "2026-09-16T20:59:14+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObGlaZWZiUnk4ZEtqVHhEajVUNnhRd2dNOE85TTQ5SlpJV3p4WjZNd2lDTjVlWmphd0ZpOU5qd2ZQN29HY2FLd0dfOVBvckdIRzVGa1NsLUhLRlNaLVNCZG53UExDa2dxOWpGNW5ab21TQVNzU0h6X1NHMDltd1g0eUpHTTI?oc=5",
+      "description": "Federal Reserve defies Donald Trump with first rate rise since 2023 &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Trump lashes out at Fed after Warsh backs rate hike",
+      "source": "Reuters",
+      "published": "2026-09-16T20:44:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ09wMmRRbG83OVR3anZpSGk2VGxLdFRXVFpiMHRDcVZTSldiNTNBNUZlckZlR2k2dEY0Q2F4TFVEdzJ1aC12Z3hacGoyWWkwZjlDNWE4ZGpPejU0V1hVazhVRktwampUZTlkdEpRZWhySlFMZnVTUEtlbVU3T3RUS1hjaFJGcHdMSXMwRERiazVqbTBxOXJlMkVR?oc=5",
+      "description": "Trump lashes out at Fed after Warsh backs rate hike &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "VIEW Stocks pull back after Fed raises rates, points to another hike this year",
+      "source": "Reuters",
+      "published": "2026-09-16T20:10:10+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcHE5d2RsZk5YWi1pLWw0M0tWX0pGZl81OEcwZVJtUlJsbTVoUnpQWUxJYjZGSjhvMmlDd0JrcVVFQjJ0aFRJRkh1cTFteld2Y0lSeXhyMFllMU5vSGthbExhbzc5MVNSRTFHOS1JWVcwZ09jSllmTDJoeHBEUEFJanI2aEZqQm1PbXZJZHpwRHpRU2FoMG9EMmVoVmxiZ0h1YV8xTk12QjRMVm1LQ1Zfcm1qUGhUWkFH?oc=5",
+      "description": "VIEW Stocks pull back after Fed raises rates, points to another hike this year &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Federal Reserve issues FOMC statement",
+      "source": "Fed FOMC",
+      "published": "2026-09-16T18:00:00+00:00",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+      "description": "Federal Reserve issues FOMC statement"
+    },
+    {
+      "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
+      "source": "Fed FOMC",
+      "published": "2026-09-16T18:00:00+00:00",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
+      "description": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting"
+    },
+    {
+      "title": "Chinese oil prices hit record highs after attacks on Saudi pipeline",
+      "source": "FT",
+      "published": "2026-09-16T13:24:01+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNenN5ekEzNkpYSjhXa2lGdU5YaFhDWlZaSGNIMjUyRXNqT29IZ25HR2RzZWoxaVhCVFNUbzYtZTNmY25FSkpoZktXSEVjeUg1Unk5UWFGVU5YSzdMRWZvWXNybXZsYmp0OHFfX0ZUVDJ4X0lsWmJ5c0luTGVETzhVOWJlRG4?oc=5",
+      "description": "Chinese oil prices hit record highs after attacks on Saudi pipeline &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "UK inflation rose to 3.1% in August",
+      "source": "FT",
+      "published": "2026-09-16T06:01:05+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUVRrdVZnZFlFYTRmTGZGOTduS1lERGtUbjlhb0xFUUZMV2l5R01nUWNzSGpxdm9ZelhBT2VEbWFvWUlpVlB2Tm9tQ1g3YlRFVDZaRjdIMHRENjFlQVd6c1RFS0swQUpKMTZpUkdwZmswRUVYMGdCWVJ3TmlYM00xYzFUcUM?oc=5",
+      "description": "UK inflation rose to 3.1% in August &nbsp;&nbsp; Financial Times"
+    },
     {
       "title": "Fed should defy Donald Trump with rate rise, top economists say",
       "source": "FT",
-      "published": "2026-09-16T04:00:23+00:00",
+      "published": "2026-09-16T04:01:48+00:00",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYVdob3AzUDBiZzZLRzFyQnZSZVhuTUxaT0ptay10LWtILU10RVkwTFZpa3dpRlQ1SUxzTm9GX0w5R1JHTkJXQ0MyYWlRUG5rRlc4Q3I1VGlocVhfU2RWQ0Z5TUFSM3J6ZjJ1SXRDM1dBWVBZOXQ3YnlBUkFaUTZzRlNFUTQ?oc=5",
       "description": "Fed should defy Donald Trump with rate rise, top economists say &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Chinese investors rush into US stocks as Beijing opens wider path overseas",
-      "source": "Reuters",
-      "published": "2026-09-16T03:37:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYnFfckp5VnNfN2dzRlRkQkl2cnlnZzhwTE5Qd2MySzUtTjBOb2VkQTRGcGlGZjBBbXdxR1VIWjhMRFlzQnZZMU9ESWFmQzBVVXRPRUlXZE9KaUZRUWY2Vmx5T1lsOEF0QWhVQ0s5VWJWSG1wa21nb25NUG95SW9zTktfOGVHWEFLR1pqbTlTYlZQa3dhLVh3RmwybFJwbTcyVW9Ua0x2b04yNm1hUV9MUVRIYkRfSUZBVnRv?oc=5",
-      "description": "Chinese investors rush into US stocks as Beijing opens wider path overseas &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Indian shares open higher after selloff; higher oil, Fed caution cap gains",
-      "source": "Reuters",
-      "published": "2026-09-16T02:32:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTGZwNnhJd2VnRFVFRzkxTlFVSl9CM2NDVXduY3V6c21DMnFjNThSTkR2OFFTNUR6aVdabVBybkZ0TEVCTS1yR0p5YlZCYlR6dTl2NnhVRnRvcVJPeXU1NWFNVWNESW8yRld2c1JLanJsdXh2d1V1R0lId2RuQXU0cUVIb1g4RW1rMUJHZ1hSMGM1Y2JXTnhnLURBTkRKNlFzM3JqVmlZU21xRXlReG5GdG5sMFhCX0czb2ZNSmlsT0ZKX3lfNVVn?oc=5",
-      "description": "Indian shares open higher after selloff; higher oil, Fed caution cap gains &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Gold gains with Fed rate decision in spotlight",
-      "source": "Reuters",
-      "published": "2026-09-16T02:07:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdEVwMWpILUF1dnhqajU0di1FMVRLWGNScTJKdTR2NUl2VWZSUXpWNF9UQ3h2M0ZuMUYxZzJab09IcUMwN0RQSlRtcC1HSGdQM2poNXptR1BCeklERXdjcmE5N2tzNmdHczY1SkdnSXE0Q3dJNV9TYkNjVDdNUFZjLUhDMkRWcHlsNVF5V19sS1MwX3lnNG13?oc=5",
-      "description": "Gold gains with Fed rate decision in spotlight &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Asian markets brittle ahead of Fed decision, oil slips",
-      "source": "Reuters",
-      "published": "2026-09-16T01:23:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1EZTFQYXAzY01LTC1UX2J5X2FjVEgta19TLV9QZF9LNXFQYm9CTjNkOV9YOFJ6aXJpQzFqYUc4c2JzVHpzUlFzYjBNbEthX0kxcDJWazgxR3R5TjNUQl9xcXY5ano5Wl9ETEw2VDJZOFpndVBVMFY1VElhZw?oc=5",
-      "description": "Asian markets brittle ahead of Fed decision, oil slips &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Bitcoin and crypto stocks remain down after US senate fails to advance regulatory bill",
-      "source": "Reuters",
-      "published": "2026-09-15T19:45:43+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT3ljdUI5OWpZMmJxc2NzRjhKVnpuYXdVZWFRU3RlMTlhdXNOaXhfU3BXS093YndRd0pXaHdLV2JfRUJ6c05va2FwemdfODVsVEZoVU9rRTRTNVZtRU9lRnNQbWg5SnZybkkwUThrT1JHZjJXYzRBdWZuR0hrc0Myc1ZQM3V5bWZCdFg2UlA2WnNlcVRwMlpwcHR1U0FDTnhzb3JqQ1lLVmZpQWxaeEt5VWpnTGctWDdHMjBlRmluSFh2QQ?oc=5",
-      "description": "Bitcoin and crypto stocks remain down after US senate fails to advance regulatory bill &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Ten-year Treasury yield hits highest level since 2007",
-      "source": "FT",
-      "published": "2026-09-15T18:13:53+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRkFXQVZYTHlqVDctU2ZDTTBLWVEycHpiUFI0SWd6TFVZbDNZQVJiVGxHcG9mNmR4NnVYLUd1U3o0bTl4UkZCRG8ya01SdndPa2dOOXZacXJBYTBLSlVNNXUtclpldHREZVhYX25CakNVMVNfWmdBSjRldlJUOU1nRlY1ZHY?oc=5",
-      "description": "Ten-year Treasury yield hits highest level since 2007 &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Global bond yields hit fresh highs, raising stakes for big borrowers",
-      "source": "Reuters",
-      "published": "2026-09-15T15:52:59+00:00",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeThNUUotQTJlelBLMUoySDNIZnR5dlBReWhadGo3VWF6YTBDMG9aYW5JREJhMG9OdXFmMC1OQ1F1VGs5bkxxeXAwY0gweVFkZmpkMHYxelhsbVAta1AyUEk0bEluNWc0UnVTQ0JIZVVuTS1oQVZQdjNqazFKREV2b2RRU3dQanl0N2JvY052QTVSczVVck1YZW1uY1RVem1iNDJzQ1FEbXZwc3UzamZmTA?oc=5",
-      "description": "Global bond yields hit fresh highs, raising stakes for big borrowers &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "US manufacturers hit by fresh burst of supply chain cost inflation",
-      "source": "FT",
-      "published": "2026-09-15T15:26:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVlA3clhoZHZZTXBPTkpZMjNHRVhucm1nTUxYclV2UF9mRVowVkcwekVpSW1PUUFRUnNfSUxlaHRyYWNpYk1uOHpqS1RkdDh0NlZyNnZlR2RUWFNhbnJnNmhEMmw5ZTRQTzYtblRuVWtiSmRobGxJZnBQRXQ0Q1hpaFZZMGk?oc=5",
-      "description": "US manufacturers hit by fresh burst of supply chain cost inflation &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "BPRE’s extremely large, very huge, getting-bigger NAV discount",
-      "source": "FT",
-      "published": "2026-09-15T11:37:18+00:00",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xQXFSRl9RWFdyOGpnSkJUMm1BMGF3MVB3Uk9OamhlWE5yVml5ZDEtT3Jtbm1oV2tCdjNHY2s4NmIwUVhjTVY0Szl6d3JMZ2EybzBfLWhqdVFjeDRSQXhJbTNNSE50cTFjY3ZIVWVkS3U?oc=5",
-      "description": "BPRE’s extremely large, very huge, getting-bigger NAV discount &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Kevin Warsh needs to walk the walk",
-      "source": "FT",
-      "published": "2026-09-15T11:21:56+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ0M5cjVCUktDUFFqcjl3Rko4LVJmNDNXZXVCYVRWYXRvMG9TMHYwVmd3UE1lYzYwOENaV0xnYmhWX1F3dWREMjdobF93enhaVE9YblJmX0pBMlpBM0Q0VmhQZXRBTmtZc0NnbDdrelZsVnNsbE9VRzQ1ZkxTd3NoaU5HOXo?oc=5",
-      "description": "Kevin Warsh needs to walk the walk &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Scott Bessent’s wobbly house",
-      "source": "FT",
-      "published": "2026-09-15T10:59:05+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRE9VZFhMTFFKUW1OeDh0d1ZWeU91dEZoWTMxb2ZZekxxSzU4dUZwaEppMU1mV1J4T04xb2c5NWR6UXFIU3Z3dXpTMXQ5TzNMTFhxb20ycUxNNkhSdFMyM3U0TUtLenFPcUszSTNoV0laN2RNMGhKQVBfZ3p0UFIzNk9waTE?oc=5",
-      "description": "Scott Bessent’s wobbly house &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Stocks wobble but no sign of panic as yields surge",
-      "source": "Reuters",
-      "published": "2026-09-15T09:55:02+00:00",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS2RZa2F0OUhoZzVSRFpnTkhtd2RyYW5XZ0NFbmIzTloxbmhITmdFdGFYWEIxbHQ5SE8taHJtSExodHBDcUZHWWNKVU0ybTV2bXVJZXNCNmx2bFM1XzkydUY1aExvYTVGb1BxQjJ5U0FSZ2QtV3dxOGF1RXU4Z3g0Z0J0bFdVX3hsS29zeVMyNU1YR3c0WmRSbw?oc=5",
-      "description": "Stocks wobble but no sign of panic as yields surge &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Morgan Stanley turns more hawkish, forecasts two Fed hikes and ECB move",
-      "source": "Reuters",
-      "published": "2026-09-15T07:41:56+00:00",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZFQ1MVJra3B6cl9vekF2dms4dko3bnJUQ0dMcGxrSEVqYkxhZWF4aFlnWUhrVllxUGdsZ09KUFdUakJuVlpMdFpfXy04UFpzd0o2aElUd2FDQzJaLWlxRW95Y1hQSmpnVGYzQmpYRVM1ZDQtV0FScklVOHBlQXJfeHdMa1B2MXhJb0trem4weEl4aF9yREpJRGt5Ukh4ZzBwc3A2TV9sYU1GazI5OFBtdQ?oc=5",
-      "description": "Morgan Stanley turns more hawkish, forecasts two Fed hikes and ECB move &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "China’s economy shows signs of weakness as investment slumps",
-      "source": "FT",
-      "published": "2026-09-15T05:25:59+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNd24tYXhIZlJuWUgxUzRGR0lTSk5pSTVWVm8tSFVMamswc0ZVU3F6N09rdlFqX0FWVFpIdTVBWEtsbFh3em5kMXBPUVVvWURtTmhtMkFLcmJWQ2FfV0FMd1JHdDV1VFdIcWQzdlFEY0l4YzNRazgxbEpFWFlpYkRrYWN3a1A?oc=5",
-      "description": "China’s economy shows signs of weakness as investment slumps &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Dogs join diners as Hong Kong bets on the pet economy",
-      "source": "FT",
-      "published": "2026-09-14T23:01:05+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUVQ1M0YyOVQtT1BNSHdDQ1hyX0NpREhuTjdsa0RMR1VqOGZyLUgzTzBfQ3dOc3lhYVFld2huc0VaY0VDWldzaWxwb3hhVzJZZnVZNDl0NmdTWmpONVlBY2NrVkFiMFFXMjVPTGZOclNCaFZUWTZNOGxYSktsY2kzNWkwaWs?oc=5",
-      "description": "Dogs join diners as Hong Kong bets on the pet economy &nbsp;&nbsp; Financial Times"
     }
   ]
 }
