@@ -1,26 +1,110 @@
 {
-  "fetched_at": "2026-09-18T05:03:29.697618+00:00",
+  "fetched_at": "2026-09-19T04:54:58.127790+00:00",
   "headlines": [
     {
-      "title": "Bank of Japan raises rates to highest since 1995",
+      "title": "US homebuilders under pressure from rising rates",
       "source": "FT",
-      "published": "2026-09-18T04:27:49+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObUhqdVpOUjhKVG9KcFI2a1FHNGZCY0dxbHg5NWhYaVktS29lOWJFNHI2UVdKNmIzR2NOYnBfUTc3eDJxQjBHWW1RQ3htcHByRks4amxoRWpMRUVmZE9seXBJOWlXa1RFSXRmYXlxcURPM0lBTmtJV05qejZVNUl0dHZYOWs?oc=5",
-      "description": "Bank of Japan raises rates to highest since 1995 &nbsp;&nbsp; Financial Times"
+      "published": "2026-09-18T20:30:28+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbm1kSU9pb042UENsakpGS19sWm9NSHVBS3dQc3RoZG5rbHVTczdUdWpFLTVTWkxaYjRfUGd5MHpaTU9wVFI3bDQ2WmFWQzZJeW9mR2I0alNOSThqZVo5RUNLVDBDbXFnZ3RpenlZNDRvWjQ1cHBkd2Z5MFNpdmJsd2xjRDE?oc=5",
+      "description": "US homebuilders under pressure from rising rates &nbsp;&nbsp; Financial Times"
     },
     {
-      "title": "Stocks rise as oil dips, yen weakens after BOJ hikes as expected",
+      "title": "Yen sinks after Bank of Japan raises rates to highest level since 1995",
+      "source": "FT",
+      "published": "2026-09-18T16:28:24+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObUhqdVpOUjhKVG9KcFI2a1FHNGZCY0dxbHg5NWhYaVktS29lOWJFNHI2UVdKNmIzR2NOYnBfUTc3eDJxQjBHWW1RQ3htcHByRks4amxoRWpMRUVmZE9seXBJOWlXa1RFSXRmYXlxcURPM0lBTmtJV05qejZVNUl0dHZYOWs?oc=5",
+      "description": "Yen sinks after Bank of Japan raises rates to highest level since 1995 &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Fed's Bowman says overhaul of bank stress test will make process more transparent",
+      "source": "Reuters",
+      "published": "2026-09-18T15:36:24+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdVhMeF8xaElKaXVlUmExRzVBU244d3pfR3k5V25FdlZJel9nOElkbTlXb1lILXhremYwQV9kTTZ2SGZBdjlMVWR2QU9JM3o4Q0E5OHpjSGlidkFUdG5vdkhkajZ0Q2hKUl9yZ2xfaXBMQU5vbHBjVHRhbk83ZVB0T2pRYlZzYUI3R2dCQkozekRHT0V4UFBRZUJYa3Nqa2c5R1Z0eUhCNXltdw?oc=5",
+      "description": "Fed's Bowman says overhaul of bank stress test will make process more transparent &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "White House attacks Fed official after review of Silicon Valley Bank collapse",
+      "source": "FT",
+      "published": "2026-09-18T15:03:25+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPby1lLVlBMlg2Z09ST2ZOajFTUC1vNDRjM0NPenVaSnpGcVJsZFJTT1p2MnFDYkZkZjR6WFdzRnVxNnA2em51eVlUc2ZtM3lNUEtZZDBmWGR1SnhaZ3dZNXMxRzJPa1FsRHVOckt6UUg0RGwzVFhxNTBwUGV2VmFqckdTdjY?oc=5",
+      "description": "White House attacks Fed official after review of Silicon Valley Bank collapse &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Bowman, Initial Findings from Independent Review of Silicon Valley Bank",
+      "source": "Fed Speech",
+      "published": "2026-09-18T13:30:00+00:00",
+      "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260918b.htm",
+      "description": "Speech At the Luncheon of the Lord Mayor City of London at Mansion House, London, United Kingdom"
+    },
+    {
+      "title": "Bowman, The Final Chapter on Modernizing Bank Regulatory Stress Testing",
+      "source": "Fed Speech",
+      "published": "2026-09-18T13:30:00+00:00",
+      "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260918a.htm",
+      "description": "Speech At the Luncheon of the Lord Mayor City of London at Mansion House, London, United Kingdom"
+    },
+    {
+      "title": "Turkey moves to liquidate funds at centre of ‘Ponzi-like scheme’",
+      "source": "FT",
+      "published": "2026-09-18T12:38:04+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTUhKaVZiM25wTFpOaVNpdUNQZ3FYaGgwczNRX1FLcThFSHRVOVNqTVVZcjdoRzJHV29oc09xTkZyWEE3SmtnbXVMckhzQTctT0lTTHdyNVRZY1J6MC10eFpkb2YzSnhSRFdwSTJKVUg1bUs0TldrTllIZG0ybks5elFYUnU?oc=5",
+      "description": "Turkey moves to liquidate funds at centre of ‘Ponzi-like scheme’ &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Italy's debt burden rising at alarming rate, economy minister says",
+      "source": "Reuters",
+      "published": "2026-09-18T12:17:43+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVlNXTElQVEV1SmQ1dW1NUE1YVVc5NGllUWwwNGt6TDFBcDNwY0ZnRnpGSThtVFRXeUpnRzNjNUdVa3ZOcEVPa0VvUS1yTGxkZzVKMjRsTzByRmFJTThKVURyb0FtNENPNzNIbXdjM1d6VEpOd3Y4QmVoUmtNRF9HS0FrTjRjdTJJWTJ2djFYMkVMQTNEMlJmNF9SeTczWldMXzVDMV9Vamxvdw?oc=5",
+      "description": "Italy's debt burden rising at alarming rate, economy minister says &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Venezuela nears deal to tap disputed $4bn gold reserve",
+      "source": "FT",
+      "published": "2026-09-18T11:21:09+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMjNjMGNROGFPQVN2TUtkdm1rOERvUWQ0TVJrWm9zZjFMRENsNWN4cGxyUk45MnNlYmhuckFjVm9LdXU4czJRVnNUSEN2YTBhaUdndFlvdkpRRlpyZXZzMUV6ZjNOT2x4NFBWNFpBaGZ6Qm53QzgtRjY1ZE1qTE9sWVRPUlg?oc=5",
+      "description": "Venezuela nears deal to tap disputed $4bn gold reserve &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Wall St Week Ahead Investors focus on rate path, AI slowdown after Fed hike",
+      "source": "Reuters",
+      "published": "2026-09-18T10:05:57+00:00",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMTlSOWJEQ1huNGVqOTdaMjNmSFJZNElac0J5eXI5clVYQVRNX19rMFVVY25xQTR3Wk1qUGxQTGlKYlpYUXYxYXFzQU9LUi1KYXNWSVlNUHhtcUtOMG5FMWVCNTAtQW82a0p6bUpGemEwOGtkVlVKTmRIN3BmV1k0RFUtYTBHQjVYenhPVEZaeFhFbEQySEZoY3J0dTdSRl9BRUxMdjlja1RGOXlVak1qSUx4Nm9qTDg?oc=5",
+      "description": "Wall St Week Ahead Investors focus on rate path, AI slowdown after Fed hike &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "What commodity markets can expect from the Trump-Xi summit",
+      "source": "Reuters",
+      "published": "2026-09-18T08:55:19+00:00",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeDNPTlJIZWVlTFducVh6VkxZa2YwUDJqWTVxdjBKeEtUbEFIenpWUVkyS3Q3UUhuaUF6NUZwMHh3am9SdWZnZnQyTU83WWQ0U01FRmNJOENlM1BobjlsSkJJVm9ZNl85TmZEYlcyRndWYkVWOG1fbDhuYk1nMUFEaU9uVWx1eE9fcFFmSVpReTNiaXc1MEpaNXVENkVZZw?oc=5",
+      "description": "What commodity markets can expect from the Trump-Xi summit &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Iran activates land routes to bypass US blockade",
+      "source": "FT",
+      "published": "2026-09-18T04:03:29+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV2NGaXh4V3dyNGJEdjNCY29nbkV1TGJpUFdLZXVpNUI0VlNNVzF4NG9LeXVpTWNlcnZxZDVmM0lfWGlsVi1EN3k5aGVCZFY1Wk40SUxyTmx5bV92UjFrUU1sbFNGRFFsRy1WTFVFbzZLd296LTk1TlRqekwtMkdYTjVYMEw?oc=5",
+      "description": "Iran activates land routes to bypass US blockade &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Europe can attract more stock trading with fewer, better markets",
+      "source": "FT",
+      "published": "2026-09-18T04:00:19+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUUlxTzhZR3NZbVlDUzVBR2tHbFpyRnZWRnN2anBJVXZ5b0U4YU1FUGtaRkVfazl2eGVGX182STl4UXo0cUplVnBFaTh3Z3pqUm1kSnZLd0F0ZXdxaVY2cHYwTTVpUklQZjdZOVBYSzFibnRFVmxRT1hFZUtlQkFWUjVNU0c?oc=5",
+      "description": "Europe can attract more stock trading with fewer, better markets &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Global shares edge higher as central banks double down on inflation fight",
       "source": "Reuters",
       "published": "2026-09-18T01:32:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE95V1cyTmJPMlg0ZTkwR1hnMEJBdGZYOGEwRnBqRS1pU0RMNFpJX3NFTjZ1eTRydDZDMGthN2NZdXZYREtKMnI4MHVPNFByOGlqbXFaX09scG5mNXdrX3MzUUtXVXFBaXk5M2tDS0lQQTZSa1hmOXctY1h4OA?oc=5",
-      "description": "Stocks rise as oil dips, yen weakens after BOJ hikes as expected &nbsp;&nbsp; Reuters"
+      "description": "Global shares edge higher as central banks double down on inflation fight &nbsp;&nbsp; Reuters"
     },
     {
-      "title": "Rising oil, rates and yields brew up stagflation cocktail for markets",
+      "title": "Foreign investors buy Vietnam stocks ahead of FTSE market upgrade",
       "source": "Reuters",
-      "published": "2026-09-17T23:30:06+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWmhlTzlKbEFSMGdBRGhpNGxzWDVGZzFsWHR5cXZXLVZwTjRZX0xtVjN4UW1LU3BVNW4wSGlod0VLSEhBbWRJNS0za2NIWWkxVlJqSzBsVU1rWHlIcXNUVmRDemNnbFBrV2J3eEhRSjM4NG9xaHl2ZXR0ZzAySFpOT0tFeWxnZw?oc=5",
-      "description": "Rising oil, rates and yields brew up stagflation cocktail for markets &nbsp;&nbsp; Reuters"
+      "published": "2026-09-18T01:03:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaHVpajJINGk2TFRUNDZoNWl0T2hodnJPc040VUlzWHhmRXdnVU9ndWpydUpWVlIxb2xFcHlBTmhyc3lCWFJLQU9OTzVJNVZ4bjZsYVlvRExTTWJzZlFYazdLTWc0MWE5M3hrak5xa1hsRFRPLUJRdjVTOC1ESjBtaW8wMUoyc0k3ejhKQnA2V19RdFBYY2FQXzJKNGJGOEpaS0p2VlgzSGludnA4R2o2TFNIOGMwVmth?oc=5",
+      "description": "Foreign investors buy Vietnam stocks ahead of FTSE market upgrade &nbsp;&nbsp; Reuters"
     },
     {
       "title": "Tech leads Wall St to higher close as oil eases, Treasury yields dip",
@@ -37,95 +121,11 @@
       "description": "US regulator opens markets to tokenised stock trading &nbsp;&nbsp; Financial Times"
     },
     {
-      "title": "Rising rates throw a spanner in investment bankers’ spreadsheets",
-      "source": "FT",
-      "published": "2026-09-17T16:39:53+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaGpKX1A3MUstOV9jUWEwWW9JS0lFdVItbVlKeVlta0RDMENPcjlfcjVkelZpWU5yNHF5X3I4cG9Gb3JYSUgyVWhidkpzYy14X251TzExbnVEVGRNNUx1RTc0WTZvRHpYMXMyQXl5YjBJZUR4aDNzUTV6dDA4V2QtUktPS3M?oc=5",
-      "description": "Rising rates throw a spanner in investment bankers’ spreadsheets &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Turkey steps in to support markets after fund liquidity crunch sparks selloff",
+      "title": "US securities regulator rolls out five-year exemption for tokenized stock trading",
       "source": "Reuters",
-      "published": "2026-09-17T15:25:44+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTi0wZUhFaDF1M2xqZ1llb2xMRUdwV1ZzcTFXLWlJenctU2FOTUVNVlZMZmNCejN5VWw3ckFlelFkalYybU1jTUJkNVByUVREZnFxSzhQUE5UUThWbGZTU240bjIzQTdPZGJ0M3ZWNUgxTEgxMjUyM0toMXFtREh2cTUwZVZmeFAxWmd2ek44bTktaDJDX0h3SEJDQ1pkal9WZGxkYXNTeUctMGRIajRydE9tU0FibmxNcmZQdmNZaE5TUlk?oc=5",
-      "description": "Turkey steps in to support markets after fund liquidity crunch sparks selloff &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "After Warsh’s strong start, how high will rates need to go?",
-      "source": "FT",
-      "published": "2026-09-17T13:43:04+00:00",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GUlo3TWRpMHNyZ2pzMV96eVFZaFdPRVV2eUFpSWhZekhqWS1RVXlTQnJLQ1VmaUFjYWFZVGczaG1ucWhtbVRYX2pRODZhTFpMcFh0N1hFc084b3VFaVRmTDRpOVpWcEFhWUsxZDF3QTI?oc=5",
-      "description": "After Warsh’s strong start, how high will rates need to go? &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Bank of England says rates likely to rise as it overhauls gilt sales",
-      "source": "FT",
-      "published": "2026-09-17T11:00:15+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRGxqVUp2TjdXalZ5N0E2UG9KcHFMR0lVdmVwb1NJTGU4T0MxZUtSNXpzRTJHcGtVd0g2SHVqaXFvNnV6Wi1GZDYzUG9UbVdweWpBb3loclFWNWZFeDF0REpHUnJqeGJ6cTNHVmxvM1I1X184Yy0xS2l4T1o4UDRNSzV2NF8?oc=5",
-      "description": "Bank of England says rates likely to rise as it overhauls gilt sales &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Europe's low gas stocks pile on the economic and political pressure",
-      "source": "Reuters",
-      "published": "2026-09-17T10:36:05+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT3ZaaXBVeVNMSm9TdlAzaWhnMDdTRTZIdENoSHBiVW1QQUx3eGxlOFk5cWJtcl91VVBud284a2N4OVM5dXJmMWZlb2NfLXdvMkswNVFmR0lmX3NzaUEzdmp1aWYtVjAxangtdGoxM2dXUUFZcm96NnMyVW0xOVY0NTB1aDVMbUdSTDlpVG9jSDhtcGZMUC02cTNVNGRhWnlmNktCR3dCZ0F4eE0?oc=5",
-      "description": "Europe's low gas stocks pile on the economic and political pressure &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "India rice output faces biggest drop in two decades, stocks cushion exports",
-      "source": "Reuters",
-      "published": "2026-09-17T08:21:11+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZENVQmY1eVNPd2hpVjdLWGNmQTFPdjYxNC1hbnM4cjJQS1pGVWlYeFhKSjNJMWh3NlpPQUp5ZEpmUmZoYnZPNGNfZDVVZ3pmaUx0enNXajZLaHdKTFdEQU8xbHdXSGluMy05b09rNHpXS01IUE1JWEg5UHBKTHdOemY4eVZnaTh0YkQ5WVE5UEJfbjJMSVZYUWtDWHBldURqVVlQZDhzLU9mRDhQRGxyZWp1cDBweE8zUk1v?oc=5",
-      "description": "India rice output faces biggest drop in two decades, stocks cushion exports &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "US passes bill targeting importers of Russian oil",
-      "source": "FT",
-      "published": "2026-09-17T08:04:58+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdHduSm5xOXIyMVA0R05BdjJISU5uekJ5NWcxVG5oVHpCZ0NhdUh2V2QteG1fNWZUNXFNLWVRNTYzZ0loOEdsc0FaRk8xS1Y5OGFhUUxvdUdiQnEzWkdrMVc3X1FHV1Z3MDhnV2pnTUEwVV9yZHB0LWg3LXRNVWRDRDdTU1I?oc=5",
-      "description": "US passes bill targeting importers of Russian oil &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Fed builds credibility, but hawkish turn leaves investors edgy",
-      "source": "Reuters",
-      "published": "2026-09-17T05:02:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaThwN2F1X05PRkVFbFlZemJaa1duZ3hRSExodWktM3phV3pZMF84LV9nbHRtYnZpRm9Zam9EQk0tSmFKQmhYcUx1NXUxbVNIY2dteXlOcUdpamMtMG1JZFNLU2E2YjNzaElsQUlBQWpscXlQZmFfajdESU5KdDBxR3YwQzNwUktUM2lrbWN6N2laR0J4MXZfRi1DV28yMXExZDV4VFdhcDRGRnlx?oc=5",
-      "description": "Fed builds credibility, but hawkish turn leaves investors edgy &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Donald Trump fails to bend the Federal Reserve to his will",
-      "source": "FT",
-      "published": "2026-09-17T04:01:20+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOY1dQRV9XLUcxZkxLcUlBeEtxM0RxM1dWOF9FM21EckpLT3d2Yk1rX2xzaVdES2dyTURTOEdkTEoxRWwwQ01PQTA4cHZNM3FXeG1oak81Q3N2Uzh6WUJyTUxBRzl3My1HdEM3ZDNMSHh3dDViYVUzZlNxazRwNFkyWllfbXM?oc=5",
-      "description": "Donald Trump fails to bend the Federal Reserve to his will &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "The social-media echo chamber is skewing inflation expectations",
-      "source": "FT",
-      "published": "2026-09-17T04:00:39+00:00",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zazQ3QlJZRXRLLXpWM1IyY2kyamlaRHJUUHBZd1UzV2hMalhTOGczSEw0ZE1VOURYUkxQc3Q1Y2JxSWVTejAwdVBseEVGZHZYbTNvcnpLakxjUHh6UkQ3Yi1JTllJcXFLRmI3RTcxR3A?oc=5",
-      "description": "The social-media echo chamber is skewing inflation expectations &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "World stocks rebound, Treasury yields retreat after Fed, BoE decisions",
-      "source": "Reuters",
-      "published": "2026-09-17T02:05:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUnBManB6Nl9tbnMzaXhPbHh4RmJVX0xWNmdaeENoNW50NGxxanVfMHFMaWVENklmQ09OSzdDVnFtSFhiXzJ0YTE5RVgzSHYtekRVZHU2QXE0LVNWeS1nalgyNldtV3l1X3FUc3NudktmOWZJVVZORXFNbWloZzlOZkdRWQ?oc=5",
-      "description": "World stocks rebound, Treasury yields retreat after Fed, BoE decisions &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Federal Reserve issues FOMC statement",
-      "source": "Fed FOMC",
-      "published": "2026-09-16T18:00:00+00:00",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
-      "description": "Federal Reserve issues FOMC statement"
-    },
-    {
-      "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
-      "source": "Fed FOMC",
-      "published": "2026-09-16T18:00:00+00:00",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
-      "description": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting"
+      "published": "2026-09-17T16:59:52+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMGJTTHZsX1M4S3BWWjZkQXZZOWs4aU13T0VXRVB4QTVYdGF3QWRYMUh2LVJzYjhObm9YV3pkdFZnRmRya05xQ09VWm9od1U5OTBTRXZJTjZsc0tEV2hfUUVJSS1xMWF0STluTGZuTVdVQ3IxaTRuXzNMS3FOT216bFduaGVGQnlleG1XNkQxTU14aTNsTHlHWHlEbVlVTkFacTJtLTFJUnJQNXJyOTdZcWxLTFlIWlJBRzZJ?oc=5",
+      "description": "US securities regulator rolls out five-year exemption for tokenized stock trading &nbsp;&nbsp; Reuters"
     }
   ]
 }
