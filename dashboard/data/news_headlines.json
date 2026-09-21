@@ -1,131 +1,117 @@
 {
-  "fetched_at": "2026-09-19T04:54:58.127790+00:00",
+  "fetched_at": "2026-09-21T05:19:18.218725+00:00",
   "headlines": [
     {
-      "title": "US homebuilders under pressure from rising rates",
+      "title": "Fed and BoE step up scrutiny of bank exposure to trading firms after Jane Street loss",
       "source": "FT",
-      "published": "2026-09-18T20:30:28+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbm1kSU9pb042UENsakpGS19sWm9NSHVBS3dQc3RoZG5rbHVTczdUdWpFLTVTWkxaYjRfUGd5MHpaTU9wVFI3bDQ2WmFWQzZJeW9mR2I0alNOSThqZVo5RUNLVDBDbXFnZ3RpenlZNDRvWjQ1cHBkd2Z5MFNpdmJsd2xjRDE?oc=5",
-      "description": "US homebuilders under pressure from rising rates &nbsp;&nbsp; Financial Times"
+      "published": "2026-09-21T04:02:35+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ3otVXhYMVhIaTl4dHZJLXlIbVZmV3ZMZ0RQM2RTU0ZKTlpIZ3VfaEtlSF9RTU5NUy1yUEJpLWdXcFdmeWVseWhGQVJ0VnZ5LXVVa1VIN2hjVDk2dmVJVWw5MHMwemhCTTZOeUhoUjBCWEdsWHFQaTZzRWE3TnBpYlItbG8?oc=5",
+      "description": "Fed and BoE step up scrutiny of bank exposure to trading firms after Jane Street loss &nbsp;&nbsp; Financial Times"
     },
     {
-      "title": "Yen sinks after Bank of Japan raises rates to highest level since 1995",
+      "title": "Xi rolls into Trump summit with China's trade engine roaring",
+      "source": "Reuters",
+      "published": "2026-09-21T02:50:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTjdmUF9fTEcySTFqT2t2NUZsd1prTmZjTjJVbmZwOVVVQzVCYV9mem5YNGRVUUdYT05uRTlXTWFheEh5azN5blpURFI1YXItOEJBZWZRRDlLQkx3aGJsdkZia0M2WEpaNHRhTTVmOEpUeU5FdWRPYVN1dUV1bVZrbHpzVEhZZzBrRXNXMTYzOTZzQTVETVkxM1pJT3JIZlpucUJoQTVFaE5LX28?oc=5",
+      "description": "Xi rolls into Trump summit with China's trade engine roaring &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Volatile yen draws intervention watch, other currencies subdued",
+      "source": "Reuters",
+      "published": "2026-09-21T01:34:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeEFyOHhrcWVmUjJqdnBjS2NLMUtvajJaU1ZBNHdFNDhobTd6d2VKbEl1cThLOTJOSVdHN3lMUmZXNGluMTJTVW9lckdWSUVKdERCaVFxU1U5ZVowMVE5c2ZxcXE0RDMwLXpfWUtvbDZOajI0N3ZNbG1PUU8yenhDbW5ybG1zbDRjWDRNQXRFVlMwWnZFTnRZbkZVRncxdWlLN0FMX29obHIwOFJyX2gxa0c2Y0E3cTlS?oc=5",
+      "description": "Volatile yen draws intervention watch, other currencies subdued &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Vietnam joins FTSE Russell emerging market benchmark",
+      "source": "Reuters",
+      "published": "2026-09-21T00:54:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPalJiSUdYcGJXanE0VjhNWFhPejJQQlNOVlc1akp0Qm9sZHg1TW5WMkdHX1BzRURaeHhsT0N4Vmg4Yy02b2ctWjFOY3p0eWRBODFROGk2d2JGejB4V3Q1VlcxbkRrT0FUcndwV0xZLWJJR0h0VTZoYUl6d2NKQzQ0LVVpQkNhNUwydnVrWVE4NElZUlRjR3QzdUdIVVFPRjVTaEk0N1VKd2pXbUE?oc=5",
+      "description": "Vietnam joins FTSE Russell emerging market benchmark &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Tech leads shares higher in Asia as oil slips",
+      "source": "Reuters",
+      "published": "2026-09-21T00:39:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUUdXdXVKYkpsa2JoQmRNeVpVWWhwb1pIVmUwcUl0QVRFVEFjRDJtREJPbXJWaXVEc0NQSWZZUlhwTl80T3h4eGM1dE9oaXRsWlVueWx0MWt3YXlWbV9PYkZDWVVPb1ZveThvalZfWnBvQ2J5Sjg1UkNOQmU5eDdWN0FvVQ?oc=5",
+      "description": "Tech leads shares higher in Asia as oil slips &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Europe faces Q4 jet fuel supply deficit even as South Korea becomes latest big supplier",
+      "source": "Reuters",
+      "published": "2026-09-21T00:04:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVVgydHlkOXlLQ1Q4SWtQNmtjZjNoLTRUNnptMkdnUndRQlhhQWVCVTJ6VzlabXdZSUIxOG9BNDRKOGswSHlZSC1RS3pqMnlMS0R5U25ZZnFMUUNYemhXSVo4aVBhVlNjRnRQWVo2b0h4a2FvT29vMkFyQV8yZVBRSGZmUldDWkRsYVlhVFljYk44QWdTRFJnMUw5bk9BVEpRNVpNa0gtZV90ZVRUYXVSYUtRZ1VHZXFOVmdxbzJTTmFJOEZ4d1E?oc=5",
+      "description": "Europe faces Q4 jet fuel supply deficit even as South Korea becomes latest big supplier &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Fed's Kashkari says inflation is still too high in 'all aspects' of US economy, in Fox News interview",
+      "source": "Reuters",
+      "published": "2026-09-20T15:06:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc1hVd3hZZmFPOEVudnRhdFpDczA0Qkg4TmxpeDFYN1NuWnFkYVNSLTdrRU42dGdXV21YcmlsM1RVREw1amRxQWV5aWVZZTRPRy1paTNiT2o3M0syblIxdkMtR2xKLVgzUEstZ01CcXRKd0dNbUpLZUxkV1hhS0cwcDZYRXdmYjJrTTc4RERBQWNyeXdHb0ZoVjhPMkQzVDJodDBoc3c0RTc4ckFJeGJ6WDlLTDVzM05rN3k5VWNXVVFlTWM?oc=5",
+      "description": "Fed's Kashkari says inflation is still too high in 'all aspects' of US economy, in Fox News interview &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Wall Street expects US to issue about $1tn of short-term debt as borrowing costs climb",
       "source": "FT",
-      "published": "2026-09-18T16:28:24+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObUhqdVpOUjhKVG9KcFI2a1FHNGZCY0dxbHg5NWhYaVktS29lOWJFNHI2UVdKNmIzR2NOYnBfUTc3eDJxQjBHWW1RQ3htcHByRks4amxoRWpMRUVmZE9seXBJOWlXa1RFSXRmYXlxcURPM0lBTmtJV05qejZVNUl0dHZYOWs?oc=5",
-      "description": "Yen sinks after Bank of Japan raises rates to highest level since 1995 &nbsp;&nbsp; Financial Times"
+      "published": "2026-09-20T15:00:04+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPX2d3SzhUakIyYmNVeUF2eHUzLUtSZXpqVXBFbk1DY2JxbXZ2T3h6U3hIa1VQU1NMQjFsdG1sdWwwTFBRWXZhYm9KRl9hcjZNNHppSzBldEJ0NFJpTndGLVhfeXdDc2x0TWVKb1dZU1NQdlB5R1h6YnFLRXdMWGE3V1ZjdGk?oc=5",
+      "description": "Wall Street expects US to issue about $1tn of short-term debt as borrowing costs climb &nbsp;&nbsp; Financial Times"
     },
     {
-      "title": "Fed's Bowman says overhaul of bank stress test will make process more transparent",
+      "title": "Qatar launches wealth fund division for domestic investments",
       "source": "Reuters",
-      "published": "2026-09-18T15:36:24+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdVhMeF8xaElKaXVlUmExRzVBU244d3pfR3k5V25FdlZJel9nOElkbTlXb1lILXhremYwQV9kTTZ2SGZBdjlMVWR2QU9JM3o4Q0E5OHpjSGlidkFUdG5vdkhkajZ0Q2hKUl9yZ2xfaXBMQU5vbHBjVHRhbk83ZVB0T2pRYlZzYUI3R2dCQkozekRHT0V4UFBRZUJYa3Nqa2c5R1Z0eUhCNXltdw?oc=5",
-      "description": "Fed's Bowman says overhaul of bank stress test will make process more transparent &nbsp;&nbsp; Reuters"
+      "published": "2026-09-20T14:55:43+00:00",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbjFTdjVSY2VJTE13ZGZLR0FHWnFlNWNScVFWNHN4N1g0TzNKZElMY3dKb2hWajdiNHRlUjRRdlB0WGdmODZ2aDlBUXN0eUFsYUFWQUIwVC10emkxbnEtbllDNV81Wlp3ZGlzakExV3lWblNjeVZQTi1Vb2RiYm9kVUs0eUg2aVhIX2VSRF9IcEJENG1oTjZ0OTBCVFBGZEZjTmlFa1IzUkQ4U2xnQ1Nr?oc=5",
+      "description": "Qatar launches wealth fund division for domestic investments &nbsp;&nbsp; Reuters"
     },
     {
-      "title": "White House attacks Fed official after review of Silicon Valley Bank collapse",
+      "title": "Saudi, Gulf stocks fall after Houthis claim Riyadh attacks",
+      "source": "Reuters",
+      "published": "2026-09-20T12:59:36+00:00",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZnFXQ1lvNTg5TnJvazhfY3VXa0hrVms4RW1mdVBpR0k4QXZkempjX0h4Y2JIaGNvSm04YVJkTHRDTWpESVFDakhJMExiNGZSSktLcVFsM3VlM3ZibDQwVlE3czF4OEdLdXdnU0FPaUN1aHFLVWN3cW9uVHRTTDdDU1BNaUNMd3NQMlY5VGZPYzA5ODlMQi1rcWVDXzhFZHJWUF9tQjJqUUtzQW1yc0tYNw?oc=5",
+      "description": "Saudi, Gulf stocks fall after Houthis claim Riyadh attacks &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Is the Bank of Japan right to fear an overshoot in inflation?",
       "source": "FT",
-      "published": "2026-09-18T15:03:25+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPby1lLVlBMlg2Z09ST2ZOajFTUC1vNDRjM0NPenVaSnpGcVJsZFJTT1p2MnFDYkZkZjR6WFdzRnVxNnA2em51eVlUc2ZtM3lNUEtZZDBmWGR1SnhaZ3dZNXMxRzJPa1FsRHVOckt6UUg0RGwzVFhxNTBwUGV2VmFqckdTdjY?oc=5",
-      "description": "White House attacks Fed official after review of Silicon Valley Bank collapse &nbsp;&nbsp; Financial Times"
+      "published": "2026-09-20T11:00:03+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWXdyNDFFSnF2YXFHa0w0ZVowaVhkb2Y2RUg4UHVFeTVUMlRmRHJlVGFPQU00NFAxdjkxNng4VHlxY1hXcW5XUjJUUy1KV2JZd1I0ZVFzQ1FtV2M1WFA2cGkyT0c0d2tuSnU4eXJfajRQSWRFRF94SjgyUFhTWDNOQXMyX0w?oc=5",
+      "description": "Is the Bank of Japan right to fear an overshoot in inflation? &nbsp;&nbsp; Financial Times"
     },
     {
-      "title": "Bowman, Initial Findings from Independent Review of Silicon Valley Bank",
-      "source": "Fed Speech",
-      "published": "2026-09-18T13:30:00+00:00",
-      "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260918b.htm",
-      "description": "Speech At the Luncheon of the Lord Mayor City of London at Mansion House, London, United Kingdom"
-    },
-    {
-      "title": "Bowman, The Final Chapter on Modernizing Bank Regulatory Stress Testing",
-      "source": "Fed Speech",
-      "published": "2026-09-18T13:30:00+00:00",
-      "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260918a.htm",
-      "description": "Speech At the Luncheon of the Lord Mayor City of London at Mansion House, London, United Kingdom"
-    },
-    {
-      "title": "Turkey moves to liquidate funds at centre of ‘Ponzi-like scheme’",
+      "title": "The perils of productivity numbers",
       "source": "FT",
-      "published": "2026-09-18T12:38:04+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTUhKaVZiM25wTFpOaVNpdUNQZ3FYaGgwczNRX1FLcThFSHRVOVNqTVVZcjdoRzJHV29oc09xTkZyWEE3SmtnbXVMckhzQTctT0lTTHdyNVRZY1J6MC10eFpkb2YzSnhSRFdwSTJKVUg1bUs0TldrTllIZG0ybks5elFYUnU?oc=5",
-      "description": "Turkey moves to liquidate funds at centre of ‘Ponzi-like scheme’ &nbsp;&nbsp; Financial Times"
+      "published": "2026-09-20T11:00:03+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOazdDckxWbzBpbUFqbXM2RlRzQkpoRndqdUdFVkItTVY1dTBJSFdQc0l1NGNOa2xFWVduN0ZIX3ZnSVRic1dUano4cmM4Nm9JZkhSamxMS3hFY0RSek1BdWhhYnVUNzBCSk5ud18yVF93dDZTeXFnV2phMEljYnZTSjNZLUk?oc=5",
+      "description": "The perils of productivity numbers &nbsp;&nbsp; Financial Times"
     },
     {
-      "title": "Italy's debt burden rising at alarming rate, economy minister says",
-      "source": "Reuters",
-      "published": "2026-09-18T12:17:43+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVlNXTElQVEV1SmQ1dW1NUE1YVVc5NGllUWwwNGt6TDFBcDNwY0ZnRnpGSThtVFRXeUpnRzNjNUdVa3ZOcEVPa0VvUS1yTGxkZzVKMjRsTzByRmFJTThKVURyb0FtNENPNzNIbXdjM1d6VEpOd3Y4QmVoUmtNRF9HS0FrTjRjdTJJWTJ2djFYMkVMQTNEMlJmNF9SeTczWldMXzVDMV9Vamxvdw?oc=5",
-      "description": "Italy's debt burden rising at alarming rate, economy minister says &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Venezuela nears deal to tap disputed $4bn gold reserve",
+      "title": "Houthis launch missile at Saudi capital in escalation of hostilities",
       "source": "FT",
-      "published": "2026-09-18T11:21:09+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMjNjMGNROGFPQVN2TUtkdm1rOERvUWQ0TVJrWm9zZjFMRENsNWN4cGxyUk45MnNlYmhuckFjVm9LdXU4czJRVnNUSEN2YTBhaUdndFlvdkpRRlpyZXZzMUV6ZjNOT2x4NFBWNFpBaGZ6Qm53QzgtRjY1ZE1qTE9sWVRPUlg?oc=5",
-      "description": "Venezuela nears deal to tap disputed $4bn gold reserve &nbsp;&nbsp; Financial Times"
+      "published": "2026-09-20T09:01:06+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ0JXVkZyazB3eXFteGJZdHN2VU9DU1FvTlNvQlVrb2E5SHhNYUdRYzRiaHJwVXB4NklDSDZvVW5ndlBPSHZDNmFpbGQwU0lPYUwyN1hoclRXM0tIdzNsYW5ScmVjaGN4NFVZUjVwdERXWWRGZ3Z2bXhKMlN2OGFlN29FcHU?oc=5",
+      "description": "Houthis launch missile at Saudi capital in escalation of hostilities &nbsp;&nbsp; Financial Times"
     },
     {
-      "title": "Wall St Week Ahead Investors focus on rate path, AI slowdown after Fed hike",
-      "source": "Reuters",
-      "published": "2026-09-18T10:05:57+00:00",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMTlSOWJEQ1huNGVqOTdaMjNmSFJZNElac0J5eXI5clVYQVRNX19rMFVVY25xQTR3Wk1qUGxQTGlKYlpYUXYxYXFzQU9LUi1KYXNWSVlNUHhtcUtOMG5FMWVCNTAtQW82a0p6bUpGemEwOGtkVlVKTmRIN3BmV1k0RFUtYTBHQjVYenhPVEZaeFhFbEQySEZoY3J0dTdSRl9BRUxMdjlja1RGOXlVak1qSUx4Nm9qTDg?oc=5",
-      "description": "Wall St Week Ahead Investors focus on rate path, AI slowdown after Fed hike &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "What commodity markets can expect from the Trump-Xi summit",
-      "source": "Reuters",
-      "published": "2026-09-18T08:55:19+00:00",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeDNPTlJIZWVlTFducVh6VkxZa2YwUDJqWTVxdjBKeEtUbEFIenpWUVkyS3Q3UUhuaUF6NUZwMHh3am9SdWZnZnQyTU83WWQ0U01FRmNJOENlM1BobjlsSkJJVm9ZNl85TmZEYlcyRndWYkVWOG1fbDhuYk1nMUFEaU9uVWx1eE9fcFFmSVpReTNiaXc1MEpaNXVENkVZZw?oc=5",
-      "description": "What commodity markets can expect from the Trump-Xi summit &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Iran activates land routes to bypass US blockade",
+      "title": "Russia’s new air campaign seeks to destroy Ukrainian economy",
       "source": "FT",
-      "published": "2026-09-18T04:03:29+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV2NGaXh4V3dyNGJEdjNCY29nbkV1TGJpUFdLZXVpNUI0VlNNVzF4NG9LeXVpTWNlcnZxZDVmM0lfWGlsVi1EN3k5aGVCZFY1Wk40SUxyTmx5bV92UjFrUU1sbFNGRFFsRy1WTFVFbzZLd296LTk1TlRqekwtMkdYTjVYMEw?oc=5",
-      "description": "Iran activates land routes to bypass US blockade &nbsp;&nbsp; Financial Times"
+      "published": "2026-09-20T04:02:25+00:00",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFVE5TZ05ia3RYOXZRMzhhMmU1SE8yOS1qQnNKRjhiMk9zUjluSVJxY1d5TlVsUXZVVXZSc0k1NVZleE14MFluMldLakk2dWZxcTZhVmZ6eTFOUjlURFVycTBFVnBxX2lXekFIRjJteFA?oc=5",
+      "description": "Russia’s new air campaign seeks to destroy Ukrainian economy &nbsp;&nbsp; Financial Times"
     },
     {
-      "title": "Europe can attract more stock trading with fewer, better markets",
+      "title": "Biodiesel for shipping now cheaper than conventional fuels after price fall",
       "source": "FT",
-      "published": "2026-09-18T04:00:19+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUUlxTzhZR3NZbVlDUzVBR2tHbFpyRnZWRnN2anBJVXZ5b0U4YU1FUGtaRkVfazl2eGVGX182STl4UXo0cUplVnBFaTh3Z3pqUm1kSnZLd0F0ZXdxaVY2cHYwTTVpUklQZjdZOVBYSzFibnRFVmxRT1hFZUtlQkFWUjVNU0c?oc=5",
-      "description": "Europe can attract more stock trading with fewer, better markets &nbsp;&nbsp; Financial Times"
+      "published": "2026-09-20T04:01:41+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd3RtOE4tdjBvSU9SZTI5N1ZsckRHbnc2eVpPOVY3VmhsN1RQa29lZEczMi03V2sybkM2M3lPelpMTk83a0pDMzU1U29PSmpQc2FNSWRGcFlCU3JJU18ybExxOGFvcjQwZDV4X1l2WVRWaWJZWlRrdWFDcUc1akJxYnFBcGg?oc=5",
+      "description": "Biodiesel for shipping now cheaper than conventional fuels after price fall &nbsp;&nbsp; Financial Times"
     },
     {
-      "title": "Global shares edge higher as central banks double down on inflation fight",
-      "source": "Reuters",
-      "published": "2026-09-18T01:32:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE95V1cyTmJPMlg0ZTkwR1hnMEJBdGZYOGEwRnBqRS1pU0RMNFpJX3NFTjZ1eTRydDZDMGthN2NZdXZYREtKMnI4MHVPNFByOGlqbXFaX09scG5mNXdrX3MzUUtXVXFBaXk5M2tDS0lQQTZSa1hmOXctY1h4OA?oc=5",
-      "description": "Global shares edge higher as central banks double down on inflation fight &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Foreign investors buy Vietnam stocks ahead of FTSE market upgrade",
-      "source": "Reuters",
-      "published": "2026-09-18T01:03:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaHVpajJINGk2TFRUNDZoNWl0T2hodnJPc040VUlzWHhmRXdnVU9ndWpydUpWVlIxb2xFcHlBTmhyc3lCWFJLQU9OTzVJNVZ4bjZsYVlvRExTTWJzZlFYazdLTWc0MWE5M3hrak5xa1hsRFRPLUJRdjVTOC1ESjBtaW8wMUoyc0k3ejhKQnA2V19RdFBYY2FQXzJKNGJGOEpaS0p2VlgzSGludnA4R2o2TFNIOGMwVmth?oc=5",
-      "description": "Foreign investors buy Vietnam stocks ahead of FTSE market upgrade &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Tech leads Wall St to higher close as oil eases, Treasury yields dip",
-      "source": "Reuters",
-      "published": "2026-09-17T22:43:46+00:00",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORkVra0Q0cjNkbjlDN0N2SENMZHYyeVVFSU1tcG5LOXhBTk5leFlZNjFNRGpad3NoWmhnaWZVd2I3N19oa2hQSERYZzBQWFcxaUJQNDZaSHMwVjFrNGlKbGRUNjg5TEt2WENpMUJiUFRVTjR6WlQyc0IzY2V2M05FanNlWExPdUZ2bTJFUlp4YW5HdTAwTExfNTI3MWkwVEVTMTRZUURlR01lVHA5?oc=5",
-      "description": "Tech leads Wall St to higher close as oil eases, Treasury yields dip &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "US regulator opens markets to tokenised stock trading",
+      "title": "Israel’s settler economy braces for European sanctions",
       "source": "FT",
-      "published": "2026-09-17T18:29:50+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVVZHQ0hsdFlEcG5RWnA1WG5CZEtiSVpiOTJnSWVuWE9KMzBBa0J3elM1T1hjTmxaUG9ad3E2dUVqcG9jZ1hFazFiN3hQZVAtN0MtLXRrWko4TWJBeWF3Q29WRTdWZXNvR1BybVlDOThYZS00WFhPdHdmV2lxRDdxRkdXS1E?oc=5",
-      "description": "US regulator opens markets to tokenised stock trading &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "US securities regulator rolls out five-year exemption for tokenized stock trading",
-      "source": "Reuters",
-      "published": "2026-09-17T16:59:52+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMGJTTHZsX1M4S3BWWjZkQXZZOWs4aU13T0VXRVB4QTVYdGF3QWRYMUh2LVJzYjhObm9YV3pkdFZnRmRya05xQ09VWm9od1U5OTBTRXZJTjZsc0tEV2hfUUVJSS1xMWF0STluTGZuTVdVQ3IxaTRuXzNMS3FOT216bFduaGVGQnlleG1XNkQxTU14aTNsTHlHWHlEbVlVTkFacTJtLTFJUnJQNXJyOTdZcWxLTFlIWlJBRzZJ?oc=5",
-      "description": "US securities regulator rolls out five-year exemption for tokenized stock trading &nbsp;&nbsp; Reuters"
+      "published": "2026-09-20T04:00:11+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVzlXc2w1WnJsaWJ4Y29oZ3RBTDFoZlV3ZENUSnVXUkw0WFBNRWxSaEkzVDRHWWhuaW1QNlR3bHhZRkRyY1l0eF9EelE5RlVhV3J4aEQ1bWpwczY3UGl2b2tBU0Z3TEtVVnE3VmtPM2FkbUlSam9wbVJLcVoxZDE2S2ZqQ1E?oc=5",
+      "description": "Israel’s settler economy braces for European sanctions &nbsp;&nbsp; Financial Times"
     }
   ]
 }
