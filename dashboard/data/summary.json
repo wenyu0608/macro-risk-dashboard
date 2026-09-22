@@ -2,7 +2,7 @@
   "alerts": {
     "term_spread": {
       "level": "warning",
-      "message": "Yield curve nearly flat: 0.25%"
+      "message": "Yield curve nearly flat: 0.20%"
     },
     "credit_spread": {
       "level": "ok",
@@ -10,18 +10,18 @@
     },
     "vix": {
       "level": "ok",
-      "message": "Normal: 14.8"
+      "message": "Normal: 14.9"
     },
     "absorption_ratio": {
       "level": "ok",
-      "message": "AR=0.848\uff0c\u6b63\u5e38\u8303\u56f4\uff08\u504f\u79bb -0.5 \u4e2a\u6807\u51c6\u5dee\uff09"
+      "message": "AR=0.850\uff0c\u6b63\u5e38\u8303\u56f4\uff08\u504f\u79bb -0.4 \u4e2a\u6807\u51c6\u5dee\uff09"
     },
     "turbulence": {
-      "level": "ok",
-      "message": "Normal: 9.7"
+      "level": "warning",
+      "message": "Elevated turbulence: 32.0 (>P90)"
     }
   },
-  "last_updated": "2026-09-21T05:19:11.545450",
+  "last_updated": "2026-09-22T05:17:10.356552",
   "indicators_available": [
     "term_spread",
     "credit_spread",
@@ -35,18 +35,18 @@
     "momentum"
   ],
   "composite_score": {
-    "score": 32.9,
+    "score": 34.3,
     "label": "Moderate",
     "level": "moderate",
     "color": "#86efac",
     "action": "\u4fdd\u6301\u5173\u6ce8",
     "components": {
-      "term_spread": 46.3,
-      "vix": 14.2,
-      "absorption_ratio": 1.9,
-      "turbulence": 14.7,
-      "breadth": 74.9
+      "term_spread": 50.0,
+      "vix": 14.4,
+      "absorption_ratio": 2.1,
+      "turbulence": 63.9,
+      "breadth": 41.0
     },
-    "date": "2026-09-18"
+    "date": "2026-09-21"
   }
 }
