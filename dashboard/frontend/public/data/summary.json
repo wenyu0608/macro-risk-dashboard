@@ -2,7 +2,7 @@
   "alerts": {
     "term_spread": {
       "level": "warning",
-      "message": "Yield curve nearly flat: 0.20%"
+      "message": "Yield curve nearly flat: 0.25%"
     },
     "credit_spread": {
       "level": "ok",
@@ -21,7 +21,7 @@
       "message": "Elevated turbulence: 32.0 (>P90)"
     }
   },
-  "last_updated": "2026-09-22T05:17:10.356552",
+  "last_updated": "2026-09-23T05:02:40.775712",
   "indicators_available": [
     "term_spread",
     "credit_spread",
@@ -35,13 +35,14 @@
     "momentum"
   ],
   "composite_score": {
-    "score": 34.3,
+    "score": 26.3,
     "label": "Moderate",
     "level": "moderate",
     "color": "#86efac",
     "action": "\u4fdd\u6301\u5173\u6ce8",
     "components": {
       "term_spread": 50.0,
+      "credit_spread": 2.4,
       "vix": 14.4,
       "absorption_ratio": 2.1,
       "turbulence": 63.9,
