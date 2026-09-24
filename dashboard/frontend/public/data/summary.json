@@ -2,7 +2,7 @@
   "alerts": {
     "term_spread": {
       "level": "warning",
-      "message": "Yield curve nearly flat: 0.25%"
+      "message": "Yield curve nearly flat: 0.26%"
     },
     "credit_spread": {
       "level": "ok",
@@ -10,7 +10,7 @@
     },
     "vix": {
       "level": "ok",
-      "message": "Normal: 14.9"
+      "message": "Normal: 15.2"
     },
     "absorption_ratio": {
       "level": "ok",
@@ -21,7 +21,7 @@
       "message": "Elevated turbulence: 32.0 (>P90)"
     }
   },
-  "last_updated": "2026-09-23T05:02:40.775712",
+  "last_updated": "2026-09-24T05:13:49.205184",
   "indicators_available": [
     "term_spread",
     "credit_spread",
