@@ -1,124 +1,117 @@
 {
-  "fetched_at": "2026-09-24T05:13:55.338631+00:00",
+  "fetched_at": "2026-09-25T05:15:17.222411+00:00",
   "headlines": [
     {
-      "title": "Gold muted as Fed policy tightening prospects weigh",
+      "title": "Iran offers US new ‘7-day’ ceasefire proposal - ft.com",
+      "source": "FT",
+      "published": "2026-09-25T03:02:59+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNLVdxRWJpMmsyWENVM1FFSEJ2X250RVZPdlVWbnVLNmszQlNsc184dlp2SEM1eVE5S1U0VjZRT0VGY2ZBSGg3Q2J0djZrU3VvQjk4MlY3V3BZUzU0RF9GTnVyMHB4eWdGZUtNU3NNQ0R5N1JsWFEzcHkxWU9lUXhTck03Wkk?oc=5",
+      "description": "Iran offers US new ‘7-day’ ceasefire proposal &nbsp;&nbsp; ft.com"
+    },
+    {
+      "title": "Gold heads for weekly loss as stronger dollar, Fed rate outlook weighs",
+      "source": "Reuters",
+      "published": "2026-09-25T02:23:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX3F4eFFXZE5rZGRwVFhHYUsxZlhGeFlzSEF1Y0xYc2JmT0YtdkgtRmRhbFVTYVk3NGZRRUlsd3dCTDlCSmdnT1Y5OWN5MERTdzlibVdVQmhSeGc4SHIxWEhpRDJ6bjNLZXNURWdHbHBVOHNqU3FlUHJFc3lQRmN0SWlFRzRCUWpzdkFNYS1nb29JRDJzSzkwdjVDM1VlaHNzMG5FS3ZUU29rZ2RTVWxB?oc=5",
+      "description": "Gold heads for weekly loss as stronger dollar, Fed rate outlook weighs &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Asian stocks weather bond storm, oil retreats slightly",
+      "source": "Reuters",
+      "published": "2026-09-25T02:19:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSXl3a0V4VjdBS1ZlOENTNmpGcmdEa1BNaDh3N21xanZ2Q1JYRGEwbV9QTGdMN21oV1N5Ukw3SEhEa1ZLUENNNTFuVWV3cjQ1RFR2cWtCdlJBNVp2bDBsZTExZWYzVW44eGtJMHFiUkVyOG9xU3c3Z2Y5THFDWDNLMA?oc=5",
+      "description": "Asian stocks weather bond storm, oil retreats slightly &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Dollar set for weekly gains as yields surge, Fed bets build",
+      "source": "Reuters",
+      "published": "2026-09-25T02:11:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZEliX2ZMV1UwSDZPa3liWjlRUk4tT192UjJmelY5OEpFcmVSWHlBRHVuUXNHSW5jTEI1TGlxT1kxS2gyZ2RtVGRJampmMndMMjVERnl0WVZ1ZDdhZndLd0htM1BpZlJmM1o0dU1sSDRqRWp0NkVTUTJkVU9fNGw0QndUYlJqV2plRXpySGpOeXBHdTRtcUYxOXlmVDE4MU9Eanc?oc=5",
+      "description": "Dollar set for weekly gains as yields surge, Fed bets build &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Oil prices fall as markets look to Iran truce, but remain wary of attacks on oil facilities",
+      "source": "Reuters",
+      "published": "2026-09-25T01:11:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV3EzX3oydnQxRk5Ld1BKbk82ek14ZVdyLVpTdldjdEpqeDJfTVZ2Q0F1TnhvaWlhR1p0Z3hScDV0S2Z1UFR5OXhKSWk3NmtqTzd0SkJfa2RLRFpOOUlEcE5mR1d4Z21Td2FCQVZqNHV1eDloQkplT1NHaHhyTDlqOG5DYlFFdnRERThxNU0yX29LcTRyal9pMHQ4ZzNoU0VKZkdHN2hFYjhCZUpZZ3d2am11SDJYYVBiN0JxWVBtczNRYkh1?oc=5",
+      "description": "Oil prices fall as markets look to Iran truce, but remain wary of attacks on oil facilities &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "US long-term borrowing costs touch highest level since 2004 - ft.com",
+      "source": "FT",
+      "published": "2026-09-24T20:32:49+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ1VKQ3BXUDVsSFhRQ2pYbXdpUk9iM1FRQVdFQzNUNmFEVEh5RVBkNlhzNUVld2tXRVg1OENSMXR4Z2tZdnZNc0pWT1VIRno5RGJYNFQ1SHBYR1YzOGowU29CS3BsRVZaMXdvOWpSSFdnV3luYlU2NVJnRG90UDJUNThGcW8?oc=5",
+      "description": "US long-term borrowing costs touch highest level since 2004 &nbsp;&nbsp; ft.com"
+    },
+    {
+      "title": "US mortgage rates breach 7% as affordability pressures mount - ft.com",
+      "source": "FT",
+      "published": "2026-09-24T16:12:59+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMlFsM1hhM3Bfd3BrdEhVeUg0Rm9lQy1IRU1KMThETHJrQjNtcVdxcldUdnJDMHZnb3BnSmVPZVNFcmFtQ3pfMjRLMjMxVWtnSlhBeGc4MWcxNHFlVDVuSEstYlZjUGdyd2JPUGo0czk2NkFlR2dfYUREd29iV2wxU25XX3Y?oc=5",
+      "description": "US mortgage rates breach 7% as affordability pressures mount &nbsp;&nbsp; ft.com"
+    },
+    {
+      "title": "New York, Polymarket sue each other over whether prediction markets are illegal gambling",
+      "source": "Reuters",
+      "published": "2026-09-24T14:28:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaHBKRzNuRV9UcDlISEg4M2tsZURmLThPQW1ZbDMtRG91aDVLeWJJT2xsenpqbi11dENjOVp6TmpXWllXNTVmT1FFczRmY1U5YkVXVUZ6bTRIVUlSRWk5MnNDWWJobnoyU2dqSHAzR1pMaTJyR2NQa1QwQlBmX2pnUEx1ZG9oTGo2U3FDekFDYlJrVVltVG9TMmVleXNaNk5aLVVVS0VBSHk?oc=5",
+      "description": "New York, Polymarket sue each other over whether prediction markets are illegal gambling &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Isabel Schnabel to leave ECB early to join IMF - ft.com",
+      "source": "FT",
+      "published": "2026-09-24T13:32:25+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOb0JBREZSUWtjVFAtSndEaFoxWFZ6bkxJSXBoUUhnNDQ4cm83Wk9EbXZ2Mi1FeklZSlM3ZXNtWGxoVWFaMkR1U0kwNjN5akl2Q2N2bDMxQ1A3UFVvUEx4NDNKMmVkaHlPU1Jld3ZLNkhxdVBxbXNFekJFVmt2bksweXRqVkc?oc=5",
+      "description": "Isabel Schnabel to leave ECB early to join IMF &nbsp;&nbsp; ft.com"
+    },
+    {
+      "title": "Five is the magic number for US Treasuries - ft.com",
+      "source": "FT",
+      "published": "2026-09-24T13:11:54+00:00",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9SZlZWMkxPV1QtRjdUNXpLNERMQ3Q3OWNXSU1lM1QzQ0dvdjFfQ0U1NWpxTURZblRqeWdoWllxTC1VMnBDclhDRk1SVEJoa1dRUGZLY0RiVmNjb1BQX25QdjVVdVh4OG9ReU9WQ2VvOWU?oc=5",
+      "description": "Five is the magic number for US Treasuries &nbsp;&nbsp; ft.com"
+    },
+    {
+      "title": "Fed rate hike cycles have a history of denting US stock prices",
+      "source": "Reuters",
+      "published": "2026-09-24T05:03:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRmR3cTBOOVhRdHBUaGJ0Z0lBY09RNlFCRm9nSkl3bVpTM3lzN3pMTTlZVVJvdnFyT3FzQXZUZ0NLWXUzbGtLQnRFaFlWNmVNUHJnbHcwbjEwbDBvTG1sQkIzdUN4a3d4RW5VcjlKeVhRSUh4TTJXdW92NkE2eDNVTGJOdlBnZHEyQVpVWnIyMk9EQnBEd1l5SjNnREtobGw5bkRGVw?oc=5",
+      "description": "Fed rate hike cycles have a history of denting US stock prices &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Emerging markets shrug off Iran war in record foreign borrowing spree - ft.com",
+      "source": "FT",
+      "published": "2026-09-24T04:01:51+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNemU5c1BuV2ZlU0tSTm1fdzJIZnFSV0htTmtrb0huSnBKVVZ6VE41LXhjLVB6UHZBdU8tcVpja0lTcVRIYVpUcnZWaVJhN1JGdzVOZm1TUEpKeGV5Nmo4RG9rR0F5SVU2MVJBM3lrN0ZnWlhkb1lKdVVfMWlZa2xVQnR2aGY?oc=5",
+      "description": "Emerging markets shrug off Iran war in record foreign borrowing spree &nbsp;&nbsp; ft.com"
+    },
+    {
+      "title": "Trump’s tariff war is clobbering the Hanks of America - ft.com",
+      "source": "FT",
+      "published": "2026-09-24T04:01:07+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRWRhang2bGV0SWk0aTdTU0dmU3NHM0w0MHl3TFFUYjMzNDd1ZWlWb3hZYkgyVGV6UHU2amMtVUNDMFpCc3pVSGpRRURHbFlSd3hfelpJYnJTeFVqNUx0b2FLNDFtN1VsM09UbHJWTUZLcHBOX2pPY0E5WUxoMzJtNTdBYTE?oc=5",
+      "description": "Trump’s tariff war is clobbering the Hanks of America &nbsp;&nbsp; ft.com"
+    },
+    {
+      "title": "Gold at one week-low as higher oil, hawkish Fed weigh",
       "source": "Reuters",
       "published": "2026-09-24T02:23:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPenM1U09oVWJmVW8zbUtuN1ZLcWU1dGRKa1Rqdk1FU0k5QmVDSGRwcG9hR1NVVFVYOGhkSWpMdVF0aWFZMWx6TlNSWHZiajl5UWdzbWFZNmpGUW53MEhhbGgteHgtOGZGTzdlVGdWVjhWR2pMSzdJSWdCSmVTRHA4RVlCWS1tNU1NQU9QanFEQTRnNjhSSlhFQ052dEE?oc=5",
-      "description": "Gold muted as Fed policy tightening prospects weigh &nbsp;&nbsp; Reuters"
+      "description": "Gold at one week-low as higher oil, hawkish Fed weigh &nbsp;&nbsp; Reuters"
     },
     {
-      "title": "As 5% Treasury yields lose shock value, investors start worrying about 6%",
+      "title": "Oil jump sends 30-year yields to two-decade high",
       "source": "Reuters",
-      "published": "2026-09-23T20:58:34+00:00",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZGNNand1cUh2bEZfdjZSUEI0TTRsbTRmc3kyRk9ZdGNMZ1VWdEMwWDVFTVpmUjFnUFNwRlhXQklrUWR6UEc2QUhaWFBKQUQ0M04xRjBjck5tWTA1cS0yRmNNN1BJV2JvYTBnLVpsczZzazN5alR0OW5hdDVNMW1majRMcFdCcXpYQzFWVjlsbGM?oc=5",
-      "description": "As 5% Treasury yields lose shock value, investors start worrying about 6% &nbsp;&nbsp; Reuters"
+      "published": "2026-09-24T01:48:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWEltUDlJNE9jWHA5VlhOV21YTl9vZnZzMjQ1ZldQTmNSOHQ4NDMyZzlVbHVXZ1NqN01WR0d1aWxKVTQ1LURRTGhKQjlYbzUydHBYRVVuUkt3dFhRWDB1VDdWQTZhVy1Fb0pIM1hRa0UtTWZGQ1ZIa0MzSm1SUEdPR2pjNA?oc=5",
+      "description": "Oil jump sends 30-year yields to two-decade high &nbsp;&nbsp; Reuters"
     },
     {
-      "title": "Inflation pressures raise prospect of Fed rate hike on eve of elections",
-      "source": "Reuters",
-      "published": "2026-09-23T20:24:49+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU0ZXSlEta0N4WGxzcHJBNUM1cUI0d0U4TGFwa2NMbDM4U0Q3MWt0YXY5TGpQQ2xxdmJWNm0yeGl0ckJNanVPOU5HOUd5R0hNc19pZXcyd3FwWkFkY1hyUEpOdTZyMVZoN3R0eHZLdkxUYzRXV1hoRDctTXhUa3pvckNvLUktNDBmWm1OV3lhOTluQVRDQzUyQTN3Q0V0YmN2Q1E?oc=5",
-      "description": "Inflation pressures raise prospect of Fed rate hike on eve of elections &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Rosneft billions fed Kremlin-backed money laundering network",
+      "title": "Rosneft billions fed Kremlin-backed money laundering network - ft.com",
       "source": "FT",
       "published": "2026-09-23T20:00:08+00:00",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVENTai16S24xUk1CZ1pBX1A1Wm90Wmt0QTVwU2UtQWdLN0d2VG5LY3I5eURpNktTVGtYdnFudXJLQ2k0c3BWSUdsc1QwWkg5WTlNeUxlQktuSUloNDI3WFFGdDQySjY5bUg3R1JOUElYOHVsenJwc0FjRWNmQjNsUnM3OEs?oc=5",
-      "description": "Rosneft billions fed Kremlin-backed money laundering network &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "NYSE and Blockchain.com to explore selling tokenised stocks",
-      "source": "Reuters",
-      "published": "2026-09-23T15:53:50+00:00",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRFgzaTZudUxoaXQ0TFAxVDRVdDEtZmR3MWVaYkVaeG9nUGhVLTlxbGpFY1FJQTlucHFjbmxJTTl1OEFFNTFkckQ5akprN1BZRzRHcWNWdVM4RVg3NXBIYk5pN0tkb2lna3UzR0drMXNqUUFnbk5xMi16NTV0SE1VdnpITHRobnZHR2lacEFsZVBWZmVlRzZzNjl3bHJPMUNFSndfOHN2Yw?oc=5",
-      "description": "NYSE and Blockchain.com to explore selling tokenised stocks &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "US Treasury yields soar most since ‘liberation day’ tariffs shook markets",
-      "source": "FT",
-      "published": "2026-09-23T15:33:30+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOREpWOFBmdE5jcTF6Z3BkeTFoaWNfMnRBQTR1dnoydDJUZ05RS190M2pRU0M5RERYcDFoT1VpYi1Zb2JOTUFkMURoNEM3N1Y3NkdLcmFfeHhzaVJzXzFXZFE3N2dqTnNvbTVtTmZqWnBxa0Zxem4yQk9vX3ZVd3Y1Vjg2NFc?oc=5",
-      "description": "US Treasury yields soar most since ‘liberation day’ tariffs shook markets &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Barr, A Long-Term View on the Costs of Shelter",
-      "source": "Fed Speech",
-      "published": "2026-09-23T14:05:00+00:00",
-      "url": "https://www.federalreserve.gov/newsevents/speech/barr20260923a.htm",
-      "description": "Speech At “Housing Affordability 2026: A Community Development Summit,” hosted by the Federal Reserve Bank of Chicago, Chicago, Illinois"
-    },
-    {
-      "title": "Europe's economy surprisingly resilient amid war-driven energy shock, surveys show",
-      "source": "Reuters",
-      "published": "2026-09-23T09:50:37+00:00",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORjhMRFNMVWI2VzNSa2lZSEtxWXlLajBkRWhUMGlQM2xiall6TmJnMDNDTmdlbmVYa2l5UFdQRlZIYVFoSXNVZnNSelNWV0Nza2tPcnR0X2t0d0VYLWVrNUk5d1c4V08zSjlRT1ZtMzJwRW8xNllSeVJzODlRSlk5Q2FoM3pBQXRkblhkUTQ1Z1pUV0hDOUJTbEpZcTZ4TVk3TjNEUWxNbHFFb1FxQkVReUdoejY?oc=5",
-      "description": "Europe's economy surprisingly resilient amid war-driven energy shock, surveys show &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "The battle between the Fed and Trump",
-      "source": "FT",
-      "published": "2026-09-23T09:46:10+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaUNLdHRQTUpsQTdOZEN1WTRteHNWZ0g3Q09GcmNOMEp5aG1Nb3NwYkNPaHlzRGV4a0pEa2V3cUp1ZFEzdXdzc3RyalhHTUdiN09ORnVoOUhpUWhaOENzNzhMTUtjdURaOTFIUm1fWjB1WnlldnVxbnpKNGtOWDBLd2dscks?oc=5",
-      "description": "The battle between the Fed and Trump &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Bank of England does not need to raise interest rates, says OECD",
-      "source": "FT",
-      "published": "2026-09-23T08:00:08+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSm5TYjY3TFY2OHd0QkVNTGpRaEY3WWtWTUtxWWNHRUwyOUJJZEs5VjJUb3phRk41N0w3bXhHQXBCM19fdFBHQlhacUVpblVRa0RhWUpEdm5UeXJ3VjI4Y3QxSTByT3lXN3FEbTJOOF93TW0ydU83WnJQWEhfZDhKMEx4LUQ?oc=5",
-      "description": "Bank of England does not need to raise interest rates, says OECD &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "OECD sounds alarm on surging government bond yields",
-      "source": "FT",
-      "published": "2026-09-23T08:00:08+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQb2RDYUo5ZVIxV3pCZVNVZ2JTcmlHMUM2WHRwSDFGVERhZW9tVERqSzd5N3lzQ2hrdnFTbXd3R3FfaWw2WllPUmZnZUtrOW82QTVBMU1xbE9Ja2FCRnBkTEVVZWVCVC1ZclEwWWVEbjdTV0twdzZ0TDFYQVRoU09mdC0wc0I?oc=5",
-      "description": "OECD sounds alarm on surging government bond yields &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Gold loses shine as rate hike bets foster a stronger dollar",
-      "source": "Reuters",
-      "published": "2026-09-23T04:53:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVGROaTNUbzBNRWdvU1J1SVRKaURrN0FDVHMteG50VExEUUhKN3UyQ0pMZ3F0ZUtXRHoyc2c2aDgzRkFrTFhHR01OdVROSVBWVnRLWmhqSjNDdW5FVjdHeEptYW5fUFg1VFVnX0xXZURtemZqOVNqNmRqc19yVjdYX3BwM1I1T0M4VUIwdDNqdmxFcnlXX2pKS3VCNllNbEJTQkZxZTJkd1NpNDZwOGpBSw?oc=5",
-      "description": "Gold loses shine as rate hike bets foster a stronger dollar &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Oil tanker costs hit record $1.2mn a day as Iran war disrupts shipping",
-      "source": "FT",
-      "published": "2026-09-23T04:01:38+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQblBGUC11R2xqZnlQZklfcW1DUFV6VlNQRnFmVWt5QnZ1WjdXUVBhVzBRd2YxejJoSEk3eVhzVnE0WTZSOW1Edi1mNHlXQmt0RnpoNC1xSHo3eUp3bDhvTWtBVXlHdDZodVN6czBrRVd5VFhMVFpFSF9TNU14ZDdjZThZaFo?oc=5",
-      "description": "Oil tanker costs hit record $1.2mn a day as Iran war disrupts shipping &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Diesel surge costs European drivers €203mn per day",
-      "source": "FT",
-      "published": "2026-09-23T04:01:38+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbHhjaUNVbHV3Rm1VWFhYM0dRNENwM2hObzd1X21TV3YydF9RT0tyMi1yWURpYlo5WW90dlBDRnc5b2Z1c1V4UHJSSkZXLXh4X3FjVncyRVA2ZjZlUTFxTF9RNW90T0pKV0JlN1I0Z00tXzBJWFdJb04zMGtmczl0Y2NiVUg?oc=5",
-      "description": "Diesel surge costs European drivers €203mn per day &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "US stocks fall as 10-year Treasury yield hits highest since 2007",
-      "source": "Reuters",
-      "published": "2026-09-23T01:51:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSzB2Vlh0Nm9MZUlDRnA2S1pIMUJXWmZtdlZEVUdFRDV2WEJ1U3pLQnJKUFNBU3YyZGxXZ0trVk1tdm9lVFp0aEh5N0VpVUdOZDNWYjRzOTdUVW84bEYwYnZHNEQ1X213dHl5OGlpQWNSUEFkdXRpRC1rUTRDaDRBMFh2Zw?oc=5",
-      "description": "US stocks fall as 10-year Treasury yield hits highest since 2007 &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Why EU companies are helping their Chinese rivals",
-      "source": "FT",
-      "published": "2026-09-22T23:01:06+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMjRTOGVWNG5YMHdWWkhaRFE0bWpsU0RpY0FCbHZ4aEFtMHB3X2FEcTEtUXNQcll5MUNDTk5QbmdGZnNGREVtX3N5ZlhFT1R0cW9KdF9saWVYM1E2ckRqTndIMEtHWGJ0d1A1dlQ2cjJKdW1ZUF9SblhWX3Jqbm1yZnlzaVg?oc=5",
-      "description": "Why EU companies are helping their Chinese rivals &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Explainer: US diesel exports ban would hurt global fuel markets, analysts say",
-      "source": "Reuters",
-      "published": "2026-09-22T22:54:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcFVnODdXSGNuNWJSMGVVTjMySl9oT2l0enUxVmFDaVc2S3RYMG1mMndUTWF3U0RaYXdNNGZ0aWN0WlpjYjc5NGU4alB2MTk2eFBtWktwZFFvUG15NlpicEwyd0hLb181cVh2Z09kRmNjLWoteHQ4ZDQtRjJ4LThRQS0xSlE5VGxpNGJHNEljMXlXcXlWdFoya1c0YW9ZWkxya3BsVTJvTERZYTU3dHBrXzln?oc=5",
-      "description": "Explainer: US diesel exports ban would hurt global fuel markets, analysts say &nbsp;&nbsp; Reuters"
+      "description": "Rosneft billions fed Kremlin-backed money laundering network &nbsp;&nbsp; ft.com"
     }
   ]
 }
