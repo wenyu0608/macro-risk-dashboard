@@ -1,124 +1,138 @@
 {
-  "fetched_at": "2026-09-29T06:02:31.866349+00:00",
+  "fetched_at": "2026-09-30T05:51:36.299959+00:00",
   "headlines": [
     {
-      "title": "‘No definitive timeline’ for David Solomon to step down as CEO, says Goldman Sachs - ft.com",
+      "title": "Indian shares inch higher after recent slide; IT stocks lead",
+      "source": "Reuters",
+      "published": "2026-09-30T02:24:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRTNmakVIbE1QRkJkd0VLTm03TjkxX29LaTgtekt5UmxjUVBzckppYmctZVc5V0JWNUNtR2dOaVRpU1F1eTd4M2YybFJ1TC1ncEZzZERrd0ptTGlKSHVZVnRxcHhnUldJVDlLdUhIM0ZYS3IxNzk4TWctZVdVbFMyUTEtbWd6MjYwMWs4RFE4b3ZERVZlLUdNYWF3d0xHX2pNbEVNdll3?oc=5",
+      "description": "Indian shares inch higher after recent slide; IT stocks lead &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Bonds set for bruising September but stocks little fazed",
+      "source": "Reuters",
+      "published": "2026-09-30T01:58:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTkhETkh2bThQM2VXdlJQZHdqOHVHRTFNX2dRMVZVMGhhMzczY0xIYkRfdmVldzNlVFdEbWZTVC1aYW1fekVfOW9Db28yd0czQVk5MURaaWVfNjdTVFVGeE1Dcy16dk9vQmNZb3c2bklRd3l0cTNwQXBqemxxbWxwS3RaYw?oc=5",
+      "description": "Bonds set for bruising September but stocks little fazed &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "COMMENTARY: Trading Day: Stocks still in bonds' grip",
+      "source": "Reuters",
+      "published": "2026-09-29T23:23:28+00:00",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV29vbG0yUWdGb0kyUHphcGM1cXpNbXFLUnRGRmhoTFJoNExkSlExQTJQYnMxeXZ2MHhKUU5xeExVRFB1Q2s4d1ZfTldKWEJ2THE4bWwzaTQ3V1B3U2FUXzFQOG9tdUR1Q2FZUGEyZ1JBTG9pdzlYbHByUmx5MVhPd3lORGJjVlI3SzJvbzBpNG90NEJMVDBMVEhVTEdMNWVpUDR6ZW1R?oc=5",
+      "description": "COMMENTARY: Trading Day: Stocks still in bonds' grip &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Robinhood to allow 24-hour weekend trading of US stocks as industry shifts to wider access",
+      "source": "Reuters",
+      "published": "2026-09-29T23:01:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOEdVVjZrQUYxODVCRnlNM21CNEQyOVVnUHRiTG83dDZ1MEwwbHFXRlJqR293dTc3WFdMRTBlR3oyTjZKaGMyaHdGM3ZfSTRCcm1jS1ZTSWdQdnJpZ0VwNDRlNEFpcFgzOEZiVDVrUzV2dWdIU1VsQ0E4UW4xdnZwdEhreXNMT3NYVEZGOXc5cXZEWTd6TTdJemRpdUdsX0JqdFVSQ0tRVDVuTHpDdUo4UXlTSkVDaVpIcEpzY3h4ODdnRmFXLUk2aWdTbw?oc=5",
+      "description": "Robinhood to allow 24-hour weekend trading of US stocks as industry shifts to wider access &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Waller, Payments in the Age of AI Agents",
+      "source": "Fed Speech",
+      "published": "2026-09-29T19:00:00+00:00",
+      "url": "https://www.federalreserve.gov/newsevents/speech/waller20260928a.htm",
+      "description": "Speech At Sibos 2026, Miami, Florida"
+    },
+    {
+      "title": "Gold rises after hitting seven-week low, Fed hike bets curb gains",
+      "source": "Reuters",
+      "published": "2026-09-29T18:14:32+00:00",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS2xzZnhUOThNWWNuT0t4S3g4MWRteWlSQlpXMWdudFlqNUN6MW1Zbm9pZzVHR0xnWGdvNmNiUkh6MDhvUk4yY2J1cTRYa1V2ajllOHJyUV8teEpvbHc2QW9MTTBseHVXcXpGbGNpVEtLR2hDSmRxM1FHWDZaN3hMUk9tOGhVcGpBdVo5TmdFaEVpUHNfSzZvYzJPS29xYnZlekQ4eEl3?oc=5",
+      "description": "Gold rises after hitting seven-week low, Fed hike bets curb gains &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Fed's Williams sees no urgency for next rate hike",
+      "source": "Reuters",
+      "published": "2026-09-29T18:01:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQW15c0ZrS2lrMUlHZDZjZlpxRG5GazRlendBenpXeWZSR3NCaXBFLXA5LVBlbWNEeDNsWnRnS25CYWwxc3AzRDhrTjhUZTNZcl8xN2VDT3JtZHk1eVpHUzFaaXpVVy1HbUk1Y3hKOEtoTmxpNTVwWkJHZXVvTWl1cm5QdWVpWXhFQkxBdmt4enRJRkF3NUlxTQ?oc=5",
+      "description": "Fed's Williams sees no urgency for next rate hike &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Sam Altman says OpenAI will delay its IPO until it overcomes safety concerns",
+      "source": "FT",
+      "published": "2026-09-29T17:15:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaUViY1R6MFNqS1dEYnRjVTVELVRjdENjUFpUOEdPazJZTU4yNWt1TjlCOFBndjJFUFdWQTMwMkJQUF9pb2dnWTBSdU5aOFRsandmbUI1UWJ2eHdaMkxtZGw5NkgyUzFGWkl4aHB4UjFRMkRVSXZZUlA5TTVKWkhPQzd3VWk?oc=5",
+      "description": "Sam Altman says OpenAI will delay its IPO until it overcomes safety concerns &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Barr, Economic Conditions and Monetary Policy",
+      "source": "Fed Speech",
+      "published": "2026-09-29T16:40:00+00:00",
+      "url": "https://www.federalreserve.gov/newsevents/speech/barr20260929a.htm",
+      "description": "Speech At the Detroit Economic Club, Detroit, Michigan"
+    },
+    {
+      "title": "US 30-year Treasury yield hits highest since 2002",
+      "source": "FT",
+      "published": "2026-09-29T15:20:54+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOc3ZpSzBpNDlDRVpTcFpkQVFuRXFTdEJKQWdrU1RkVkQ4eWxRY3UxYS1PeTBCaGQwZmNMOUdTcU1WeC1SOGp2OG1fU2VRUTBMSFVTd1ZDRHJybnlIcnZ1bW1YM3dqazluakIxS0h0VGFMUWZwTXJTaURtaDB3R1dNNkpUM3A?oc=5",
+      "description": "US 30-year Treasury yield hits highest since 2002 &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Bowman, Opening Remarks",
+      "source": "Fed Speech",
+      "published": "2026-09-29T15:00:00+00:00",
+      "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260929a.htm",
+      "description": "Speech At the Community Bank Cyber Workshop, Denver, Colorado (via pre-recorded video)"
+    },
+    {
+      "title": "China unveils mortgage subsidies to boost economy",
+      "source": "FT",
+      "published": "2026-09-29T14:08:45+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTnJjY21ZMDE5X3ptQTVVb0VZdnhGcXdLVzRrODJHU0lkdVp6bV9pS1pfZjFBWUhUVm9Mc1ZnazJ3VkNLdkY5aE5QOUt6TkxiUXdTREQ2SF9RQVBBNS14R3N0Vy1QLXBhSEZFbHZ1VUFQWHdzUjVna29QeWcwbkc1Y1FUV2M?oc=5",
+      "description": "China unveils mortgage subsidies to boost economy &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Dangote’s $16bn oil refinery blocked by Kenyan court",
+      "source": "FT",
+      "published": "2026-09-29T12:14:57+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdS0xbXZ1UXlGTWFfMnpCUVB3RjBjZWktelA2a042U0tBS2FiVDNyLWktMy02LUlFQjkwZC10cEdzS0pFc2VRdGliSXR4d1dsaVFZMjc0ck9qMVFWT2tGZkEyd3NtcktRTG1HcDN5ZGRjYlAxdlF5VVVEM01nS2w3WVM5WFY?oc=5",
+      "description": "Dangote’s $16bn oil refinery blocked by Kenyan court &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Australia raises interest rate to highest level in 15 years",
+      "source": "FT",
+      "published": "2026-09-29T07:11:12+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObjUzamZVNzI1cFFYbmpJRkphYlkzN0RnQ2c2QkpacG1OT2w5SS0xZHdGalhmT2prOWhpb0RJR3NLSkh0dl9yem5YOWRnMVV0SE9CdWw5b3F4bWhqbXZOc084VXVPMGZESE01MmVPQWgzeVplcEN4NmRMZnB5YmExcERZNHo?oc=5",
+      "description": "Australia raises interest rate to highest level in 15 years &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Rethinking the dollar",
+      "source": "FT",
+      "published": "2026-09-29T05:30:10+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSjkwVGNfd2MteGRkX25kYmZ0bFlmQ3pQMDg1eVJpclh2ZXdRT0xmY0pQYmFyVmNwREw1U2wtZFAyVlFTU3dqQ2l1RzluQ0lJeGd5T2RTZG9kTjRRRnV4Y2s5RDhQLWp5TmNfb3lKRTRGRGpFTm16OHRaQlRYVGF6Ql9lc18?oc=5",
+      "description": "Rethinking the dollar &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Battered bond market braces for a new era of interest rates",
+      "source": "Reuters",
+      "published": "2026-09-29T04:47:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUFJEcnNjUGNwM1N4MlNkdG1pZ0VwVmt4cWhUZ2t0UkN4aHlRNzVyR3hCd2dUMG1FRWszT05VOUN4MUhDSGhXQUhIamhNWWJJNUpGXzZWcFc2Mk5Hcl9yNXBaaWVDVDlZQWg0d2xIRGl0RFhqWjJlR1ZORGlrNXRmdGZxSF9URFQ3Zzc5d2dER1g4U3hvZDZXMHNKVlhFaGRBRmRKRVJR?oc=5",
+      "description": "Battered bond market braces for a new era of interest rates &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Falkland Islanders grapple with Argentina’s ‘economic warfare’",
+      "source": "FT",
+      "published": "2026-09-29T04:00:40+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSm5ZQWVBSWFGQUNIeXhWQy1TUWJIVWw3c0lpYjQwVDZJZ19vZVk2Qno4MkJFLV9uczAzbWdxMjgtMUx1b29HY0ViS08xdXN0MlQ5V0JrdFFqSEM1bWtGYkFIRzQ5TnJFRHpwSDBuRXVsSTdvZ0pSMHJvbUo1ZjNORFB4RGw?oc=5",
+      "description": "Falkland Islanders grapple with Argentina’s ‘economic warfare’ &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "‘No definitive timeline’ for David Solomon to step down as CEO, says Goldman Sachs",
       "source": "FT",
       "published": "2026-09-29T02:29:14+00:00",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUEdmcFNFYVoySHVad2xjdU0wSmpVeFZOY01la3JsM29TQU9sWXdoQ3ZLMDFLTjU3TzA0Tk1Jb2Zia1pESDZ2aThKTEdpaUp3aEdLd19BdlFWb2U2eTVyOVpCRnR0SmNQSEsxTWJzWE9xTzlMYjVNcFNmbmF6RVJnWl9IM0Y?oc=5",
-      "description": "‘No definitive timeline’ for David Solomon to step down as CEO, says Goldman Sachs &nbsp;&nbsp; ft.com"
+      "description": "‘No definitive timeline’ for David Solomon to step down as CEO, says Goldman Sachs &nbsp;&nbsp; Financial Times"
     },
     {
-      "title": "Rising bond yields put the brakes on stocks",
+      "title": "Stocks dip, 2-year US yield falls after Fed's Williams cools rate hike bets",
       "source": "Reuters",
       "published": "2026-09-29T02:08:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSVdQU2VNMWNudXUwMjk0YnFXekg0R3B3d1gxcHUtcmx1UU9pSEtXNGRZTjMwR29Qa0JhSFJmdmRIZUdpdzFJVXVrcEFyYWwzZ0xsV0J2QmlaLTZXb0FzY0Fpa2JqdGJrWG53Sk0zX3RYc1ZZYmZkWFZ4bHJkM0gtRWpkYw?oc=5",
-      "description": "Rising bond yields put the brakes on stocks &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Dollar firms near two-month peak as oil, US yields rise; jobs data looms",
-      "source": "Reuters",
-      "published": "2026-09-29T01:57:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcm1xMjE3YTBSdTBJRVI5blBWcFFOS1ZSQWZlcVhMZU1iWU1kZTkyaElQUXhyRzZ4My1UcmdUVW1MZldrdjMzblF5eEh5amIwb2tlWmozYjloa29GaEhoT2dMbFFteHRwLV9pem9OYkowV3RUaGhnTUhDUjcwLXozSG1rT0dOMmdsdERFUlVwM1p4TjBZQlFZZWx2aTc4VC03QURrOWM1c1IwVXc?oc=5",
-      "description": "Dollar firms near two-month peak as oil, US yields rise; jobs data looms &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "EXCLUSIVE Japan's currency diplomat Mimura urges markets to heed 'very clear' warning on yen",
-      "source": "Reuters",
-      "published": "2026-09-28T23:44:09+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYzFRTndpRkJHX2FfcTFFdHFvNVVrQU5MZVAxM0Z1T1p3TjRyaUtyNFRaNjRQQjQwYjJaVW5ocTlGYU1iU0w4WGNISjhWb0ZsWHpTYkZ5aEhPX1B1blRyak40X0FHMDdWdnUzSGFYczRrXzd1bXBPODRNbDdnN2NPcTZLZFpIaWhTRkQ0bVZIMGxGcFo0S1B1M3RrV0pWU1h6d0d6NC1SMkhwdl9ESGJiZFVXLWl4Mll4bUE?oc=5",
-      "description": "EXCLUSIVE Japan's currency diplomat Mimura urges markets to heed 'very clear' warning on yen &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Stocks fall as higher oil prices, Treasury yields weigh",
-      "source": "Reuters",
-      "published": "2026-09-28T23:16:32+00:00",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMG5ieTU4M0RYMC1lQi0wbDVONnJJbW5NS3pya2xkLXUxSFF3ajh5ZWlER3B5ZW1IR0J3ZjRxZFFCTDd2ajh4ZnVHZ2xqY1U2c0pIamh2MGhzWVlIMVVieHpOXzg0bnJwRFlTaEg4dVdycUc1X25ZQlZkUUsxUGZ3TGc1RDlNWjg2U1RFQ3JEUWx2NGIxb0ZvZXJJb0F6MjcxOER2WHFIdmtSei1fZHdBS29YcGhvUFk?oc=5",
-      "description": "Stocks fall as higher oil prices, Treasury yields weigh &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Bond sell-off deepens and oil rises as Iran-US deal hopes fade - ft.com",
-      "source": "FT",
-      "published": "2026-09-28T21:38:05+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcWVDcjI5dWgwWXpWMGhLWm1aMFRlQXUzNlhNekN5amMyYzcxSFdaVVFEVTVoY2hEWDM5N0ZOeEg2Z2ZWY2ZJbXEtbUdnOGtGVUZyOGRtZFpJN3J4aXoyN3BjRGZyOVIzd1o4bHBNc2hxQzlPcGJQQ0cwM21nVDFubXhFWDc?oc=5",
-      "description": "Bond sell-off deepens and oil rises as Iran-US deal hopes fade &nbsp;&nbsp; ft.com"
-    },
-    {
-      "title": "Gold's lustre dims as Treasury yields surge, markets bet on higher Fed rates",
-      "source": "Reuters",
-      "published": "2026-09-28T17:44:41+00:00",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRlVEOVNvOG5SeC1zaU9PX2U0SDJReDlrdHRQVld5X3BEVHFYX1pPOVNtelBSeFhjNGF5bkxZaHVSS1pLOVduZTBFVnR6a3E5bGZmWktsdnhZZUo4Q2tNNThBSFlnTnBDbWZCd3hYOFJrVkYtbkd2REhaQ0JfV290YWxaTnBuYlNiaG9Cc25KMlppTzZyVnd1alF4dFppSjdiZExOZkdpaGJJYWZFcE00VzNDQ3NEYjA?oc=5",
-      "description": "Gold's lustre dims as Treasury yields surge, markets bet on higher Fed rates &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Federal Reserve exposed to security ‘deficiencies’, watchdog warns - ft.com",
-      "source": "FT",
-      "published": "2026-09-28T17:31:45+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRzh6dVk3eFMxWHl5VVJsSXVid1kyTTNReFJNOVo0c200VUdSU2RVR2M3elBjaVFhNTRyUDFfamFfYm9iRndST3ZEWi0wenNFSlZOX2F6Z21uVzJBTGp5WHl4LTRKSnpENEhzZG40Z2NVZS1GUFBBSU9KdGN4dlczeWk4c3A?oc=5",
-      "description": "Federal Reserve exposed to security ‘deficiencies’, watchdog warns &nbsp;&nbsp; ft.com"
-    },
-    {
-      "title": "Fed's Cook sees further inflationary pressures ahead",
-      "source": "Reuters",
-      "published": "2026-09-28T17:26:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY1hBTjdyQzBjNTJoTkhvQV9YVk9rWnRMWjhhR0Jkd2ZQcDBoRU5UQUZZTElmX1pYZzFhUXdsSF9Cc1otTVZGR1BOQmtBcXU2eS1hNC1EWE45V2lWWmdFSU8xS0RPSDdfR3k2NjRwSjdwYzhMelNsOU5CSzhzZ1Y4U0t2ZDlDZGo3OVBuSW9lcWxjU1lNWUkwSS1QV0I?oc=5",
-      "description": "Fed's Cook sees further inflationary pressures ahead &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Cook, An Update on AI and the Economy",
-      "source": "Fed Speech",
-      "published": "2026-09-28T17:25:00+00:00",
-      "url": "https://www.federalreserve.gov/newsevents/speech/cook20260928a.htm",
-      "description": "Speech At the Oakland Tech Week Opening Keynote, cohosted by the Kapor Center, Oakland, California"
-    },
-    {
-      "title": "US finalizes new lower fuel economy standards in boost for gas-powered vehicles",
-      "source": "Reuters",
-      "published": "2026-09-28T17:02:16+00:00",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTUd1ZVlldFI3cUtuSXFZd0FkcDdGc0JmZUdxU2o1cU5JWEZyWnNvWkwxV3NaLXY0ZjZzd1N3MklWSl9RemdkWFZhWGY0Ni1yVVc2SXJ3eHg3ckZCTVhUTE5XeUx3dVVSekZxMnhWQWt1REhlZDdNbFo2RU1DdTZVMVh0N0c2YnFiaDRwTXQ0dzN4QWRQMElQaG5hNC1IVzgwLWdEYUtTcnlQckNIUXVmWA?oc=5",
-      "description": "US finalizes new lower fuel economy standards in boost for gas-powered vehicles &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Prediction markets' push into US stocks raises regulatory alarm bells",
-      "source": "Reuters",
-      "published": "2026-09-28T16:53:31+00:00",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc0pOYnNmdEpnbENUb0xvWldjT19MWmZiMmNFSXJsMDgxTEM2d1ZaNXdKeVJ0X21ZaDc2TElGX3BGdlJJV1liclo0Y1RfRUM5LWRPd3h5NE5naHd1WWhzV3UzamdtSVUzWFVBOXBRN2JLQlk4a2Fkd2REZkJ5WWdqbF9LRkIyU3JaVDB1RzhPd3JuWGh0WkhtdHAtZnZueUptMDJ4Z1drMzZjZjFmTGNHd0N1amhLUWl5cUFnUnJn?oc=5",
-      "description": "Prediction markets' push into US stocks raises regulatory alarm bells &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Without a resilient economy, central banks have limited choices - ft.com",
-      "source": "FT",
-      "published": "2026-09-28T15:30:06+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcGlNM3dzZGJSTGE3NEpxV0xycXVXb0NaSUVZVlJiclJrNVlzU2JyN2xmQm1ZNjVlcmZ1U0g4VFhvQzBxbjVBdExPU3JYT0NmQURKUHlYZlNyRGdJeTRuenZRWkpiRDBKQ3lpaVlsR1puQjdYcTItRm1yRjREOUlmZ2d0VmM?oc=5",
-      "description": "Without a resilient economy, central banks have limited choices &nbsp;&nbsp; ft.com"
-    },
-    {
-      "title": "AI hyperscalers are transforming debt - ft.com",
-      "source": "FT",
-      "published": "2026-09-28T08:00:02+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSFB2ZC0tQzM5QllZMExaN0FBZUZWeU1fZE95OTVpSnBmOG12a09rVHFlcTRxWEpGRmlWbFJiUl9waktTNURPbEZVcnlLVnpPN0M0Q2kyRTBVZjRSWVM2YnNoMl81Y041bzdKNVZVUHpOUGY4RVVlR0lZMzFBN1djWkJGSUc?oc=5",
-      "description": "AI hyperscalers are transforming debt &nbsp;&nbsp; ft.com"
-    },
-    {
-      "title": "Helen Thompson: “I don’t think we’re ever going back.” - ft.com",
-      "source": "FT",
-      "published": "2026-09-28T05:41:25+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRmNFME1mbW9Xd2l6bmUzbWRPZ3YxamVVZkpMYXlBRDVFa0ZJZTRGZ01PUWc0Y0lFV092V3ZTbGFpNWFGeGg5ckRNeUhOenhLVUFCYjVCV3VRNjhrbE9JdGpMTFhtaWtGaEpXa1lXRmpubmliTTczUThPR0w1T05jSlgxeVg?oc=5",
-      "description": "Helen Thompson: “I don’t think we’re ever going back.” &nbsp;&nbsp; ft.com"
-    },
-    {
-      "title": "For once, the Fed has put Main Street before Wall Street - ft.com",
-      "source": "FT",
-      "published": "2026-09-28T04:01:29+00:00",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9CR2dRcGVvc0o5ZURBSEhSVEVsd1V4UDRBZGRIdFNyWndhX3hqYzJnTmRNbl9Ua3dDUlJpS0wtckRIOTU0VElGYjFINGNFV05kZk1raHpTaXRzSTUtTF9DMTJLZzNrMUZKQmc5Q3RqY04?oc=5",
-      "description": "For once, the Fed has put Main Street before Wall Street &nbsp;&nbsp; ft.com"
-    },
-    {
-      "title": "World’s worst-performing market slashes minimum price for stocks - ft.com",
-      "source": "FT",
-      "published": "2026-09-27T21:00:05+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSVZPeW5MSjBpdTRTVlVIek4xM0xObEhxaURGdlk5R2VDWl9rajZ0bUM1ajlxc0haYzVqYy1jUWU1bWtiZEFHdzkxeWttaTNLWFp0X3NsSFY2VnNXQURuWFBRQTNvcWgxNHZDMmJSb0JtdFhnTHh2a1JNaTVkYV9ZckRqQUs?oc=5",
-      "description": "World’s worst-performing market slashes minimum price for stocks &nbsp;&nbsp; ft.com"
+      "description": "Stocks dip, 2-year US yield falls after Fed's Williams cools rate hike bets &nbsp;&nbsp; Reuters"
     }
   ]
 }
