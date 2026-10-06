@@ -1,117 +1,117 @@
 {
-  "fetched_at": "2026-10-05T06:05:35.423363+00:00",
+  "fetched_at": "2026-10-06T06:45:04.747144+00:00",
   "headlines": [
+    {
+      "title": "Nasdaq notches record high close as investors focus on earnings",
+      "source": "Reuters",
+      "published": "2026-10-05T22:38:44+00:00",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV09jSm4zWHp2ODd2SmNPRHdJcUhDcjNzZ3dwYkwzZ3NSVHdyVUdUVEI0TWltb3RKQUZucVVNa2l1UzAxWmtSd0hQSWFjVXV0WVZiUjJFNGJDeEZQVlhoWDJ5WWpxLWxuc3ZVYXBLR0QxSzdZMVFjSklpUTB2Q2YwdE12VFl0bUw2RGRjZ3VoUmFlMkp4UUstYy1R?oc=5",
+      "description": "Nasdaq notches record high close as investors focus on earnings &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Brazil markets' Bolsonaro rally sends stock exchange to record high",
+      "source": "Reuters",
+      "published": "2026-10-05T21:34:19+00:00",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNnBVVGg0X283c2E3UVFRekJud193dksxLU9RcDJSLXVoT3dpN1k0emRjS0k4RnJ2Yk1VN3lMd3Z3al94X3FreFRuWV82ei1RY21IUkFTZHB3djVIQkxlZzc1TElvY2JfNWpTOXNucTRVSFpNQ090ZnlFVEVDWnpHMy02WmQzLXRqTmRRTnFGeWhJbTV3MEh6TV9EMmhDOWpQNHBpM3JXWlJvalpm?oc=5",
+      "description": "Brazil markets' Bolsonaro rally sends stock exchange to record high &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Wall Street banks launch record $60bn chip deal for Broadcom and Anthropic",
+      "source": "FT",
+      "published": "2026-10-05T20:58:19+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdjU1RlZodzh1WDB5VTBqN0xyR0FBWHlETG9fNzh6cURoREZzS0ZOYXJzMFZoc25TLW5SMjd3aExMaVpsRWRxMUhJdV9zTGtMU2ZNUDV1SGpLMWpDUTI0Qm9Kcm80eWRFMUlheWpOR3ZsdHBPVkdpdnRWR0hoeHplMmR4WVA?oc=5",
+      "description": "Wall Street banks launch record $60bn chip deal for Broadcom and Anthropic &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Conservatives promise big tax cuts in push to win over wealthy voters",
+      "source": "FT",
+      "published": "2026-10-05T18:28:47+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPejQ4Ti0xWHUzeTQzUXFnTlhXd25DM1FnMEJSQVZWQ3ZUM3BPalZSZlgxbGRpVEdsTUFneHltQjFpczJNSWNIVzJJeGFPVDNMemE1eE9UeUFOSXVuXzN3WXpDWmVWa1d0WUpueTVFaWllREpFdkZfa2xmYndWREZ4dFBlSTI?oc=5",
+      "description": "Conservatives promise big tax cuts in push to win over wealthy voters &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Donald Trump eases red diesel limits in attempt to quell fuel inflation",
+      "source": "FT",
+      "published": "2026-10-05T17:41:09+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVFZOOS1LbllqeVViYkxSdl9kTWZ3cTBFeG1Ncjl0MHBrZDZJYzlTcTlBcXlVNG5FMWJyY0JMMlZyZmprcVkxNTlkRDl2NWp4N1JIOGZ2OXFfaTRHN2I3UEZiUEtpZjJacEVXeTM5YllkMnRwRHRFdDFOUnhDQTBIMTYyWFI?oc=5",
+      "description": "Donald Trump eases red diesel limits in attempt to quell fuel inflation &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "French central bank head warns country at risk of being ‘strangled by interest rates’",
+      "source": "FT",
+      "published": "2026-10-05T16:56:54+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSmxyejBKSTZweV84bF80SkdYVXBPOUVpZl9USnZxSC1zZUFTR21JbXB5V042aGpFMlhvN0YxZFVBNTRZVjFtbjA1cFFFNEo5YWR4SlhwOUtzNERLTUZTeDZsZmdCRGNiSkxDU2h0Ym9qMkg0dTA2aGJGajJxb2ZNOVlIMTk?oc=5",
+      "description": "French central bank head warns country at risk of being ‘strangled by interest rates’ &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "EXCLUSIVE: India markets regulator to partly reverse derivative settlement rules after pushback, sources say",
+      "source": "Reuters",
+      "published": "2026-10-05T15:33:41+00:00",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSTNkZnRTSmgzdlNhUVVQUU4yV3J6S3E1Y1FtSEV1UHVkZW9VeldUbURyaXQ4MHplQWl3SlM5QlF0TXdPU3lwWmZSbDdJRXJGS29QNU9ib1lEMS05QUgzNVV2VFU0RUZzc216X2FKSDlzX2p5V3o4QnJLU3JpNEw5QjFKLXVBSXEyeUwtWXRlMDB3X0RRa3dTVWNyRmhqNFV6N1ZuSFBDNjVSM1RTaHVDUVhuWHE?oc=5",
+      "description": "EXCLUSIVE: India markets regulator to partly reverse derivative settlement rules after pushback, sources say &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Brazil’s markets surge as investors bet on Flávio Bolsonaro election win",
+      "source": "FT",
+      "published": "2026-10-05T13:17:13+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcmpoWTFFVHlBQW1ValJzRDh3TDY5YWk5RW5sNGtyQXJ4VWpEMEtFWjFWTzhXQ2VSOGZzazE2UUtJQ1FzMmwwMTd4MndLQW1uMzV2RDhPWXdyZ3piajFGZ08zMjBNdUZtZENseU9SbFpmTFFyNXhSLWVhQTkwVzNmeXpjTWQ?oc=5",
+      "description": "Brazil’s markets surge as investors bet on Flávio Bolsonaro election win &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "How the booming US healthcare economy is penalising patients",
+      "source": "FT",
+      "published": "2026-10-05T10:00:05+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeG9uTUJtaWJNTU82S29iRi01cV9PcEhJdnNWVVpoYnNLeFFpWW9DMFRPLWlPdGRXS0h0c0VwUGdaMUJ6TzRzWGhPbnhMV0ZVeGViQWg0WkRWa05UaWs3RHB0R2NJRVpWeFRXUExRVVN1Q1NQdl9PelJ2Rk5wOW1Jc0V1c0Y?oc=5",
+      "description": "How the booming US healthcare economy is penalising patients &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Sanae Takaichi tells markets to ‘rest assured’ over Japan’s spending plans",
+      "source": "FT",
+      "published": "2026-10-05T07:24:39+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbHZ3Tnd4dGdJZVNTdV8xNm1qUHd1cEhidVE5UGJURWFjVllvNG5Xb3dZUTZnTE1YbGxIOGJsOURRODZsLVlkd1NjWDBUSm52Ujg2d3phSklnN3lFVDVMa2s0d2VUdzlVQUI3dk9nb3FidV9uU014OUQ2Q09CV0Q1cmZZS2I?oc=5",
+      "description": "Sanae Takaichi tells markets to ‘rest assured’ over Japan’s spending plans &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Ukraine scrambles for money to fight war as Russian strikes batter economy",
+      "source": "Reuters",
+      "published": "2026-10-05T06:02:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMHVNTExwWGlTS2Z3LVVrWi1nS1FxSV9KeXdQSlhLd1V6d1BLX1JJbmxkU3prQ1BjdGVDTVAzZXRienlRbExib3ZKRjJUS0J6cjdJUmpIR3RfeDdGaGRaalc4b3llUnRfMEpDRzI1SmJrV1pjUFlDSFo4T1REekhudXVnYTdobHptdkI4QjZXU0RNTWh5Qk9kX0h0N0pYTFM4TWpjVXVhVGN1SUc1aGt1NlppTQ?oc=5",
+      "description": "Ukraine scrambles for money to fight war as Russian strikes batter economy &nbsp;&nbsp; Reuters"
+    },
     {
       "title": "Why a booming economy is not helping Trump",
       "source": "FT",
-      "published": "2026-10-05T04:00:12+00:00",
+      "published": "2026-10-05T04:01:18+00:00",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRFoxV1JGczdwQ250WjgtS0NjSlRPVWZ5UnJyRmgtLVpBNXFHRV9ZQmpBZExuVC1ERmxVSEtIY2czUlJQWWxDUFdKVDk2THdwQUdtdExvVGJZZVFLZDhtaWR0M3NQaloybjVMWWRMX0xQWkVWLWRKUllMbEIzWHJmOGZGSDA?oc=5",
       "description": "Why a booming economy is not helping Trump &nbsp;&nbsp; Financial Times"
     },
     {
-      "title": "Russia’s new drive to crush Ukraine",
-      "source": "FT",
-      "published": "2026-10-05T04:00:12+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSVRuZ1J4TnZvN1ZJcUs4ME5kM1hSaG5XMTByYUxQUmUxVFFxVDRXX1Z5cXp2QnpEenRCbDdOSGpDMnFUbEVfR3JWQm02RHI4cjMwTl9KUXFQbzNtZFJWbmh1Vldjb25mbFlnNXRXLU9IREpVN19HcVhKQTRZX2lEeF9HRjI?oc=5",
-      "description": "Russia’s new drive to crush Ukraine &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Financials, IT lift Indian shares as oil, Fed fears ease - reuters.com",
+      "title": "Indian shares rise as oil, Fed fears ease; financials gain on Q2 updates",
       "source": "Reuters",
       "published": "2026-10-05T02:37:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU25TQndoMFZ0ZFhnN2QyYjVvel9GQ2pLUnpmOThYRml6eWtoZ2lCNEJUMTlCTHhRbVZDNXVxeUpsR1phdmFDN3g5cGNKa09ialV0TzVqNElNT0Z1OGlxZ2pOQ0g2VGFoVExXQTVrRkNtVS02bV9TZVFmcGJ0V29jWjBTX3RmNHRWRThjWG9FODRqWHJNMXhBLV9jWEFQMG9Za2xUeUtZeXdnYWs?oc=5",
-      "description": "Financials, IT lift Indian shares as oil, Fed fears ease &nbsp;&nbsp; reuters.com"
+      "description": "Indian shares rise as oil, Fed fears ease; financials gain on Q2 updates &nbsp;&nbsp; Reuters"
     },
     {
-      "title": "Gold nudges lower as dollar holds firm - reuters.com",
+      "title": "Gold steady as stronger dollar and high yields offset waning Fed hike expectations",
       "source": "Reuters",
       "published": "2026-10-05T02:12:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV0dGUTlhay1BaS1nWk41NWd0UFdwbV9QSzNuNGZnTjVYRlpYNXo5NFF6TkZDWV9QNGpDMEhzd3QwUG41clBBTVVGalVyQy1nZkw5SHNRbGktSTJrbjJoMmZNR3NWNTY2WVpIeXA4YUVBOUlkb2dyMExSTXlpaDBvLU93bXpIZWtpbzNTMFAxMmJ5ODhMMmJIWUhVbw?oc=5",
-      "description": "Gold nudges lower as dollar holds firm &nbsp;&nbsp; reuters.com"
+      "description": "Gold steady as stronger dollar and high yields offset waning Fed hike expectations &nbsp;&nbsp; Reuters"
     },
     {
-      "title": "Euro sinks to 17-month low as French fiscal woes spur contagion fears - reuters.com",
-      "source": "Reuters",
-      "published": "2026-10-05T01:53:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcGxIREdRUUNadXowQXZKbi1McVN1X2toZXZEdGNFMnR1QVZvSk5DMTcteEVlQjhVR3hhbFFfNGNGa1BmcE5DUFRETThCMVVOMDNLa2ZsZkVpY1lxWm9GeUVZNGpnYVRoV1ZIdkZKNC11bzJMUlV2V3JJTUhiQnV5akg1YmNuVFljclA4VW1vRnF1OWJOYmdXLVBPMU1fVkxOb1FKWnZjVTBNQ2FRblMzbQ?oc=5",
-      "description": "Euro sinks to 17-month low as French fiscal woes spur contagion fears &nbsp;&nbsp; reuters.com"
-    },
-    {
-      "title": "Euro pummelled by France's debt burden; stocks mixed - reuters.com",
+      "title": "Nasdaq hits record as dollar and Treasury yields climb, oil prices ease",
       "source": "Reuters",
       "published": "2026-10-05T01:22:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUzk3bWZMY2M2d1ZHLWhKbzhqV2VPZjY0N2JCcm0tMGRLUTAzM2V5TmZ3RzI1dGZNZ0duR2NmZXIxQU1qaWZvdGI5SUwtRWpiQ0dkWTBVdUIxNFZzVDAxOWpQa0FmQWFTRWZUTV9lWE1yRGR5MmN6WG16UGJNamRNUzB4WQ?oc=5",
-      "description": "Euro pummelled by France's debt burden; stocks mixed &nbsp;&nbsp; reuters.com"
+      "description": "Nasdaq hits record as dollar and Treasury yields climb, oil prices ease &nbsp;&nbsp; Reuters"
     },
     {
-      "title": "Markets bet on RBI rate hike as inflation pressure builds - reuters.com",
-      "source": "Reuters",
-      "published": "2026-10-05T00:35:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN2ZLWG5udy12czJna0lwTVJkMDRYRktHekNjMmFyTlN3OXI2SVBFNXMyc2VTTUJ5SDU3QzUzOWVVamVYTjBmc3E4UUtCMHhMM18wTVJFak8xMG1fMUJfaDlBbVAycXMtd0xjbFB5YTltMUNKQ1BjY0pnR0lab2ZteHFTaVlqOHpBSmstZVpxWjdlS1F3UG1RTHI3ZEtvNmZG?oc=5",
-      "description": "Markets bet on RBI rate hike as inflation pressure builds &nbsp;&nbsp; reuters.com"
-    },
-    {
-      "title": "Oil slips as Middle East crude exports rise, G7 to release stocks - reuters.com",
+      "title": "Oil slips on rising Mideast crude exports, G7 stocks release",
       "source": "Reuters",
       "published": "2026-10-04T22:17:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZm4yN3lGTlZFWFRCMmNTSFJSUWE4MnJqSGc5aGVKMXBWR3lrcXYtSEpTRWpncXNuUHc5QVVKeDVRa0NuTWpuXzBSRUxqXzcyUklYUlU2NUdLNTkwS2FndzlLdXBaQThKZThGT2d3cjRkN0FBVjFQcEJzR2NrbEpDa1RvSlJ3a3d2bUoxcnAwSF9jVnZXY0J4V0s4WjM5Y3hRVWlhY3dSQ0J0WkMxZ3c?oc=5",
-      "description": "Oil slips as Middle East crude exports rise, G7 to release stocks &nbsp;&nbsp; reuters.com"
-    },
-    {
-      "title": "The US is looking more like Italy",
-      "source": "FT",
-      "published": "2026-10-04T12:00:08+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQS2JFX0UyYjdaWkxVUnRwcFM4eVpraU1lMzFOZWRGUDFYN1ZGSldLWUZkc2wxdzc4R1J1VFR0QnNpa2NjQkFuRkZuZzRRUFk0eUxQWEhPRXZneGNBclEwWkZFanFKS3pDSHlwZGVxcDJXZE9PYlB5dnR1aTVWem54dWRuVXc?oc=5",
-      "description": "The US is looking more like Italy &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Investors look to shelter portfolios from rising AI concentration risks",
-      "source": "FT",
-      "published": "2026-10-04T12:00:08+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNekdhS0ZHendtc0EwODhZNzBwOElWRktjZGk3d3AyemRYQW9JcWVnRHBHd1dlSUM2QWI3TXVEM1dQNGpsWXBkWktZMVhEZy1pUXR3bDB3QTBQT28xV3RXMXllbElaVEJRQ083YkNkVE40VFFEcVVYN3JtSGlUOWlVRzBuSEs?oc=5",
-      "description": "Investors look to shelter portfolios from rising AI concentration risks &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "What can revive the battered government bond market?",
-      "source": "FT",
-      "published": "2026-10-04T11:00:08+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY1hHSjFqUGgxdG5rd1ZweTR3YnlieUxveWpfc2RPM2kxUHAwdS0zQlpoYjk1SHRkVThnbVo5dnhOZGdiQXlfTGRFMHlUeDZlYWNDNFVhSzV3dXcwZEctdEJ3elNuVThzenlXa3I2SjVLdFZvcDdpQkYxSW04WDZhSGhQRVU?oc=5",
-      "description": "What can revive the battered government bond market? &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Lula and Flávio Bolsonaro neck-and-neck as Brazilians head to polls",
-      "source": "FT",
-      "published": "2026-10-04T09:00:07+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMU52eEVMMGQ0UTFmQk01OXFrUjlXa0xGT09hNEpVdks1bXNvc1I2WEFtZ0lkQWh0aWhYTnNiLUJVYlItdXRibzVQNEdLM1B0MHJpZEJDZndhQlFuVUFaMk16SXVOWHpORy1CNFJ1RkJUNkJmTk9UN1lCb3hwQ042UkNIWGU?oc=5",
-      "description": "Lula and Flávio Bolsonaro neck-and-neck as Brazilians head to polls &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "G7 countries agree on release of diesel and oil stocks after US pressure - reuters.com",
-      "source": "Reuters",
-      "published": "2026-10-04T08:22:52+00:00",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZnMyRFpEcDhNOHlnU2NJT3F1R2M5QkEzMjJPaGRUYlZ1S2RYYmNMZ1pERlZINEtxMkJDTktfMThYeHZ0U2FDZjVoQ3l3eHViLVkyajQ0S1RfSDJ4QS1xTEgxNVlaZzJSSkVjLTJYM04tX3ZHUEVSY0VHdjJHUU45RHBRajVxQzA3emVQNXpvRG9XRVVVZUtSdUtveUN2WUp6RzhBeVQwQ0JzVk8zWWYzS1FCVUtTZ3UtNTllVzJrbTJyUC00?oc=5",
-      "description": "G7 countries agree on release of diesel and oil stocks after US pressure &nbsp;&nbsp; reuters.com"
-    },
-    {
-      "title": "Wall Street’s IPO fervour cools on tepid demand and valuation worries",
-      "source": "FT",
-      "published": "2026-10-04T04:02:14+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeUpsU2IyR2t1S2RhUnVxU3FaZU5laklOYnJsRUhCU1RNakVEb1pPMnBOeGMwTU56aUZ5eTZVdHFrZXBSX1U4NXY3b292Z1lwNVZTRDdjTU9lUUc4RjZQWE5sZnpWcGFjbEowNmlSalhkMnZ2bER0Q0JvUVNGRTR2NmUwX3g?oc=5",
-      "description": "Wall Street’s IPO fervour cools on tepid demand and valuation worries &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "China closes hundreds of banks to bolster financial system",
-      "source": "FT",
-      "published": "2026-10-04T02:00:43+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYlVsM3M3d0dwVW1HT3Utbk5GNjRmcC1mZzN3aWFTTmN3Qi1CRFdRZlJDTjhERm5EQ05lNlQzNzJuMmFrb2ZNamUxNkkzWk5fSDgyNXgwWjF1ZzhvZEwzaVAtQXpYVEtZZm9Rb1gtanBPTzJ2RzF3ZVVwdmhoN1JndUl2d1I?oc=5",
-      "description": "China closes hundreds of banks to bolster financial system &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Iranian rial at new low, as cenbank sells dollars to support currency - reuters.com",
-      "source": "Reuters",
-      "published": "2026-10-03T19:43:44+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUnE1RzhlNDNiUXdROTBBZS1SaEExN2JJb1hNX1huaXl3TFcwVTBKWGVVRlJVQWpYdVdwMnZwLV9kMWpIMHV5UWZIc0ZVVVdjQ180RE9sTTRIUmp2R0JNY3h2MXlyVzBfZGFSbTFWd19QREdkYkwyOEN2Nl9Xcm9xOWg4VlNRQ3ZQRkN2T0JDU296UFpfTzlfS2Y0NV9RbFEydmdWOTEwUERyUnBZNUM2Y3c4MA?oc=5",
-      "description": "Iranian rial at new low, as cenbank sells dollars to support currency &nbsp;&nbsp; reuters.com"
+      "description": "Oil slips on rising Mideast crude exports, G7 stocks release &nbsp;&nbsp; Reuters"
     }
   ]
 }
