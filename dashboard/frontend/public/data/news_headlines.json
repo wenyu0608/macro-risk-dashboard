@@ -1,47 +1,124 @@
 {
-  "fetched_at": "2026-10-14T05:15:35.456674+00:00",
+  "fetched_at": "2026-10-15T05:02:36.165407+00:00",
   "headlines": [
+    {
+      "title": "Bowman, Supervisory Modernization After Silicon Valley Bank",
+      "source": "Fed Speech",
+      "published": "2026-10-15T02:55:00+00:00",
+      "url": "https://www.federalreserve.gov/newsevents/speech/bowman20261014a.htm",
+      "description": "Speech At the Bangkok Economic Festival, Reinventing Bretton Woods Committee, Bangkok, Thailand"
+    },
+    {
+      "title": "Dollar retreats from 18-month high as Treasury yields dip; Fed hike bets ease",
+      "source": "Reuters",
+      "published": "2026-10-15T01:49:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbDE0ZWJRMm1PNWhpVzUwaDhHb2o1YkVXVExaeFVQWWFwcnJtemVfakY3WHV0aFFQWHR3dkR4eVN1OTZ3dXVqb0QzQ0ZuNkNhek1IbFRhVEtBXzNKcVpSQ1dHQm16ZGMxZHF1Z0txU2xHVUVsb0txUzhxLVljb0NXWWZzX2ZETk9QbHF1dm5XdmMybWFYRzl4d1VuS3J0NlU4enJvQVFuYTYydDNYUVVHM3pjandDUHdHbHhLT2otUU1HQk1PTVpReHpmTQ?oc=5",
+      "description": "Dollar retreats from 18-month high as Treasury yields dip; Fed hike bets ease &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Global AI sell-off deepens as Asian markets tumble",
+      "source": "FT",
+      "published": "2026-10-15T01:44:46+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYUozTHM0dkZqb01wNmhUc2twRnYzMk8yOTV5V2YwSW5ndGRjN0lwNDdNUGFWbHRrU0kwWEp4OGJUNXp4djlDQnE4eXNDdy1BVk1WTUNMV1RCUWtGN3FOcmx0NHFRRkRIY3IzYzEwandjV0FTNlRfbnNZbkxvbDMtNEgzWE4?oc=5",
+      "description": "Global AI sell-off deepens as Asian markets tumble &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Asian markets sell off as AI trades crumble after hot US CPI data",
+      "source": "Reuters",
+      "published": "2026-10-15T00:51:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zSHhMSkR3TXNQeHQwd0pHRXVZU3lzTjYzY2l0ZkVyMWVmbmczQWhqSzhGaEtBSWhKdW5lQ1VIeFI5Y0ZwUzE4dFFGWVRfUzE0Y0RaZlRkWEZSMUlleXp2OTBTd1FCU05vakU1QlA2X3hHcGl2UVk3SnhGUQ?oc=5",
+      "description": "Asian markets sell off as AI trades crumble after hot US CPI data &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "US inflation heats up in September; Fed rate hike this month back on table",
+      "source": "Reuters",
+      "published": "2026-10-14T21:45:35+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX3hkV3J5em1xWWY4V0hQODFTamFtU3NvdkpPRUUzMGY0TnlKaVlneXZPc0J6bFpWdDZWb2hLRkZZaHhZVElDSXNFbGNYMVVBRGR6c1RlNDA4cEhkMEcwck5VMFRtZ1QxOFJqNTkyaGJzWWFLSXp2Z0l1Z19vMDh5bGd6N1FJSkJFR2tZUXd1UWUzeVlvZi1xNTVONk00ejJ5cE0xSGY4THFsaUo0RGxPV3dpaW4tbEZseUE?oc=5",
+      "description": "US inflation heats up in September; Fed rate hike this month back on table &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "EXCLUSIVE: Fed's Daly says rate hikes likely needed, but not urgently",
+      "source": "Reuters",
+      "published": "2026-10-14T21:40:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMndHODQzSE53STRuTnVib1hVbS02ZEtKUEFmQnlqNDRFTXVHSVRxMFh1YU9IN0lLRTlPbEZsOXhHQllMczhyQ0llSHFoX3RuQTdHNUMtQUszZlZEcWJYMDRjMDAxNG5hUGNxMXZHejlZbFg5STlZekM0Vy1VeldsVGdvRXU5SVZmZTAyVTRkT0NZOHptamRHMFVqdzdBUmNONTV2eWJzaXc?oc=5",
+      "description": "EXCLUSIVE: Fed's Daly says rate hikes likely needed, but not urgently &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Fed survey shows price pressures intensifying as fuel costs rise",
+      "source": "Reuters",
+      "published": "2026-10-14T19:34:17+00:00",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcEdOeFlfWGYxQkFEMFV0MXNoZm5NdXpHRVRCUko5Mi1ONURfc0l6dXJSV253QzN4NFF2cjNmbFRvZ3NzaGt2MHV1MnZkTjMySDRJa2hyOTRyN0RHbjduT3FMWjhpQjBjZmdvTHQ3VVdqZUNTbzhKak0yTHd0Ymx4U00zcnlqNE9MQjdLUU5UejNIR2cxLVczQTh1SWdyLUY2SlZRUmhYMVBkR0NMc21PeA?oc=5",
+      "description": "Fed survey shows price pressures intensifying as fuel costs rise &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "US chip stocks slide as inflation and AI debt fears unsettle investors",
+      "source": "FT",
+      "published": "2026-10-14T19:33:09+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV010dndEUEEtbWpidDZDc3dSbk1wMnNqdmV6V1QxN3VqektkZ2dlY010cVhrOXgzQkJrRWhxdXk1WVg4VlBId2lTNVFMRXowVTlBZGJKeHhpWDhjOER6NlZmdGZFWnc1SmhVSTRvTzJpbmdfTmk1d2xYWHg1N0VFUXFTaUY?oc=5",
+      "description": "US chip stocks slide as inflation and AI debt fears unsettle investors &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Fed rate hike call seen tight as inflation heats up",
+      "source": "Reuters",
+      "published": "2026-10-14T14:22:26+00:00",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMjl1ZWZGd2lIRXg1US1hUjNacTVDN2o5S2lIcXpCdnZ1VHBXcEpqOHV5SzJJZHJrT3RxYjdrRjRrRU03eHNGTTFRMnVCVEdZa0VfLU9BeFdSeTE1aFRrc3ZRampyOFVTczZRbWk0azFBakVndUJ1X0NjVmJmV1JmeXNXSlFkNzF0NUZKTUUyUnlHWi1sOXFpVHV5NnVvcDA?oc=5",
+      "description": "Fed rate hike call seen tight as inflation heats up &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "US grocery prices poised to climb as soaring fuel costs drive inflation",
+      "source": "FT",
+      "published": "2026-10-14T14:14:28+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQb3pjcEZxcm9sQVp6cHFrcHlYeHdCakZMeGgwdGEzYlpJRktGNVNXNDlNVDdsbEhHSVZzOERIbnBCcUNiMFpVX2ZvUUNZTThlb1VUVF9KcUVkWTJFOVNjOWFJNl9rdGcwcXhaRTBmUDV1Wk5yLUZMMThtb2tQRktHRUZ4SUg?oc=5",
+      "description": "US grocery prices poised to climb as soaring fuel costs drive inflation &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "US inflation jumps to 3.7% as Iran war drives up prices",
+      "source": "FT",
+      "published": "2026-10-14T12:31:15+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaTVDMnlSRThVWkxaaEY1cnpwU3VJOFZTbjA0cXYxR0l1WEcyQks5X2tIeDRSSkpsV29RU0xLZFJsTnMwNE5SdC1oWXpHdGFVY0pUOVVxenlSbDNTRVMzTlNLeENwWEFIRFl2Uk1sb1hMdVYtWVVndEw1RGpyT0tVd0ZSOWQ?oc=5",
+      "description": "US inflation jumps to 3.7% as Iran war drives up prices &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "General Atlantic plans early 2027 IPO at up to $10bn valuation",
+      "source": "FT",
+      "published": "2026-10-14T10:00:02+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLXpJbXF3UHNIT2pMX1dTcmNDVVB4UGx3VW00QW9kUzdSQnNMd3RoTEV3Q3hWdHB2UzZ3RU5EMXl3UUFFSm11RGUwOC00TmhBTmNGcG9LTWs0RjA1RWljZFdFVHpfb3M0RklBb0xySUhRZzVSWWNaUFY1a181S3I2c1FWSjk?oc=5",
+      "description": "General Atlantic plans early 2027 IPO at up to $10bn valuation &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "European oil refineries’ margins collapse as input costs soar",
+      "source": "FT",
+      "published": "2026-10-14T08:32:10+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMmtEZGJLY3IwYXE4cEx4MG45N3NpeHRRdTJ3cFJWMDB4TXdCV3BxMEJZemp1VUdiZnB3Tl9CSDM5MGRIMlA1bWFUdVVOenhEck5ZWl91Qi1sTnFVcHhneENsZDh0bW56eTBZazh6UlotY1BFelVoT2JEMS11ODlOUWpsc2M?oc=5",
+      "description": "European oil refineries’ margins collapse as input costs soar &nbsp;&nbsp; Financial Times"
+    },
     {
       "title": "The global economy and the art of living dangerously",
       "source": "FT",
-      "published": "2026-10-14T04:00:21+00:00",
+      "published": "2026-10-14T08:30:18+00:00",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTGpvUDdIdTNfdGktXzF0VnBRTEZFXzRKUU9qU2VTZXp4S19fZTJKcnFSRVg1V0p2SGNyMkZLckdhTVF4RXNaOU5OOGl1aUFmRTV3U1c0ZEwtaEhzTHU2VWxQbkp3Wmw4eUdVb19EMGYwdFBqb3RTalpjSnBaMXlfTzdQdFE?oc=5",
       "description": "The global economy and the art of living dangerously &nbsp;&nbsp; Financial Times"
     },
     {
-      "title": "Dollar languishes as focus turns to CPI, Fed speakers",
-      "source": "Reuters",
-      "published": "2026-10-14T01:18:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRTlXdFl1T0lRV3lDTk1HeDB5eEoyUkhIUERBWi02S1ZRU2tGX0hyQk9GdThWZUNUUFBKcUxqNEd1WkU4WFpyUHV6ZmU4VXl3MWRBSjN5UWM2WjVmbDl6RGhYYzV3SF8yTGwtTGJWTTR2OHN4LVVvVzlpTGs0RkFPX2dQWmNZTUF2MVFRMU5fWXZjbjlxd2NISDgyckdMQ3lYYTZv?oc=5",
-      "description": "Dollar languishes as focus turns to CPI, Fed speakers &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Fed Governor Cook's lawyer denounces Trump's latest attempt to remove her",
-      "source": "Reuters",
-      "published": "2026-10-13T22:34:56+00:00",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV2FUcXdjUFlhbzVNRWFtNXpFWnhJbkhXQXFqakhHUFlTUFZKcHVvMlNxb0RzZ2oyQTVBNUVTY1NQRUdkbUxvQlprZlhQclJxYS1pakFmakttb1VSUzlXTThNQ0sxZWJ0SEFrZmNQVHNzNW1PbDh2ejFqS1dfOS0xd2hlUTVEYXVmWEpBUlIwbTg4RzRvdnNFZzlNTktpS3ZTS0h4bGEtRQ?oc=5",
-      "description": "Fed Governor Cook's lawyer denounces Trump's latest attempt to remove her &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Chip stocks slide after ‘casino’ comment by Broadcom boss",
+      "title": "Japanese banks and insurers return to domestic bonds as yields surge",
       "source": "FT",
-      "published": "2026-10-13T20:28:15+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUEdnZjlUNktHX2ViUVRqZHd4ZmhjaXdkd0NMR3BVLUp6akpVOUFabEljcHk4N0wzRDloZXhuQklwaVUwWjNYSFJnYkhzQ0RQNzZFZXh6VFh2U0hEZ1FybXhxNUQ0WTVLbXZydHM4REVRLXVVbHpsd2Rnc0M1MnVMMlVJTVc?oc=5",
-      "description": "Chip stocks slide after ‘casino’ comment by Broadcom boss &nbsp;&nbsp; Financial Times"
+      "published": "2026-10-14T07:04:04+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPelpPeUc1RUpRWlBGUnczZ1g4N1ZmMlBpY1cxUEREZzd6RnEtYm1aYmJzMnpoTnlJOEUzXzQ3M3NZNS1lbW93M3FDRWRFUC1jRktlU21VVmRlWm92Y2pJQU5pSExEYnNVemV4bGNXZmdpV1hpY243Rk5BY2VkVXQ5UTZROEw?oc=5",
+      "description": "Japanese banks and insurers return to domestic bonds as yields surge &nbsp;&nbsp; Financial Times"
     },
     {
-      "title": "Fed's Collins sees another rate hike on the table before end of 2026",
+      "title": "Gold drops over 1% as hot US inflation data boosts Fed hike bets",
       "source": "Reuters",
-      "published": "2026-10-13T20:08:52+00:00",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQTNoWUtZWjdLcTc2ZmNycnptRmR1cmluWThZU2ZTYU5JUkdaazY1Z2hEdjIxNWZ3VU5RSVZvejc3VnlueGZoN0JyNlNmdkptQk9ZNEZqU1MyLTNUblpOaF9FMkdGbnZhX1hTVllLTzYxNFEwamlyazZKem00N1k1UFBablNQSVRCZTgySWNNR3pHemxzSEl1S0VBeE1DQlYyS0Ntdw?oc=5",
-      "description": "Fed's Collins sees another rate hike on the table before end of 2026 &nbsp;&nbsp; Reuters"
+      "published": "2026-10-14T03:12:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZkM3NGdUajlORC1ZZjBNcFZtNjYwa2JRaFczS1V4OVRORGhzZG1NUGxaY3ppRjdfQlFvUmREakJQM1RGaDNZZmZFMnJrY2Rtemc2Z1dBY1pPRy1ZbnBJVzNfTG1MMGJ5TXY5VzFpaDd6UENqd1pUOVdlTm1sS241QkFzNm1kdDJXTjl5emhLV200WUI1QVh4RQ?oc=5",
+      "description": "Gold drops over 1% as hot US inflation data boosts Fed hike bets &nbsp;&nbsp; Reuters"
     },
     {
-      "title": "Brutal session for chip stocks shows AI trade is turning",
+      "title": "Dollar gains, Wall Street stocks fall after hot inflation data",
       "source": "Reuters",
-      "published": "2026-10-13T18:04:55+00:00",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM1RJWWJHTmtIMnhaYWVyeFFpYV8wZndZMUFOVXM2NkpJdUNfRGlyQzdHeVcwMXkxcXkyWFFZQ3hXS3RpM0NqZUtNcmxNd3NkSGZETmlvTjRRYjJ3X3BXa0FEamh0NDExSTZieGRHam9BdFBiZXdOcTBSUXRPNlFEeTVKOEtkN3JiV25QUEsyekp0OTJRaU5nVA?oc=5",
-      "description": "Brutal session for chip stocks shows AI trade is turning &nbsp;&nbsp; Reuters"
+      "published": "2026-10-14T01:53:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcE96RkhyZDBlQ2VWRERNYlZtdm5FaVdQSXF2M3ZtR3JIOU05UExLWnZ3dmFBY1NZcndTRlozR29sdmxWaExXUmIycmZPZGk3UXI1amRxTDR6WHpSQl82ckhxZ016SnZYdGtPdC14TnZVWlpjeHl4SW5pUnJKbjl2M0pzcw?oc=5",
+      "description": "Dollar gains, Wall Street stocks fall after hot inflation data &nbsp;&nbsp; Reuters"
     },
     {
       "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
@@ -49,76 +126,6 @@
       "published": "2026-10-13T18:00:00+00:00",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
       "description": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026"
-    },
-    {
-      "title": "US Treasury yield peak still ahead as Fed likely to tighten again, PIMCO's Ivascyn says",
-      "source": "Reuters",
-      "published": "2026-10-13T16:28:58+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQckVkLTFFNXNKUmlRWTVjWE1tOWZ5OXYxU3NFSWU3V0w0dkk3WEVsamFRVWY5Y0FlNVgzV1dZQlJtNWoyY1ByVlVWT0dBNEp6QnlRVG9HTXpKTENiMXlNT0gtYXRnbHFHRk5TUFREaWZmUEk2WElGUDJfY3d3dHc2ZEh5QUdoQlMzZVBKcUlXamtqTmlsQ1kxZXI2MTV6dGVDU1p3QXQwWVJjN1dkVTc3NXlBRm96SVRkQVE?oc=5",
-      "description": "US Treasury yield peak still ahead as Fed likely to tighten again, PIMCO's Ivascyn says &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "IMF flags risks to global economy from AI market correction, war and debt",
-      "source": "Reuters",
-      "published": "2026-10-13T16:15:03+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTXc4YzNuVFU1U2dtSjE1SG9xRUIxZTRtMU1xdXNodDkxMTRGaE9yQTJIVVVoeVJjdnFsbi0yeUJ6a09ZbGJ0Z3N5V1NiV1RGZlVDekptcUVqcTVtNGRsdDNpZkd1akEyN2hybUx5aFlXM05pZENOVFdfTXI3XzBxaGRMZ0NVcFFRVXZRbHlZYUNleHhiTTJ1UTN0dXJ6U0h2V3ZoWGdqOWp5SmdCMjFab1doZw?oc=5",
-      "description": "IMF flags risks to global economy from AI market correction, war and debt &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Citigroup turns cautious on US stocks as market exuberance flashes warning signs",
-      "source": "Reuters",
-      "published": "2026-10-13T16:03:43+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSFlCbmZGTmxyNlNUdnlTX3RrVEFZWVp5MU5QeV8zcU1uN2RqVmVlYWVfQVd4LXdWcmprSWZFM1dnYzI4LTNucXozYThBZ0xwVnJRNjVVLWpFcGV3cmNRR1NoM3pGaEpkNFk4OS1qRFNQWlVsNUFKSWJDSGlZOFpOQUdsamVzS0lmM2lrWEFRTlBEbzJIV2pvT2lEQXhlU2R5MUxjMVRfb2pZTy1KdHZrZjd0WFVuNHN3T3g4?oc=5",
-      "description": "Citigroup turns cautious on US stocks as market exuberance flashes warning signs &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "US chip stocks extend slide as China memory report, AI spending jitters hit sector",
-      "source": "Reuters",
-      "published": "2026-10-13T14:47:04+00:00",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdjlLc0J0QjMyZmZRZWM1SldodnE0RV8xUWN0S0EzdUtWX1VjNXRiTVRKdDJQQVNkNkNadU50bGFueTItd3V0Zk43aFRiV2xsMVdCS1lFbFh3TVI3b05yd253VjBLSWdlYmwyb3VIOFBLQm5VbFRlR1ZQczRlekUyWHNOMjUwdmhvMXA2MWl1UUp6aDFydkZRZWdjUzZnRUR2NXAteDNMZS1zdDNUWm1HRVBxYlo3TXh6ZGZKT1lNOXFHUjBp?oc=5",
-      "description": "US chip stocks extend slide as China memory report, AI spending jitters hit sector &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "The ‘ungodly spending’ behind the creator economy",
-      "source": "FT",
-      "published": "2026-10-13T14:00:01+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOY2pFZ1p3d1d4OWVDcVdyQzl6dUh3MGR0Mk5UYWUtWlprT1pEcmxtcjVtVUVkNFJ6WmpoTlN2Vms1OUJldEp4bG5FUXB5YmxGZ01ITjlqV0hHcVZCV3N6aEE1WC15WkJXR3RJMlF1SVNwQTdnLWVUTzFMelZFUURBR3BRZ1A?oc=5",
-      "description": "The ‘ungodly spending’ behind the creator economy &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "The world economy is running hotter than expected",
-      "source": "FT",
-      "published": "2026-10-13T11:30:07+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdFFaMGRiMHJlejBCNEwxX0o4YkVrOEhxNW53WFhjYzN4NjFURlluSENZNjdfNFZzUHJiVHJsZ1lMM2VPXzdYa2ZVMDVRVGtiTnpxMHpndGlNYmJWNVctNk9OcTRGajQyT3UyMVYzeGhHbkRwYURDZ3pQWE5aREIwVTQ5bDE?oc=5",
-      "description": "The world economy is running hotter than expected &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Healey rejects calls to equalise capital gains and income tax rates",
-      "source": "FT",
-      "published": "2026-10-13T09:06:17+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNl9DNUxWUkFFSml1UGtTRkExTkFrUzZiYTRWQTQxM1ZoNHRpQ0ZjaFRxQk5mMjNSbktyWklzckZfV3V1R2pvQXE5b0VBcWJWWUNNRnZGZVZRZndOWXh3RkFQZVpYUmI4UVM4bndXdVJCODcwNDhqTFVUWVdINkhXMEZWQkI?oc=5",
-      "description": "Healey rejects calls to equalise capital gains and income tax rates &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "European gas hits Iran wartime high",
-      "source": "FT",
-      "published": "2026-10-13T08:45:39+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQlhLTU5YRHdvSl9iVndnV0FHeFFvUEctNy0tV3RkWV9MU08xdFNqNHQyNk5Ec19fbExXZUJXdnRxZTZ6X0swZGZQazF2YzJ0anZIZzcxWXItYTAwanpXM09LSEp0Ykd3Sl8xb2xEbWU3WlhPeWFhWjhxRXo1S192YVJCMEg?oc=5",
-      "description": "European gas hits Iran wartime high &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Investors brave US Treasury rout to lock in highest yields in decades",
-      "source": "FT",
-      "published": "2026-10-13T04:01:33+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNExsQXlqLUVZQ2M5WTBfRG5jMTFNMExsb2pDOXp2bkVKMHhQdTR3ZlhmeTBrVW9Ca1dXam1acVYxMFN5cFlCSzcxYmg1ZVZZNTZZNkpGV3lJWXFRTkViOGdFTWNJa2NlUFZIOGpRQnRsQmZXekxxR3BYM2NQTjlKTWlnRXQ?oc=5",
-      "description": "Investors brave US Treasury rout to lock in highest yields in decades &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "IMF upgrades outlook for UK as AI drives growth spurt",
-      "source": "FT",
-      "published": "2026-10-13T02:01:27+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONWNxY19Ed3ZCTkxpSXFNMHVpd1MteUFFYXRtRzNxal9qUnZRbzdPdEhWQUZETWlZSzBoRkxMWjhsQjNWM3hMMFE3U0RyWlpXZ0s3NG5HT25QNml2T1VKVmdQazkzRUZmWTJ3N2xCUEk0anR1V21fWTY5aHJHOGZLRF9ZTUs?oc=5",
-      "description": "IMF upgrades outlook for UK as AI drives growth spurt &nbsp;&nbsp; Financial Times"
     }
   ]
 }
