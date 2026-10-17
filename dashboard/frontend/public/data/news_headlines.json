@@ -1,54 +1,110 @@
 {
-  "fetched_at": "2026-10-16T04:52:00.102809+00:00",
+  "fetched_at": "2026-10-17T04:52:59.609907+00:00",
   "headlines": [
+    {
+      "title": "Gold set for a weekly drop as traders assess Fed signals",
+      "source": "Reuters",
+      "published": "2026-10-16T18:20:09+00:00",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUFdTSHVlWTdpZG0xRlc1U3Rka1I3Q3FLdVhKUVJjRWdlb040SXdMZktTT3k1WEgxSnB0QzdaQ2FSY05KTVVOSFg4aVpSRm01Z1hfdGNxY0JnYzJqeXBCcm1SU1FaVzlPUWljNFBxWDlYZmJxYU5ycmxyb1FNUEpTcVpoc3AwS25VUUgxMkFIOXZpQU5TZlVOTEVmVQ?oc=5",
+      "description": "Gold set for a weekly drop as traders assess Fed signals &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Trump has failed to listen to voters on inflation",
+      "source": "FT",
+      "published": "2026-10-16T14:58:28+00:00",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qWldwNEZHeC1ieHp1ek8xSTBNemtEbTdYOFBvSW1MSnpjaS1nNkJ2QXZzdGdnN0xxQzFZWkI3SzVtZEotVGZhaWQyZDZJRlh1MXpNQXZncHIweG5WUm1pTDd3NEJGcVpfRWRZR2lHaTg?oc=5",
+      "description": "Trump has failed to listen to voters on inflation &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Wall Street tumbles as worries about AI trade and high oil prices weigh",
+      "source": "Reuters",
+      "published": "2026-10-16T11:01:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV0xEdzRIMVNLYnAyTkhHSmVNTnRyMDJ3WGdOeFY0Vy1kRUtmWC1FZW42aDNfWTctUHM5X2hlWkhuOHFwblR1Q054a19YV3ZLNTlVVVlmMlRTZ0wxLWE2cmN3SWpjVHU4VDJZWU12Q0hPajE5cDdvQm9ic05PNHNRVG45bEI1ZFVHaEN5QnZjbHMxUDFVbHZ2cFNlMUZydw?oc=5",
+      "description": "Wall Street tumbles as worries about AI trade and high oil prices weigh &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Sizing CoreWeave’s ‘unlimited’ insurance capital",
+      "source": "FT",
+      "published": "2026-10-16T10:24:31+00:00",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zSkxzSkdvN0l4YU1rWU9KUmpnazNidEZzeEZjaXZZUWFLMXJ6bEdkbmljSW9NT040bGVfdDRTMnBjWEx1UFR0SndzN1lKNzhoMXJzY08wM0lzeF9HMGJhdzYtVmg1dk9NSklYWWxQVV8?oc=5",
+      "description": "Sizing CoreWeave’s ‘unlimited’ insurance capital &nbsp;&nbsp; Financial Times"
+    },
     {
       "title": "Indonesia stocks plunge after MSCI says market could be cut from indices",
       "source": "FT",
-      "published": "2026-10-16T04:18:45+00:00",
+      "published": "2026-10-16T10:06:49+00:00",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZnU4YTEwTkF0aUpWOTQ4YWFQem9tVUhiN2w3ZnBrX2VEckE4aktXUnJySWhBR1FjR3QybndOc1JXQzd2SnAxNGdtVTZJVlJCTzdJc3VrMWdPVmFaY2ViLWh3OTZkMUd4NzRxZ0dsX2wzalFPWnMtYUJjeGpCMEhFYlhUODk?oc=5",
       "description": "Indonesia stocks plunge after MSCI says market could be cut from indices &nbsp;&nbsp; Financial Times"
     },
     {
-      "title": "Fed's Warsh gives no hint on October policy decision",
+      "title": "Stablecoin issuer Circle to push into 40 new markets, CEO says",
+      "source": "Reuters",
+      "published": "2026-10-16T09:26:24+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeFVPNGdFX1B5eHM3eFl1WG1sV0FWUVlqcDVEMFRURDYzOWdXYl9OVTZ3TC1YT2VjUlRIOEFEVjhPbk5GaG1HZGExcm1zbExBa2VSNlpoakxpdjJ2V3NrWlZkaDg3VlhHZjgwN2lnNEgyU2RXbnBSWnpFaU9FWktOaThkb3hVQjNwSm83YnRUanhoWTFydUJ5dUEtdjFEaG85ekhISHI3VEw?oc=5",
+      "description": "Stablecoin issuer Circle to push into 40 new markets, CEO says &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "G7 economies plan simulated AI attacks on banks as cyber fears rise",
+      "source": "FT",
+      "published": "2026-10-16T07:36:24+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMVBhWjloaE1TTzI5U3dIMjdzejZzY0NmMTBVVGp1cllZLUF0X2o2eldaa0dIYXVOOGZOZkM5a0ktNVVtRUhudkFoS1BObGQzeXZJclFuTFlCWkdHblFyQ05abjU0Wm1jM1BXbWtSeVV5d3oyX0RURm5jN3JBVFdYVWVTV1k?oc=5",
+      "description": "G7 economies plan simulated AI attacks on banks as cyber fears rise &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Bets on Fed rate hold in October strengthen after Warsh comments",
+      "source": "FT",
+      "published": "2026-10-16T05:25:54+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSkowQ1I4RlFmbDVzQTBjVXJMdzlqamF3bnhidDJOTlc4VnBVT1F3VDE3cExoQzRJWWdsU1Uxc2F6Q3dmWlRBR01DNXhRV05KdGMwT1RacVVGNXFoMHlOVTJGbmVweHp5dzZGRUFEV1pDcWV2MlEtY21nMEY0WEE2SzEwclg?oc=5",
+      "description": "Bets on Fed rate hold in October strengthen after Warsh comments &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "How Healey's first UK budget could ripple through markets",
+      "source": "Reuters",
+      "published": "2026-10-16T05:01:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbzdqOHBldnlRU2ZTLXFjY2EyMVdjQ2hfMmJWWkg0M1hpU2ZwY2J6YU5GTHRfMUR2TE96NzJrdHlJMGFsZW1YYzhzZEFfRXFfTjFfRWctQXZuWlQxRU85czFUT0w5eDJPcWZrXzFZc3N4RjJ0MWJkd2tzdkpqTFpQNFFSM3VXd3dyektwSHJaaF9BaXI5ZDY4NTNXODhLV0prdHMzTTlmYU1QUjlSZkE?oc=5",
+      "description": "How Healey's first UK budget could ripple through markets &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "The data centre IPO debacle that sparked a market meltdown",
+      "source": "FT",
+      "published": "2026-10-16T04:54:52+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSmk5ejd0SFBvajRsVWlCUWR2OFpiT0dfLUtrQ0NlOFo3MlJZR2IxM2JCZ3I1V2tMNUk5OGpGOWJ0VllLR1Bycm5GZmJhOHlCTVVTcTJRSGx6STlObHJmN3RrcmZ2cUFKaW4zR2kySHZERFBLQzRuQmdjN19MbF80bWw2WFM?oc=5",
+      "description": "The data centre IPO debacle that sparked a market meltdown &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "‘Early days’ to see full effect of energy prices on inflation, BoE’s Bailey says",
+      "source": "FT",
+      "published": "2026-10-16T04:37:24+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUWNFQlYtdnkzWjc1dExrZnVtSm5jcG9oQ3p6SHV6M2N1cFFlMDY5c0xhZEpDbWhHTVk4c3dkLVAtcEYxaUN2TnRtOHAyNjc4bklMT2ZmekFwc2tkV1JjRlV1WDBhUHktUzZqRVF5d3l1eEpKNlpqaExjNHhUUzhuREh4eGU?oc=5",
+      "description": "‘Early days’ to see full effect of energy prices on inflation, BoE’s Bailey says &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Fed's Warsh sees US resilience, mum on rate-path view",
       "source": "Reuters",
       "published": "2026-10-16T03:57:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbUpNSUtZSU1FYnJCSDNWNnJRMmF3bmQ1QkdEaVhZb3I3c0lpYWhyQjNSemVVdGttRHE3UTFNOXg0enZ6eHAzcDY3UXBmQUJJRzl1T3gtMEZad0Z0Xy12TTlFcVRGeVdNYmVkZ3NPQThlUWRLUTh5c2J0UHFPVVRKT0hpR2RyU2tlRnJhVnBZZkxxUFhaTzRBVUlkbWFUUQ?oc=5",
-      "description": "Fed's Warsh gives no hint on October policy decision &nbsp;&nbsp; Reuters"
+      "description": "Fed's Warsh sees US resilience, mum on rate-path view &nbsp;&nbsp; Reuters"
     },
     {
-      "title": "Most Asian stocks rise as calm returns after CoreWeave shock; Indonesia faces market downgrade",
+      "title": "Stocks slip as dollar heads for weekly loss",
       "source": "Reuters",
       "published": "2026-10-16T02:52:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMUpLRUNwWEpRNVpNVWJPOWQyQXdKRjkzdTU5RjFiOUxpUFZGU1ZBa1VaS3ctN0xlc0lSMkptbUVMRlprcFFtZ3B6Z2ZFTG5XX2FBUHBoSk4xRTdiQm1ucERORXE4ZzNFZ09ySlpvUDlzb0tGUjFQZ3c0UmotdEstMEZCUQ?oc=5",
-      "description": "Most Asian stocks rise as calm returns after CoreWeave shock; Indonesia faces market downgrade &nbsp;&nbsp; Reuters"
+      "description": "Stocks slip as dollar heads for weekly loss &nbsp;&nbsp; Reuters"
     },
     {
-      "title": "Jakarta stocks plunge 11% as MSCI set to drop Indonesia from indexes",
+      "title": "Indonesian stocks sink most since 1998 on MSCI downgrade warning",
       "source": "Reuters",
       "published": "2026-10-16T02:40:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTGZDclBEV0w3ZFJ3bE8tckwwTE1YTXBXTG1GdGNfN2Vkb1BsaXFoZVo1QUF4YUhzanBOM05HNmR6X1gyalBGR05HQk5NM1VhY0VGbUhqb0dIN2txQklscWtMaVd3MVE3QTdISTRVbDZXdEpXa25EUHpZejdrZ1ozdFlOOTBBT2VfT3VFcmh5UmpjRWFoelZTUEZKOTl5UEhrc1dpWVQ3ZUpMd1NmVE8ybA?oc=5",
-      "description": "Jakarta stocks plunge 11% as MSCI set to drop Indonesia from indexes &nbsp;&nbsp; Reuters"
+      "description": "Indonesian stocks sink most since 1998 on MSCI downgrade warning &nbsp;&nbsp; Reuters"
     },
     {
-      "title": "S&P 500 ends higher as traders shift from AI to healthcare",
+      "title": "Indonesia gets 'wake-up call' as MSCI prepares to expel it from global indexes",
       "source": "Reuters",
-      "published": "2026-10-15T23:24:51+00:00",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZTRob0s4X3hCYkZQZzFfeUxuU1ZlN0tPT2hvelcwcW9QdU9yeVN1ZUZfR253ZUNoN3NjUlRHbG9aS0wzMmVGLUpNOVcyTUlHOWo3WERDX1psTXlmWGthb0JPN19GMGxnT2pkYkRWQ0R1THEyODhoWnZTd1NIQjdZbm5fLXNYb0M2c1g2YU02TENSSi1xSFZMQzRuUTc?oc=5",
-      "description": "S&amp;P 500 ends higher as traders shift from AI to healthcare &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "IEA to speed up oil stocks release including over 20 million barrels of diesel",
-      "source": "Reuters",
-      "published": "2026-10-15T21:12:24+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOajItTjVjRWhSaHJfNEJFdncwUU5yVU95N2RyVDdiaS04RGJfeE9RbjRIY3JaVFlTSmY4T1ZvNlVUdFdSOEczMUhKSm12ZzNRNHpueUM3aTVEcy1na2xUMG1qcm5vb2RwSFNIVHBpMmNVOVZqYml0RXYxcUNKazQyQlhUWGJxMnlhWFAySDJKaVNJdUVrZld6SUgyUWNaR1I4YWVxRUNIMkNVMm9ualR3LWNzQmJVVWR4Sk42aGhMX3FWQQ?oc=5",
-      "description": "IEA to speed up oil stocks release including over 20 million barrels of diesel &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Treasuries rally as investors seek shelter from AI turbulence",
-      "source": "FT",
-      "published": "2026-10-15T20:20:36+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYUozTHM0dkZqb01wNmhUc2twRnYzMk8yOTV5V2YwSW5ndGRjN0lwNDdNUGFWbHRrU0kwWEp4OGJUNXp4djlDQnE4eXNDdy1BVk1WTUNMV1RCUWtGN3FOcmx0NHFRRkRIY3IzYzEwandjV0FTNlRfbnNZbkxvbDMtNEgzWE4?oc=5",
-      "description": "Treasuries rally as investors seek shelter from AI turbulence &nbsp;&nbsp; Financial Times"
+      "published": "2026-10-15T21:18:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONlg4UjV3N2U0ZUVvYWhOTF9YNEI5c1VCaVd3ZTdCcUl2dFBGUklnZngtVlNhaS1BSFJWUkVqcGluT05jLVNqNll0RWRJQWZOdVRZWnM4TUR2UHJTVGNYbnNOVmgtVWVqcjJWOHdDWTVVME9BVHBiLXBiclQyN3ljTDlfaTdnWDdzcmZTZk1wX2p6b3NXVjJNVE04QU82aGVTQW5xdWEzcm5tNU9OT2JMVVlINA?oc=5",
+      "description": "Indonesia gets 'wake-up call' as MSCI prepares to expel it from global indexes &nbsp;&nbsp; Reuters"
     },
     {
       "title": "Risk of an AI crunch for stock markets is rising",
@@ -56,69 +112,6 @@
       "published": "2026-10-15T16:53:57+00:00",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaVIwTUZjREZmbElVN2VsVXhEWDR4M3RZRW1nUUZjYTZaOVpDR205YzhYdlh1TnpJOXRCdXBPcndTak0xek9XNWF3WVpldnoxUG1rcWJ6MW9idjRxcWRRbU50N0piTElMLU5adVluSHEyMmEwZnhSc1N5N2dIQTJHMXhqWjY?oc=5",
       "description": "Risk of an AI crunch for stock markets is rising &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "In AI-dominated markets, LatAm debt is a diversifier",
-      "source": "FT",
-      "published": "2026-10-15T15:51:35+00:00",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuMFlQamVNWVI4ZEZNMEtlNWNoYV9WMjVuU3NyTHV5WGdLeE5VZ3FVTk9vWnp3UmdEZkNwd0ZpUWJYejlaTXNsR3o0TzU0NzZBMmxZNmNYYU5HVmpqZzIzT2dqRWkxLWRFRmQzbmZwRng?oc=5",
-      "description": "In AI-dominated markets, LatAm debt is a diversifier &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "US chip stocks set to wipe out $2 trillion after latest selloff",
-      "source": "Reuters",
-      "published": "2026-10-15T14:02:41+00:00",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVDZEYU5ySFdLYUlmY29XeGxBbzZ1Nk92dHprTE44dzd5V19Yd09NdmUxUFpXMHhxdzYwenJiUjJQRFhPOXhBcHptTW9rY2J2Y01kM1loR3VQMVBXRG9mR2hQbkdWVnNGQVpCN01KelozT1h4aGx0RjRYeUZHRVRCYnlLWlpXWmpwbFRmRG4tSFR1RkNpRHNTb0lueU1VdWlpSjVFVGljZw?oc=5",
-      "description": "US chip stocks set to wipe out $2 trillion after latest selloff &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "PODCAST: Tech stocks sink",
-      "source": "Reuters",
-      "published": "2026-10-15T13:34:49+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMEJkSmdWRWVjeUJpX25jWTBVampHOVNfMGRvbmUwbkZwMDh1eEhOSVFFb3FyZkh0R1ZweldRb3ZhTGR0THZWb3Z5TGVGM09RREs0QWc3MnZfWExhaGhxSzR4VUFaeXN6RGpzQ3VENU01V1hvcW5GRjJRZkZEWlBWVjk1b18xb3RY?oc=5",
-      "description": "PODCAST: Tech stocks sink &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Rising inflation piles pressure on US voters ahead of midterm elections",
-      "source": "FT",
-      "published": "2026-10-15T13:00:02+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcHRvWkgtazFPYWFZSHI5VDJpRnZLMWNBeWlQOEFKTlBpdVUwUFZObTNyUXhWNUQ0bFdZeHljQ1c0NmkyUVZ0aHN3cWNzOFNiTXFqTFRwQ2hndW96d3dyQzZEaVpxdXRxOWtpS3VWeEhoZG1lYTFNSmhQZTZXM2NGbEQ4VWQ?oc=5",
-      "description": "Rising inflation piles pressure on US voters ahead of midterm elections &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Warsh's quest for quiet Fed gets vocal pushback",
-      "source": "Reuters",
-      "published": "2026-10-15T12:01:34+00:00",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTGZfUDY0VWFGY3BYQXAwTW5aZU1lUTl1bldnbk54UG9VTi1KRFlIeHpWdW1wRVRqNVJpTHoyZFF6R0lvejcxOEdQb3Z6dDVQckNPR2k4WFBWSWN5eUItNFNWZFUyTmJvNnhranNqZkpMN1RkSDhValZ0T0xkcXdUdEh0Y2drbm12TVFIUGxTUlN6WVE?oc=5",
-      "description": "Warsh's quest for quiet Fed gets vocal pushback &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Farmed salmon now being raised on chicken",
-      "source": "FT",
-      "published": "2026-10-15T09:37:43+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU0ROYTF5UWkxR2dzd1MwNkdQNFZBc0VWOVhhYThmZ2p4N0ZCRmh6MjdBblZkMXdnOUc3cnQ0N09oTEpKNlhDLURkSDZkM0ZQRnF0bUIxdlgtZ2ZWMXNza3p0Z3RnUDNyUS0yX0FuT0VtU25tRV9pU0lrU3h4N0JmbzhJOTI?oc=5",
-      "description": "Farmed salmon now being raised on chicken &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Is the K-shaped economy really more of an E?",
-      "source": "FT",
-      "published": "2026-10-15T04:01:28+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQam8tcG9HR3BqS2FjUjdVLWpBTk95am1MbWtCTkItVlhEaGJQeDZPc25ZZVdMeFg0LW9xcWVBZHlRS3FMTmlkQWN5UUJ4NExPN0FXelUtWHYyS2pEN2xvLUk3MWRpT2pZS1gxSjNWczcwUTh4T2xxTmJnU0ltLUxMbks3VWQ?oc=5",
-      "description": "Is the K-shaped economy really more of an E? &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Bowman, Supervisory Modernization After Silicon Valley Bank",
-      "source": "Fed Speech",
-      "published": "2026-10-15T02:55:00+00:00",
-      "url": "https://www.federalreserve.gov/newsevents/speech/bowman20261014a.htm",
-      "description": "Speech At the Bangkok Economic Festival, Reinventing Bretton Woods Committee, Bangkok, Thailand"
-    },
-    {
-      "title": "US chip stocks slide as inflation and AI debt fears unsettle investors",
-      "source": "FT",
-      "published": "2026-10-14T19:33:09+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV010dndEUEEtbWpidDZDc3dSbk1wMnNqdmV6V1QxN3VqektkZ2dlY010cVhrOXgzQkJrRWhxdXk1WVg4VlBId2lTNVFMRXowVTlBZGJKeHhpWDhjOER6NlZmdGZFWnc1SmhVSTRvTzJpbmdfTmk1d2xYWHg1N0VFUXFTaUY?oc=5",
-      "description": "US chip stocks slide as inflation and AI debt fears unsettle investors &nbsp;&nbsp; Financial Times"
     }
   ]
 }
