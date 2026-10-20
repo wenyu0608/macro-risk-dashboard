@@ -1,54 +1,110 @@
 {
-  "fetched_at": "2026-10-19T05:07:54.760723+00:00",
+  "fetched_at": "2026-10-20T05:09:18.428137+00:00",
   "headlines": [
     {
-      "title": "Gold edges higher on softer oil; Fed rate outlook in focus",
+      "title": "Asian shares tumble, oil rises as markets await AI sector results",
       "source": "Reuters",
-      "published": "2026-10-19T03:11:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcHBoaXFtRmhELVpxR3BOYzNDX3IzS1Y1UHZaZUlWRnBiY0Y3WWxwa19vSlVRUENyTGtpZVJFSEFSLW9hVWhEaktYRTVhVWpObTFOYThBVXNRX19VY0phaUJjSkdSMjFZQ19FUFZGMm44UnNpZkZGSnNCeUc2SFZ4c1ZZUU9lV2tiUk1odm44Wmc2WGVjSG5pYUU3QnE2NGYx?oc=5",
-      "description": "Gold edges higher on softer oil; Fed rate outlook in focus &nbsp;&nbsp; Reuters"
+      "published": "2026-10-20T02:09:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaHdteV9meHVjc2dvbmd1WjNPa1FHR2lwTFlEcmJPWE5zZnhHSFNjQndCeHptVW1NaEpsbms3QS1oSHRiTmZyUVp2ZVR0SlMwT1kxVnM2UFdyenVSblJHVW4ySjA3aTFUcGxvbV9iaHZZMzJVZTRQV1ZtM3BZMVd4RHFsaw?oc=5",
+      "description": "Asian shares tumble, oil rises as markets await AI sector results &nbsp;&nbsp; Reuters"
     },
     {
-      "title": "China's economy picks up pace in Q3 as exports power uneven recovery",
+      "title": "Gold inches up on softer dollar as investors assess Fed rate outlook",
       "source": "Reuters",
-      "published": "2026-10-19T02:22:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPelFIVGVwcy1oY2RvRVlaQTl5REpEc1hfS0ZUb1lTeWN0M2tBbTctTWo4NzVXeWthQVNab2p1eUFYQ2xtejBoc1ktQlZFQXh1U3hOSWdNdlBzTzNvcThPMFVyNnIzSTgyQ3lXbW8taGQtTV92Vl9uUGZOWjc1cGp6NTJBTDNpcWpEUnRCMjhXcVRYNkVXSFNwaHF3UGFGU0NqZTZWZzJXc0FyX3BnUkxhVWVSNzI?oc=5",
-      "description": "China's economy picks up pace in Q3 as exports power uneven recovery &nbsp;&nbsp; Reuters"
+      "published": "2026-10-20T01:33:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLVJCYm9CRFhWY01aUkRqYnVXb0RzRC1RUnhfOEFicHItalFBMnRMc0ZjcWRVcGNnZVg3ZXQ3WXNXeUZLN183enN0NFAtdmxuUHJhRU5jOHlQbTg1TldhNVdtbF9IWU1GZ1BfOEZvTnJpUEhGTE5xUkRSbl9FZVR4NlFJMEE2V1VYZ1hVRzk3SmpJMi1qelE?oc=5",
+      "description": "Gold inches up on softer dollar as investors assess Fed rate outlook &nbsp;&nbsp; Reuters"
     },
     {
-      "title": "China’s economy expands 4.5% in third quarter",
+      "title": "Dollar and euro drift, yen slips as markets seek direction",
+      "source": "Reuters",
+      "published": "2026-10-20T01:14:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOazFGS3ZwNDhmME9ZUDdoZVQzMkV3UEJQUEJsTE1LdnFTcjNXRzI2emE2Z3VvZE1YNGRpam95VTF3UGgyTVFjRExnWkJ1TGxpenBQUHFhbmU1MUpEYVhDcURRS05xQ1BycHRUT3F3bExRQjZfaUFVeGlKcHpmaGFEMkVwQ0RxSk5iLU4zaDVaVDJzQzEyQ0R4OVFZeHZuVXJKZ3pESWtudFQ?oc=5",
+      "description": "Dollar and euro drift, yen slips as markets seek direction &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Brent crude holds near five-month high on Middle East tension",
+      "source": "Reuters",
+      "published": "2026-10-20T00:58:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZlA3RXBMd0lXRU1feWpodXpZQ2tnUERkUHFQSlFGX2hCMjdrOVdhRVd2eVk3dmhLYklUdVM1WGtoXzc0cUt2OG44WjBYVFVZazFvQWo1UmJWRlliNzJHWlZBU1hScTU1RU9sVEdDVllsSWE4UXh5b0ZHX0VlU01fNDc3ckpxRkw3ZGdaM0xxMW1qOEhWck1XYUlSVkJWeVZyZWRRSkpqdTFQSmZhejlBRmkxZUJmMGtPVWx6Ym82SnNTcElaWGc?oc=5",
+      "description": "Brent crude holds near five-month high on Middle East tension &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "South Korea's Elice plunges 30% in market debut as data centre stocks shunned",
+      "source": "Reuters",
+      "published": "2026-10-20T00:17:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNU1JYM3hYdDlsc1JuLWVCVHlKcld3Skc0Y1M0WWgzbk1JNFVJbzhsNU13eVVmSUNTX0hPX1ZGUXotNzVkV3UxTi1yMTlhNm04S2lzODk4NlRhOXFDMUFfb1cxbXd3TzZoZVl3QS00aldHcmNieDZSZ0x1eDlEYjZ5NmRCbWVEeTQwQ2RreWdkb2ljUXB5cDlKalhpTWZ3SnN5ek5pVzlBRWNEQ0d1SVdOREpqMUE1LUZf?oc=5",
+      "description": "South Korea's Elice plunges 30% in market debut as data centre stocks shunned &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "FirstFT: AI debt fears spark default insurance trading surge",
       "source": "FT",
-      "published": "2026-10-19T02:19:14+00:00",
+      "published": "2026-10-19T21:38:23+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUC1PT3ktdVQ3Z1ZyLUJIbW4yLVZBTXVJRzRKRldTTWNfU3FfU2hhWDYzVnYxRzJEOVF4OVZKRmxlMWZqVlJfdGxaQ2R5UHJpQnpWQm9Gbm8tZmFCYWxWSlFQR2t0M1ZWOG40OEdZREh0d3JtMjlBTDBUeGQxMjU1aWxLS0Q?oc=5",
+      "description": "FirstFT: AI debt fears spark default insurance trading surge &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Oil stocks in US strategic petroleum reserve fall to lowest level since 1982",
+      "source": "Reuters",
+      "published": "2026-10-19T20:49:44+00:00",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTS1qZEVDSUY0Z2dXY0l6TzZCaGpGRnJOMF9Wb0Q1Q0pCVTI5YjN2Q2VyVXJKVnlQa1RuOEdYWWdZc3dQYjRxTVQ5RUVpZzUtc2hJMU50NlA2aUFhcHZCd3o1TFZ4c0hmdnZPckxSTHduS0JNN05CRWdKVUJBSzdkYm10U2pCSFIyLTlvT2NrRWVVOVhYSnpGSEdjSVJTZnJXbGhaXy1GUDBjVGttZl9BUkpzd0tYNDBGUUh4cUt4cw?oc=5",
+      "description": "Oil stocks in US strategic petroleum reserve fall to lowest level since 1982 &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Indonesia expels tightly held companies from Jakarta index in bid to avoid MSCI downgrade",
+      "source": "FT",
+      "published": "2026-10-19T15:59:35+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNekVzOVZPNGlMc3pRR0FWdXVGb3pzSW5ZXy1abGxmdFFhblZwMDM0SXdzVGJ2T1VieVExWHpDeTFjYmFidXlxcXZBanJsUS15ZnNjdE1GTkpJQkhUdWJ5TzVXbWwzblFyb01Oc3BOcnZITVU0XzB0cFI5SS1mbHJqb3pSbXM?oc=5",
+      "description": "Indonesia expels tightly held companies from Jakarta index in bid to avoid MSCI downgrade &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "EU drops push for global ban on Arctic drilling",
+      "source": "FT",
+      "published": "2026-10-19T15:36:34+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZFVFdzlhcGVFcUxOUnJXeTl5T0JJN0tMOXBLX2MwMG9sOXF0ZGdWRGlhbEVpTDUxS1pVd0ZvVmVLVWEwWFpPVXNXNkNObTF5WnZzeS1BT3h5U011X1RKNk9wRjF3UW10WGl1YXNvYUJkY3NYRkJZUG9oTUtKMmltTmhDdUQ?oc=5",
+      "description": "EU drops push for global ban on Arctic drilling &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "AI stocks bounce back after bruising selloff, CoreWeave gets Goldman upgrade",
+      "source": "Reuters",
+      "published": "2026-10-19T15:16:52+00:00",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQnRpUlhFSVItYXlyM2JtRDAxZFNzc1owV1VBSFM4VERhS3dYOW1wVWtOeERTaDRrWlZyQVJTVVdvNFktdG5oSGpjY0ZwY1hBbnllN2d6Qkg4aExFcWdNT3F3dWlxdTFtbU92WV9WTC1NVEw0QmlWb201cXB6NGJCajVtbmZjYnJ4MWZ3TDZYR1l3ZmZFRFJORzhlNE1Yb0QtNDlyc3ZnY2tuenV1OFgwVQ?oc=5",
+      "description": "AI stocks bounce back after bruising selloff, CoreWeave gets Goldman upgrade &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "French markets tumble as riots add to political crisis",
+      "source": "Reuters",
+      "published": "2026-10-19T15:13:43+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa3dENVpSdjlaYWJ6dmVsNlJoS2hqR3dqWVczcHhGMlJpeVpoeGNuWUlacWJSVGN2UmhHbENLS2tjWW5vcmZyeUUyUDNwS25uLVI3bGJDbmdZR05pRDY3THVPa1dmNTVuQXphWWxNZzFHN1ZqMjF4N3hjVVZUUGdEQ1BEeXlRcmdPblBYcUh1WTVBLWN4ZkYwX2FLd1NfWEpoRXQ4?oc=5",
+      "description": "French markets tumble as riots add to political crisis &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "BoE scrutinises Barclays over claim traders misrepresented private credit exposure",
+      "source": "FT",
+      "published": "2026-10-19T13:54:39+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTmdOMTFXOHNTd3N0OUprak9ySnBPUGJEelREd01qWGttc0VPc0NkVzNFTm9oMzVuUjVqdDlpcTdDWlVPTVRjN24wOFNDQ1U5NDNxZEdudDVVRXdwVXVua2F0dEE0dGVBei1JWFlsalRwTnJSX0psdFV5VkMwb1BuZDM0enU?oc=5",
+      "description": "BoE scrutinises Barclays over claim traders misrepresented private credit exposure &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Indonesia’s market is dysfunctional, not uninvestable",
+      "source": "FT",
+      "published": "2026-10-19T12:55:32+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYWtydXZNWWItVzFWZGthX1pZd0NRTUEtWGp1SDVzbDJCMmpodE1teUtCS2kta3BOYzAxT29CSVJjWWdIUXdQNnMwcjFfSGx6ZmtxRHNJODQ4dFBGd0pqVERzdmRDSDd5YS0zSGhWTmpJeGs2dEE3dThPOG81eFJEa0pLOU8?oc=5",
+      "description": "Indonesia’s market is dysfunctional, not uninvestable &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Rising interest rates derail property recovery as buyers recut deals",
+      "source": "FT",
+      "published": "2026-10-19T10:51:31+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPT3dUTG1neTZ5T1JpbjBFOFFZbVB5dWlYVTVOb2c2azlZZ0VLdnpOWW1OX3hmZ183WXB6VF9fc2tVcjNzUGNaaTRwd3Jvd2tISkhRbUlhSHJuZzhWNUdFZUVkY0J6YmN4dE9CWWxuclk2LWliMm9QZUZ4anhZVkplTnBBYi0?oc=5",
+      "description": "Rising interest rates derail property recovery as buyers recut deals &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "China’s economy picks up pace with 4.5% growth",
+      "source": "FT",
+      "published": "2026-10-19T05:08:36+00:00",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSGVKTFBJR0drUjlPSjZvYjZUeDBaOVlDQkdsSWRLbGJ3ZGxfTEs0MmR6bFVkNXZDczVIcGV2WnlfWFZnSk9rTk9OVENhQVoyd3I3YThXdlFtenZKbWozZGFIWXktSVQ5T2hlNnh4amxMWkNVbjZQM1BGUmJHTDlRRjVVa2Q?oc=5",
-      "description": "China’s economy expands 4.5% in third quarter &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Private equity looks to South Korea as next Asian frontier",
-      "source": "FT",
-      "published": "2026-10-19T01:31:58+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSjNJaWd0OGQ5TzUzUW9TWFZNdnVHeWpQSWRRcmQtRWlNNWtyMF9rcUtIcTlPa2dPbWdaWm5fODgxVUFyVzkyYUowR1JIV0E1LVRJTlRxVXNYcldEQzlzVjdTM2xxcU1yNXY2MWpBSHpiNzRkczgzaWdRZUpVS01yREFiLTc?oc=5",
-      "description": "Private equity looks to South Korea as next Asian frontier &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Asian stocks slip, Wall St and bonds benefit from oil skid",
-      "source": "Reuters",
-      "published": "2026-10-19T00:38:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLVFWRVZxMkJLTnJJaThPRWdnNTFRbmc2V1FTYW1CbUNZc1hNYkZKd0xCbHJTeUpzYnNzYmx6RS1aZS1FNnBUcGx0VHY5bFZmY2xTMU1nZHlJNTNpWmliOE0tcmJ5d0JpeVJlZmw3Y1RuRnJvQWZSQXJraTNtN1pGOTJ4RQ?oc=5",
-      "description": "Asian stocks slip, Wall St and bonds benefit from oil skid &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Indonesian stocks slide to six-year low as MSCI warning weighs",
-      "source": "Reuters",
-      "published": "2026-10-19T00:36:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQREg5RnZxam01U0FhNE1NOUhVWE9fM0ctLWd6VHBFY0d4ZjkzN2JPS0M3a2J1Y3M3X3VTTHhrTVBOaUZ5eWhZaDE0NDZVR1ZuNXB5N2dTbGUyVUdLSm1MNURGSmZiSGxsUWFWbERoMTRFbXZQSkhoVmlwTkpCRF8xdGVDMXMyUEh0N05lTUVtR0FqZU52NW9jVWtvR3lCc1UwNWJMcWc2N2pIbjQxM2c?oc=5",
-      "description": "Indonesian stocks slide to six-year low as MSCI warning weighs &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "China's Q3 GDP growth set to pick up as exports power ahead",
-      "source": "Reuters",
-      "published": "2026-10-18T23:03:43+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcGVkYXFpU09qRXZIdVQyMDVVaHpJTUo4dE15M2hUSnM4Zm5VR09CLWNRelhzZUd3VDRSbWdCQkljSnJtTWoxNkJ0WXg4cFNLdExWSUlpV3ZEdEhUdTB4WG43RmIxQ0FqMlZrNUpnQ3liTlVraFdfbW1mTnBueVdNMGdaaFAzMVdFdW5nMGFaTEFTMmdqdVNERTA1RzlGanVEZVE?oc=5",
-      "description": "China's Q3 GDP growth set to pick up as exports power ahead &nbsp;&nbsp; Reuters"
+      "description": "China’s economy picks up pace with 4.5% growth &nbsp;&nbsp; Financial Times"
     },
     {
       "title": "US rate rises are being amplified in global markets",
@@ -56,62 +112,6 @@
       "published": "2026-10-18T23:01:02+00:00",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92RWVoUExPdG1BTDN2am82TnZpTXhyaXB6c092ZHJraVpQaW0tY2pUdGtJUDNjSjBrMHVoVlBrV09vdm1GdUdFRnpRWkNEMUhiU0w3dDllSW1oLURmeWRmMjlvVkloRUJOT2l4NnRTVHA?oc=5",
       "description": "US rate rises are being amplified in global markets &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Oil tumbles as Trump's Russia sanctions waiver may lead to more fuel supplies",
-      "source": "Reuters",
-      "published": "2026-10-18T22:23:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMmVLc19hd0VSYXIydVNTWENKZ2J5WVNvVDRQUjRfTUJXWGhjOGxGZkFHVm9SNnZzeU9TWUhrYnJTRU1sVFRnX1BwZVd3NHB5a0NLdThkbDRldlg2eHdhTll2b3RnQTJ4U3dHVGczM25FdjJHRGQ5WGJDV2Qxd1hzLV9EcjNWaUQ4cXEzbWVHRzNuS1dGVVNBSmdXWGR6THN1dXhvSUdFS0dMMTJZTnBBZEFfZ2JoYVVFSWNMZw?oc=5",
-      "description": "Oil tumbles as Trump's Russia sanctions waiver may lead to more fuel supplies &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Trump’s bid to make America cheap again has failed",
-      "source": "FT",
-      "published": "2026-10-18T15:00:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRV94ajBLLV84UUoxN2YtUEhILTN0MW1oSWJoMUlFVHFFQ2tTc3pEVnlGSkx0cEU2Q1BsRzJyTnpYZDM1UmxISGN5SjM5bGc3Y3B2ZzdGeW5jdnNKLTVyY0xZWEo4NEFRVzdGaDFRRGUyVHlnWG5oWThsU2k2cmtyTzJQeTA?oc=5",
-      "description": "Trump’s bid to make America cheap again has failed &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Turkey will get some diesel from US-Russia supply deal, energy minister says",
-      "source": "Reuters",
-      "published": "2026-10-18T11:51:44+00:00",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYjdhZ0V0TGxFRVBoQWVSMVBlOXFvdm1rcFlmWm45dVdYS3FJdm5ZdExGM2xRd3hhb1hvWUJYdnVlRG50bm1CbjJubjRnM2JtVFp3UkdiU0QxcVJEbnZyNC1HSDhOYUM1THhiTm9heG9tTV9FTHpwMW1BOEhxN0Q0WjlocVJMZV9TSUlIN0RMZDdkQmpPQUhUQk40bkNDdzdMSVhEa3U5eUZKd2R1OVBqajZYTDI5cDhTT3FaUk5uZw?oc=5",
-      "description": "Turkey will get some diesel from US-Russia supply deal, energy minister says &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Will Meta’s earnings restore confidence in the AI boom?",
-      "source": "FT",
-      "published": "2026-10-18T11:00:09+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa0dLZjFRUFhkZ09TakpoR2g4N04xVzhfMHhPNEJRamZXekl4Z2ptRVUyTTZEN2tuOVNfaHRFVUZiTThYczhSaU9CcmVra0M1b0w2SG1URGRkODcweWFnT21BQlNwazJxdjk0U25MODNLMVRyb0JUYmRfT0t6NmJ4RU90OUc?oc=5",
-      "description": "Will Meta’s earnings restore confidence in the AI boom? &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Not every billionaire is a policy failure",
-      "source": "FT",
-      "published": "2026-10-18T11:00:09+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWC10WmFPeHY1TnVSSEQ3RFZ1T3RNNkxtaDRmVFZrWmlac1prOFUzSTJrUVlYT0RUUTB5ZDN5RG9NbWZRazhpYm5PaWdLbTZQZUgyWERSY25ROXpnUWpJRXBuSlNRRWxiZW1XQ3Q0cmp3b0hTdVZQRmRNZ0RxVkxhQU5YTkM?oc=5",
-      "description": "Not every billionaire is a policy failure &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Macron urges calm as France counts cost of worst unrest in years",
-      "source": "Reuters",
-      "published": "2026-10-18T09:49:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd1VSODRfY1ZTZlpfMVBnaXZzSi1KU1ZsUlJWcWZBaWVaQ0Fyal85ZmEtdkR3ZU94c2ZEeGNzRXpIamtSQVdfVlpJWTdhcEY2ZkZaMFZGZzlTVTVCTDRoUDJybE90dGJGYTNmU1NwUTJDNmVZZllXTDFSR3hIVnBTV2lYTk9LM2N1MlREWk9VOEtidHY2?oc=5",
-      "description": "Macron urges calm as France counts cost of worst unrest in years &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Global economy set for AI-driven surge, FT survey suggests",
-      "source": "FT",
-      "published": "2026-10-18T04:02:01+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPek5iaXFoTHVyNTRqTXQzcW5JMldUdU85LXV1eEkzQ3JQSVRLOXNndmkxOW5JWmxjZld0UjZfRzBVemYzZ3ppNmFYd1ZpcXcwN0ZmaG9nME55elQ0Wk5rdmhQU0dKWTNKZXhxV2gwcXhtajZiM3ZiUHVBcy1qMlNFWVVzZVk?oc=5",
-      "description": "Global economy set for AI-driven surge, FT survey suggests &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "America’s $10tn AI infrastructure boom is starting to fray",
-      "source": "FT",
-      "published": "2026-10-18T04:00:47+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQUlwOUY2SXQzRy00SDBweWtyS0hkQ3I1ak5XNlBnNXlPbmktcDJCZ2N4MGdlVGhScmRoWGZRZWl1aGlpVjIxZVVENVB2blExdnpENzNrZkk1Z2xPcXlOakFxYVBXYlE5NkRWamdqZU9nZkg1SF9PNTJkXzFwQUJTdUViT0c?oc=5",
-      "description": "America’s $10tn AI infrastructure boom is starting to fray &nbsp;&nbsp; Financial Times"
     }
   ]
 }
