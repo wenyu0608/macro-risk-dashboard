@@ -1,117 +1,117 @@
 {
-  "fetched_at": "2026-10-22T05:15:09.628810+00:00",
+  "fetched_at": "2026-10-23T05:13:34.447423+00:00",
   "headlines": [
+    {
+      "title": "Asian shares wobble as tech rout boosts bonds, dents rate hike bets",
+      "source": "Reuters",
+      "published": "2026-10-23T01:50:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMG5uTk9BQ2lzbUtHT1k4Nlp4RlRCcXFvVXR5YUhCamhubGQ1SlB0c2FYczVLdl9ESzJBRzdkNmVuYU1ISVc2MndXWnBZTzBDNFdzeHBEQTNPTGU2SGhBTmtKM3Z1SWUxR2szN20yYWIySGIzUXlZcXVhdGNtTlJNMGN1WQ?oc=5",
+      "description": "Asian shares wobble as tech rout boosts bonds, dents rate hike bets &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff",
+      "source": "Reuters",
+      "published": "2026-10-22T23:54:52+00:00",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTWxDZDg5X0padGNvb2k2V2ZkX2tEWW9YWkdjeVdMZHNUTlg1MXY4TmUyTDZHdUhNTHFRNWRPRjc2VFlEN3RXTDhNSjhDYmRfTWZGXzdKYXdLejRHNGgwRVdNbmZRUkFhSm9GakxMek56UUZ2OUtqajd6NVkzRkR1VzBNWlo5VWp5NUFkX2phUjlSSFlndUlNNGxvUXlHSm1wMlpTbkRR?oc=5",
+      "description": "S&amp;P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "India's markets regulator proposes easing approval rules for some exchange investments",
+      "source": "Reuters",
+      "published": "2026-10-22T15:32:28+00:00",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPandGLVdqR1pHdFN6dlJ4V2RMUGdWV3hycXM2VGhZY01YN19IeFVjOEgweE1mN0lZeU5VVWt6QVJhU3JjN3l5SS1jUlZiTW4tMERHSFhDMHpiRXZMNjl5YUQ5ZmhVUFNvZnVvejBoc2RrUm41dWliRHBHNUhYYjJkTHRPSHhSQkpFZnFBNE5jYmxFbl9Ld0tOTEZEVGFFUUxkRjFTSUk0ZTk3ZU5kdVlfeFZILTZDd2l1b2xZdDc2aw?oc=5",
+      "description": "India's markets regulator proposes easing approval rules for some exchange investments &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Gulf markets fall as fresh Houthi strikes on Saudi Arabia raise regional risk",
+      "source": "Reuters",
+      "published": "2026-10-22T13:44:22+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQS1ESU5ra242UzdCbkxuVkNzUkV2NWZVTGlRcDZnSzJBeE5KTkFyMEZvaTd0ZEl4LWduc0lmbGZkRnV6REF1dV9VUkRESHpVM3lLUkt0SmtfQzJDLXdnZ0l6akwwOWZpS1lza2tSbHczcnlpU2JPSXo5eHNrY0c4aWNpWjNJSlFYa2M2UEhDNnVsUnQySGF6MVJSY1FPam1LSlliSkJUTzFKck9tZ2J6S2xlUnVSam1TTllJbUxQWmtTcjQ?oc=5",
+      "description": "Gulf markets fall as fresh Houthi strikes on Saudi Arabia raise regional risk &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Turkey cuts interest rates despite $18bn investment funds scandal",
+      "source": "FT",
+      "published": "2026-10-22T13:06:24+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMXBHckwycDVUWEpUcWQwTVpIZFVtWmNzR190TlIwb3piTEZxMEJhOFpiQVNHa1VueEI2aTVRWkhFb1R0THpUUlIxS2Q3M0lMbnYzbGRKZXVTbUFVOW1YbnpDNjdxRFJlalZnZU5vdkdjd2Y0Q0JNLTBWVEpzVWZHRTEwTjk?oc=5",
+      "description": "Turkey cuts interest rates despite $18bn investment funds scandal &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Blackstone cuts property valuations as higher rates hit returns",
+      "source": "FT",
+      "published": "2026-10-22T11:03:21+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR3RuWW4yUE5ReldySFFLNDVxbG5YdVhESTlscFF0dFJUNmtxRHlCMUNaMlA2NFBJMGhrLWJDSGQ1SGNtVzVYSjFMTk1NOW1DbUp5cEhUV0p1N2NoYmdJWDZNcnpBN3pUdXBuaHZKZ2ZLbWV1TlN4QjVuaklZV29kR043V1g?oc=5",
+      "description": "Blackstone cuts property valuations as higher rates hit returns &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Websites taken offline in race to patch PHP security flaw",
+      "source": "FT",
+      "published": "2026-10-22T10:13:57+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNnllMzVYUk1RYWFNNFY1MGRiSUpLYVh1eV9sdTdOeHFVVEp6cGxVQ0xld1hQTHpvOHlRdFhEOVFqdEMyQXZQU1pkbk9nd1padGRWbDJVTUljTm42akQ3VjFlOFRGb3d5QnZnVHNyYlV6UC1LVFZNTXpFRktBRVdSNHdVcWo?oc=5",
+      "description": "Websites taken offline in race to patch PHP security flaw &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Pound edges higher, outperforming as investor nerves rattle euro zone markets",
+      "source": "Reuters",
+      "published": "2026-10-22T09:48:09+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNjNoMVJaTEVIbGhjVlBPOVdQN1FYS1JDV1RCSFBUNFlFYzRpNmpCblMxMXNqYXk2WHRBSENOcUdHU21NdllLazl3Q0tWY2QzNXRrdS0zR0IyNThDam0wXzhSb0RhMEp0aUprRVRRbVZhY25yMUp2eU9lalpJYTBDNlBzSVBfQm1RdzJETllUbHhfbnMxSGlRT2hMUXAtTHVIZG1zTUl1ams0eVVWN1hFd0VzSGdTSlVJdWc?oc=5",
+      "description": "Pound edges higher, outperforming as investor nerves rattle euro zone markets &nbsp;&nbsp; Reuters"
+    },
     {
       "title": "Which G7 economy is the profligacy poster child?",
       "source": "FT",
-      "published": "2026-10-22T04:00:21+00:00",
+      "published": "2026-10-22T07:46:38+00:00",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYl8tTkVVZmlUX0U3YWs1dU5HZVRBc1QwT2cxUUZxN0ZvZDI2dDlIZW9FY3JtZmY2OXBRNVhjVy0wbGd4SDVBNTRnTENzaEpDLVNIRkN5Smw5NFJrUk9Hd01mMXM2SDkyczhVNHhzaUd4ZzIzemV3SnBWLVBjY3oxNnJSaFE?oc=5",
       "description": "Which G7 economy is the profligacy poster child? &nbsp;&nbsp; Financial Times"
     },
     {
+      "title": "Nasdaq tumbles while Treasuries soar as Meta rekindles AI spending fears",
+      "source": "FT",
+      "published": "2026-10-22T06:35:45+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcjc2Qnc1OUdYaTRkWFNLc1N4MGhZUEk0QWg5UXdkaDdyMF9qcjV2WUFPaW1JeU5oT3VZaTdPdHBpQUYxTy1fb3ctS3NUaWRuS0F3VlJaME9ZVXp2cFJIVEtIaXZUN01PaS1fRi0wQUtaN0VnMzdxMEh0cldyTHRFSVY2czE?oc=5",
+      "description": "Nasdaq tumbles while Treasuries soar as Meta rekindles AI spending fears &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "China's Xi calls for qualitative improvement, measurable growth in economy",
+      "source": "Reuters",
+      "published": "2026-10-22T06:13:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWllVbXM0azZlXzdGa012NnR5VUNOMVZ1VmFlNzBFanFsMGdwVVpucGFDMm1Yc2IzNVp3SElaZnpHSTBYZWF3N0o2UWRsaGxmTXRmMlVPNkt6TzVZUUF5V05aUnNucFJyYnNKRTBZNXNqOTl0WWNCUl9udHZYdi12MFhvTFVaVjRid1RaOTktaHhTX21VVklYb2dWSW5IMVdTTWREcjFHOUdyczlpWDdjR1ZDaw?oc=5",
+      "description": "China's Xi calls for qualitative improvement, measurable growth in economy &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Turkey markets $10,000 drone defence",
+      "source": "FT",
+      "published": "2026-10-22T04:02:36+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNGxFbUdKVTVxS2NnSzR6cllrY1UwanM0NlhjdkkxV3Joamd0RVlfb2IyRUowVkdoWEhxajhOV0VDYnNMd3NPajNfdC1pZjV5WTFMTU00cTExU3RoY21PcU41R0dUTzd4RmxaU2pyTkRPRXdNZmptZDViZWVHZEhfNWFWd20?oc=5",
+      "description": "Turkey markets $10,000 drone defence &nbsp;&nbsp; Financial Times"
+    },
+    {
       "title": "AI and inflation: how worried should central bankers be?",
       "source": "FT",
-      "published": "2026-10-22T04:00:11+00:00",
+      "published": "2026-10-22T04:01:02+00:00",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOakdRMHZqNGZmX0JldFA5SzR2b0ZoYXZUZFBkNkJPTUZNSG5jUEpKbGQ5YUVab3BGXzczRUstSXNCNDRIQjI5YW9BLVZleVV0TXBXQXpCUERCeE12UjBIbV8wSzhuVFF0Z1lmR0FacktFYWxWQXVxampYQ0d6aW96Q1luNlg?oc=5",
       "description": "AI and inflation: how worried should central bankers be? &nbsp;&nbsp; Financial Times"
     },
     {
-      "title": "Asian markets dip as investors weigh tech earnings, Gulf tensions",
+      "title": "No wars and no inflation: Has Trump delivered on his big promises?",
+      "source": "FT",
+      "published": "2026-10-22T04:00:46+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNX2txX2JhRDEtN1hwUTJ2X1JKUDlQNmhLRmdxNFAyN2dTTkNkUVVtN3Mxd1RFd3Nla3lqMUw2c0ZfdHZzQTF6aHFockJMMzRoRVVpUmp2OUNFWUlpRXVXYktDTWZHTUlKVjNnVm95SzJkTjhWbjk3OVU0bGk5d2oyLVhoODc?oc=5",
+      "description": "No wars and no inflation: Has Trump delivered on his big promises? &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Stocks drop as Meta fans AI worries, Treasuries gain",
       "source": "Reuters",
       "published": "2026-10-22T02:15:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNmlzbXFUNWNXc3U3RHRac2lYVEhXNjZmZGw0Q19yNVRORUEtak91QlJnTEVqcGhWT2xuT2RmOHdTVHlyN1JmSHRVZEpfMzgtNEVMT1RCWk1VNGswaVFYTXI4WlFpUE95aEJid1NxNVNBdzBGX0pzOUQwMnZnQ25kOVNXQQ?oc=5",
-      "description": "Asian markets dip as investors weigh tech earnings, Gulf tensions &nbsp;&nbsp; Reuters"
+      "description": "Stocks drop as Meta fans AI worries, Treasuries gain &nbsp;&nbsp; Reuters"
     },
     {
-      "title": "Dip in the dollar takes a breather with Fed in focus",
+      "title": "Yen jumps as oil, AI and France worries rattle markets",
       "source": "Reuters",
       "published": "2026-10-22T02:10:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeE9SaFExZHZyS2plVTA2NHNkbDFpcGpBSVVhc3J2NmZrRmtMRW1uY0FUU0JDMGtFQncxcnB3bUlFY21oa3V2VTZtOWsxcEVrWFhfOWZOd2oxY09XaWtpQ2ltWnE2NFFTYmg0OVNhaHJLVFdocG9NdGh1N3hjVzRPZUJlVW8wRFU3N24zR0tZbjk2bkNGVFhXaE1qbw?oc=5",
-      "description": "Dip in the dollar takes a breather with Fed in focus &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Nasdaq leads Wall Street gains as SpaceX, Super Micro boost AI sentiment",
-      "source": "Reuters",
-      "published": "2026-10-21T23:11:13+00:00",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZUJTOXdaa0JmVzZubm12MGt4VnNSemsyOW1fQXpCMnhEc25HSVJRZk93d2NYUXQ3eHBuQklaNE1FT1QyQ1NqdTFkdExDbmoxY2JtOWhLQkVtYXczMHh3a3VsZmhub1JFc0FIZHN1eEcwc3FRZVZWQnBoSjFjekFYTUN6X2d5WHJUWGpDU2paekhhU24zenhNbWpXUmtfdmo5cTFIZVZwTXdiRzZoeUtiazhHWkJEWEVZLTVmQmRMcw?oc=5",
-      "description": "Nasdaq leads Wall Street gains as SpaceX, Super Micro boost AI sentiment &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Brookings paper offers broad plan to shrink Fed balance sheet",
-      "source": "Reuters",
-      "published": "2026-10-21T17:20:10+00:00",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOWJYd0NERVlESGhjUzBFQm1tQkdDMVZtbnZxXzByQkxIS29abXpTRXZqYXhyamV2b19FbUpCR2RoWW9aUGVvenh5Q20tVWpWQzhRYnQzTk1iaEtQZWxPTnJUZU5kUHR2NUxvMHlLS1JRR0g2dFktUEhCbDVvTGRUU2YybEk5SzFYRjRpZjFqUVhKQ0JQaElseUI2QjhGMmY1R3d1NGZxcmYwMVlyQ1dvWQ?oc=5",
-      "description": "Brookings paper offers broad plan to shrink Fed balance sheet &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "UK approves development of Jackdaw gasfield in North Sea",
-      "source": "FT",
-      "published": "2026-10-21T16:49:02+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZGxWWjZUZU50ZVc5TEJ6VmtPN0pBb1Mwa05hdGlLM2c0aEczSWhXYkthSy1FZFd4dkxBS01IdkstS2d6MGpfbnpNbkZwallQdlhsQ0lBSFJtRUNyWU1GNnlLRW82blhrZnEzalJGSWtIVXBYYWxMSWYxdmFoeGFFMExTTUI?oc=5",
-      "description": "UK approves development of Jackdaw gasfield in North Sea &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "ECB says AI, greener economy help euro zone weather energy shock",
-      "source": "Reuters",
-      "published": "2026-10-21T09:02:41+00:00",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNVE1WFlPV043OWhlQ0E3TXFCSnNmQmhLaVBsS0l5TTlRSFNGNlUwY3pqZllBVDQ1alFzdXFuTEowN0RlRU5jMkdmNjFzU3hRM01XdGc4TVVvQWhOdWp5aGQtNm9sdUhzWWUzWkN6VTUzeHFtWjk4aFlTdzllSGZtZTFYX0gzb2k0TkFyRUZrYnRJTmF4d2JJZWwtN0s5RzVaRDhLYmgxS3pqRERvSTFzM2VxVVZubDQ?oc=5",
-      "description": "ECB says AI, greener economy help euro zone weather energy shock &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "France’s borrowing costs hit 5% for first time since 2002",
-      "source": "FT",
-      "published": "2026-10-21T08:17:23+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQazNjMTFvYzBSVFF5Y3dPMGx0WkI3SEs2UlNmRFQ5VkdrMW9UVUVEV3FPRmNDWHJQdmdGSDY4bEtRdm1lVlY4LUJkTm13WVgwZzh6cVRmR0tYck9ZM19INEIyU1k0LW0xalJiVmRaMGUzSVpnMlM0RWlid0lzeWNrME9WVkI?oc=5",
-      "description": "France’s borrowing costs hit 5% for first time since 2002 &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "UK inflation and borrowing top forecasts in blow to John Healey",
-      "source": "FT",
-      "published": "2026-10-21T06:01:16+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ09jSFZYZXFETEJjMW4zdTVSaGk3ZzhabUlERTZyNkhPcUtnUXVRaTRPbWVLRWdpZ2tKMUtsOFBzMXg0cjYxd0JMQldyTm1jbzJLd1ZrMzJjVW92ZndwMy1qR2Y5TUp1T2hMNE53Ulp0cF9EQWN0cFNuSFNFZll6bndEbkU?oc=5",
-      "description": "UK inflation and borrowing top forecasts in blow to John Healey &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Crypto exchanges race to offer prediction markets to US customers",
-      "source": "FT",
-      "published": "2026-10-21T04:00:40+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWkZHanZpdTBZaDlzQ241Y3ltUE53a1NoM1VDa2lLT08zbTRzTUhMaVRTTGktTUE4eUJpOFl3ZjlXM3FiZ0tLcEZSc2h3NjJMUUd5c3RDd005blVLTmZST1BGOXNHZnVOYXRYaUNfS2hlRUw4UW5pVUUyRW13UEE2QjN5YVk?oc=5",
-      "description": "Crypto exchanges race to offer prediction markets to US customers &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "In charts: Indonesia’s Prabowo Subianto misses beat on economy",
-      "source": "FT",
-      "published": "2026-10-21T03:49:55+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUjh5NXFXSTFMU293Y1RVdWdVNUhUakhfQnM0bHdHbU9pU2k5S1ZpVG5qSWp3aHRiekNGRjhZN2FnS3pEZDFZZkQtMnlDbzctN3JfNVRIenJrUGhwM0pNNVpKampXWldXbU5QdGRaVVV0eEVQYXVuV1luMWlneklRQmJfUEg?oc=5",
-      "description": "In charts: Indonesia’s Prabowo Subianto misses beat on economy &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Gold edges higher as yields retreat, Fed decision in focus",
-      "source": "Reuters",
-      "published": "2026-10-21T03:45:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY2dJZXdfdnptbDVvajUtNHBONy13T1Z5aEtVc3d2d2VDYUNpUEpTM1JxNGVZRFhiQmh1b1U2RWpOaW0zVndyQk9uSFZ6b0pQXzVvNUhRMFVXeEMzS3BrU1FkdE9tNEYxY21PdDFEWGplNkkwMkJ2Rkk5VVg2VUVDcXFIUmp4cUR4SnhqQ2h6b3hYTExtTkhCNGtqZWt6WUtUYURrc3owUUptdw?oc=5",
-      "description": "Gold edges higher as yields retreat, Fed decision in focus &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Two Asian giants, one economic trap",
-      "source": "FT",
-      "published": "2026-10-21T03:01:36+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQamVwTDh0YzZFMF9tWHdKaHlkZl9wSUh3WXpFZEFaalVWRUhWREdNLVJHeW5ISGJzSjVlSFpTZnJzSktpYVgyS19HRElKVm9aN0cxSllKdjhmTm1mWnZaTlk2U0NrQjlHRmRzOFFST3ZOdUpKLVJxQlk0Sk9fQ1M2MWFheEo?oc=5",
-      "description": "Two Asian giants, one economic trap &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Stocks rise on AI-led earnings, France's 10-year bond yield hits 5%",
-      "source": "Reuters",
-      "published": "2026-10-21T02:10:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMXhrSmpaMk8tc0RERnBieWlyRThFeDE5X25hNy1JYTZxX2o5Q0wyMlJ0RFZheXM0S1VPUUVVcTBobHlJR3hSa3prRjhjaUVGdXBNcGNybmU5anZLOU0zdXg2TmFoYXNqSnVuRXpxQ2dwTnBYTWpOZEdIQUtVVEVqN0h6TQ?oc=5",
-      "description": "Stocks rise on AI-led earnings, France's 10-year bond yield hits 5% &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Dollar dips as traders wait on Fed; Aussie gains",
-      "source": "Reuters",
-      "published": "2026-10-21T01:20:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMmhtRnJCbDhIc08yUUUxQnBOU0tmczBNT3JOTjBKVy1LY0VCUW1pdk9hNW83QXdqM3pKOGthelR0NldvLUx6ZHdfUWpTTnpHOVhVeG9nR0tUWjVqNlUyT09jbVp3eUZDb1RLbjhLakZYUXZfcXNoVndFSG50cUw5alpFRHVpNWdUMWtxLWpXMUZsdFE1RVhtX0RWVkVLazFFNUlIZi1fcHRJUjZYY090OVBwaTZMUnJ4TmdtbWFR?oc=5",
-      "description": "Dollar dips as traders wait on Fed; Aussie gains &nbsp;&nbsp; Reuters"
+      "description": "Yen jumps as oil, AI and France worries rattle markets &nbsp;&nbsp; Reuters"
     }
   ]
 }
