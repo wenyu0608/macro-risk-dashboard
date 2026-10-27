@@ -1,4 +1,117 @@
 {
-  "fetched_at": "2026-10-26T05:11:02.024011+00:00",
-  "headlines": []
+  "fetched_at": "2026-10-27T05:26:32.954244+00:00",
+  "headlines": [
+    {
+      "title": "HSBC quarterly profits surge 32% on higher rates",
+      "source": "FT",
+      "published": "2026-10-27T04:19:14+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSG5HYVQxeHRKVVBXSl9md1RDWjZfd0dOQmxPS21QYy1oV1B2a0tYcTFXMjV6MmhNRnl6d0pvZTZVTU92ZmxabHR6QVViNjJ3RWs0b2hyR1hScTJabGhWR0kxM1RkcFVzd2lzYmQyQldQYW9BSnREcmNmMEJpRlBmOXVGMzc?oc=5",
+      "description": "HSBC quarterly profits surge 32% on higher rates &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Global markets rise as AI trade regains steam",
+      "source": "FT",
+      "published": "2026-10-27T03:32:40+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQm1VVGN1Y0lKVHlJU1dwUWROSDZJbTRQcmlPelZiTXhUVVZENUJsRVlwd19uZ1J4QzU4N2ZjNG15cHMtallFb2M4M1kxaThOVUlOcHh1ekxtdlA3aWQxSGtRU3lQc3hIOVY1SGhjb3NXV1pqRTVtaDJDWktIaHJZQnBLRmg?oc=5",
+      "description": "Global markets rise as AI trade regains steam &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Asian stocks surge as Anthropic IPO lifts sentiment ahead of earnings, central banks",
+      "source": "Reuters",
+      "published": "2026-10-27T01:46:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdEdzTDdxbEtNX1l6VDJMdF9NTGpUNEJPYy1jaUo2SkllaGhJZnZvNzZOOTd5MkZHV3p5T2ZhcjlkcWduOXp5elFKREQ0bFBib0pXUzNKdGI2QmE3eWZxRlktZXhSZG0tQzQ4U1dXNWxOZktiZVZvc1pNUERsYUFLVUJYSQ?oc=5",
+      "description": "Asian stocks surge as Anthropic IPO lifts sentiment ahead of earnings, central banks &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Equities end higher as Anthropic's IPO filing buoys AI stocks",
+      "source": "Reuters",
+      "published": "2026-10-26T23:28:41+00:00",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVVlfUU5UYnVIOHVRRHJCaWJNQ0NtM0V5aXdZUE5QSEhGVTAxWmdXcU1KeGVEaEtYTXlEal9YNjMwblR6bGZQcm5HODd6N2xnNUppZzdXMDVTSWwtZEc3a3p3Q0M4VzRtaHo3QTd1VDJpaGNPQmw0WjFNaEMyQ2JyOVpGcmZEbktIdk45OHp4blZxdzc5UllRT2V1cnllVTVVTjVYZm1IZ0VjWDlwTnc?oc=5",
+      "description": "Equities end higher as Anthropic's IPO filing buoys AI stocks &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Trump, ignoring polls, predicts economy to help Republicans in midterms",
+      "source": "Reuters",
+      "published": "2026-10-26T21:28:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOU5yTlVhUTJFTW5ST0QtN0RZenRnQ2ZpSjd1MF9PSVNBbjZ5Q3E4UnhCeGJzckcxYWxyd1U2aHhzeUxEWDRIb0RwZUVPbWphbmVXcXZIRldHODFCU3VXYmpiOWJXczJjRGR1NGNXRF9xWjllQkNzYWhndTE5bHpjVWwwTDJldEJYSXdTNGtzc2ZLdkVrb2wyRzd5WlpyQQ?oc=5",
+      "description": "Trump, ignoring polls, predicts economy to help Republicans in midterms &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Brazil’s currency plunges most since 1999 after Lula’s election victory",
+      "source": "FT",
+      "published": "2026-10-26T11:41:31+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQclRjV0ZBdGp1cGRkYzk0bWN2SXVyakx5OXlmSnJoTGpXV3p6WWNESks5R0pXN0lGUHJUVEdYQ0h1eEdaQmpTZUdXSm9OQ2lMRWxPcUVZeEJJbFk1SlBpNFhKeG9oNjl2aC02RDdOU2Vxd2ZQNXZobUdETzhOR053NVVkOXI?oc=5",
+      "description": "Brazil’s currency plunges most since 1999 after Lula’s election victory &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "EQT to buy Range Resources in natural gas megadeal",
+      "source": "FT",
+      "published": "2026-10-26T10:36:05+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNblhORHJaRElyVS1fa1RidkNwc1pFdGZXQVFVUlZnbWdtU0lJb2VtdTZhV1BLOXRKTDRoY3Utek84UHBNWkRyN3RMYl8wWFg0YWhIZk1SRFZUU1ZCZzdjRldpU21ZUjFzSy04X1FRX3dVc2RMYldBbFEwblVkSWZBMEo0VE0?oc=5",
+      "description": "EQT to buy Range Resources in natural gas megadeal &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Fed to hit pause on rate hikes, but maybe not for long",
+      "source": "Reuters",
+      "published": "2026-10-26T10:22:43+00:00",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMFBxcEVKT0RxYVJKYWZGOUlGd0VJTE5vN2lNTnozcm92NTV5Vzg3aVdhT2p3eGpoVlZlZ19aaGtPa0s2VzBsS2xuamdkTnU4X2dhNGRzYjlaVTFpVzdLSkg4TDRlQThPdnZOandxOE1wV0o0WDFCcDgtbEZIQmR0a3BFOWdIM1dPZGdmQQ?oc=5",
+      "description": "Fed to hit pause on rate hikes, but maybe not for long &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "French bonds rally after Moody’s rating reprieve",
+      "source": "FT",
+      "published": "2026-10-26T06:16:21+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN0tHRndOUXpFUzZURmdJMWlMMk5sZ0Y0MlpXRjc2cldBMmhBZTFhbDFNUFprUUJiRExfUVFIZ1pTQ1d1YUFsaVBhRUVYZlZ6RDB3RGdOaFJIUHJYVndmZDYxVXNTMXZfeWZhRTNkeEhQVVpnZElIVVlSbHI4cF96b0JzQmc?oc=5",
+      "description": "French bonds rally after Moody’s rating reprieve &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Gold rises as lower oil prices ease inflation fears ahead of Fed meeting",
+      "source": "Reuters",
+      "published": "2026-10-26T05:56:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZml1aC0yS2NrLUloeEFPZnYyeExpazhPVExTT1BLcV9HZGxEZWFzcHFUMTJFbDhUTjgyaE5EbGRja1BRX0p2UzlDSmEzUUpzTG9ZT2xKZEZMczFvb1pzU2xrdXlNT0dDUXYtQnhoLUFpT09xQmF5Q25FQXdKNGpjOERVdTB1UTk4NkhSd2k3cUNBSTJRMVVsUlpSWQ?oc=5",
+      "description": "Gold rises as lower oil prices ease inflation fears ahead of Fed meeting &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Chinese wind turbine maker builds European firewall from Beijing",
+      "source": "FT",
+      "published": "2026-10-26T05:04:12+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR0hTZEZPOUVyc3IzQlZ2ZkxreFdkLU0zRWtJT3RpVGxWV2xiaWxDaHpoOFRCV3kwQjZwaGFUQm9EYWVxQlpmV2U5ZFB3emhRWmZrSF9jdmRQNDlYaG83NnB5NkVSMWc5RG1fbHhFcGE0dFZ5ZjlLTFRXNjJLbWZGWHNIQjM?oc=5",
+      "description": "Chinese wind turbine maker builds European firewall from Beijing &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Can Pakistan’s military government make the economy grow?",
+      "source": "FT",
+      "published": "2026-10-26T05:01:35+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaXNyWG1XLWNGRHZTY3owazRENXJlNmU3ZEI4Z21oQmVzZ1BrUUtsblB4WHMyNDMwaWpZdk02dXozZy1SdnlrdW11aWZzUFd3UGp6bnNjUTJxajRaeWNZLVVjMFVRZXhXT3NDN2ptS0pMVm9LdUJFcXJva0pXRU5EcklOS2s?oc=5",
+      "description": "Can Pakistan’s military government make the economy grow? &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Brazil stocks, real tumble as Lula win shifts investor focus",
+      "source": "Reuters",
+      "published": "2026-10-26T04:09:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN2NwbFFDLVhWTUJuTGZxYkI1YWtMOFNFM29UMndmRUp3V1RzM0wyeTdvS2dzalE3WFRKdUVvWTdpOXVzakNmajA1TFVkX1RmdG5xRmRWUm9pQ1lOMEYwM2tMQVY0emRfdjVWeks3QVBhdWNzVXd4dEN1TE5oc1Q2ZHpOUDE3NmM4bWE0Sk1mS3RSeF9CUUlqdjhkZmJiNFpRWUp3ZTRDb3ZHWkU?oc=5",
+      "description": "Brazil stocks, real tumble as Lula win shifts investor focus &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Politicians should ‘look at the UK economy as a CEO would’, says Lloyds Bank’s boss",
+      "source": "FT",
+      "published": "2026-10-26T04:00:09+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVW1wRnNfa3VhdEVKTjFqRUhFZ19HQWpwQ2Vqbmh6RkFPeUJndktMOFdYQ1ItRmUzSXJsbUpCb2ZBc2tSSGFkUWNTUGR2Wk0yeEs5ZWNITURqakJSazlPOGZ1dVVRNW1LLS1yQXhhb2pfMUp6VTRVM19DWkpIVC1MNUNPVmo?oc=5",
+      "description": "Politicians should ‘look at the UK economy as a CEO would’, says Lloyds Bank’s boss &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Israel markets see upside in potential Netanyahu defeat after three-year rally",
+      "source": "Reuters",
+      "published": "2026-10-26T03:01:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVXJIajdRV1c5bHF6T191cVFwTWxIUjhibThXYWJUQ3J4LWctRFR3THZpQ09OcG9adG93MTJPdHdxb1psaVpvU2RhMzNwR00wNm91RlozRW9QRHFLYXg4aW8ybzRDUWc3c1pXRng2RU02bmp1bVhld3hBMmViUW9CRy1MS0x3TUJCTm4yZUVERVVQcXhmandmTVVabzExTnRwQmowZmQwa2cxRktqWWF5UTNIY282QWFXOXZZ?oc=5",
+      "description": "Israel markets see upside in potential Netanyahu defeat after three-year rally &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "World stocks gain ahead of 'formidable' week for risk; oil prices fall",
+      "source": "Reuters",
+      "published": "2026-10-26T00:46:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90MHowUDNReVJUUkkxWEZhTnAyYnZZNGNXQjJPVWt0QjgtaERfUHM4bERQd2k2NW5kMXR5dld0NHpsYnBhOENieXU1VU9saFBya202TXRjUktMa0l6OXF0OEZFUDdxR3FtSTdCLUxRVGpZNnBndExIcGVEZmtXZw?oc=5",
+      "description": "World stocks gain ahead of 'formidable' week for risk; oil prices fall &nbsp;&nbsp; Reuters"
+    }
+  ]
 }
