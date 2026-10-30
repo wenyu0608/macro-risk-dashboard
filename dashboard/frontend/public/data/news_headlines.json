@@ -1,40 +1,110 @@
 {
-  "fetched_at": "2026-10-29T06:17:52.377346+00:00",
+  "fetched_at": "2026-10-30T06:18:09.689289+00:00",
   "headlines": [
     {
-      "title": "Reliance, IT lead Indian shares higher; Fed holds rates steady as expected",
-      "source": "Reuters",
-      "published": "2026-10-29T02:12:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNHNOY0FUMC13dm8yaFFmRldOSzhIUkZnZGxNT1RidTVlSEN2dUZOODk0QmQ4dGY0cjBObExKUHRsTjFTbTV5dDdIcS1MN1IzRHB5R1d3c0RlR1pqMHJGLW14b1NFMXVjLUI4MnMyY2RJa2U3dTk1Mll4TGNlMGlTeF9GYUxZMVZXVUZCTFd5bVZtUGc0WmZqV1M3NEYtTkY5YmJPMFFUam0yLTN4NjZlUHJxS0ZaTHRhQ045UjR1UQ?oc=5",
-      "description": "Reliance, IT lead Indian shares higher; Fed holds rates steady as expected &nbsp;&nbsp; Reuters"
+      "title": "Bank of Japan says 2% inflation target reached",
+      "source": "FT",
+      "published": "2026-10-30T03:24:23+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVi1KTThMaldwbS1RUlphdUZuVE9lU0N1M0ZvNll2eXJGczlyVy1NN0VvajJ0Q1RfVnh2THVreHdMdVdmQlpXSzRneVgyTU55cmVQMl9oa2piLWFjNmJuM0V6Qk5lSWhkWC1LUWtBSldNdGFycU1aa25hNnpHT1BTcGZLNGU?oc=5",
+      "description": "Bank of Japan says 2% inflation target reached &nbsp;&nbsp; Financial Times"
     },
     {
-      "title": "Euro steady before ECB decision, dollar holds ground as Fed stands pat",
+      "title": "Gold slips as higher oil, US inflation data bolster Fed hike bets",
       "source": "Reuters",
-      "published": "2026-10-29T01:55:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYmVmOE5mU3JyckhjNGlWelQ5QVdhNzkwU0h1Zkd4bjJ6UGszY2lYem1BRmxjWW95VDBrYzg5NXNIWFhFWmNjNmFlUHZleE01YnNOWjRWVV9LWU1SYS1lRlVoRm15U1FrNjdvbkhtVzA4UWNzREJFWjBmUS1vU1FmcEN5a2loa1VsaHRRN190UHZNRmtvTVR1a0RmUlZwTlBPTmtoVFpURGpudw?oc=5",
-      "description": "Euro steady before ECB decision, dollar holds ground as Fed stands pat &nbsp;&nbsp; Reuters"
+      "published": "2026-10-30T03:24:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMFY2WEZOWHhyVDVPMkM2ZVUxM01TR09lcUZ0RlBWNF96QkJzWXhUZWpIbmlRSUlxN3FiZ0pEYWVXOW1YcVBQcHQ4cjU1NFpCQVlnS3pneWlKeTZIRjJzWkJuek9OeDhNSGxTU1ozV1g0czltbldNNkJORWRWS0ZBU25WdURjNWNpREdpdmZoV1c2ZzBnUmM5cm5HTG16OFpEdVhLWC13RkxHM3IxX1E?oc=5",
+      "description": "Gold slips as higher oil, US inflation data bolster Fed hike bets &nbsp;&nbsp; Reuters"
     },
     {
-      "title": "Wall Street ends higher as Fed holds key rate steady, focus turns to earnings",
+      "title": "Stocks slump, bonds leap as AI giants' spending spooks investors",
       "source": "Reuters",
-      "published": "2026-10-28T23:53:34+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQVNrQUVwN1c3SjBCODU1TXUwRy1hQ2lIQUxFZkJ3dGhXa0NZalhVTFFoeTU4MlB3VDRwWE1QRktITG5FZnd1eUVDTjRUankwRGgzRkRKTGdwZDVDbWUyTWVKNlRKVld5RVdaTllzZkVhdXUzNkZUOU5RWWNOQVJTY2xuaDJZZXlybC05LXRmTmpPb2RvVlliLWxBUXZVRldXU3kyY2pWb1ZmZlFNUU1KMmN4aV9wMk9Lai01YXcza0JqdDQ?oc=5",
-      "description": "Wall Street ends higher as Fed holds key rate steady, focus turns to earnings &nbsp;&nbsp; Reuters"
+      "published": "2026-10-30T02:45:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPODMxOENneGV3TmZjN25YblpGTWpPOWRUV3Boay12aGxXWENUbUFLTnJzUURrYklnTkZjUHVOTTFCNkM5V0luRXRLcExGdXJxSEt4SzhFNzNSZG9qQ0F2c3RWclhFVnMySTNvRkJITU9OTVZfZUZ1NFEwX2x2enZVNFhuX2x5bGxRMnA3NElR?oc=5",
+      "description": "Stocks slump, bonds leap as AI giants' spending spooks investors &nbsp;&nbsp; Reuters"
     },
     {
-      "title": "Fed's Warsh announces changes in how future FOMC meetings will go",
+      "title": "Japan's Nikkei slumps 3% as tech stocks tumble on AI worries",
       "source": "Reuters",
-      "published": "2026-10-28T23:32:40+00:00",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOc3k2UHRGbkFLQmRDN3h4WHJyQWoyWnkxOHVkY0JqNHRFSFBER25td3pVVEhJX0pRQnhXdzJiR2FnSG11cGpSYnlQeVRFSnFuTi1mVDNtSTRVOUVwWHVwN2E1SEhiRmVmMFVTcm5oaHl3Q1pLRHY3NUVmeTdEekk0UXVwOTBHREFkZTV1dVhuTG0wa2I1RDFndWFSQ2JEWGNqcjBDcnNLZXM3X280?oc=5",
-      "description": "Fed's Warsh announces changes in how future FOMC meetings will go &nbsp;&nbsp; Reuters"
+      "published": "2026-10-30T02:20:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQU9uNjhpN1dHMHNxdDR0SlBWa1VGV0Q5MkxrVWxKYWk0YWhtd2ZBZFM4dkYwaFNocVBfYmR2czM3VU9aUlV5SVMwRGtOWUJicTV4VFlZODRZRC1IMUw2aFZyYzcxUWpjWFNJbWY0YWFyaHJaRloxM1BWTlZzc1NzRkoyUm45aVNBM1hNODNWbkY4ZmpreWVmMXc4b2FGbkc5NzdWQkwwaWVCYm8?oc=5",
+      "description": "Japan's Nikkei slumps 3% as tech stocks tumble on AI worries &nbsp;&nbsp; Reuters"
     },
     {
-      "title": "Warsh says politics played no role in Fed's rate decision by group he is 'honored' to lead",
+      "title": "Amazon burns cash, Intel flags weak PC demand as AI boom's costs ripple across markets",
       "source": "Reuters",
-      "published": "2026-10-28T21:34:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT2picUVQd3dYWDhKUnVJWUlEbmFULTE2RUF5NlBYemZiSHQzejU3OS05d3FrbHJXRXI2clNabXhwQ1RMSkJxU0VVTy1GT3VBbDFWSmozLWl1V3dybzVBZFd2bGdnWUVQelNhQ3psMmpVQXlEOFNHZURtaDZQLTR2aHY1T2FkSk9KbklCQTV6eXA2Z3h3V05xQVVTRVo3ZkNua25RTEotVi1JR0U4MXNodExiUFBBTmZFOTBJd1h3?oc=5",
-      "description": "Warsh says politics played no role in Fed's rate decision by group he is 'honored' to lead &nbsp;&nbsp; Reuters"
+      "published": "2026-10-29T21:03:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcXEzUmpkSHEwZWtxM2cwVjMwQkJXMVZqVUJrWk8xejY0TzkyZmtvN0E2Z3Q3MDJfNkRLOXRKUW5xR2QzLVM5WjQzSVp2OVBhQldOMVJKZkJ2ZC1qMm04dWFSVjExd1h2bXV2emx1dmkwTVFzT29DamloeVhPZUdwZEhuUmhvem92VG9MQzFIZU1ibDR1MWNaZ0o2ZVBOYzhodHdyQVY4T1U?oc=5",
+      "description": "Amazon burns cash, Intel flags weak PC demand as AI boom's costs ripple across markets &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Robust consumer spending, AI-related investment power US economy in third quarter",
+      "source": "Reuters",
+      "published": "2026-10-29T20:29:42+00:00",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd0JuSzdaWWtxaGJGdW5CV0pONGc2dlpzMVJnaGl2UUIwQmtkc1FNSUVNQzhxTFRycVZ4dGpRaVlvbGdraXBWenkzY1otSno3TC1zWTlQUmFRandmM0hlSm14a1pfWTJMNjdNclo5bFlFQWt3UlpIcFlPY3RtZzBQVXhKUzVPSWMxUXZFckNVM3ZXZEU?oc=5",
+      "description": "Robust consumer spending, AI-related investment power US economy in third quarter &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Investors double withdrawal requests at Partners’ flagship US private equity fund",
+      "source": "FT",
+      "published": "2026-10-29T16:59:02+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbjlsU3RiS1JPMGlObFFuUUFGcUgxbmpDa2oxSUk2SDBMUFFPWGVBNFJ0TnZaZHR3U2tjdklmdllabnc3ZldPQlVqNElIOHJTQlEtY2Z2MUpYTUNKMU9mNWE3Ujk4OHEtbDdHa0dYU0VFbFZraTE0TG84dmV3X0xuY1ZDczE?oc=5",
+      "description": "Investors double withdrawal requests at Partners’ flagship US private equity fund &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Stanley Druckenmiller backs push to bring risky crypto-style bets to Wall Street",
+      "source": "FT",
+      "published": "2026-10-29T14:54:48+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOT3JEOWZ3eGJCa3lSM3JzUlo4b1NoS05oUjV5cDA1UmxfMXBiRV9jM0d3NER5ZTNXS3ZPd0NNV09uR3pmeXBweDFWV2RTOTVEcGtoNk5WSmtxU2lBUTZLZC1QRFcteHFnOWFGNE1xallFbHZyU1ZPdExHcjRtcldlVmlYT0U?oc=5",
+      "description": "Stanley Druckenmiller backs push to bring risky crypto-style bets to Wall Street &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Josh Kushner’s Thrive Holdings to buy home security firm ADT in $15.3bn deal",
+      "source": "FT",
+      "published": "2026-10-29T14:49:19+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTnhGYmVVeWVtb0ZVYlZsV2hYbk1fMWg1YUdvOTM3dzkyZnZHbXlYVVJoZUhGWkFyTnlNRTFiU3RHWTBuX0tIRjY2el83NDA4YnBCdTRfdldrRWlCSHdpUTdaRE9QZ1pMbzIzdzQxbU9GMmhBUFlveDVpakNuQU04VWdjNnM?oc=5",
+      "description": "Josh Kushner’s Thrive Holdings to buy home security firm ADT in $15.3bn deal &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "US economy beats forecasts to grow at 3.4% rate in third quarter",
+      "source": "FT",
+      "published": "2026-10-29T12:31:22+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMEF0eF9hbDVjcmptcUxza3p4ZDkxeVc1Wlc0aDBmMDdJeW0xSkdvTnJqSkc4elNBaFhkSGFjWWhSQnJyd1RPN2ZGSF9ielZJdjNmZjRjYklvYWdoX1RrQjFqQmw4MUxWV1ZYQ3dreFR4NFBxTEVIZkswVFRyamo1WFBaYzA?oc=5",
+      "description": "US economy beats forecasts to grow at 3.4% rate in third quarter &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "South African economy 5% bigger after rebasing, moving further ahead of Nigeria",
+      "source": "Reuters",
+      "published": "2026-10-29T11:23:55+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ3NEMWpacHpNTnMzTXowX0ROTHgzNEVXYk82b2U4cmNWVW9IT293RzNCaU5aNTBib0pwNXJSc0RCeWhtdEtRRm96VDNlbWxYSjFSeTFfc0tzaDJ4OFdUaVViOVJrVnNiU0VTUnlxQ1doby1KOWFmY1NpOFhwanlkNC00UjVXOERjWXVJQ2V6bDNveDRpUE1RSlRheXZ4SnllWFFxa0wwbkJMUUE?oc=5",
+      "description": "South African economy 5% bigger after rebasing, moving further ahead of Nigeria &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Any stock dips after the midterms are likely to be opportunities",
+      "source": "FT",
+      "published": "2026-10-29T10:00:01+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUUNIOUpNWGVSbm9FZ0lyR2piYVZoTllkZkdqOEYtdGZhYU1IRmI1RHNFVXB4Y2g3ZThHUkhtUllnVksyUjR4QUo0Nzg0SkhsMG5mbHlfbnlKak4tM3lCY0FBVFVEUUhhbGhybWpSWmhzX0FHUkdCTGxwQndxVWMyNmJKRE4?oc=5",
+      "description": "Any stock dips after the midterms are likely to be opportunities &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "The Fed plays for time (but doesn’t have much)",
+      "source": "FT",
+      "published": "2026-10-29T06:30:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZWRjWUFwZERNX1ZNbVFIZ2tNTEpvdFJwcU1FcXZiNnFnZWV0QTU3NVMzaURFMVJIc2V1U2FUS09MSFpDQi1tcVAxTEt2UzZhNW42S2owZmc2LVZNcnYtX1pDSlJXSUg4NC1uS0NOTDBQLXl6TC00S3BVbG5FbS1QZVRXYVA?oc=5",
+      "description": "The Fed plays for time (but doesn’t have much) &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Fed highlights economic strength but muddies outlook for Treasuries",
+      "source": "Reuters",
+      "published": "2026-10-29T05:04:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbF9GR2lXNExEVWlIMldlTk5QWXQyWTVIbHlzMnM1bTRhdUFzQ2NwQm9MYXdyaG92dlB1YTlJVW1ESG5iNmtkTDhnMG9IanBqeUJmOUQ2Sm45c3pHSzEtZ3lvZUxSRmNLc184eWhReTVvbEdhQ1AwTnF6akVFUlFyd2NJRFdIOWF6OHFISDAxZWMxOHFJcXJPRlp0RFVpZzB0MF9rNTh2TQ?oc=5",
+      "description": "Fed highlights economic strength but muddies outlook for Treasuries &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Equities and bond yields dip with AI jitters and economic data in focus",
+      "source": "Reuters",
+      "published": "2026-10-29T02:28:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbTZuQXNrYUZEUEdVMGdDOEljdHJ1bW0zeHR6Yl9nYXp5dWd0cXU2WGk2QXVITW5xOVhlOUNVYm83QzFaRDZXcFdaZDZXa2xUd2otaXRjcmhmaWZ2aF8zVC03WFc5RkliNkhLZjk1MzhqUHBGZ3NmdmRKbF9CSklOUzhBQQ?oc=5",
+      "description": "Equities and bond yields dip with AI jitters and economic data in focus &nbsp;&nbsp; Reuters"
     },
     {
       "title": "Federal Reserve holds fire on interest rates despite intensifying inflation",
@@ -42,83 +112,6 @@
       "published": "2026-10-28T21:32:08+00:00",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOb01WZnNoVWtvSG5SMU1hTzNBQkF4V2JVTWY1ZVV2bFdiYjlMM3FXakV1UXJyU2l3a290U2VZU1hQMHZ4dHZrSlV4Z0x4c01Gc0pBZ3BHMzl2MUJGd0ZEdTNPUWJqUi13T2V5YVJURWNFa19GTS05dkJFVUJIUUZJTElreWQ?oc=5",
       "description": "Federal Reserve holds fire on interest rates despite intensifying inflation &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Instant View: FOMC holds rates steady, markets rise modestly",
-      "source": "Reuters",
-      "published": "2026-10-28T19:41:16+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNR3M1cWh6azZyTHVTWV9qanQ0LXVsVHVNRzdLeUlSbEx3aVYta0xwa3VPODBoc1JvUEZMRVNGQ045ZkZZajVCTmhzZGdPcmFOaHhJelg0OHRIMjQyZnlXemdNbU42cWFhS3dQaExlT3RtLWpiTmxlVUMtYzZ4dHhYNGdFc1FtRlJ4SUtZQlFjWUE3N2JqNUtHdHctdUFtWWZBd1E?oc=5",
-      "description": "Instant View: FOMC holds rates steady, markets rise modestly &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Federal Reserve issues FOMC statement",
-      "source": "Fed FOMC",
-      "published": "2026-10-28T18:00:00+00:00",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
-      "description": "Federal Reserve issues FOMC statement"
-    },
-    {
-      "title": "Mubadala Capital dealmaker to launch his own venture fund",
-      "source": "FT",
-      "published": "2026-10-28T15:44:48+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUk8zTUhPTVlsU0JGbmtmNXRfMzR1SFpsQ3hJSW5rTU9vZU1XYW8xVEdNdnUzaVBEQnZVSThXa1ZsMTU0LVQ0ZWtGS09fN3JoYkpWQlRvX0l1eHdNOVRqZnl5T3VNNW1zbWR2WUhyT1NZUGNEcF9sbFBUVjRkcm02c1IyeUc?oc=5",
-      "description": "Mubadala Capital dealmaker to launch his own venture fund &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "John Healey avoids bond market wobble with ‘uneventful’ first Budget",
-      "source": "FT",
-      "published": "2026-10-28T15:27:50+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSHhtVEtITW44TmZpWXpDNTNGVDZNSExHdWFGRDNiV2hMdi1QMTc3ZGU0ZGZ0blZtX3d4bU9JWS1UYl90OTFsVEVscmxXcXNOYkhDYl85dnFJaElMWUN2V1NMdUZSLWt2N0dpb1VXRG9GeU02eWdaV0RRc05qbENZM216RlU?oc=5",
-      "description": "John Healey avoids bond market wobble with ‘uneventful’ first Budget &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Budget calculator: how will Healey’s forecasts affect the tax you pay?",
-      "source": "FT",
-      "published": "2026-10-28T15:24:49+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQllXZUpvdjRpRklzaHJWY1NDamhyWjZlWkJ0a0V5c1FpNVZ5UzdhbmpDcjk4SWpZNW5xZFg0TmlQMHYyTHU4SkRLbS1lOW0xcDc0T3BIZ3NvUGt5VzIyeFF2eGlORUp4MUlFTFFLSUpnTWwxaUx0em13d2hiQzZla1dZcEE?oc=5",
-      "description": "Budget calculator: how will Healey’s forecasts affect the tax you pay? &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Iranians cut essentials and put dreams on hold as war-hit economy bites",
-      "source": "Reuters",
-      "published": "2026-10-28T12:49:43+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVjd4SVdyN0hZcml3UmdlZW1qOW11WFNjUVJxTjhiNHF1N2tCanBqd1ctbzNtOFhOQURONzhNZFRyckdnVVloZ05VNFVaTm9EbFpUUm16MmFrNlFNSC16N1lMb1h4cUdCS29DalBFcEptZkpVLWVUbFhpQ2lwdkV1SS1RYU9ReDU1czFNNHB0dlFTM1BOWnhudzd1VUViVWg3WWViWnlaWnVlZm9uTDN0LXlEVF9VNDVUcnc?oc=5",
-      "description": "Iranians cut essentials and put dreams on hold as war-hit economy bites &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Prediction markets are turning Washington into a casino",
-      "source": "FT",
-      "published": "2026-10-28T12:22:23+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN0MtQmNfQ0VidmV6b3RnbFN4bGpVUkVNSEFkRXBrZzJKc3hGdmw5WWtlaFRRSHhkZzdCN2Y1Q3FuS0syRWIzbDRfYk5QZVdxOS16NmVYT3FpUXJJdDVYSm1tR1J4N3lmZkxDdFV3dmxoUjRZQUdwbmZWMDlyRzh4LU5nSVU?oc=5",
-      "description": "Prediction markets are turning Washington into a casino &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "China rushes to shore up markets as AI trade sours",
-      "source": "FT",
-      "published": "2026-10-28T10:21:56+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSnVPSDFLZ1NVWE1fVVJTTkxTTXJOWTFYd2RjQTlnTUFMbTFSODdBX3Z2V2RQWkNGeDNobEVadzhRejdYcWNXcjNWOXdPTVU0SHhyaGdFSnhFcTdkT0hiTW1Lejg2ZHkzdG1FSDdEMldNRXFrdzhEVXpCdmJSajBPNkJ2Q1A?oc=5",
-      "description": "China rushes to shore up markets as AI trade sours &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Fed leaves rates unchanged as it awaits 'accumulation of more information'",
-      "source": "Reuters",
-      "published": "2026-10-28T10:05:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaU93czlpTHJXMTJGby0yOGppZGVlVkZzZW4tNC11WTcwVk1yQUZHTVMza0dTLURMRi0tTUtYTHhITkI2OVBWN2k0anZCN2liNnlyNFpaTmFTaWlFTHItWmtBXzh1VWhkRjZBNjVDejQxOGNUTW1HWWRBUzNjbGdKUDV0MlFSWXRsaWQwMXpWQXI?oc=5",
-      "description": "Fed leaves rates unchanged as it awaits 'accumulation of more information' &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "The ECB needs a smooth transmission and a smooth transition",
-      "source": "FT",
-      "published": "2026-10-28T09:57:54+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOTFFNmZtR2pBeURVeWxIZi0tVWRZeEpIYjZoYkg3N2RMOE9ZOW9HM0hTZXZWQW4tdzgzQkFsTWNYbEpuTmdiU25uOE5KZG8xNnNscDBxMmJjeVVaZG9oeTlGdi0waWJTRUpsbGVUWkhKM3BVdnJ2YnhubWtMekJWU2lTMks?oc=5",
-      "description": "The ECB needs a smooth transmission and a smooth transition &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "The AI bubble already popped — in China",
-      "source": "FT",
-      "published": "2026-10-28T06:30:03+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa1loUTBCZ3N2WlVpZGtNd3hLMUVPb3NRLU1TRmQzbWJYdVdZMnpCMExwS2xZTUY5am5pZ0NhT3lzSzBCSFl2Z3JldExUUmZWUjczYkdwN3Y1aWNnU3RpZkV2OUp0eHNYMEQyNElWY1BWUll3eG9INktSaWtpUFVhUERybFM?oc=5",
-      "description": "The AI bubble already popped — in China &nbsp;&nbsp; Financial Times"
     }
   ]
 }
