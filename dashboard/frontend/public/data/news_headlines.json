@@ -1,117 +1,117 @@
 {
-  "fetched_at": "2026-10-30T06:18:09.689289+00:00",
+  "fetched_at": "2026-10-31T06:09:51.839146+00:00",
   "headlines": [
     {
-      "title": "Bank of Japan says 2% inflation target reached",
+      "title": "US tech stocks tumble as concerns over AI spending intensify",
       "source": "FT",
-      "published": "2026-10-30T03:24:23+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVi1KTThMaldwbS1RUlphdUZuVE9lU0N1M0ZvNll2eXJGczlyVy1NN0VvajJ0Q1RfVnh2THVreHdMdVdmQlpXSzRneVgyTU55cmVQMl9oa2piLWFjNmJuM0V6Qk5lSWhkWC1LUWtBSldNdGFycU1aa25hNnpHT1BTcGZLNGU?oc=5",
-      "description": "Bank of Japan says 2% inflation target reached &nbsp;&nbsp; Financial Times"
+      "published": "2026-10-30T21:13:50+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNTB4Ykd3SWFzX1I1OTJab3VCbDdLRy1IZmo4dVBNZU5CVmFqNFZxUmEtbGxBTnlYV09zUV9VYTZBUnpSU0tGQ2kySzZrVFIzUl96ZXRwZFlZQ2hsbHl4NGljX3YtYXNjbjBNeXdrN0dXdEZxZjg5NHBZNzNyTlZyNGRCWXc?oc=5",
+      "description": "US tech stocks tumble as concerns over AI spending intensify &nbsp;&nbsp; Financial Times"
     },
     {
-      "title": "Gold slips as higher oil, US inflation data bolster Fed hike bets",
+      "title": "Fed officials make case for rate hikes amid ongoing inflation concerns",
+      "source": "Reuters",
+      "published": "2026-10-30T20:03:43+00:00",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObTlSSnpPaC0yUGM0aTNCb3h0cUVRejBTRjg0SXVnT0MwSXNMSzBVS1NFSEpUaGxtOUpzSkZmQlRKWjFWQ2UtNEp2RUgzcWwyMEN3clpKaU1acDlRUGFhS21BTEpWQjdSVURWZjRJd19Tc19pbVVHeWYwUEZLdUlka0x6M1p5WDRMVkVjRmlLTWU?oc=5",
+      "description": "Fed officials make case for rate hikes amid ongoing inflation concerns &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "White House hearing on Fed's Cook delayed to December, Hassett says",
+      "source": "Reuters",
+      "published": "2026-10-30T19:39:07+00:00",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUWFLMXBRYXVPMHZLZ3NZRWVMYlhWaVBtdGRTU19RakNmYW90OVBUSFI2Q0JfVE16MnBDcV9xSEtpdjJSWlRBb0Vhd3JzaG5abHRLcWdaVm1RWkhvVWdHQ0RiN0pHeVdYbmY1U1IyQXNkWUl4M2I1TGcyUFItTGNQM0ZkZDRFWWlsN3phR1JybXhnTGZLY3R6Rm5EaTJJNTl6bEowUTRIWUZVaFpmRTlWR0V3?oc=5",
+      "description": "White House hearing on Fed's Cook delayed to December, Hassett says &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Fed needs at least two more rate hikes, Logan says",
+      "source": "Reuters",
+      "published": "2026-10-30T17:35:43+00:00",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPN0l1dXR6NGI2OV9OZGVkZHRFdzNqcVBnSGRFamxWZlNaZTNsQmdIbXRHVXc5VE9FZzcyWUI4YU5hai1VZlVtY2ZsQTh0VDgxYmtJT1V3X0NvUEZvRjBDT2VaQUdaeDdIWkZ5MlhraUdTVHJYSlM3RFVzU3lVNjctTzU2eFMzNk5kbDBIWlR2RWJ0NkQ2Znc?oc=5",
+      "description": "Fed needs at least two more rate hikes, Logan says &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone tells investors",
+      "source": "FT",
+      "published": "2026-10-30T16:45:48+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcjg3X1I0NkVyZEpOZEh0cmZLdFpJYVFOOTJwdm9nNTBJSGJwcEF6T25KRFBBeDBpLWZtOWNKMjdKeHhxZF9zOUVyUmVjT2pSQm01YmgwS0dnZWFXa3ZVc2tfSW5aUE5sSFJtc2lUVUlQUjROZjRxU0M3MFBKVWg1alAyZUU?oc=5",
+      "description": "Anthropic may not secure investment-grade rating after IPO, Blackstone tells investors &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "CD&R pursues buyout of $40bn card processor Global Payments",
+      "source": "FT",
+      "published": "2026-10-30T16:27:55+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRGN2aXRDSDJnaHNpTWUtbHg1NVBlcFJjUjFXVHA1enhLUDNNTFlCRVRMS0VwaVRHSGxHMkNhRVdZamoxUWYtbG1ReFlhazF4WHF3VGt2RUt5YlpiV1FiY0RPbkRWalFJRlhyYVpXSWN5YTZKaWI2amphZnFwYUUxRTJZTEk?oc=5",
+      "description": "CD&amp;R pursues buyout of $40bn card processor Global Payments &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "A Budget disastrously lacking in urgency",
+      "source": "FT",
+      "published": "2026-10-30T13:35:51+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSzJ1cUxsaC12TEoyMjBEQ3NURzg0WFhYMEMyTld1anBkNjVLNlg2NmhTREJfZHFJYXNuVmRYeWRuTGllOTNmWTVuUGp5MTQtdU9XdU9UT3FEM2h0V2tGT0pTUndYMG9ocGFyWGNkVjVIWFBmcGh3MkoycmdLcVpHTjhqVkw?oc=5",
+      "description": "A Budget disastrously lacking in urgency &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Canada's economy stalls again in August, likely lost ground in September",
+      "source": "Reuters",
+      "published": "2026-10-30T13:27:08+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNWh2UG80VGRucFJSRy0yaFkwVGdzY1o2aThCVk9xM19ySVJVLTZCNl9ZN2ptQmkzanV4ZHBMTG01cXo5akliQlJSUzZkREtkSG9PcWhndnJGTEpjSk5TYU92bFJ0SWZjdWlGUmdPbUxsUXRaaXVvQ2dta1poalU0UUxkaGhFcDZiWGdxb09KOWFPbWtDX3pLQlduWFBqWDZuY2VMbGVuc2g0QndHR21QOGxfYjdfc3FvdXRN?oc=5",
+      "description": "Canada's economy stalls again in August, likely lost ground in September &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "How North Korea became a hacking superpower",
+      "source": "FT",
+      "published": "2026-10-30T11:20:19+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWXIyeGlGTkdpLUZWaTVjQXIyZkh1QWRHQ3JjbjBlVlZYWjl1WkkxMG94VDFQcVVKcmpkWnAwQ1IzenphQlV3TTlFWEZsOFJJby1wN1pYWEpBeGNBVmpiM3ZaZ3dOVFZCUFBQd19nMkpmemkwX05EWm9oNDNiQk5aYlJCdGU?oc=5",
+      "description": "How North Korea became a hacking superpower &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Bank of Japan says 2% inflation goal reached after decades of deflation",
+      "source": "FT",
+      "published": "2026-10-30T10:20:08+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVi1KTThMaldwbS1RUlphdUZuVE9lU0N1M0ZvNll2eXJGczlyVy1NN0VvajJ0Q1RfVnh2THVreHdMdVdmQlpXSzRneVgyTU55cmVQMl9oa2piLWFjNmJuM0V6Qk5lSWhkWC1LUWtBSldNdGFycU1aa25hNnpHT1BTcGZLNGU?oc=5",
+      "description": "Bank of Japan says 2% inflation goal reached after decades of deflation &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Never tweet — Zervos edition",
+      "source": "FT",
+      "published": "2026-10-30T09:36:27+00:00",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfdWhYQlo0UnBqOU1GUFNPU25QclJYOU04T043Y0VNdlcwOFktdVFaR0VnTnJ1WDQ4VzBsaUd6aExkdlJDbEE4THE5Zk9OaE56WkQ0T0ZqOUZIV0ctVG5WN2Zkc1dydkZFZDNkaDlhMng?oc=5",
+      "description": "Never tweet — Zervos edition &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Wall Street closes sharply lower as AI cash burn fears spark tech selloff",
+      "source": "Reuters",
+      "published": "2026-10-30T08:46:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPblVtZktXRjdPbHJBWDM4WWJsV2RyMlhnOVFYRTZPc01udjZNZTVjeHdIN1dVY0w1M1NHbHpxNjV6Vm9jQ3FOUjBIaElyZEdSWWxycmNZdnJwNnBfdTJDc1FBMWVJZ19vR0s3Y1h2Uml2LThWc2NzQ2sxN3NnVzFEeGhvNnpPSElHSFRIQnJreHpCR2c3dnRQbEVYTDlJVjhzVVk3b1gxaFczMFhkb2NDSw?oc=5",
+      "description": "Wall Street closes sharply lower as AI cash burn fears spark tech selloff &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "French economy shrinks 0.1% in third quarter",
+      "source": "FT",
+      "published": "2026-10-30T06:54:08+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRnAwVnJKYlVvQjhXdTR1OThNQ0FPX0g0ZHprdjBtVFZzaXBNeFFjem1RYnFPUlFNNDR4aDNpMU9EcDZ5TVZzVUc2OTJ4QkkxWnYwaXBIUGw0dll0bWNHcGotUE54dE8xSkJfS1NhTmhlRTQ1ZFQ0U2VLTHBzUG53Wmt4WVo?oc=5",
+      "description": "French economy shrinks 0.1% in third quarter &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Tech rout drives gold to one-year low, white metals sink deep into oversold zone",
       "source": "Reuters",
       "published": "2026-10-30T03:24:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMFY2WEZOWHhyVDVPMkM2ZVUxM01TR09lcUZ0RlBWNF96QkJzWXhUZWpIbmlRSUlxN3FiZ0pEYWVXOW1YcVBQcHQ4cjU1NFpCQVlnS3pneWlKeTZIRjJzWkJuek9OeDhNSGxTU1ozV1g0czltbldNNkJORWRWS0ZBU25WdURjNWNpREdpdmZoV1c2ZzBnUmM5cm5HTG16OFpEdVhLWC13RkxHM3IxX1E?oc=5",
-      "description": "Gold slips as higher oil, US inflation data bolster Fed hike bets &nbsp;&nbsp; Reuters"
+      "description": "Tech rout drives gold to one-year low, white metals sink deep into oversold zone &nbsp;&nbsp; Reuters"
     },
     {
-      "title": "Stocks slump, bonds leap as AI giants' spending spooks investors",
+      "title": "Stocks fall on AI cash burn worries while bonds rally with oil",
       "source": "Reuters",
       "published": "2026-10-30T02:45:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPODMxOENneGV3TmZjN25YblpGTWpPOWRUV3Boay12aGxXWENUbUFLTnJzUURrYklnTkZjUHVOTTFCNkM5V0luRXRLcExGdXJxSEt4SzhFNzNSZG9qQ0F2c3RWclhFVnMySTNvRkJITU9OTVZfZUZ1NFEwX2x2enZVNFhuX2x5bGxRMnA3NElR?oc=5",
-      "description": "Stocks slump, bonds leap as AI giants' spending spooks investors &nbsp;&nbsp; Reuters"
+      "description": "Stocks fall on AI cash burn worries while bonds rally with oil &nbsp;&nbsp; Reuters"
     },
     {
-      "title": "Japan's Nikkei slumps 3% as tech stocks tumble on AI worries",
+      "title": "Japan's Nikkei slumps up to 3% as tech stocks tumble on AI worries",
       "source": "Reuters",
       "published": "2026-10-30T02:20:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQU9uNjhpN1dHMHNxdDR0SlBWa1VGV0Q5MkxrVWxKYWk0YWhtd2ZBZFM4dkYwaFNocVBfYmR2czM3VU9aUlV5SVMwRGtOWUJicTV4VFlZODRZRC1IMUw2aFZyYzcxUWpjWFNJbWY0YWFyaHJaRloxM1BWTlZzc1NzRkoyUm45aVNBM1hNODNWbkY4ZmpreWVmMXc4b2FGbkc5NzdWQkwwaWVCYm8?oc=5",
-      "description": "Japan's Nikkei slumps 3% as tech stocks tumble on AI worries &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Amazon burns cash, Intel flags weak PC demand as AI boom's costs ripple across markets",
-      "source": "Reuters",
-      "published": "2026-10-29T21:03:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcXEzUmpkSHEwZWtxM2cwVjMwQkJXMVZqVUJrWk8xejY0TzkyZmtvN0E2Z3Q3MDJfNkRLOXRKUW5xR2QzLVM5WjQzSVp2OVBhQldOMVJKZkJ2ZC1qMm04dWFSVjExd1h2bXV2emx1dmkwTVFzT29DamloeVhPZUdwZEhuUmhvem92VG9MQzFIZU1ibDR1MWNaZ0o2ZVBOYzhodHdyQVY4T1U?oc=5",
-      "description": "Amazon burns cash, Intel flags weak PC demand as AI boom's costs ripple across markets &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Robust consumer spending, AI-related investment power US economy in third quarter",
-      "source": "Reuters",
-      "published": "2026-10-29T20:29:42+00:00",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd0JuSzdaWWtxaGJGdW5CV0pONGc2dlpzMVJnaGl2UUIwQmtkc1FNSUVNQzhxTFRycVZ4dGpRaVlvbGdraXBWenkzY1otSno3TC1zWTlQUmFRandmM0hlSm14a1pfWTJMNjdNclo5bFlFQWt3UlpIcFlPY3RtZzBQVXhKUzVPSWMxUXZFckNVM3ZXZEU?oc=5",
-      "description": "Robust consumer spending, AI-related investment power US economy in third quarter &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Investors double withdrawal requests at Partners’ flagship US private equity fund",
-      "source": "FT",
-      "published": "2026-10-29T16:59:02+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbjlsU3RiS1JPMGlObFFuUUFGcUgxbmpDa2oxSUk2SDBMUFFPWGVBNFJ0TnZaZHR3U2tjdklmdllabnc3ZldPQlVqNElIOHJTQlEtY2Z2MUpYTUNKMU9mNWE3Ujk4OHEtbDdHa0dYU0VFbFZraTE0TG84dmV3X0xuY1ZDczE?oc=5",
-      "description": "Investors double withdrawal requests at Partners’ flagship US private equity fund &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Stanley Druckenmiller backs push to bring risky crypto-style bets to Wall Street",
-      "source": "FT",
-      "published": "2026-10-29T14:54:48+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOT3JEOWZ3eGJCa3lSM3JzUlo4b1NoS05oUjV5cDA1UmxfMXBiRV9jM0d3NER5ZTNXS3ZPd0NNV09uR3pmeXBweDFWV2RTOTVEcGtoNk5WSmtxU2lBUTZLZC1QRFcteHFnOWFGNE1xallFbHZyU1ZPdExHcjRtcldlVmlYT0U?oc=5",
-      "description": "Stanley Druckenmiller backs push to bring risky crypto-style bets to Wall Street &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Josh Kushner’s Thrive Holdings to buy home security firm ADT in $15.3bn deal",
-      "source": "FT",
-      "published": "2026-10-29T14:49:19+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTnhGYmVVeWVtb0ZVYlZsV2hYbk1fMWg1YUdvOTM3dzkyZnZHbXlYVVJoZUhGWkFyTnlNRTFiU3RHWTBuX0tIRjY2el83NDA4YnBCdTRfdldrRWlCSHdpUTdaRE9QZ1pMbzIzdzQxbU9GMmhBUFlveDVpakNuQU04VWdjNnM?oc=5",
-      "description": "Josh Kushner’s Thrive Holdings to buy home security firm ADT in $15.3bn deal &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "US economy beats forecasts to grow at 3.4% rate in third quarter",
-      "source": "FT",
-      "published": "2026-10-29T12:31:22+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMEF0eF9hbDVjcmptcUxza3p4ZDkxeVc1Wlc0aDBmMDdJeW0xSkdvTnJqSkc4elNBaFhkSGFjWWhSQnJyd1RPN2ZGSF9ielZJdjNmZjRjYklvYWdoX1RrQjFqQmw4MUxWV1ZYQ3dreFR4NFBxTEVIZkswVFRyamo1WFBaYzA?oc=5",
-      "description": "US economy beats forecasts to grow at 3.4% rate in third quarter &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "South African economy 5% bigger after rebasing, moving further ahead of Nigeria",
-      "source": "Reuters",
-      "published": "2026-10-29T11:23:55+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ3NEMWpacHpNTnMzTXowX0ROTHgzNEVXYk82b2U4cmNWVW9IT293RzNCaU5aNTBib0pwNXJSc0RCeWhtdEtRRm96VDNlbWxYSjFSeTFfc0tzaDJ4OFdUaVViOVJrVnNiU0VTUnlxQ1doby1KOWFmY1NpOFhwanlkNC00UjVXOERjWXVJQ2V6bDNveDRpUE1RSlRheXZ4SnllWFFxa0wwbkJMUUE?oc=5",
-      "description": "South African economy 5% bigger after rebasing, moving further ahead of Nigeria &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Any stock dips after the midterms are likely to be opportunities",
-      "source": "FT",
-      "published": "2026-10-29T10:00:01+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUUNIOUpNWGVSbm9FZ0lyR2piYVZoTllkZkdqOEYtdGZhYU1IRmI1RHNFVXB4Y2g3ZThHUkhtUllnVksyUjR4QUo0Nzg0SkhsMG5mbHlfbnlKak4tM3lCY0FBVFVEUUhhbGhybWpSWmhzX0FHUkdCTGxwQndxVWMyNmJKRE4?oc=5",
-      "description": "Any stock dips after the midterms are likely to be opportunities &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "The Fed plays for time (but doesn’t have much)",
-      "source": "FT",
-      "published": "2026-10-29T06:30:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZWRjWUFwZERNX1ZNbVFIZ2tNTEpvdFJwcU1FcXZiNnFnZWV0QTU3NVMzaURFMVJIc2V1U2FUS09MSFpDQi1tcVAxTEt2UzZhNW42S2owZmc2LVZNcnYtX1pDSlJXSUg4NC1uS0NOTDBQLXl6TC00S3BVbG5FbS1QZVRXYVA?oc=5",
-      "description": "The Fed plays for time (but doesn’t have much) &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Fed highlights economic strength but muddies outlook for Treasuries",
-      "source": "Reuters",
-      "published": "2026-10-29T05:04:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbF9GR2lXNExEVWlIMldlTk5QWXQyWTVIbHlzMnM1bTRhdUFzQ2NwQm9MYXdyaG92dlB1YTlJVW1ESG5iNmtkTDhnMG9IanBqeUJmOUQ2Sm45c3pHSzEtZ3lvZUxSRmNLc184eWhReTVvbEdhQ1AwTnF6akVFUlFyd2NJRFdIOWF6OHFISDAxZWMxOHFJcXJPRlp0RFVpZzB0MF9rNTh2TQ?oc=5",
-      "description": "Fed highlights economic strength but muddies outlook for Treasuries &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Equities and bond yields dip with AI jitters and economic data in focus",
-      "source": "Reuters",
-      "published": "2026-10-29T02:28:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbTZuQXNrYUZEUEdVMGdDOEljdHJ1bW0zeHR6Yl9nYXp5dWd0cXU2WGk2QXVITW5xOVhlOUNVYm83QzFaRDZXcFdaZDZXa2xUd2otaXRjcmhmaWZ2aF8zVC03WFc5RkliNkhLZjk1MzhqUHBGZ3NmdmRKbF9CSklOUzhBQQ?oc=5",
-      "description": "Equities and bond yields dip with AI jitters and economic data in focus &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Federal Reserve holds fire on interest rates despite intensifying inflation",
-      "source": "FT",
-      "published": "2026-10-28T21:32:08+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOb01WZnNoVWtvSG5SMU1hTzNBQkF4V2JVTWY1ZVV2bFdiYjlMM3FXakV1UXJyU2l3a290U2VZU1hQMHZ4dHZrSlV4Z0x4c01Gc0pBZ3BHMzl2MUJGd0ZEdTNPUWJqUi13T2V5YVJURWNFa19GTS05dkJFVUJIUUZJTElreWQ?oc=5",
-      "description": "Federal Reserve holds fire on interest rates despite intensifying inflation &nbsp;&nbsp; Financial Times"
+      "description": "Japan's Nikkei slumps up to 3% as tech stocks tumble on AI worries &nbsp;&nbsp; Reuters"
     }
   ]
 }
