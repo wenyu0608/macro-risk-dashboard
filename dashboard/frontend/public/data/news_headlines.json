@@ -1,19 +1,96 @@
 {
-  "fetched_at": "2026-11-02T06:39:29.442579+00:00",
+  "fetched_at": "2026-11-03T07:08:44.257345+00:00",
   "headlines": [
     {
-      "title": "COMMENTARY: Asia's crude oil imports back to pre-war levels but refined fuels lag",
-      "source": "Reuters",
-      "published": "2026-11-02T05:26:37+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUjRWdTdnRzAwR2xkSU04ZHlmbHh0eXg5Wm8xS1k5Q2hLYWRWbWdOVzd4ckZHcjZkYktZVHEyV29yQ25XNE9Ga0Y3TG5Dc3Awd054Y2o3MU5rLTNZNmRRTkZXVjdyZWJNYnM4bVczRU1RRmlqOW5JOVZCVWpJSXFDazBHWm5hUXhGb2FGS2xUN3Q5cFFQelVqazAxYXNDamdDZ0pINE5mQUE3VGhFdDcxZkZ4cUdSOFVQTWRsdXl6LXdMTUpIWnFLQ0VB?oc=5",
-      "description": "COMMENTARY: Asia's crude oil imports back to pre-war levels but refined fuels lag &nbsp;&nbsp; Reuters"
+      "title": "China halts listings in bid to bolster struggling markets",
+      "source": "FT",
+      "published": "2026-11-03T06:26:27+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeWRIVmFzanBxYUk3dEZxMUdxVURNZlVMakljMHBrdVhWbHhYUHQ0WUtlQjZ2OFJ5ZzY0UzMwY1UxSGtvZFRpRVFMdDNPZ0xzVzRJOHlkQl8yX3BYMXJsMXlUbG0wckU4UjJjSkItTzR5WkMyR0RpWXNCUW9JQklZSEUxRU0?oc=5",
+      "description": "China halts listings in bid to bolster struggling markets &nbsp;&nbsp; Financial Times"
     },
     {
-      "title": "Gold rises on softer oil; Markets parse Fed signals",
+      "title": "Global markets were already fragile. Big AI bets could break them",
       "source": "Reuters",
-      "published": "2026-11-02T05:04:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOXFkdElkaE5fVGZ6eUVZUFZnZjNuaUFoM2pPZ1ZJeEY4bmN0Wm9zSTRwLWpHcjNjLWRLRklsOV95a21mWjZWckhUam5qTVZVUzVDdWEwQXVOVWlpaHpCMktPLU41TGNkZjI3MFM1azNvSEtUai1pUGFpNi1mZFhISlB3TXFUSWtseGlhYmRISUpuWXdlVU5mLTJPRQ?oc=5",
-      "description": "Gold rises on softer oil; Markets parse Fed signals &nbsp;&nbsp; Reuters"
+      "published": "2026-11-03T05:08:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcE4zc2x5OEJZU0pFUTJXWlF6V2c5TmZ2MmFxLW9QcHhMdFpUZ0tsNWtSTXYtUG5pckRUVTZBQnNGZkE4T1FhRHdESDRmejMzc2VOTjI3UGhjUEJiLUM1bUNHZU1qTWtMOEthVnp5QklOMDdkOWdVSk5DR0g1UFZ0ekJ5TTROejhJaXpRd1FTRVMyZlNIbG4zcA?oc=5",
+      "description": "Global markets were already fragile. Big AI bets could break them &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "AI-related debt binge may pressure European bond markets",
+      "source": "Reuters",
+      "published": "2026-11-03T05:03:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOblQ0XzlqZzJsa2FDYW5uSVdhTUluMGpBaEY0NV9hSXNZWUMtMGtBX202UnhyWWR3NmJ5VGtMLUtJOGllZjRfVGZVU05aZFBDQldVT29SOTg0a3owVVkwa000ZnktWmlwaUdWRFg4QzhYNXFCVm1oaGlFRXlzQnJtcjN4T01VN0Y5cmhKdVJoOG1FVWg3WXFIbjI0d3Vhd1Fhanhn?oc=5",
+      "description": "AI-related debt binge may pressure European bond markets &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Australia raises rates to highest level since 2008 financial crisis",
+      "source": "FT",
+      "published": "2026-11-03T04:38:16+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMmRqTHNRNlFOOE4zdGltWEpObG9VemlVY3dKdy1YZ2hwZmRHVVRZTXFvSlRna3dvVHZQM1hnX2lkbDhwOGJfcmg0d1hkUjV4QTd6WHJSR3pPb3RyYlU1X0RZYmxiQ0pqbXVVeS1SOHRaX29DdWx0Z21Ra3BuWHBudkd2NUM?oc=5",
+      "description": "Australia raises rates to highest level since 2008 financial crisis &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Asian stocks retreat ahead of US midterms, oil steadies",
+      "source": "Reuters",
+      "published": "2026-11-03T02:24:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAxcWNjUUxuZ2lvM29QWUdBcWpkZGdCaUpLSkJRT3pXbzNUcTh6ajFTN0d1NmpHTlN6d2p0TlNfRElGZV9ZTnR2SHdabGNxQ3FqUkMtN2N1LXppRmlxNGRlTHozQ0YxY3BqNnNNRGtaYUppX1ZyMjJVdkhiYw?oc=5",
+      "description": "Asian stocks retreat ahead of US midterms, oil steadies &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Japan’s interest rates are rising. Will young people lose out?",
+      "source": "FT",
+      "published": "2026-11-03T02:16:45+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYk9oN00xWVJoQmhNZjlfQTY2YTd4QjJhU3ppeXVFaVU3U0g1Z1dOYUtaREt2WEZoNVNLUTZDaHluNENDRFktNmI2LVd6bDVGeWtJbU85SlFuU1lrTk91T0FIUl9CdU1JM0VyV0IyQm96eHdla0JQNC1sZ3N4eE9vOS10QmM?oc=5",
+      "description": "Japan’s interest rates are rising. Will young people lose out? &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Automakers back Trump administration's rollback of US fuel economy rules",
+      "source": "Reuters",
+      "published": "2026-11-02T23:15:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWG9Tc1hYaXEwVVJLTmxpc2VWcDN3NldaTDhfMUtlMGdrNThGYmkzTkl3V0pRdmUwYjRiVDdzMUp4T3BJUnZTSXNHWjM4VUtMcGFQRWJocGpiMmo3MG9UVHptalI2SlgzWWVsejV2Y0drenRCS0xMd0pOSW5Bc0pyR2RMeFlReS1NNE0wcnZPNzg4cUV6REMxbFcwOE1fZU1TbGlZUGxXUXlRUDZoRWNvWDNn?oc=5",
+      "description": "Automakers back Trump administration's rollback of US fuel economy rules &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "My tax rises made Britain’s economy stronger, says Rachel Reeves",
+      "source": "FT",
+      "published": "2026-11-02T23:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOb1NSaDdrbFZESV9tTVotUWg5SjctdnMxN1RtVTg4elR3VEtRal9uanQ0Y0EtV3NNdXRYRmY0NXIxN09kWDcyN3l2cXFBeXRlUnl0ajhzQW55QWg1Z3dTRFhDeHMwek9IdXpQd19XV2N4ZXhyNFNyVzI0RTh3c0JQNC14MU8?oc=5",
+      "description": "My tax rises made Britain’s economy stronger, says Rachel Reeves &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Big majority of US voters disapprove of Trump’s handling of inflation: FT poll",
+      "source": "FT",
+      "published": "2026-11-02T18:36:12+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdWZocU5VdHFLbWV2QUtLMlE2MXdhZFVxRTdVb181eUluWHZNc2dqRW9LU2N5bm5TbmlLOHp0WnVCZUJHWGdQLVdBakRqcndOZk9ELWZMOGs4aXp2dEtZNVpKM2M4bGNRQVlpY21BWXFiNUVHOTdEMER6OHctSGFHUWdHQ2Y?oc=5",
+      "description": "Big majority of US voters disapprove of Trump’s handling of inflation: FT poll &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "S&P 500 ends down; Apple dips ahead of quarterly report",
+      "source": "Reuters",
+      "published": "2026-11-02T10:57:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbnVDQzd0LTF3Vi1BMnJDLWpGaHNIMlJVTDNnVmplMzZnVjRxRTZUUTRsQkVvZ21EN3lXMzA4ZDJnOTQwc01ld2tqT1pGZVN6VmpuVWpzLVVMUU1qcDdnRFdEQUZoM0l6Ym9NYnhfWDctWkZnSC1fLUk0RGxtUmd3WU9zLXdhcTdGTkJvcUxaazZKZEliVjl3bVBfZldDajJMOXZtVkx0NVI4YWlwMkVFbXpMR0ZGQW9wOWxEcTM3QThSdk1fb2c?oc=5",
+      "description": "S&amp;P 500 ends down; Apple dips ahead of quarterly report &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "What the US midterms could mean for markets, AI and the debt ceiling",
+      "source": "Reuters",
+      "published": "2026-11-02T10:03:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSndxQlZKTnRLd3BYVTNReUZRU1Z5dDlrdGpidzBlWVhITzgzTkJrXzJlNlhHZHZvQS1JV0E3YUZmT3gzNy1KbWVGVGs4NjR0bVFDanJ4RjYybjU2Rm9DS2tNR0w3SVNpb0puX2NwUjctM1U2cm1EYmZRUWRXd08tY1dfT1BGYmF0TG5UREVHTUVfM0s5MGhHZE1EVVhVUlRCbk5tZmExZU8zUi05bm9B?oc=5",
+      "description": "What the US midterms could mean for markets, AI and the debt ceiling &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Morning Bid: Markets hope for relief in Apple margins",
+      "source": "Reuters",
+      "published": "2026-11-02T05:35:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrejNZSlQ0dURSRXVLTjBMcjMybUZkek44OHdDal9La2E5SWtTb21SVG80MkkxMFloTDQzTXNpU2V1dHVzek00T2E2Z2FJUDNmRGdrSXRaVnFwRFdxZWtZMWRaWklwc3FEREhEQkNWWFpWcGJIUHNTR1RzMG1GSTA?oc=5",
+      "description": "Morning Bid: Markets hope for relief in Apple margins &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Why rich Ireland still feels poor",
+      "source": "FT",
+      "published": "2026-11-02T05:04:28+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQUkxVTdrVWVJdWFYbk9zU1BhOEZxdzBleUZUTUxWQjJBVU9QbDFYekpHR1ZRYkRSdUs5RzdmNG83bDhJOGMzSHNjcFQ4Sk54ZndmUk14OS1jMGhYZFo4UUFxaUpuSHdFSnIyODBrMzZEWjJ6WEt2OEU4NmJuSTRiS3FaRlc?oc=5",
+      "description": "Why rich Ireland still feels poor &nbsp;&nbsp; Financial Times"
     },
     {
       "title": "AI mania can’t survive higher interest rates",
@@ -23,95 +100,18 @@
       "description": "AI mania can’t survive higher interest rates &nbsp;&nbsp; Financial Times"
     },
     {
-      "title": "S&P 500’s perfect midterm record faces a test in 2026",
+      "title": "Bank of England set to raise rates to 4% in push to quell inflation",
       "source": "FT",
-      "published": "2026-11-02T05:00:10+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUGdvVlZTZVdkR0I0MjdFSDhQcV84RnZZYmtuY2NUemJwc21UNUg3R09MOHVxYmdFbnJwNzB0NFpkTk01MkxscGZvb2IyWGpYeEc1b1BmR0E3NFVBak5nQzdXb1BfSW1lMHFWY0FaOHdtOWVReDNkYTZNRVJYQ0czUUhfdWE?oc=5",
-      "description": "S&amp;P 500’s perfect midterm record faces a test in 2026 &nbsp;&nbsp; Financial Times"
+      "published": "2026-11-02T05:00:52+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQV1dtRFFpVXU3ZkM4b1RrUU10VDM0R0VjcWY1b09pZ0ZWUzE2Ym9OZVIxT2hBMDRLU0k0S0tsSVlwU3FIX2NMODNlWENHbHpvZ1pEWUJMQS1FSVRJeGFwakt2UEVVanhIU3NqTktnS1BhWDlTMVdraDJLaU5LLW03dnlRbHk?oc=5",
+      "description": "Bank of England set to raise rates to 4% in push to quell inflation &nbsp;&nbsp; Financial Times"
     },
     {
-      "title": "Why rich Ireland still feels poor",
-      "source": "FT",
-      "published": "2026-11-02T05:00:08+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQUkxVTdrVWVJdWFYbk9zU1BhOEZxdzBleUZUTUxWQjJBVU9QbDFYekpHR1ZRYkRSdUs5RzdmNG83bDhJOGMzSHNjcFQ4Sk54ZndmUk14OS1jMGhYZFo4UUFxaUpuSHdFSnIyODBrMzZEWjJ6WEt2OEU4NmJuSTRiS3FaRlc?oc=5",
-      "description": "Why rich Ireland still feels poor &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Global AI sell-off eases after Nasdaq’s worst month in over a year",
-      "source": "FT",
-      "published": "2026-11-02T04:55:03+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOT08zMXJZU1Fibm1jZjRGMXpfTWtSaGNCS1FDWEZXQ3hJTm5vVjQ1S212bVhKdm1BOEJGTUxBcTBnTzhlMERmY0plSkNjdmhwYVY3a3pnUG5XTWVNOEhUcEFaazd3cGl4cWJKUndXNFNZd3EtNGR4S0x2cFNJc19NazBiSVc?oc=5",
-      "description": "Global AI sell-off eases after Nasdaq’s worst month in over a year &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "China's shift to new policy rate signals easier funding conditions",
-      "source": "Reuters",
-      "published": "2026-11-02T01:39:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQR1Y5OGZoNEh2ZzdKN3pfVGlFWG8zT0tUdk9xOXQ2T0JfVlREREdhUWhpaFlTZmJPMV8wZ0h5SUg2YWd1bHA5M3FIaVFBZUdwbG1sbi0xMnNXdDFVNWotcmJTbHpCZWhCV0stcDd2WDFvcTZ6RkxsQ050V2ltZW5UUFgxcUk2ei0xQjROZENtTXdPX1A3ZGJ5RWluMVV5eHdvUThnbVdpb19vaTA0RGR5ZWVyLVg2bVh6Q2c?oc=5",
-      "description": "China's shift to new policy rate signals easier funding conditions &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Erdogan says South Korea could partner in Turkey's Sinop nuclear project, Yonhap reports",
-      "source": "Reuters",
-      "published": "2026-11-02T00:42:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRWlldndLdklSWDlnQjF3TFRqT0toSUlZUE1yQmNTem9aTDd0OE9WWlk1cy00aWpGYTFaWXdkLURmTkRMbUZOTWFxRFdZeUJfWTZMdlJUdHQ4MVcxb194VThjaFprTmk3NWNFWlFtX3VZS0NCV1FaM0RLaUNqcHl5SHRHUHZmQXFyWU5OV3hnUW0tNVlVSTRNUjAwTUYxMmZjM1dNc0RPc1VSaF9rd21BZy1zOEhHZ21NQkpxbC1WMHlGQVRocEE3NU9n?oc=5",
-      "description": "Erdogan says South Korea could partner in Turkey's Sinop nuclear project, Yonhap reports &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Stocks bounce as Apple earnings near, oil falls",
+      "title": "US tech selloff drags global stocks back into the red",
       "source": "Reuters",
       "published": "2026-11-02T00:41:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbXpaWVRrQUkzYThuc1E5TnFCUXBTSTV2bHNaR1FhUmdEYnhjSHVneFdpbGhjeENwWlE2WVE1c3FCUV9qeGZzRGNoNFEzdERMblBDb005a2NBV3B2YzdfNF95dGtrVmxiNlJrNFU3UC1BTnZHcVh4a3hna25vdEFkSEtMUQ?oc=5",
-      "description": "Stocks bounce as Apple earnings near, oil falls &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Bank of England poised to raise rates but may push back on bets for more",
-      "source": "Reuters",
-      "published": "2026-11-02T00:03:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOFVxcW9DcnR5S1BVdndGZkhXT1F1SUR0WEZTbkRsSzRLSmtiOXFZdXNneUs4VXVCaV9ldFZQVVdHMnVvWDBrZERDTFo5bHc4NE9GelZKbmloVi1VVTVmN0tiZXFUSW5fMFIzMXZCWE5CWHd5TEdHc2VvRVA3T1VCRV9XampjTDBmd3BpTlkyNjBScTJReVhCanlUX21XX1dhbWc?oc=5",
-      "description": "Bank of England poised to raise rates but may push back on bets for more &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "New Zealand's two-speed economy poses election dilemma for ruling National party",
-      "source": "Reuters",
-      "published": "2026-11-01T17:07:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPN2pFNHlqWWEtbmZEYkxtVFpKRTJJZDI2X1VEZWhPSlBXbmtUVHg0RW1SQ3hhLTlaaGp3RExvUVhmWXQ4dGJQQlRGSGxSTG85bTFPZVMxeVZVYUtoMDB2REl1djF3eWI2OWhxc0RmZ050YjRkME0zSlZjYmRrM241bzZPdGtnTXhQdGROT3BiakZoVWs3Wk1WNTdVdjQxTFNoQjdfNGdIT0FsWDhvWlNOdFdOUGVGU01XbU1FdFRqaVhwSllwZnBwQkRB?oc=5",
-      "description": "New Zealand's two-speed economy poses election dilemma for ruling National party &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Junk debt rout sparks ‘bloodbath’ for credit investors",
-      "source": "FT",
-      "published": "2026-11-01T14:54:55+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY05sR3JWdGJzWDE5U2J3TVpBb1RoSklOd0wwMW56WGdEYVh3NjBYNEZZUkFGeW8tTTFiMlg5VEJQcVV0Q3dWOHRsaURNR1J3RUd5SjdXdVYyVVpKMHd1M3pfUDd4ckVtVXhncEJaQUF2X1YyYk9hT05iNFRkemdER0RETE0?oc=5",
-      "description": "Junk debt rout sparks ‘bloodbath’ for credit investors &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Qatar surges, bucking Gulf market slide on Iran war concerns",
-      "source": "Reuters",
-      "published": "2026-11-01T14:03:04+00:00",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQU3lNbXVYLVNtdGZwSDFpT0ZvTHVaWmp3bi1abjBPelhQbDQ4bmNST1VyRGktWHRJXy1yTnhMMGREWUVPdjRJS3BxXzJYOGVGSkZvdk5YYTJpbU5JM215MUxWTE12R01nTldxbnpETXliMExhV3g5eHB2dFdEb1dYd3ZnTkNULTdoWXk0Y2dHOWNPTVJ4MldXUU5xMkxNeU8yQnhiVlRma1RBN2NUbElR?oc=5",
-      "description": "Qatar surges, bucking Gulf market slide on Iran war concerns &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Will US jobs growth remain subdued?",
-      "source": "FT",
-      "published": "2026-11-01T12:00:01+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYW1ub1o1bGIyaUNRcHY2OXhjd2Y5NVdMelBQZTNkcjI2dng4dWdYT3Vsak11Qm82OFc2Q3EwdWFHZ25oZWkyOHhLWW83ZC1XOURrd3dEZ2o2a0RndDRWVHM1TVZtLUVmZkplX3VrWFVKSDVjNDhyeU9BOTBxRzVBRUJZTnQ?oc=5",
-      "description": "Will US jobs growth remain subdued? &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Binance users pull $3.6bn as crypto exchange restarts services after heist",
-      "source": "FT",
-      "published": "2026-11-01T09:38:52+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQlloX05EbUI3SE9LYTBaVUhkdHhGaUpta09vWi1EcUdfcEFXVGJicU1uUnhrRE1qNG5Gc1JFZnV1emwwRVJMRXRvQ3lpMVJ2RGMzYjJJSEU1MllpNXE4ek5sMWg3VnE1VU1hVjk3YS1WWUExcTRaUTJNQml5YlIyeFhiNjc?oc=5",
-      "description": "Binance users pull $3.6bn as crypto exchange restarts services after heist &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Quant hedge fund to spin out of Tudor in record $9bn launch",
-      "source": "FT",
-      "published": "2026-11-01T05:02:30+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObTA2Rk9OQWMtX0trcVhuSlVYZ051cWoyZWxRc19FNm1uZHJzWUhMQ3FKYXVSUWRQUW53d21HWHQyRGRqdTRRNkdsNGNjbk9oUFZPb0FIcTc5LU9fR2R4cEppVEdxWjQydTBib3hNWnZxQktkY3FacDlGdWktOHZjZ3lDZXg?oc=5",
-      "description": "Quant hedge fund to spin out of Tudor in record $9bn launch &nbsp;&nbsp; Financial Times"
+      "description": "US tech selloff drags global stocks back into the red &nbsp;&nbsp; Reuters"
     }
   ]
 }
