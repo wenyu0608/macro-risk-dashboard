@@ -1,19 +1,89 @@
 {
-  "fetched_at": "2026-11-06T07:14:01.395213+00:00",
+  "fetched_at": "2026-11-07T06:27:29.375037+00:00",
   "headlines": [
     {
-      "title": "India bucks Asia tech rout as oil slide reverses market fortunes",
+      "title": "Fed policymakers consider rate hike after strong jobs report",
+      "source": "Reuters",
+      "published": "2026-11-06T20:58:34+00:00",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMF93ekZ4N2wtdW4zX1llS2FoZWpNVlhMLTRNOGVJTUktZmpLQUNBSzY2bW16Mm9mb3lrZERqNFZ6WkRmYkhBTG00Z2k2NFYyNTVLcmVBSkV5eVJRU1RwZFc5blM4MkRmcUxYU2hadXRWbVh0VXpjektqM1BGS3ZlZlNMeW43VWxmeE5TQm13d0E3bTVwUnp5dzFFNA?oc=5",
+      "description": "Fed policymakers consider rate hike after strong jobs report &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "US economy outstrips forecasts to add 165,000 jobs in October",
+      "source": "FT",
+      "published": "2026-11-06T13:31:11+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQb0M0anJjT2l4RmNIQUZiWGdCbC1XTjVnY2o5ZTh2RHowOXQtVmJhMGZ6MmtjbGdrWGtUekdqbmlVeEEtNV9GWGxjWlMwbHl6cWx2bzVBN2pTVTJieV9zaGFYMXBjSzU0cnBNb2thRHdJek1JYzlMdmR6M1B5a2lhUzQ4U0c?oc=5",
+      "description": "US economy outstrips forecasts to add 165,000 jobs in October &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "PODCAST: Susie Wiles replaced, tech stocks rebound, Cybertruck wind down (Updated)",
+      "source": "Reuters",
+      "published": "2026-11-06T10:51:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONUtJQ05FYi1TTzhaWlRpN0lmSFIxdG42TnQ1dzhnRExMamJRMXVoVnR2VXIyczdoc0FLMy1hMlJyZU0xOGxLZlFvNndZcEhMLUFobXdxV25iUkJlTG93bDhBOFdFYUVROGlMMDB6QjM0d0tndU54YTRydFh2SlM5TXVPWXVVU0RndTRacVBZQ0txUkpFbExld19Ya0Vfd0gwbkNVeVFScw?oc=5",
+      "description": "PODCAST: Susie Wiles replaced, tech stocks rebound, Cybertruck wind down (Updated) &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Nasdaq rebounds but posts fourth straight weekly decline",
+      "source": "Reuters",
+      "published": "2026-11-06T09:41:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQang5czlMS1c0LVRiTWdNdXItcDlKcTgyOXplSVVGRHljMGVrVG1KVGJTclR0TmtjWjFob0t1QWh6OTdkNzltaDJhTi1fdUdkM2tOb01JaVVlaVRWcWVTdkZFbmdBYlgxY2ktWVh6eFdZRVczekVTdFRCSWtOSzBGVnNCWHpFNFFXWFE2WDVQUjFCa19tbUhzNzdlNksyNFBqek4tcXdrcjVIVTQxMkE?oc=5",
+      "description": "Nasdaq rebounds but posts fourth straight weekly decline &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Japanese stocks post biggest one-day fall since ‘liberation day’ chaos",
+      "source": "FT",
+      "published": "2026-11-06T08:00:24+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSnpPZ2l0SS1MRTJJQk1ZRWFuWGpBNG1tdGd5amlEaEN4TFR3VmNvSlBOVXA3OTJBMzE0azNrR1o3QkhVZ0lpcXhJejJGMEM5VTJEVnVsckZ0WWcyQ3doVVJGOFZQNTlYSGhIdTlZOHJTLS1wQzRYemVKRzBXSlhuUjIyQzg?oc=5",
+      "description": "Japanese stocks post biggest one-day fall since ‘liberation day’ chaos &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Markets fret over growth and inflation, just as tech rout gains speed",
+      "source": "Reuters",
+      "published": "2026-11-06T07:31:47+00:00",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONUh4V2hzQnA1Rk9zNTN6d3ZxcVZycGZQVmNUNjR3NmpXSmphZHh4LWZvaGJmTTVEWDdBc0lNWmZyUUp3MTFndk5uZl80Qnk0QXotRmo5S1g0MVhDejlwMjJlczNLVWY1eHRLZ1c4dExyOUNqdjJPaUFhVnE2WC16QUc4aTVfUlAwQUtKMktZYi1STk94cXBnSXF5OEQ?oc=5",
+      "description": "Markets fret over growth and inflation, just as tech rout gains speed &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Is the AI stock bubble finally bursting?",
+      "source": "FT",
+      "published": "2026-11-06T07:11:18+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWTZnNVc0LWIyeGFKSjVUMHVRNHZRdG53NV9EYjAtck5WSm9PZTI0TFl2bkx2bVpseU9qUzhiRkQ2RjR5U2xnWngzQzFSZEI4S0l6T3hicWc2SE96YnBveWo0cGExenE0ZTdBQkJUbUNrQmhaZWlBcFZObmJRbUFJdUdFQ1A?oc=5",
+      "description": "Is the AI stock bubble finally bursting? &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "The sell-off gets deep",
+      "source": "FT",
+      "published": "2026-11-06T06:30:04+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLTV5ZF83UUFnWWFEZEo1aWN0bHMxdC1Uc1Q5aUhiZzZRRHE1OUp6TnRPVEdnVEw0NlphYWFoX1BlazhjV2xVNG51QWVSbm5zNzJfQ0RXN0FkSHFieURZa1V5QVpHRk5KWllNNU0ybnJ5NmNOQW1GeVdiRmprOFNjRWNxMkI?oc=5",
+      "description": "The sell-off gets deep &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "‘Blue wave’ hopes for US economic change are likely to be disappointed",
+      "source": "FT",
+      "published": "2026-11-06T05:04:58+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdzc0S3otbnhaanhNRjVPanE2NDJ6M014TlI3UkszWi0xamhVUnlrX2JHeUg1dHpKSHVocHE5Vi0yYnhiZlFwYWMtZ1I1d2tRbVZvV2hkVlFkRjU0bVFCWHdVNC1nTnNubmVNSjRkY1VtR2hxZFZ2bTJLSi14SWI5eGFmR2k?oc=5",
+      "description": "‘Blue wave’ hopes for US economic change are likely to be disappointed &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Why investors soured on the Democrats",
+      "source": "FT",
+      "published": "2026-11-06T05:02:06+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSC1GYndIWktlQWZLRjZ0TzRMek92UGgtMnQwN0Z2TFZ0aHBzRGpvNzVqcE5RZEVfNW5kdjJ3cU5Gb1l3VlVwQlNpblFmUHhnSWo4ZlRLODZ3M0l5WjZKVXZMS0J2WFpRVm03aG83UExzZDVPUzB0c3E3emZuQUdmYkZHSmQ?oc=5",
+      "description": "Why investors soured on the Democrats &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Indian stocks buck global tech rout, post best week in 6 years",
       "source": "Reuters",
       "published": "2026-11-06T02:27:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWjNzeFpJV2tDZUlhN19jRzc4UDQ2NUJ2eWNvdnBjdW1Bam5YdE9HUGhfLUZ3Z3FMOVpQMFdId2Z4SlBlMll2Z2dYVXZqamZYdjRMazg3NnZfbzA0WHFNMVNLY0VqQ0dwMkI5RDB2S1ZrNFNGWWpnQmdjUXE2cjcwem9KVzVPYzJMWm5ycGVJaTFWTGRTX3g3T1JIbVAwb3pFUGFXVHBmMWIxdGhOWUtIQm1hWnZsbUhHMVE?oc=5",
-      "description": "India bucks Asia tech rout as oil slide reverses market fortunes &nbsp;&nbsp; Reuters"
+      "description": "Indian stocks buck global tech rout, post best week in 6 years &nbsp;&nbsp; Reuters"
     },
     {
-      "title": "South Korea stocks hit 9-month low as US midterm results spark AI selloff",
+      "title": "South Korea stocks plunge as US midterm results spark AI selloff",
       "source": "Reuters",
       "published": "2026-11-06T01:01:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUXFPZWJ0ekg2Mnl6b3ZEMDRpRzJON3M1b3FnWlpsbVZSSlpnMDR1YXJFWG0zMmROd0NybFRLWXdtcjdQWm1hckFsTE15d2FoY0hnMGZsMjctbnc1VjFCZ09uUWhDbVpGOUtmQmU4UEhLNmtINHZjbTA4cXZPSmpqTFM3TEptUUU4clROU0xCc3QtM3NNbThZOHMxU1lqU1I4Y3EzRnRnY1hqUFpwUTJWcWcxQWhJNVh2VER2dGtzZUxxSmJSeXc?oc=5",
-      "description": "South Korea stocks hit 9-month low as US midterm results spark AI selloff &nbsp;&nbsp; Reuters"
+      "description": "South Korea stocks plunge as US midterm results spark AI selloff &nbsp;&nbsp; Reuters"
     },
     {
       "title": "Phones 'explode' on Wall Street as 'steamroller' shows up for the AI trade",
@@ -23,6 +93,13 @@
       "description": "Phones 'explode' on Wall Street as 'steamroller' shows up for the AI trade &nbsp;&nbsp; Reuters"
     },
     {
+      "title": "Instant View: Tech-stock rout accelerates retreat from the AI trade",
+      "source": "Reuters",
+      "published": "2026-11-05T22:26:39+00:00",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdmtpeU9iX1pPYnctTUY4ZHVMRzJxcGlwV2VlaVFmSEExTWljLU9RVnZHRGhjR2tzZXZUYXV3dFJOc3hsNDVCNGZqcmxhUmlSblhJdWNxZWhQd1Z1ZXZyMFZuemNJYUVrRGZtMTlaVFhHUHdFamlweDN4SkRtclB5WW9vdjduOWhKVkRWRV9qUExHM29IM2xpcFJ3?oc=5",
+      "description": "Instant View: Tech-stock rout accelerates retreat from the AI trade &nbsp;&nbsp; Reuters"
+    },
+    {
       "title": "Wall Street sheds $3.2tn as Democratic midterm sweep triggers brutal AI rout",
       "source": "FT",
       "published": "2026-11-05T21:07:55+00:00",
@@ -30,88 +107,11 @@
       "description": "Wall Street sheds $3.2tn as Democratic midterm sweep triggers brutal AI rout &nbsp;&nbsp; Financial Times"
     },
     {
-      "title": "US issues new Cuba sanctions, takes aim at sectors of Cuban economy",
-      "source": "Reuters",
-      "published": "2026-11-05T18:11:08+00:00",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQblVpSUg3SjBzNjdqeWlrY1hpeWNhQ2E0VzNmZW1RTVl3ekVfRW5ERnpNU2gwa3M3NUZuNWFFc3JWR3BnNGlHeS1VOENLeFcwRUxaYm00TnVxZWd1RkxtbEJ0WlJTQmFMeXZDZm9iX1Fybk5qTGJ5eVhCMlV6c2VFbUd4ZXZBS2VmeW9tM0d1SjRoN0FibW13RnAtcU11XzVENk5PVTVYV2RPMGJkM3ZlaQ?oc=5",
-      "description": "US issues new Cuba sanctions, takes aim at sectors of Cuban economy &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Nasdaq set to confirm correction as AI spending worries mount",
-      "source": "Reuters",
-      "published": "2026-11-05T18:09:47+00:00",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQXp2Q3NVSS1qMGl2VFZhWTJxREN5ZHg3T2lNeE5MYjBGT3JGZUVwV2drT0V5S0h0a2Y3UUxfSl9nRWZrWlozR2RYNkRPRC05N0g0T2J4bEljZW1RdllqODEtb2dBYmk3NHFzNS0zMWRHenpON2lZbER1SDhZaWhDbnZWSmZ5cmRxbVduR0FWakFzQzFwZElyYVIwamdSdXhJYmhnbTREVQ?oc=5",
-      "description": "Nasdaq set to confirm correction as AI spending worries mount &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "BoE leaves door open to further rate rises amid fears of entrenched inflation",
+      "title": "Will Democrats stall the AI boom?",
       "source": "FT",
-      "published": "2026-11-05T17:37:46+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQlZ5T3EzQ016ckR4WjBiOEp1Zk1keVBrV3ExeUR1V0dkZWRGaEVjU1VEVUh5OEMtYjhSSVNBZ2h5dmNQUmtNTEQ0aUc1VlBZV21sSnpIcmdlZ1d4dnNFTjJHSjdoXzc1bUhYUlIycUFxWVY4TkNkc1FiUjRZYmdmdk5oUE8?oc=5",
-      "description": "BoE leaves door open to further rate rises amid fears of entrenched inflation &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "So, about that Anthropic IPO . . .",
-      "source": "FT",
-      "published": "2026-11-05T17:01:56+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTDFpWXVOM3NsY0RVRENnZ0xaRXJlbXdmdGh6U3gtWDl4UnN2aWR0X2RWTzRCQnRZM1QzbzBfMzgwSEpiUFp0NUFXZmRIamNhSnFnRUowZUZiYkxNMzNueHdUMFdRWGd5aHVVVGdxcGFyOHJfM2VvajRaMDVSTk5SWFVPWXI?oc=5",
-      "description": "So, about that Anthropic IPO . . . &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "India stocks draw biggest foreign inflow in nearly six years as oil falls, AI trade cools",
-      "source": "Reuters",
-      "published": "2026-11-05T16:05:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT2FNazA4NjVLU04wVlFLNTFIcGplRVJsWmVsakIyMUdZQzRVc0lkY1dHTXVTd0d3ZnR6MU95MDYzTWpJOEZ3MkFNaVlqOFZJMGxabG1Jd2lnZC1ReHNxS1U5ekd1UFhMUXBoSEdPLWNXTWNPdzBhSnYtTVY3MzVuZTQtNEk3SkFVSUxaMWFGM3ItWFRBLUwzYUMteG9oVFd4WURaSTZZSGlVaDM2UlNiMUJWaFNQT280dWRYYmVXRjNyZw?oc=5",
-      "description": "India stocks draw biggest foreign inflow in nearly six years as oil falls, AI trade cools &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Bank of England raises interest rates to 4% in bid to tame inflation",
-      "source": "FT",
-      "published": "2026-11-05T14:18:29+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOenVYQ080b2Q4TXgySm1KY1dweGY1ODdLTThwNENPZjA4T0t0a1dhOUJmek81ZEwwUU1oa1BqektBSGFwaVlaWEloSHB1X2dYTllSZVAwVTF1ZzFES1VZemY0NlJDS3R0cjh6QXRfQ1hOZTN4OUktRW1PbURxcmR0NUJBN1o?oc=5",
-      "description": "Bank of England raises interest rates to 4% in bid to tame inflation &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Battle-tested European drone maker takes step towards €7bn IPO",
-      "source": "FT",
-      "published": "2026-11-05T12:59:10+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcVl3aVJFVzM1ZFFfc3V2TUNCdmVJbU8zMTduZWp3dXpnb0d4dFFqRjJZajJtUU0ybFhSdWQyTzN2a2VuQnpuSy16aWw0NW9MVkpkd3h1WnRDMWxqaXRMRHpiNEJxZzhoZE9QTVdDaTZIa0F0RU5sX1N4WnlVei1qNUpOcV8?oc=5",
-      "description": "Battle-tested European drone maker takes step towards €7bn IPO &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Investors wipe $2.5 trillion off Nasdaq as blue tsunami prompts AI fears",
-      "source": "Reuters",
-      "published": "2026-11-05T11:23:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVVFVWVUwWmVwQXRLMTV2ZFBIV3dpR1VBUTU4dnhfUW5SN3BwcGZraXF1YTFDMmx2TjZFOTVBTWNqc09zTV9VbE1faDJ5Y294THA0YlFkTlZmX3AzWDJacm96Um1YQ0htd2FLRmJFTlpvLWVhQ0pXdUtyLVh0ZTRESzBJNW1fZ2lrTVBkUEIzejF2VUVLeGdyQWxDazczTmNWQWdOMXIybTR2T0x5OWFGNWMyU256bUhRME54eXBlTQ?oc=5",
-      "description": "Investors wipe $2.5 trillion off Nasdaq as blue tsunami prompts AI fears &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Nasdaq posts biggest daily drop in 19 months on fears of AI regulations",
-      "source": "Reuters",
-      "published": "2026-11-05T10:54:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObTdYYmZaZmRqRUt0TDhBbERraDF2VlpSTDJ4M1NyZ2dRRkNUUVJ0OVFHdzJyc01uNDZOV2YzZFprbU90aUNzTEtYTEdNWU5Jc19VVVlHc24tNkZ2VFhqOWg3b0swVDFnY2hHaGxuNVZXVkE5S09xZXV2eGRQb1kwdWFEZWxpeGMybDZRcGtyWW52Q1JfaHY4MVo1YmJfRW9KZmNsdVJqS24zeGRZVUpaV3VB?oc=5",
-      "description": "Nasdaq posts biggest daily drop in 19 months on fears of AI regulations &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "European rates go electric!",
-      "source": "FT",
-      "published": "2026-11-05T06:00:06+00:00",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5iRFNqcGNackIyM0M0Q0JkT3AyTFdGdUtDY2VzaW1hdktTM2lnNVBDWkR1RTBvTWhmUk5KQ0RubEpLNjZNRUZfZUMzTEFKSW5SSUJtUUxRQ0paNU43aUc2TERYZzdNaEh2RURKMXNRU2M?oc=5",
-      "description": "European rates go electric! &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Morning in America, twilight in the markets",
-      "source": "FT",
-      "published": "2026-11-05T05:01:38+00:00",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1iN0JfNlh1U3NoVy1GZ0NxUGJLeEcwRXptVVA0blpDWENHY0hYcWhHQ3phUmFTbWtmYlQ5NkZZSGE5R3d4RVR3aTRrWXN1dmNQRGIwZXk2QkRuYVNoRFpSSF9TSE1jck4zZWxmbS13Uk0?oc=5",
-      "description": "Morning in America, twilight in the markets &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "UK inflation to peak at 4.4% in 2027, according to FT survey of economists",
-      "source": "FT",
-      "published": "2026-11-05T05:01:12+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSTAxZHFoS2ZyTHZXR3NrU25yU2JEcmtRNlBpbXJvSzBIbjhpMFlXd2ItYlJUdGdablA5ZXFsMXp5RjAxczFtWEpUS3d3NFRyQVZzTmQyRW5OVW1Bc1M1UmdOYkpMQ2hYc0YxekJXc3F3RW9QajVpUGUyRklfMDRYRy1Dd20?oc=5",
-      "description": "UK inflation to peak at 4.4% in 2027, according to FT survey of economists &nbsp;&nbsp; Financial Times"
+      "published": "2026-11-05T20:28:44+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZC1ETzJ1LWF3ODU0Z0J4VjJUX0JnRmV5b1NTRXoyckptSEFBbGpYTDJGUHBIZEVKWkMxcF94YmJGV1U5ZzZXdTRaVEZ0ZzJJQ3FWZVQ5TWFJWnFuTjdOb3MwLVdWbXBCSC1sMXdpR0ctbWlvcGJRZ0czQmtZLWhSNjlwZnM?oc=5",
+      "description": "Will Democrats stall the AI boom? &nbsp;&nbsp; Financial Times"
     }
   ]
 }
