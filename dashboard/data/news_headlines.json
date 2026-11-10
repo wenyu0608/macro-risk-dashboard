@@ -1,6 +1,90 @@
 {
-  "fetched_at": "2026-11-09T07:02:31.612257+00:00",
+  "fetched_at": "2026-11-10T07:39:28.032675+00:00",
   "headlines": [
+    {
+      "title": "Morning Bid: Anthropic IPO: Please try again",
+      "source": "Reuters",
+      "published": "2026-11-10T05:31:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CeC1RN1hvWlBLQ0hHeVpIRS1lOU14N1J6a1pDc1FPRG84VnZ0Zi1fZEo0VUZoVWJyemFNaFQzcmd4djB5TlJNS3JITXBlMWxfYnZ4dDJUS1FhZS1jVjhQMEpReXFuMlZOU3lURE5pcWtoTHlLbk8xWEEtMWNMZ0U?oc=5",
+      "description": "Morning Bid: Anthropic IPO: Please try again &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Asian stocks climb as oil prices slide ahead US CPI",
+      "source": "Reuters",
+      "published": "2026-11-10T02:23:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9CVDNSVXJpWURQMkF1dUt1amw1WkxILXhVSjZyZkQxdGlBdWZvT0tqclhabXRKZC1xNlRIRmJSdkhINDVsYXlRdk9paVRCa085WWVKRTJFcm9CZWo2VzNaYU5lQ2RXbDdqb3QxdkY4SDFRb2JMVE8yemVJMA?oc=5",
+      "description": "Asian stocks climb as oil prices slide ahead US CPI &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Tata Power’s Singapore woes",
+      "source": "FT",
+      "published": "2026-11-10T01:30:07+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUlZjdWJ2SmVETjJLUEJKQTVGT05ITVJhTjROSzVPTk0zckZ5TEFpYkZCMXpsLVUxQ3JqX2F5blJzbWQ4aHhzTzZKRU5yMnB2Sk1YSkFINXZRc3V4MkRTS2V6b21uQmJtd2FMS2YxM1VNZFltNzViOVpMNFJJSjRyME43TDk?oc=5",
+      "description": "Tata Power’s Singapore woes &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "US stocks rebound after AI rout",
+      "source": "FT",
+      "published": "2026-11-09T21:20:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWHEzQjNVM0hCVHUxV3NxbWpTSDFrQzZ2MkwwWW13Q0Vubm82dW1IU0wyT2xfMWpCa1VpcFNKQ3lGS3FnYjZmMHcyZG1kQjQtaDczbVZCSGItak53QklrVVZqOEVfQzRMY1Y2ak0tQnFOcW15dGgxdlZaR1R4UXdocl9nbWE?oc=5",
+      "description": "US stocks rebound after AI rout &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Fed should move policy 'with care' as it responds to inflation, Barkin says",
+      "source": "Reuters",
+      "published": "2026-11-09T19:12:26+00:00",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOb2pkV1hRTWpneFJMd191WGQtaGRvMTUtR1dHZE9UMzNYZmpocWNLeEx2UDd6RHZEajNibW9NZ3FBUUpsdHBwdjJMUjd4M0ZTNm1ib3huSXpneUpJY25FUFdabFRWZUZOQ3MxQWEwZDZ5SENvMmtfaU1ZQnlPenYxT0tiUFg3RmtzU0prYS1PNFp2X2I3U2phRXBFRGQ5c2kwUlF0Mmg0cUxDM2ZoamxTUQ?oc=5",
+      "description": "Fed should move policy 'with care' as it responds to inflation, Barkin says &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "NY Fed survey finds Americans more worried over future jobless levels",
+      "source": "Reuters",
+      "published": "2026-11-09T18:23:54+00:00",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUXhtQ01sMkNWc05UbEI3bVUxc2t4ZDM1Vm15aC1iMFV4MXc0OXNsMXpWSmE2TVdzVldTLWljanY5QUlvRm1UUjZ6VEwtZW9uWkZvYVlxczFrY0hjMktLczhmSGdTYmptMGU4YTdjQ3lmZkgwTWl0OWVxUExlV2tYeW45dHNLWjZTdkdoMHlVbVZEUTlXdGNDWjJjSjhETkxoMlJfM3VlVnZsWTFpZHNveE9ZWmg?oc=5",
+      "description": "NY Fed survey finds Americans more worried over future jobless levels &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Saudi Arabia’s vital East-West pipeline struck in attack",
+      "source": "FT",
+      "published": "2026-11-09T18:19:20+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYVc1aXVWTlN3MlpidFgtWnZKLUhrQkt3dWJPcVFnc3lyY045aDVrY1hzNzZycjQ3dHg2YUdZV2x4WlZqUkVlTU96WVZ6S243WG5Odmlia0FNS29WRXptdjVQeDdPSUROMTFXTHBWOWFla2tsNnRva3NPdU53RTRrdXdtMjM?oc=5",
+      "description": "Saudi Arabia’s vital East-West pipeline struck in attack &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Tech set to still sway US stock market's course despite AI-driven swoon",
+      "source": "Reuters",
+      "published": "2026-11-09T16:55:16+00:00",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOXdISHo5SVE3RnA1bXZ4V05tYlAzSk5ZcUgwRUpycnVmOHlPeHQwbURpeHF2am5xQjU3ZVhMY0tweVVndXNjMUVpQUdCcXEyZlg5a1ZFVW9TNkkxdGJLaGllT3ZiM3pqLUxYVnRaNDVWZG1USmItMlJkU0pnc3Z0U2Zwd0l3UnowbDQ0UVN5cEJDQU9nS3FxbDFEc2RJRjV3NkpSeEdUNDEwWXJIUkVwR2ZB?oc=5",
+      "description": "Tech set to still sway US stock market's course despite AI-driven swoon &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Are you into weird, esoteric financial history memorabilia?",
+      "source": "FT",
+      "published": "2026-11-09T12:00:01+00:00",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85c1A1X09EYUk3eE51ZTVxdnhpdGM3SkRBV20xcnFXeHlWcXZvakQyNUpqVExMMnliRkdwcnBPc2NJX1RpSS1KdVQzLTFuQzVGZEdVMWlkVEg3Zy1USGFhaW5lZXNzRkgtTXJGd29vSGo?oc=5",
+      "description": "Are you into weird, esoteric financial history memorabilia? &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Wall St jumps as oil slide cools inflation worries; Nvidia slumps",
+      "source": "Reuters",
+      "published": "2026-11-09T10:35:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNldnOF8ybWVHdkNyWXAxOG1mSFRERGpWNlpaM2N6R1ctTUk1MDZEWlR4aEtWZ1RlT092T1NtaVBfbDRtWmItVi01TWpzV3BIdTRDUDJUblRwSkFSZDl6S0J1NE42bzE4bEsxVGMyeURKR3lTbmlYNTRLQnM2TmFCQ1JUZkJ1aFppVURGQjkxSk1PVWtCcEF1Sy12SlB5a3UyaW5lVkhkMWZtTktaclE?oc=5",
+      "description": "Wall St jumps as oil slide cools inflation worries; Nvidia slumps &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Nvidia shares fall as it probes alleged Chinese spy scandal",
+      "source": "FT",
+      "published": "2026-11-09T09:15:56+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPX3VKdWJFVzFQMEtxRW5JaEhiOWpNVkEyd0tJTUhtdWRyS1lCR0lJaFFyN2hvc1ZDZklzSmdyZUwwMVVEV0V3Y2loOFgwSno1ZHlZYXB2bUpjaS1STmt3cTdBRjh3c1o2TFktRzdaVHBaSjVUeU9tLTdweGcxV0hKWmNlTzk?oc=5",
+      "description": "Nvidia shares fall as it probes alleged Chinese spy scandal &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Charting the rise and fall of currencies through the ages",
+      "source": "FT",
+      "published": "2026-11-09T06:37:21+00:00",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5FVDI3MlctT0ROdjM3RE1ud2Z4X282WjdSZExjNlV0ZUE5YlFuVTczcmdMVVQyclcxVHF1T1FDVElodWNVZ2ktUHBQTmZLeWFUNkNCSGk0YVNObmN3aVlVR0xFOUt2R2dvaW14MWJmNjM?oc=5",
+      "description": "Charting the rise and fall of currencies through the ages &nbsp;&nbsp; Financial Times"
+    },
     {
       "title": "China’s producer prices hit four-year high",
       "source": "FT",
@@ -9,109 +93,25 @@
       "description": "China’s producer prices hit four-year high &nbsp;&nbsp; Financial Times"
     },
     {
-      "title": "What Democrats must do now",
-      "source": "FT",
-      "published": "2026-11-09T05:04:05+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQnBxUTFQRGg3dG9UTzEwT3lXMG1NX1pvZXM2dDF5NVVONkVSTmZSbjZHeU5aM3F4MVV4cEl1SkdsQVlFXzFYWWh1UkpEaTNsOEczV3l4UTlsRUdZemJ2MzJJUU9IQ1ZyOU04d1RlbXhOeC1CZzBwd0FBZlFBWW92ckNpdkI?oc=5",
-      "description": "What Democrats must do now &nbsp;&nbsp; Financial Times"
-    },
-    {
       "title": "What markets want from the Democrats",
       "source": "FT",
-      "published": "2026-11-09T05:00:26+00:00",
+      "published": "2026-11-09T05:01:34+00:00",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbkNfNV81OEYtSGYtMjAwZXVnalo0ODNCVzM5dmVaQ3FIcXo2NGl3ZzVNTm5zQ19IUWVwV1BMQmFyWHVRbUdNUmJIS1ZDSklaVXNNWEtFTWxlTHVOUGRkNDhsUllTU2VNQl85aVlLMlJuT1N5WTVaenZaMGg5eGR2akVCRHI?oc=5",
       "description": "What markets want from the Democrats &nbsp;&nbsp; Financial Times"
     },
     {
-      "title": "Asian stocks rebound after AI rout",
-      "source": "FT",
-      "published": "2026-11-09T04:55:33+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWHEzQjNVM0hCVHUxV3NxbWpTSDFrQzZ2MkwwWW13Q0Vubm82dW1IU0wyT2xfMWpCa1VpcFNKQ3lGS3FnYjZmMHcyZG1kQjQtaDczbVZCSGItak53QklrVVZqOEVfQzRMY1Y2ak0tQnFOcW15dGgxdlZaR1R4UXdocl9nbWE?oc=5",
-      "description": "Asian stocks rebound after AI rout &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Trump says he was ‘too tough’ on immigrants as he floats amnesty deal",
-      "source": "FT",
-      "published": "2026-11-09T02:54:17+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSXZka0lpTzYwTVFBZ3plcU9HVnNKSlZzOE1LalBxbHFtc3h4UzRwZmFjQnBna0E5a3dnUlZlSlBWaTNSTGFrSE1xYWdMd3IwVHg0VHVCUnhvcVFnYmJmNE40OVZVUHF6Y0RWZWFzcjVsRURhQWJveWNid3hVQU9YYUlIdW8?oc=5",
-      "description": "Trump says he was ‘too tough’ on immigrants as he floats amnesty deal &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Nvidia's out-of-hour shares fall as firm probes CEO Jensen Huang",
+      "title": "Citi, HSBC bet on India as oil slide, AI rotation fuel market revival",
       "source": "Reuters",
-      "published": "2026-11-09T02:27:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcUVlREFfdFVvdmk1OXFEamNOcFVZTGJFX1gxZkhjYjhXNTFnZkJqUmpLLTliVmRCZUNtRGdHSDZ2cVBvRXlLdldZSG1rVmFfMFk5M1dKNnBnVnNnUzZ1NmVSNkRWakkyNktBZmhGbzJwYkh5YTZBekVPY3pyUU9lTXY1WGt4TkhLcHVPTldJb1k3MGVPdzBLcTIyVzNuRUpyRGt5cDJpMV91QzdjcWFtQy1MekMwU3lkRlNXUFNn?oc=5",
-      "description": "Nvidia's out-of-hour shares fall as firm probes CEO Jensen Huang &nbsp;&nbsp; Reuters"
+      "published": "2026-11-09T04:51:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZGhBSG5USUdjc1BWelIxb215ZlBXRjhSbGZiLVRGYzZWaE9nYXhUdHU5alNZa0xhRFZ4QnlnTnhRb0s1Z3NDTTVTV1ZMdm82N0lYMVhpb2I1VlRqeUZkVFJ1WnpPNTd1VFRjX3dvZE1MZmxwc29seXBhT3RHUnA1MlYyTjZSWVhscHpCQlBKSXRoRVFvMWtWdnZCQzB6RTJhczVvVQ?oc=5",
+      "description": "Citi, HSBC bet on India as oil slide, AI rotation fuel market revival &nbsp;&nbsp; Reuters"
     },
     {
-      "title": "Asian stocks bounce as AI, Mideast jitters recede; dollar firm on Fed bets",
+      "title": "Stocks jump as oil tumbles, Nvidia falls amid internal probe",
       "source": "Reuters",
       "published": "2026-11-09T01:46:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0oxRGlDMkl5NWVMcTZ3NjVxWU5RakhWT3BnZG1vc254T1RSXzg0SE5MelBYSTNsakduTFo5R0pJMkNWNXZKVW9SZEFOLWZfbWQwdG94bkpoeGw5V0I5bmtlRktsWmpqTGhwVzFNSkgyaDdEVUprbDNsMkI1WThjZ1cwQmpIRjN5VVFOVw?oc=5",
-      "description": "Asian stocks bounce as AI, Mideast jitters recede; dollar firm on Fed bets &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "China's factory-gate inflation at fastest in nearly 4-1/2 years in October, while CPI rise moderates",
-      "source": "Reuters",
-      "published": "2026-11-09T01:39:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdHZHeWlBMm5ScUQ3Um9LTHZLdHpkZzNXNXF0NWlKUjlMaE54NnI2VUhSNktuS3BpWEtldEk4ZklwbDFaLUVGaXcxdVY3ZllyX1o5aFNNX1R0dC03Zzc3NFVkSVdTZDl5dTg0UUF4R1lLQXNlT3NmS29zVjhqQWZPVVU5OXlpLXpWdmpSeEJCVWhrY1FUcnc0REduM3VITEs0TXRvLXRtLUxXMUZYaWl5NmYxZml3MDQzUDMxU20wbWdHWWMzbERkeVZHTQ?oc=5",
-      "description": "China's factory-gate inflation at fastest in nearly 4-1/2 years in October, while CPI rise moderates &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Indian rupee tracks AI volatility, oil; inflation data next test for bonds",
-      "source": "Reuters",
-      "published": "2026-11-09T01:34:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZUJncUFJYWZ3Z1JsUjB6SFJfakZ2SmVEVU1MbGpYVDNOQ3hTSTQ0c0QtUDRuUEQwdmFobUNpTjliaUhMZlEzTXBjZ20wb002Q2pDcWY1SjFIWUJEeHdmVDlLb1drV2NkRklMaWlkRjNnS3FmOG1SZ3Nza2dyWV9KcGJUMEhvVVZfLXN1QXVYRmtvYjh1Uk1yRXpZdVR4aEtxSFZfWmVHdTRibDNQU2RwVkdBMmZPWWM?oc=5",
-      "description": "Indian rupee tracks AI volatility, oil; inflation data next test for bonds &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "US dollar holds onto payrolls gains, NZ dollar rises after election",
-      "source": "Reuters",
-      "published": "2026-11-09T01:16:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc3ZtMDBIQ2p3MzI1VUNnS3M2Q1I4T1k1Mk1sU19peE9hOGM5cVh2cXZiY3Q2THgyR3ZnMzlhRExRM0s5ci1WZG5IQk55RUZkb2tITUp2OVRoY1VXWWFDS3pBMnNLSFhhZVplWWVjWmdRRmZ3eDNUNFREZWU2Wml1Y3Nnck9saTB4T3JPSGd2SGl4X1NwNmp2U19iY3BLSmV0ZEloYTRadldmNjJIY0l4NllucjVDT3lkQ0JLakFB?oc=5",
-      "description": "US dollar holds onto payrolls gains, NZ dollar rises after election &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "RBA's Hunter says AI has yet to deliver productivity boost, trigger job losses",
-      "source": "Reuters",
-      "published": "2026-11-08T22:43:45+00:00",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNW9UVDViMV80RXpjYmswQ1lNQ0pMVG02UDEwcUVINjZRNTI5R2cydUxFYm9nMEI2YVUtNm5KT2xzdUwyNW93cGpldzBudzJkSWU0dEg2NU5LN1UyVW9tVW0zbDJ6Z0JmVl84UVc5ZEdBakZUcGhDMjNFX1ZhX2JfM0NIanRJM0tuYnVSZHZrTU5lSVNSSVZJZVdmZjRIclNic2UyYjZacE40cUxWMnJVeFg5RGNlUkdxSGRPVnBDdUZhV3UtT2hZ?oc=5",
-      "description": "RBA's Hunter says AI has yet to deliver productivity boost, trigger job losses &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Cryptocurrencies slide to two-month lows after US midterms",
-      "source": "Reuters",
-      "published": "2026-11-08T22:27:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZ19jb0ZtdjRvY1E4V0ltOHBXdkI0UXpfY3lNeFVhM0pxRUlUUmVhWVdRSW1Ec25SMnVvSXVxQ0hQcjJfamxSWWpRSVNoYnh4QUxaSHlHRExaWVBiNklkRUpvM1dMZENjS1RNRzJJUFNydjN2RVFpQkxfcGpSaGNUREEyX29scVBNTkoycjdRckk1ZFBIaTgybHh1NjU4eUxVUEE?oc=5",
-      "description": "Cryptocurrencies slide to two-month lows after US midterms &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Will US inflation data ease affordability concerns?",
-      "source": "FT",
-      "published": "2026-11-08T16:20:06+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNb1gxeFlicC03N0VwSW1fUFZpUlV0UDdCQ2Q2SkJoVGF2d2YzUEg1RDNHbWJTNDgzMTd0TURpVkRoRTl6UjZrd0NMbG5vZFh5VjRxXzU4bmVFdzl4Szl1RlNvdXpGTUpKMjZqYjdmbEFaNmtaNHZUTFdRR0pobFJzZ1Z4M2U?oc=5",
-      "description": "Will US inflation data ease affordability concerns? &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "A new economic agenda for America",
-      "source": "FT",
-      "published": "2026-11-08T16:00:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51TXhqSzBBbGRuOTE2U05iM2N6dUYxSndURk83N3BoZVNfU0xNaHg4cVdVQmJ6UmJqLUUyaDdBOGx3emZmaUpEdFc3dUMyVFFwbGRHQVJzdUFiZW5Ndm9ncTBsemhoVGR5Zld4MmdaTGw?oc=5",
-      "description": "A new economic agenda for America &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Private equity firm seeks to take control of LIV Golf from Saudi wealth fund",
-      "source": "FT",
-      "published": "2026-11-08T14:32:40+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWUotV0RTQVAzQmtNVDhlTHMwMTAyOUU2N1RCcUpiVGNINFlRSDFkSExLUEFpdU5FdFFWTjdhamZBZDh2blNOVlBRc0Z2RjBQQXJreHc2SE53WlJOSkduMWhRRkM1eWtJVU9oZEpTQ2kxYTM4YkotZzhqbGxHUUNLYTBhclU?oc=5",
-      "description": "Private equity firm seeks to take control of LIV Golf from Saudi wealth fund &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Gulf markets retreat as traders await Trump's next move on Iran",
-      "source": "Reuters",
-      "published": "2026-11-08T13:14:08+00:00",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNEhqejQxdWF5MFpVWjduZHVuY1l1VmxKYm9CN3F4aC1qWkFIWFJqZDJEZ1VoWmthUW1NaWdWQUY4UUprUGsyWFA2a0trUE5HUjEtUHpPNFV1UnBpMHRrR2RlQWo1c2xvY1J2QnprNnNkbHNpY3ZtUWxMQkRzTVpKcktuZjhJdW5zSHdsZUhxYmxBVy00UWVnbndnOEc2WWplMEEwREVib0VyZ3BzZWlR?oc=5",
-      "description": "Gulf markets retreat as traders await Trump's next move on Iran &nbsp;&nbsp; Reuters"
+      "description": "Stocks jump as oil tumbles, Nvidia falls amid internal probe &nbsp;&nbsp; Reuters"
     }
   ]
 }
