@@ -2,7 +2,7 @@
   "alerts": {
     "term_spread": {
       "level": "warning",
-      "message": "Yield curve nearly flat: 0.25%"
+      "message": "Yield curve nearly flat: 0.24%"
     },
     "credit_spread": {
       "level": "ok",
@@ -10,7 +10,7 @@
     },
     "vix": {
       "level": "ok",
-      "message": "Normal: 17.5"
+      "message": "Normal: 18.7"
     },
     "absorption_ratio": {
       "level": "warning",
@@ -18,10 +18,10 @@
     },
     "turbulence": {
       "level": "ok",
-      "message": "Normal: 11.7"
+      "message": "Normal: 3.8"
     }
   },
-  "last_updated": "2026-11-12T07:35:12.008492",
+  "last_updated": "2026-11-13T07:05:37.203118",
   "indicators_available": [
     "term_spread",
     "credit_spread",
@@ -35,17 +35,18 @@
     "momentum"
   ],
   "composite_score": {
-    "score": 16.7,
-    "label": "Low Risk",
-    "level": "low",
-    "color": "#34d399",
-    "action": "\u6b63\u5e38\u6301\u4ed3",
+    "score": 21.1,
+    "label": "Moderate",
+    "level": "moderate",
+    "color": "#86efac",
+    "action": "\u4fdd\u6301\u5173\u6ce8",
     "components": {
-      "vix": 24.5,
-      "absorption_ratio": 8.0,
-      "turbulence": 20.2,
+      "term_spread": 47.0,
+      "vix": 30.5,
+      "absorption_ratio": 8.1,
+      "turbulence": 5.9,
       "breadth": 14.0
     },
-    "date": "2026-11-11"
+    "date": "2026-11-12"
   }
 }
