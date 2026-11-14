@@ -1,131 +1,124 @@
 {
-  "fetched_at": "2026-11-13T07:05:42.780231+00:00",
+  "fetched_at": "2026-11-14T06:55:09.269683+00:00",
   "headlines": [
     {
-      "title": "Food arrives by drone in APEC host Shenzhen, as China expands 'low-altitude' economy",
-      "source": "Reuters",
-      "published": "2026-11-13T03:49:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRTlKVTE0bEZEb2s4dTJDSktzMWM1eEpXekRMYXBQXzdsaWNNYmRDV05SWEZQYVA2d25UbU5Ub0JpV2lQYnZIYU5Uc3hqWTVnTE10bUZyLTRPQzNyWnFHUlE5cTV6TW1LSkl1ODd2dDhCYmxac0pnTjZtXzljb0xoSDM2NDJvMkxvUFNKRGVwZmZEYTR5eW1RTTNnazFYaVpocE00MUFmWEtqbmREX0o5dEsxM20xY1BjYWM2OVBQelNFYU1Yay1KaWZMZ2VaOVA3YlE?oc=5",
-      "description": "Food arrives by drone in APEC host Shenzhen, as China expands 'low-altitude' economy &nbsp;&nbsp; Reuters"
+      "title": "BoE chief economist says further rate rises needed to combat inflation",
+      "source": "FT",
+      "published": "2026-11-14T05:00:46+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeTJBZmNHSzM3d2RiV3RfdWVIaGdWbXc3YS05LWRUUENvMmVaakRlSXBndzNEd1lqbHJjSUk4Um1nTFRraXBqLUVWVHA4SUlBSXVLZHBBUGJlZmNnejc0aXM5alNITDdxZnUyb3FvV3ZiNXg2dGltSWFZT241WDAtV050WTE?oc=5",
+      "description": "BoE chief economist says further rate rises needed to combat inflation &nbsp;&nbsp; Financial Times"
     },
     {
-      "title": "Dollar set for best week in two months on rate hike wagers, yen tests 160",
+      "title": "Fed's Jefferson says he is taking his policy cues from inflation",
       "source": "Reuters",
-      "published": "2026-11-13T01:58:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdXI2eWRwY1h1QWkxeldEbWhGUmdSYzRrQjZveW9TTm5LekpTdEthSzRRZHI1NlhoQjAwXzdjdVFSU0ItZjA3NFFxTUUxQlNWUzBoRHdtVkhtZ09hVUt2SmNyaFVvRkhOa0VERndHN1EweWdGajFEa050UDNqN1dCTllZamxKS0J1R0FHWXJOU0lweWJDMnV2clZBRVI4YVU4MTFBeg?oc=5",
-      "description": "Dollar set for best week in two months on rate hike wagers, yen tests 160 &nbsp;&nbsp; Reuters"
+      "published": "2026-11-14T00:03:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZW1TY0lTUklmN2JmVC0zMm5qMUdfOUFjWk43S1NTS1RpcGx1Ni0tWkJCX1NXWDg1cHdzazZsQUZlREpWRkl2UER3S2t0TjFON1lXeTNNLXA4SXZYYjFjbXh0SnJzcXFGV2FPZkhoc1dNc1ZhUXNTRjdmX3R2SUR0ZlZwcHlnT2F2ZzdLdnNkQ1I5Sy1tRmVGTS1GTEpUTmRTWVlkYXRR?oc=5",
+      "description": "Fed's Jefferson says he is taking his policy cues from inflation &nbsp;&nbsp; Reuters"
     },
     {
-      "title": "Stocks recover from Nvidia whiplash, dollar climbs with US yields",
+      "title": "Jefferson, New Technology, Old Questions: Productivity Puzzles  and the Macroeconomy",
+      "source": "Fed Speech",
+      "published": "2026-11-14T00:00:00+00:00",
+      "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm",
+      "description": "Speech At the University of California, San Diego Economic Roundtable, San Diego, California"
+    },
+    {
+      "title": "AI rockets to top of worries about financial system in latest Fed survey",
+      "source": "Reuters",
+      "published": "2026-11-13T22:26:58+00:00",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNa05md1paYmE4WGRIS2pmdGhmS3ZkQUhQdnFNUHNpTURuUmNXc3A1OUNvQkQxamNhUmROd3o4a09ENzhkamVvSlJMUDcyR1FYVW5MOXhid3RjNEtLLVY0NDVTMWlxdGZxYWJ3YVVuRmhRSEQzbDJvSk9VakI2d3lORXZZbFdkdlJHcEpPdmpxOWh5Z1J1UjJQbG96S016ck1MSk1VVzJ4SFliWkhUMng3NEJuYVpEWjQ?oc=5",
+      "description": "AI rockets to top of worries about financial system in latest Fed survey &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Microsoft says services experiencing ‘broad recovery’ after global outage",
+      "source": "FT",
+      "published": "2026-11-13T20:17:46+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc1JOaEdsdTdDNG5MMWZtVW5rSWx1S2dKTXZ3ZmdOVUd2X2NFa1BmeS1kWkZpZ0diYmxZNGEtQ3R1MzNVN0RBM0txbHpfakxKR1MtblJZMFhsXzlacTlqUEpCZGZicmZLcm5yaHU3bGRDX1hBUHBPNEZ3TXJlZEwtTXRGeHg?oc=5",
+      "description": "Microsoft says services experiencing ‘broad recovery’ after global outage &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Fed likely to need to raise rates amid worsening inflation: Daly",
+      "source": "Reuters",
+      "published": "2026-11-13T18:48:40+00:00",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaHBuM0FNRHlsWlNrX090Q3F6R2VZUTFYRkF3bFZwbDNQMUwxZXpiYmROVUJWWTVKZHRoOExqUkxpcktRYUZodDVncmNVSEdIMDktTDYxMXlWM1hvdXVKRmVfMmtvbTBUd1MyWkxFR3RqTlNJNVk1WFNtc2pnQ0w4QjRTdjlmcFdPUkVUZFVndGdCRWRPMEw3cFZHcjBlc3lhdDY2Vw?oc=5",
+      "description": "Fed likely to need to raise rates amid worsening inflation: Daly &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Neoclouds, AI stocks slide again as Nvidia turmoil rattles sector",
+      "source": "Reuters",
+      "published": "2026-11-13T17:17:40+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNDEwYUl1V3JQSU1MMUlWQ2k5V0toMnNCNUFZLXFaTldqYTVEWXlrZ0xudEhMNDk4bVJweUxrNThEaGo1VmRhYTRndVJ6djRINHRNQU8yVE9oczQyUUVxRzVjbnNzZlFQbEhTcGV6elkzcjNNVWs3RFhZYVg3a00zNlhxam1xV0ExcVM0ZEIzN05oQl9YTU5vUC1FVXFXU1k3dFpwQmx0d0hGdw?oc=5",
+      "description": "Neoclouds, AI stocks slide again as Nvidia turmoil rattles sector &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "How US tech pain is European stock markets' gain",
+      "source": "Reuters",
+      "published": "2026-11-13T17:03:44+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZm83NjIxZ3NuUW9jZldpdFpOclFTLWpwSWVFNG44bm1LYmNLaDk2Y3M1bTBOejlWVWlJeHh6VTBnem93eUVuYW1jaTdaVnVMOTZ0eF9EaGNUOGRMQVBzaUFPNmdYLWZlQkNOb2dsdWZwdTY5Nm1BU1QtUmxVay1VSGp2NVNFNlhxRW1zQ2pHRFpsV05YVE52aFNHaVNSZVVGY0E?oc=5",
+      "description": "How US tech pain is European stock markets' gain &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "AI believers hold the line after Nvidia ructions",
+      "source": "FT",
+      "published": "2026-11-13T16:55:39+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU2U4di1PSkNYLW0taE9VUTVUOUVJbXd3UVZCSGFpbTBwSzBXcUZ0SWN2OGVQV081Q0FhVDZld2FNdDByUjN5cEFhS1VCeng0LUVjUjB4LTdfZGlXNklTdm5LeHZxQUJ1b0Mwa0xqdjVldzEzWkpXYUVXQm8xbW5vc3A1b24?oc=5",
+      "description": "AI believers hold the line after Nvidia ructions &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Fed's Warsh to take stock of AI revolution as US public grows wary",
+      "source": "Reuters",
+      "published": "2026-11-13T16:30:03+00:00",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWkQ4OXhSU2NkMHBKdUJoR3UxSHZZdDcwX2lwRldpTVlTdWstUGdDMExnaDVjb1ItV2kyUlNGRnlNbS04ZDVWX1hrczMxOXRnTG9MWUxFRXBMNFc5UkYwMnpFOGZsTG1KcTB5dGdlckdHRmFrdERaT1VZWkJKU0JhMER4czlvUEJXQ0JxalhaWUxyQ0pfaHh6WHZlUW1GYVBpb3RxQXVUMVpzMGc4c0E?oc=5",
+      "description": "Fed's Warsh to take stock of AI revolution as US public grows wary &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Bessent, Fed's Goolsbee divided on role of energy shock in inflation",
+      "source": "Reuters",
+      "published": "2026-11-13T15:40:04+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWGl4M3I4cEx4Q1pteUwtd3I3OFBYWWFUU096V1Y3X2oxdl9KOFprODJXTEoxallGdk8tXzNuMzlWSXdjTTBFNjUxUHFwWmdVZTFHeTh0TEVYcWtNSXI2aUJkRFdKVFgtNmpWS01zTlhMS21ndThYQjY2bDhXSFpnV2c0Sl8wSzdBWnJzNmZVR05iUGdxU3BCUnBIYlcteEQtRkNMbDBQRF82QXVESmZSRGNvZG9yaGtfbm5QNHBTUE1jNjA?oc=5",
+      "description": "Bessent, Fed's Goolsbee divided on role of energy shock in inflation &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "US Treasuries record worst week since Trump’s ‘liberation day’",
+      "source": "FT",
+      "published": "2026-11-13T10:57:36+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQb0FUTktDMERPRkR0VWQyeFdYUXZEZUpGYjFMdFlCekF4YTBVRkJNZzZFY1Fsc2VPeUgzekJnc3Z1XzhaVXZQRTRMWmNGUlJGeEFDNGZlMDc3d2syWDZNRndBeDl2RkY5MnpBM09sUjNSTkVHYWExNU9VSVBUQnhXWjFkaW4?oc=5",
+      "description": "US Treasuries record worst week since Trump’s ‘liberation day’ &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "How fat are AI trading bots’ fingers?",
+      "source": "FT",
+      "published": "2026-11-13T09:59:01+00:00",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00MVk4S0tzWk9Sd0pZVEhoWXBjRkZNMFc3NF8wMXRGSUtJeExxNHF0YTh0bDlKbF8zckU2S1luc3N0OXRCUUFFU2F4dktGSXRDMjI3VVNjMDFFak1nd25aSWE1cUNXRjZ1UVlfRTY1ZHY?oc=5",
+      "description": "How fat are AI trading bots’ fingers? &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Global oil markets swing to surplus as Gulf shipments rebound",
+      "source": "FT",
+      "published": "2026-11-13T09:04:06+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZWVlalpISmRrSTJBMVh4YUVzVUdOZWJhTU1jbmZfc0JwMmNpZGllLUNibThMdHFzV0tfT1paVlZsWGJTSUNQcjNYa196SEdvWnRVaEFZWGFmaTlVcUM0Uy14NlRjWFZZdVU0NFB6RnpKMmZXdUFoME1vdXVtUmZGaXUyTGU?oc=5",
+      "description": "Global oil markets swing to surplus as Gulf shipments rebound &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Value Nvidia, not Huang",
+      "source": "FT",
+      "published": "2026-11-13T06:31:14+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMzZQM0FNa3dfSTBSTWVDUGZpNVBad2ljdV9oWmZuUHh3c1JmWnhOQVA2TU9LVjV5cXRfNFdDOGUzUWNXeUQyREtUcFU3TjRGX21SS3NaS01vRUktTWZCejhjOFEzeTBkR01PQ1NOWmlaZnN1NFoyeUhWWjR6ZW9PcGR4dXQ?oc=5",
+      "description": "Value Nvidia, not Huang &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Stocks fall with tech, Nvidia concerns; US dollar climbs",
       "source": "Reuters",
       "published": "2026-11-13T01:55:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ0cyVmdPTTRkWGt3UlMtUFRyOGhvdDNlM1FYVy1MSVN0elpQZHgtWXctVEE1M2RjQm9IcmwzUGU4cEhEQnhsQWlOX2RhUFk1NzBXeFkwM3lMek16ajB1ZmozdGpLR0cwQ2JTcGVlTTJwMEc2ZFZ3bklxeTk4eElFaHZLaw?oc=5",
-      "description": "Stocks recover from Nvidia whiplash, dollar climbs with US yields &nbsp;&nbsp; Reuters"
+      "description": "Stocks fall with tech, Nvidia concerns; US dollar climbs &nbsp;&nbsp; Reuters"
     },
     {
-      "title": "US Treasury bought yen in July; Fed made no solo FX interventions in Q3",
-      "source": "Reuters",
-      "published": "2026-11-12T23:03:22+00:00",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMkM3MHBxSC0zWERfdnhqRURMc2dhS01oamJOMC1TZFMwNGljLUtmTEVlaFZsVWc4b2JsUmJVNkUwWEpraUJaVVJrNHp3TktqczB6RXhtSTBOaWZFQ0k0WFd6UHhvTGFJMWs5UTAzZDkyb1FfNU90RVh5WVZfT0ZzMzNfeGVLR1J2NDItOVhvbmFtQVgtclBoMEpQdkxCcXFtVkUzZFZrQzB2bmd3NlE?oc=5",
-      "description": "US Treasury bought yen in July; Fed made no solo FX interventions in Q3 &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Ghana unveils $10 billion 'New Economy' plan in 2027 budget",
-      "source": "Reuters",
-      "published": "2026-11-12T21:55:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNakpiVnhweGgtUnh2TlMwYzFJalVYZ3NBdklEbjZpdkxaeXZMUzVmUXpPbXpJYXFsYjBfd1puVjFUVmFmUTdOSExEQUMtRS1YLThiMXduclEtM3g4MlY0S1AwVy1xQ1d3V193NzlfTGxwNXJRMkNHcTJiMnVTUTFNNHR0bHhCNFlGbk5PU1NmOHl6aG01emdCNzBVM2lSNG9MMW1sUA?oc=5",
-      "description": "Ghana unveils $10 billion 'New Economy' plan in 2027 budget &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "AI stocks pare losses as investors assess fallout of Nvidia CEO's exit",
-      "source": "Reuters",
-      "published": "2026-11-12T20:57:12+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTDc4NU9Ycko1b01GTVdRT1lMVzJWaEhrLS1OSU92el9GTTRMSEhyTW5VbThOZEhoVGNCbHNBU19EZS1UUlNiTW0wVU41RUdBVkJpQlNRazBvaHJFQ2VnT2FJU183NE9ub1RKQU5wMFp6N1luX3lrMFZubFVIaHJ0TWhZRVkyUzhJVjBsaDRlMEpKNUFLeWtITVhLRVhqOERFMzh0azNJeVlqVzI0ZUowcnV4Z3VYMUdXcFY0?oc=5",
-      "description": "AI stocks pare losses as investors assess fallout of Nvidia CEO's exit &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "US home sales fall to lowest level since 2010 as mortgage rates soar",
+      "title": "Bonds, inflation and the Fed. Plus, Nvidia in turmoil",
       "source": "FT",
-      "published": "2026-11-12T18:03:44+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdTFLUXEwMGczMGIxWWMwRGxGM1hoUmcxcGp5V0pzOUNzcFp5aEVfODRwal9Td1J2U21kYlh4elljeFlvRU01bGJPMVRzOThEQWFoaXNiVVNzclJmVWFjYVFzTC1heUJkV1pnNkl2MU56ZWtxT1dWSWxIbl9XODJ3RE9haDM?oc=5",
-      "description": "US home sales fall to lowest level since 2010 as mortgage rates soar &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
-      "source": "Fed FOMC",
-      "published": "2026-11-12T17:45:00+00:00",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
-      "description": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027"
-    },
-    {
-      "title": "Nvidia shares slide as Jensen Huang resigns as chief executive",
-      "source": "FT",
-      "published": "2026-11-12T17:26:15+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYTZoZmc3ckl1Vi1WM3ZfcnVUdjNCQUR0T2xKM2lIMnI0NFdQRG5EQ0Q5NEdmMFdLSnUwRDhaWU9uWDVoNXVnT3FLOF9ucUwwam94eUdoT05ZMVktRTZ2QjZZVXkzRndQOW91UnFKQjFZTFNKbFJObzNUSEtSU09UNHlTZjM?oc=5",
-      "description": "Nvidia shares slide as Jensen Huang resigns as chief executive &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Barr, American Inequality and the Future of AI",
-      "source": "Fed Speech",
-      "published": "2026-11-12T15:00:00+00:00",
-      "url": "https://www.federalreserve.gov/newsevents/speech/barr20261112a.htm",
-      "description": "Speech At Yale University, New Haven, Connecticut"
-    },
-    {
-      "title": "Jensen Huang is gone. Will the AI industry pay the price?",
-      "source": "FT",
-      "published": "2026-11-12T14:22:30+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWl9rVTZjTlMxODJQUXp6bC1nb0lRLU5nOG9iOU9laUxJeGlJZktvWTBLRC1lZU1YT0MxdXFDUWZpSXY0UVlRM1REOGJpdEdSVTBiZmo2YXR2RFFSSnAySnVPenh5VDJKTk5HNXdIX3drenE3dllrMjVhanE1VXU4R0EzaFA?oc=5",
-      "description": "Jensen Huang is gone. Will the AI industry pay the price? &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Equities close lower as Nvidia drop outweighs energy gains",
-      "source": "Reuters",
-      "published": "2026-11-12T09:37:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY01YWkJBY3Roa2hlWkVsbHhpcHplMm5NX09pWEJlMC1rWTY1ZDJoTUh0elc0WTZvdmpDOXJhS04tN2J5Y0N4NmZPdGk0aUhKdVZLT2RMSTk4S2EyZEJMYzY3WnpMMklfRjF3ZEJXZzU3d1VBTmlWS3Y1cllaYURseVQ4Nl93RFVLOXB4M1J6bnM1YVQ5QXBaSDZCOXEwUQ?oc=5",
-      "description": "Equities close lower as Nvidia drop outweighs energy gains &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "The AI megatrade’s mounting portfolio concentration risk problem",
-      "source": "FT",
-      "published": "2026-11-12T06:22:11+00:00",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DRTN1YjhqRXd5eVFiaDZIRHpoTU9SUUV4VHNNeGVoUFp0Zks1VmhMeGdXU196aG5zLVo1Q052QldGWlF5ZEl4Q2JuRFhvNF9sVUJhMXpFUTBXTGpyamhLWWU4TFdoMHUxRlJfalU1WnA?oc=5",
-      "description": "The AI megatrade’s mounting portfolio concentration risk problem &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "From SpaceX to Anthropic, markets have a new playbook for mega-share debuts",
-      "source": "Reuters",
-      "published": "2026-11-12T05:06:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSVBKOUFhVENlOHhiWWtwTlhGOEdkTXJLaWRrV0I0a19lOGhsVWp6RFNkVHJVdWVYMUk5N3RkX1BueVUtcGV3dkRFeFdrZmdqR0tNWFViY01SZlhkcExlN3BTV1JWcDFTR3NXZDdURDBMY2tsN1U5bXRwOXRWY1BfZTFyTGlGMnhXT1N2SVRXX05UVV9oSmFSdlVBRnBaV1QzcFkwdnhzaS0?oc=5",
-      "description": "From SpaceX to Anthropic, markets have a new playbook for mega-share debuts &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "France signals support for Spain’s ECB presidential candidate",
-      "source": "FT",
-      "published": "2026-11-12T05:02:25+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdTdrdm40LTlaTm5JbjdReXhsYUV1MERjdHF4b1pUcWhmUm9zMmE1ZmpIbXVmWjQ3aVBDdUVWUXB6Qk56OWJ6WjV5QTMtN0hLd0h2WFlqc3NMNURnVHp3WmpiWFBMbDFhQVNfRlBDM0pBUGRBdDlnOGdVRVAxWDh1dE9FUi0?oc=5",
-      "description": "France signals support for Spain’s ECB presidential candidate &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Russian diesel exports double after Trump lifts sanctions, but US gets none",
-      "source": "FT",
-      "published": "2026-11-12T05:01:01+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbElaWm5TWURMa29Yd2Y0aUpHZzhnbFFITnVSdnk5a0NSR3FuaHp2UDZuWTFVN3AzU1o5RU5STzc2S25OQTFLYzAycHhPX0FqMnJ1UVlWMjJiSVh3bFRBaUhZczNfX2gwQlVtVVB3ekZ4QXh5S2poNHZXSG5zQmFBd3B3U3A?oc=5",
-      "description": "Russian diesel exports double after Trump lifts sanctions, but US gets none &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Can anything derail Anthropic’s IPO?",
-      "source": "FT",
-      "published": "2026-11-12T05:00:22+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTnZOeWlFM3k0YVM2cjRwR1dmMGtSREdPWmdNMW16LU5mY2RvNTVnbDd1UTBKLWxLWGxadkpLaFBUY2FITjY5ZlVXQ1NZc3laeUJxSUhXczB1UURlZE5OZ3FmUXQyZm5xY1RwVjN2MHh6OVhVM2JQSWVzcDRVRmVweDg4VkU?oc=5",
-      "description": "Can anything derail Anthropic’s IPO? &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Surging US economy defies worries over turbulent Trump",
-      "source": "FT",
-      "published": "2026-11-12T01:01:56+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcS1nenVsUTJzSi1KVmxyVDR3bmdFWDlhZzZKTmxsMUcxa0lqNHcyNW9MUmpGV0RwN3JQc0d0bGhwVkxUYmxLMHZuNkNueVZIaHEwWGpXUEloNlhIUk05ZnhwQV9ybmVLY1ZWdnRWeVV2R1pVVDBNMkZGY1hsLXZqZGd2Q2Y?oc=5",
-      "description": "Surging US economy defies worries over turbulent Trump &nbsp;&nbsp; Financial Times"
+      "published": "2026-11-12T21:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMkkwdi11ZDJjMC1yN3M0T2VCQUpyZ0F5N0FGSUdKcGN0SE9zX3V6SFRqS09OMy03OWFjSTFCaWxRaGl0SDA5WVhzVXlVb1JfT3ZQdGZDeE94VjNjRGZjTy1pdUFVVVFUXzhoLXVlcllDaVZCTXU2QVdiaG10SkpwQlBlOG8?oc=5",
+      "description": "Bonds, inflation and the Fed. Plus, Nvidia in turmoil &nbsp;&nbsp; Financial Times"
     }
   ]
 }
