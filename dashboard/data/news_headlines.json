@@ -1,19 +1,96 @@
 {
-  "fetched_at": "2026-11-16T07:08:26.994946+00:00",
+  "fetched_at": "2026-11-17T08:20:57.617714+00:00",
   "headlines": [
     {
-      "title": "Morning Bid: AI selloff resumes as Nvidia earnings loom",
-      "source": "Reuters",
-      "published": "2026-11-16T05:32:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcFRFLTFjUUlGa0plMjBTUHVpcVFwMXkzbWR2MWs3TnBjSE9tLUJWb2Z1Szg3MV9ON010RmN1VXJMMTRaMG51Ynp3ZEJBRTdnRXB6MzF6b2RzXzhDQlZIMXFZZ3BOTWIyN1ZyRi1xQ2dCbVVMNWliS1lubWVkb2plalJGWQ?oc=5",
-      "description": "Morning Bid: AI selloff resumes as Nvidia earnings loom &nbsp;&nbsp; Reuters"
+      "title": "Leak of 15mn Deutsche Bank files exposes systemic failures",
+      "source": "FT",
+      "published": "2026-11-17T06:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNExFSHBZOWF4cHZLNkRjN1p6WkFkMW56N2FPMHh2Rnc4SXNMRzRXV1o1UlFmLTdZVU9XTGhRMzcxTHFIYUN3UVppbklreEhYZ1cxODhQODktaDJiUW5ScEwwRnhOZUhncTNCWUgwakVQdlUzbzFXMmVPeUhGVTdBOXdHeEs?oc=5",
+      "description": "Leak of 15mn Deutsche Bank files exposes systemic failures &nbsp;&nbsp; Financial Times"
     },
     {
-      "title": "Biggest IPOs this year lose investors money as AI frenzy fades",
+      "title": "Jay-Z backed music rights firm raises nearly $700mn to expand portfolio",
       "source": "FT",
-      "published": "2026-11-16T05:02:27+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQckgwU2t6YXJ0aXBGWVp2TEFXUkhNOVpJWTgtX1Q0V0N3S1d2R0JYSnd1ZWMwcm4tSlNaaTRvN3BRaVpzOVhmY19iaEhPdEtEQ1FlTmY4bHBuclFjU1lRbTNnTXdYQ2Y3RFBEWTlOUm13MG9xTTloN3p3NFJubWR1QUlWWXA?oc=5",
-      "description": "Biggest IPOs this year lose investors money as AI frenzy fades &nbsp;&nbsp; Financial Times"
+      "published": "2026-11-17T05:00:25+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeElLazNUeFJ3U3JuLTNodG1OeU9UTGxVaE5lOFR1Q1I1MGdHVDMxc19YUDFzVER1dV9xQndxLUxxNHF5YnV5c0NQTHZlSGJSa3p6YTRNY0NacElsUHRRS19ValVkWDUwc3NSQW9VNGs2V3BiR1JEakY4SW5jVm5kTUpEc1o?oc=5",
+      "description": "Jay-Z backed music rights firm raises nearly $700mn to expand portfolio &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Gold lingers near more-than-one-year low on Fed hike bets",
+      "source": "Reuters",
+      "published": "2026-11-17T01:47:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVGd6c05RMXpCQzBvWjhLZlZ6cjc4OUZ0cjZaSWxzZk9leV9WbG1EVmhoVlJfTHZZRFkxZml4Rll3TXd6SGc0dmtiSHFsYkVQWThZdkpxb3dGQkhpSkgyVC1HQlV5WkZQaHU4N3B2b2RELWdDaGpZLWtmbHo2cllMNE9tN29pYnJGM1Z4eFJ6bmNQdHJFX0lNTHZtV0x4MlNhT284LThTc1hTY2xlcEEta0wwNjg?oc=5",
+      "description": "Gold lingers near more-than-one-year low on Fed hike bets &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "US dollar hits 19-month peak on Fed hike bets, while NZ dollar slumps",
+      "source": "Reuters",
+      "published": "2026-11-17T01:42:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb0Z6TDRSbVp3QXhMLUlLR3Vaam5aam1wVW9LV2tGSmJPZVFaU2dCNnhzVjJSY25lNWR3N1lmOFVPeno3UWpkamE2SDVxOVVfcUxUY0RxYTd5cm8wYzg0M1FVZTdrVXU2RXJzbXFmNElPb0ZqVVJ2WUxhS1B5WXVhRFFobUJPb2FaNzdsdlFkNmludUtnSXY3eUJoZ0J5UXFJdTlQUVhR?oc=5",
+      "description": "US dollar hits 19-month peak on Fed hike bets, while NZ dollar slumps &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Shares slide on tech weakness ahead of Nvidia earnings",
+      "source": "Reuters",
+      "published": "2026-11-17T01:22:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbHY5U3ZMUmhWeEViMkJTbW9ObHlQYWRWbmdxWDhXMUdaWFRvLVdRY01oaTJJb3lmOFBiaWpQMEFlTFk5R2ttRnBaT18zaF9Jbk9od2Rza0cyMXJ6Z3JlalJDdG9neTVhQ3pJRG05SE9NQUYxZkFvQmQ5bnVfTi13amFNOA?oc=5",
+      "description": "Shares slide on tech weakness ahead of Nvidia earnings &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Wall Street ends sharply lower on AI jitters ahead of Nvidia results, Anthropic IPO",
+      "source": "Reuters",
+      "published": "2026-11-16T23:45:50+00:00",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZEJobHpHMl90WUdVbnpzSGxLb1l3bi1BczhrN29iVW9rUzBtQWE4aFNuM2ZGS1RIQThLdEZPWmZjeExVaHhRaXBubkdqR3R3TXJYTlRqUmRYcXZxYS1pV1lyRlExUDdEUWJ3cTg4aktJVWcxbkg5UW9oeVRXLXhCZjdRQmFNeFJlLXhpWTRMM1lEUVlodGwxVHNCSE9ONTlnem0yekw1dDNraElYZGc?oc=5",
+      "description": "Wall Street ends sharply lower on AI jitters ahead of Nvidia results, Anthropic IPO &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Investors cooled on data-center stocks in third quarter, filings show",
+      "source": "Reuters",
+      "published": "2026-11-16T21:13:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaFpuNnJJVTJrLVZPRnR1Xzg0R2RVSU1EYzdGNU16VHdDbW9XUlhqX0dLbDNtVDZocVlXMU5xdHNhYUtLOGU4QTM5WHo1bFpuSmRzU2hqYmRnZTFXMW1LUlZYWDBOUVpGZ3lhY2dCS1RyendacjdzdjNPZVd4MHVObExnVTlneFFmSC1VdEd1b202VVphY3RadmhFT1V0Z1l2VmdWdnJBSWRwUlpLQWxtY2FpdHRoWGRLU1E?oc=5",
+      "description": "Investors cooled on data-center stocks in third quarter, filings show &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Fed's Warsh says emerging technologies to have 'significant impact,' but there are risks",
+      "source": "Reuters",
+      "published": "2026-11-16T20:57:43+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQjBEWTRZekl4NlZXbUFpUW93VUNEU3JOUkVnZFk5VDAyRFBNRXYyTGNCREVZRFNEd2JEdWY4VmxsUGtxdnAwQnhZSlFiX3p2WWRHVU1iS1dIbXpDel8waEpsT25wdjFhTHlPNG8xMnJWdHdtc09aMnBDa2I5MGN3SkVjendsRWFOTUxvdnZrMmFKdDN6RmV3OXRISEdERjhuSEpDYmQ4dkVldmx2dENTcGRZR0NuVk9xYk85OTJCVmRteEk?oc=5",
+      "description": "Fed's Warsh says emerging technologies to have 'significant impact,' but there are risks &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Fed's Hammack reiterates case for slow, steady rate hikes -Bloomberg TV",
+      "source": "Reuters",
+      "published": "2026-11-16T20:16:40+00:00",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYk9kal9uc0hmSGMySFhuVE1BbTd3dkV1SkdjbEx3U2NuZFdoMFI1TThKSHVnLUNGTVNOOVpRM3VVUnBZdkxISEhKdVloQzBxUGlEcm15ZkQyUGZjWW5IbVhhZVNKWnBleE1PZzAyNUtmQUVrWHZ1R2YwU1FSZWVjczdVWXcwX3Z4VWhsVXZwUE1EaWMtZ3I0d1I2WlVOdm5rdGdZMFl4VVJENHRaSUE?oc=5",
+      "description": "Fed's Hammack reiterates case for slow, steady rate hikes -Bloomberg TV &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Fed chair Kevin Warsh says AI boom could help sustain ‘substantially higher’ US growth",
+      "source": "FT",
+      "published": "2026-11-16T17:26:53+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPX3h5VmhlVnFXRnoyYTFyd2dVbDhrRlNKT1gzNEoxQ01CQ1hJYW53UXRDMkhnUndZX21zWGpMaHNDZ2FIUHl2TGdpX2N1emdJY19jZmY3RzZjdnQwTUswbldMLS1pOUQ2d2ZiNjFDbVU5elc2elN5OTVYZGFyYXBnQVBiZzM?oc=5",
+      "description": "Fed chair Kevin Warsh says AI boom could help sustain ‘substantially higher’ US growth &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Warsh, Opening Remarks",
+      "source": "Fed Speech",
+      "published": "2026-11-16T17:00:00+00:00",
+      "url": "https://www.federalreserve.gov/newsevents/speech/warsh20261116a.htm",
+      "description": "Speech At the Productivity and Jobs Task Force Conference, hosted by the Federal Reserve Board and the Federal Reserve Bank of San Francisco, San Francisco, California"
+    },
+    {
+      "title": "Nasdaq 100 sinks 2.7% in gloomy start to pivotal week for AI trade",
+      "source": "FT",
+      "published": "2026-11-16T11:07:54+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdHpWSGthNWNZV0Rxbm9EQTNpV0xXM3loSEJZaU5leHJjYklEMC00N29LVmFSNmc0SjlDYXI4SDhuaG9yLUt5bmJSeUY0dXdIS2M4Q3pHOUd1ZWc2OE9BM2ZyVnFjZHhBandlQUhITkV0ZXUwcTd6OGluY0dBYmhRY2lIbFU?oc=5",
+      "description": "Nasdaq 100 sinks 2.7% in gloomy start to pivotal week for AI trade &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Barr, Some Potential Financial Stability Implications of Artificial Intelligence",
+      "source": "Fed Speech",
+      "published": "2026-11-16T10:00:00+00:00",
+      "url": "https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm",
+      "description": "Speech At the Seventh Annual Association for Computing Machinery International Conference on Artificial Intelligence in Finance, Milan, Italy"
     },
     {
       "title": "Japan’s economy contracts for the first time in a year",
@@ -23,95 +100,32 @@
       "description": "Japan’s economy contracts for the first time in a year &nbsp;&nbsp; Financial Times"
     },
     {
+      "title": "Best books of 2026: Economics",
+      "source": "FT",
+      "published": "2026-11-16T05:02:17+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTmhjUEY1QnBZTlJRQUZLVFBsVnNIdzBaRlhJVmo0SzFBejdkX0Z3Rk5La0FHSm9FbXlLeW8zaldBVTNyQW5VSklUdWg4amRlaTZHQWljdjBNaWRHZjlCMWViQm1fdVdmaW1QdXJSam1JUG91Uy1icWpZYjJNUERuR2dEMEw?oc=5",
+      "description": "Best books of 2026: Economics &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Biggest IPOs this year lose investors money as AI frenzy fades",
+      "source": "FT",
+      "published": "2026-11-16T05:01:11+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQckgwU2t6YXJ0aXBGWVp2TEFXUkhNOVpJWTgtX1Q0V0N3S1d2R0JYSnd1ZWMwcm4tSlNaaTRvN3BRaVpzOVhmY19iaEhPdEtEQ1FlTmY4bHBuclFjU1lRbTNnTXdYQ2Y3RFBEWTlOUm13MG9xTTloN3p3NFJubWR1QUlWWXA?oc=5",
+      "description": "Biggest IPOs this year lose investors money as AI frenzy fades &nbsp;&nbsp; Financial Times"
+    },
+    {
       "title": "China’s economic activity slows more than expected in October",
       "source": "FT",
-      "published": "2026-11-16T02:41:45+00:00",
+      "published": "2026-11-16T04:53:20+00:00",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdUh5THNud2ZrVGJuYTd2YXRlaEVFclZiU0JYQVBJM0ZCbThIdUdUM1d2eElJZXBhRXBBdFNRdHdkb1l0QTdRQWtuNE45dVJYNjB6dnZZUnJkTFBab3Y0UUstRVl1MVFobENIeWxmWlBOM0s0WEFtZy1XVWhuU3gtSk9walM?oc=5",
       "description": "China’s economic activity slows more than expected in October &nbsp;&nbsp; Financial Times"
     },
     {
-      "title": "China's economy falters as factory output, retail sales undershoot expectations",
-      "source": "Reuters",
-      "published": "2026-11-16T02:06:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVzZkMk1FbkdXMWpRaWFDbU05ZmJGY19kTS1BT2FjRE96eGRGSzNGY1l4cnAxS2VGVEY5SjE2a0E3S3h2TnhXV1RlbE1BYUVielk3ZEN3TTlaX0pfZ2M1VnVpNmp0bVZOczJ0cThYaFFLUUtyVXB4OUZjSDI5c3VHWVk3Yk80SzhVdlJxcVlwNS1QZG9TZ0dMVExLMm4?oc=5",
-      "description": "China's economy falters as factory output, retail sales undershoot expectations &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Asian shares fall before Nvidia earnings, Anthropic IPO test tech rally",
+      "title": "Stocks end lower ahead of Nvidia earnings and Anthropic IPO; oil drops",
       "source": "Reuters",
       "published": "2026-11-16T01:35:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa3g3MVMxZ2lSN1ZpTmpaWkdYR25ZdDZ4M3BELXQ3ZC1PZDhtNTVjYmpQdHlJZUFtLWxiUkFLbXhUVHM0OHNScEUyTWFHUU5MMmZYb0EyVW51dXd1OWJFak1NbVFwazhlVzBIcHB3TENzRG1IZ2FvVFlpS0xubFBadXlPYw?oc=5",
-      "description": "Asian shares fall before Nvidia earnings, Anthropic IPO test tech rally &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Gold dips on firmer dollar ahead of Warsh comments",
-      "source": "Reuters",
-      "published": "2026-11-16T01:25:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR0w3QnNOYVBGYjdBMGJDeml5RExhSzMzaGVTUEQ2eEdLNHhHQzRoV2thNUo4TkVGYmNfc3NsSGpVVVF2OWxCZ21CNzBMSGs0S3NuZ2Rla1d4WTR0RGJwcllfYnZ6dlR5ZGZXa3dMakUxZmNDWFExYk9HNTkyLTN6aWF0MlRRbzN4aUJUVnVCMk1fdlpVN1B0bE1QM3dkaENDNEwzaHRORFFjVDYw?oc=5",
-      "description": "Gold dips on firmer dollar ahead of Warsh comments &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Dollar extends gains, yen looks past soft Japan GDP data",
-      "source": "Reuters",
-      "published": "2026-11-16T01:09:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZkdhelNXT1laWnBWei1ZTGMybnc1U1FxOUtGdjdoaGxDX29kd0pvc3FoLVhYdVh4SkdQdGN1cFU1UjVmb0lGWlJsdTlJOHppUjh0eGVrTFJBajZxUV9CVWFrN0F5S0RqVVpMWlR4ZW05R0duTFdvZjJNbGNhcEl2V002d0xWejFMRmR2ZjRDanBqZndnZndWOF96b3NxdVdaWnp4LWdzQ1RhdEdXdkhfcUJaSQ?oc=5",
-      "description": "Dollar extends gains, yen looks past soft Japan GDP data &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Japan's economy unexpectedly shrinks as inflation squeezes households",
-      "source": "Reuters",
-      "published": "2026-11-16T00:13:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeXFYOEg3cHpDTUFrTU9IRlQyWDlvRGVMVVN3VmxOelY3WnhCREJNdElKcEY5ZWpBSmhoalMzWDdaM0Y5Z0VXbkxVemg3YmdhSUg5UmYybnhFOHhWbVhXdjdoT1BUUGNQUFVtX2o1SkJRSnBJNEdLX081amJyUll6WHFpUk5SaWlkd2JGN0VnRFZKYi1WT1B0NzFUOUVKdkFfcTQ5RmdFeHdvcWI5c2pRaXF6MFBydw?oc=5",
-      "description": "Japan's economy unexpectedly shrinks as inflation squeezes households &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Japan's economy contracts annualised 0.1% in July-September",
-      "source": "Reuters",
-      "published": "2026-11-15T23:59:43+00:00",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNajN1eGtlbVV6b1ZxTkZMOEY1MGRsM3J1bWpscEhQQ3ZOWnRXZk1aYVQ0Y3dCcmg1RWRkS2l5eFN0YUpCalk2YjI3QjBKb2gyOEx6VlV5cTZVb2MyT29Mc2tmSjB6T29zdV9weEd4U1hHT3lKaE9kZmt6dmpuTHdITFlxbWxhcFBnNlFOdGEzdGRGcDVOMlpfNlFTVzVLSjg?oc=5",
-      "description": "Japan's economy contracts annualised 0.1% in July-September &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
-      "source": "FT",
-      "published": "2026-11-15T19:03:41+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWElqY2Q5cFBEQ1UtUklpRjRlZlVPLXBPSzNVcThPUTk2QktDc25fS1NlaWdrSURWdFFETlVxWnpNOWIyT1c1cGxwNXE0YTNoR1BOVVJMbHBRZy1kWWh2ZXRvdUh2Y2JMcEh5bDFnLWlrYnNFWDNFel9YVi1UbThMUmNnYzQ?oc=5",
-      "description": "Jensen Huang discusses comeback as Nvidia CEO with allies &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Fed 'has some work to do on inflation,' KC Fed chief says",
-      "source": "Reuters",
-      "published": "2026-11-15T18:43:43+00:00",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORXg3dWdlUEMzckhPaldaYlFrSXlzQnVLeEJLRGtnMFFpeWh5VXI3akUxWEtLQ3JwSk92b2pvWi1FdjNFWVpBZm9Jck56NDUwQkZDUGZpUG01X3RDLS02enpGcWpnXzc3ZWctengxamdOTDY1MzdYMzgxR0V2THk3Zl9xbXZhTEcyWHEzRDU2YWZ2dTZVaFVpNA?oc=5",
-      "description": "Fed 'has some work to do on inflation,' KC Fed chief says &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Will Nvidia earnings steady the AI sell-off?",
-      "source": "FT",
-      "published": "2026-11-15T12:00:05+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOanRDUmp4Q3pKeGgxSDFSVTN1S1pseVh2ZVVhcHkyUDdxdjVCVVVfSGtEaTl1ZjMyVU5HSndJdlBZb1dKZTRsUHpNLW1iT0JNOFU0Q2V3d2xuT2plQUJiZHNSdDJ1c0FYeEpjQzRhSlFSTEdrcDBnbTluVkJIMVJiVXNtWWU?oc=5",
-      "description": "Will Nvidia earnings steady the AI sell-off? &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Anthropic’s IPO is the next big test for AI",
-      "source": "FT",
-      "published": "2026-11-15T11:40:44+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOelhLb2QtNy1faTdqOEwwQVNzSk5IX25mc0VOQjQzVTdPc3pZdUMyOE9EWkxVd1pJX0huTDZMMTBNR0ZLV0E2WHVkb1Vuam1vMjJ3TUptVGloS2VhWFlmYW1ITGJvVjJpNzNCdkYyQ3hTdXIzUlhaUElJN01UQzVWc2NfSjE?oc=5",
-      "description": "Anthropic’s IPO is the next big test for AI &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "‘Red caviar’ slips off Japan’s sushi menus as roe prices soar",
-      "source": "FT",
-      "published": "2026-11-15T09:29:57+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORU41aXZxaDd6X2lOdlU3OWI2d0V3bkpqa3U5VDUxWjRIR1dGemZrcTZnbllFX0pkMGhzSWlaZS1jT2dFMng3d2JKaXNxQ3pXeTdwYTRHa3d0ZVNHbGhFN0NmMkthZEs3S2psTHBMN3g2bEZHdTNLV0xuRFpFV1BfcmRZOEI?oc=5",
-      "description": "‘Red caviar’ slips off Japan’s sushi menus as roe prices soar &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "‘Low fire, low hire’ job market hurts US and UK productivity",
-      "source": "FT",
-      "published": "2026-11-15T09:26:45+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPampTRjFQdm9jcE9lZ3lCTUNXZllPTDZJUHhoRk45eDFUQVBGRVdkMWxKZHc1bXlmY1VoVG1PeTFzSUdsb1psWVJlQXNyeEJLUF9sLUpyN0l5bm45MGwwck1RSUwxbW1pT2stSm1qejQ0Qk1xejNFQ0d4ODRNWnFIV0JkMS0?oc=5",
-      "description": "‘Low fire, low hire’ job market hurts US and UK productivity &nbsp;&nbsp; Financial Times"
+      "description": "Stocks end lower ahead of Nvidia earnings and Anthropic IPO; oil drops &nbsp;&nbsp; Reuters"
     }
   ]
 }
