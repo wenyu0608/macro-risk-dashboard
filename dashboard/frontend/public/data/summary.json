@@ -2,7 +2,7 @@
   "alerts": {
     "term_spread": {
       "level": "warning",
-      "message": "Yield curve nearly flat: 0.27%"
+      "message": "Yield curve nearly flat: 0.28%"
     },
     "credit_spread": {
       "level": "ok",
@@ -10,18 +10,18 @@
     },
     "vix": {
       "level": "warning",
-      "message": "VIX elevated: 24.6"
+      "message": "VIX elevated: 28.4"
     },
     "absorption_ratio": {
       "level": "danger",
-      "message": "AR=0.893\uff0c\u504f\u79bb\u5747\u503c 1.9 \u4e2a\u6807\u51c6\u5dee\uff0c\u5e02\u573a\u9ad8\u5ea6\u8026\u5408"
+      "message": "AR=0.894\uff0c\u504f\u79bb\u5747\u503c 1.9 \u4e2a\u6807\u51c6\u5dee\uff0c\u5e02\u573a\u9ad8\u5ea6\u8026\u5408"
     },
     "turbulence": {
       "level": "ok",
-      "message": "Normal: 20.2"
+      "message": "Normal: 11.4"
     }
   },
-  "last_updated": "2026-11-19T07:47:55.039614",
+  "last_updated": "2026-11-20T07:39:49.604574",
   "indicators_available": [
     "term_spread",
     "credit_spread",
@@ -35,18 +35,18 @@
     "momentum"
   ],
   "composite_score": {
-    "score": 50.4,
+    "score": 55.5,
     "label": "Elevated",
     "level": "elevated",
     "color": "#fbbf24",
     "action": "\u5ba1\u89c6\u4ed3\u4f4d\uff0c\u51c6\u5907\u9632\u5fa1",
     "components": {
-      "term_spread": 44.8,
-      "vix": 65.5,
-      "absorption_ratio": 11.4,
-      "turbulence": 42.4,
-      "breadth": 41.0
+      "term_spread": 44.0,
+      "vix": 83.3,
+      "absorption_ratio": 11.7,
+      "turbulence": 19.4,
+      "breadth": 59.0
     },
-    "date": "2026-11-18"
+    "date": "2026-11-19"
   }
 }
