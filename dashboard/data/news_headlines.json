@@ -1,12 +1,103 @@
 {
-  "fetched_at": "2026-11-20T07:39:55.400079+00:00",
+  "fetched_at": "2026-11-21T07:37:21.110366+00:00",
   "headlines": [
     {
-      "title": "Tech stocks fall as Anthropic IPO fails to reignite AI trade",
+      "title": "How can investors succeed in markets today?",
       "source": "FT",
-      "published": "2026-11-20T07:18:45+00:00",
+      "published": "2026-11-21T05:00:16+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNGxoQ0k0MGs0U0dVQ3hqR05ib2xYdUo4LU5CMzIyX1oyM2NZR1pRQUxiUnRyVTBXSGJySGRnczFYZ0ZzWGRqRWNXTURSRm5xUG9pSk5jUFRnMnFOaHlPdjZ5MC1pTVp5QS14eExZTUFMX3VQZE5fRHU5Q0lRZ0R2NUw2S0k?oc=5",
+      "description": "How can investors succeed in markets today? &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "AI tech rout prompts US investors to rush into value stocks",
+      "source": "Reuters",
+      "published": "2026-11-20T22:16:35+00:00",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdDhJbUROT2pNZjBobFFBeFlGWU5HRS1PZFNydV9OdHpJbEttV2ZDVElPaGNhNnE3cGlnYUlZOTR3ZC1KZGNIX0pJbExiMzBWa3lxTHpZeUtBYjFtSXJwN3FpZWhjNnUwSklvVmZlRGdEQmNFSlFVcldhXzJsbk1hUlNUMXY0Q0Fjajc0c1ZlQTY0a0FFdUlyRzg4UWQ3M1d5WjFMTjhzRWtlS2VxMnc?oc=5",
+      "description": "AI tech rout prompts US investors to rush into value stocks &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "US tech stocks plunge into bear market in worst week since Covid-19 crisis",
+      "source": "FT",
+      "published": "2026-11-20T21:52:25+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcXlaSEs0VF84U3VRbVowdTMxMm5kRktENGl6bGtweEtZWVJfVzZQUWY3eUkyamtzMFBJYVBhWFMwSW8zWTBxSm1BWTU2aEZVX2RGOFhENWg1dU5CQ0lDNU53bFZldFlmaEZvSElQakZ6Zk1lWmFvYkMtUHEyS3pRX2FLYVQ?oc=5",
+      "description": "US tech stocks plunge into bear market in worst week since Covid-19 crisis &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "It’s tough out there",
+      "source": "FT",
+      "published": "2026-11-20T18:57:31+00:00",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yVWQ1MEtTUjluVkRnQm9tczVrM0lCTVFVczFnSDFQNDV3MVBnTUk5aDZSay1HX3FmMnZvYVpocU5RZWNqZlhGekppZ2pzcmlTQUhCR2dMQWQ2bW42MDJ5VXRrbVVEWFhIcDI5QVBVZDE?oc=5",
+      "description": "It’s tough out there &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Anthropic shares slide as tech stocks tumble",
+      "source": "FT",
+      "published": "2026-11-20T18:03:21+00:00",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeFI2NEJCRHRJS3oxQnpSc2hUclVhRzQ4TGQxRVFYbEhRWS1tdGdHMlUtR1JtWDRtdERaTEo4M1F5c2kxOUZQODJMUHdUbVNIV2wxX0ZHR2ltVkVRcW83MVVzSXpoYV9wS3I2RkdUOGtITm9lNDBjRkJlakZ0ektISDNHZzY?oc=5",
-      "description": "Tech stocks fall as Anthropic IPO fails to reignite AI trade &nbsp;&nbsp; Financial Times"
+      "description": "Anthropic shares slide as tech stocks tumble &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Fed's Cook says rate hikes needed to lower high inflation",
+      "source": "Reuters",
+      "published": "2026-11-20T17:19:43+00:00",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV0pwMURCc1diYXRGTmtCaC0tNnZac3RIMEtTT1BCMGxpZ093OTRFdVJpRGx4TW5YRENNTWxpN0dYLTZpQ0ZXOC1sby1jNUtYbVNseHFWN2J3MGFuQjNwa3lOR2F4S1JicENRMzQ1ZWlDMkRyRzk5eG5IcVFpQXkyS0kzYU15a1RCWXNwWERBVFRmbUFZbE80WHhKUmVoejA?oc=5",
+      "description": "Fed's Cook says rate hikes needed to lower high inflation &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Cook, The U.S. Economy in Global Context",
+      "source": "Fed Speech",
+      "published": "2026-11-20T17:15:00+00:00",
+      "url": "https://www.federalreserve.gov/newsevents/speech/cook20261120a.htm",
+      "description": "Speech At the XXIX Annual Conference of the Central Bank of Chile, Santiago, Chile"
+    },
+    {
+      "title": "The AI fever in markets is breaking",
+      "source": "FT",
+      "published": "2026-11-20T15:23:38+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMWpBdWFCVVVMd0pFSXVaQy1IRTlTMmtTallrWFM1UGFfcjM0V3JHbGZsc243VlF1bzJfbk1iQkxGdVN4bjBERXRyOHc2M0YybldITmtXUUU2OGdFcHpIQ2JOX0kxTWYyRk9aSkh0cHpHaUZiZkM3emtwVTZEOE4tLXl4WDQ?oc=5",
+      "description": "The AI fever in markets is breaking &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "The snowballing selloff in global markets",
+      "source": "Reuters",
+      "published": "2026-11-20T15:13:44+00:00",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84ZFFzbDlRd0J6aHAxMkFGQUl6R2swRWt1ZTFUNWhNZlB1Q3VTMFlIcWNUUWpvZGY4TjdodG9qYkw5eVZiaENISVhjZlVQNy1RRjZ2QktKOER1d3lNOUxyOTc3aThONVdUU3VmX19fMnl2ZmpZeG1idEFGR1BkMlk?oc=5",
+      "description": "The snowballing selloff in global markets &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Waller, Opening Remarks",
+      "source": "Fed Speech",
+      "published": "2026-11-20T13:25:00+00:00",
+      "url": "https://www.federalreserve.gov/newsevents/speech/waller20261120a.htm",
+      "description": "Speech At the 2026 College Fed Challenge Finals, Board of Governors of the Federal Reserve System, Washington, D.C."
+    },
+    {
+      "title": "General strike hits Italy as anger at Meloni grows",
+      "source": "FT",
+      "published": "2026-11-20T11:00:24+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUC1qbTM5dXZmYjVTU3VYSE1Bb21lNGNVTjZUNk5CWTlDbElfdWlPd2U3X3U4UUQ0NFhOb21rT25HV2xHOHNBbnU1clJ2R3p1VW1zeVdQdVZfdGtwU2xTYTcyZ3d5UU8tMFk2R0tEUGtrMWFNUkdHeF8xYkF3QlBCUGhfSEM?oc=5",
+      "description": "General strike hits Italy as anger at Meloni grows &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Wall St ends sharply lower on AI selloff, S&P 500, Dow in correction",
+      "source": "Reuters",
+      "published": "2026-11-20T10:37:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0VmbDFSZy1pMm1jZlE3SG1PMDdjcHdmZnp3WWFQbTBSSHBndDktSEhpRFB4MkRYZUhTQXFhNm9YY0pwNlczMkxtOF9ZMVA2R1VHN2k1MmE3VkN6d292amFiX1JKUUxVcmN4NmxFTGYwbkhlakpkeTZ4eE5yRkxxTTlubE9PUU1jWmtrZVF6RjhiMWhhYmp2Q29Ucy1aMm13T0F0WTMwSGRBZWdQV3pyRjlZRm9pUEVnV0EzQQ?oc=5",
+      "description": "Wall St ends sharply lower on AI selloff, S&amp;P 500, Dow in correction &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Why Britons can feel smugger than the French",
+      "source": "FT",
+      "published": "2026-11-20T09:31:28+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZFRGaGhHVTUxM3BEeEd2OElTSC1MS0NLNVJiUTAwVGxqWjl4WGxZRWwyMDZldU9KM0pWWk1rYlhoOEtmYVp2cGFsRmNaX3hxY0REV2dQRnpUTzlJZGYzZm4weFJkcGVrWE56c0NMQ0haMkZYN3RiTV8yZDVYMG0tdjFyck0?oc=5",
+      "description": "Why Britons can feel smugger than the French &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "US AI chip curbs hit China tech stocks, spur self-sufficiency push",
+      "source": "Reuters",
+      "published": "2026-11-20T08:23:43+00:00",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNM3JhZ1hpWlJqYlVISU9pcFFUS0N1Sk9MeEx5aU9jWmt5OVBxY2RkeWNCWDBITU5nYmdNdzFNQm4xTkZVbTM3T214cjhzSDBPWHFsaGt0Uk56c2F0TUFOOWl2ZlZHRGhjdXN5WDNPM3BiS3E1QW9lbHZ0NjZDUVNtaVZBbGUzNmxMR1o4c3REOGE3c3R4ZFk3d1VpR3diM0FmTnphSVdtR0M5MWpHRm9OeFJtaTQ5U1p6bnVRc3VnTW54cVVW?oc=5",
+      "description": "US AI chip curbs hit China tech stocks, spur self-sufficiency push &nbsp;&nbsp; Reuters"
     },
     {
       "title": "Oil loses grip on bond markets as inflation ‘virus’ spreads",
@@ -16,109 +107,25 @@
       "description": "Oil loses grip on bond markets as inflation ‘virus’ spreads &nbsp;&nbsp; Financial Times"
     },
     {
-      "title": "Why Britons can feel smugger than the French",
-      "source": "FT",
-      "published": "2026-11-20T05:01:49+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZFRGaGhHVTUxM3BEeEd2OElTSC1MS0NLNVJiUTAwVGxqWjl4WGxZRWwyMDZldU9KM0pWWk1rYlhoOEtmYVp2cGFsRmNaX3hxY0REV2dQRnpUTzlJZGYzZm4weFJkcGVrWE56c0NMQ0haMkZYN3RiTV8yZDVYMG0tdjFyck0?oc=5",
-      "description": "Why Britons can feel smugger than the French &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Gold set for worst week in eight months as firm dollar, Fed hike bets weigh",
+      "title": "Gold's slide deepens as AI rout, rate-hike bets hurt bullion",
       "source": "Reuters",
       "published": "2026-11-20T03:24:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMFFjdnZJUDZiUXhKNUdPUWMtQ2tkd0ZKdmN4TTZ3bnQyb09SQ3cxSS1hNVYtcmF5WGpNSlJzS1dWYkdBUzBJZ2s5TnhLQ29mNWNIUy10MGJkN294UndsTmRmOF9GelkyVkdWRl8wcVJQNnRaRGp0a3NIMWNHT1dJSHhZRk1BT3FRV2pFcHVGa3ozS1ZCdjJXenJvSXlBOEdxLUp2MVVVTVBDY0NGX3ZRRUN3?oc=5",
-      "description": "Gold set for worst week in eight months as firm dollar, Fed hike bets weigh &nbsp;&nbsp; Reuters"
+      "description": "Gold's slide deepens as AI rout, rate-hike bets hurt bullion &nbsp;&nbsp; Reuters"
     },
     {
-      "title": "Indian stocks pause near nine-month highs; Asia market rout deepens",
+      "title": "Indian shares rise for fourth straight week as AI rout deepens",
       "source": "Reuters",
       "published": "2026-11-20T02:34:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaEJHRkZDOVdTT19VcGt0YU9SeHdvSmo4cDZVR1R2RzdDUUFJREc0bkNBcDFrUDN1X052bGljQUdsQ19jMTkxZlhYZTI3LW94RUFKb043WXpDZW5mUThLVk95eVcxU005bVNGV0EyY2JlWUlpWDAwZHJDaGJSMlNIMndQZ0QyWGtGVlo4WjB1YjZzNGlfYzBPVFdfaE1MTVdabVZmLXdLdkxsTDJmczdWSW5wRUNlMTg?oc=5",
-      "description": "Indian stocks pause near nine-month highs; Asia market rout deepens &nbsp;&nbsp; Reuters"
+      "description": "Indian shares rise for fourth straight week as AI rout deepens &nbsp;&nbsp; Reuters"
     },
     {
-      "title": "AI surge could strain US capacity and overheat economy, Fed's Goolsbee says",
+      "title": "Tech leads global stocks rout, Treasury yields fall",
       "source": "Reuters",
-      "published": "2026-11-19T21:35:29+00:00",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ2V1TTUwaFZ4T1pYN3VBVDlqZThZVHBvQ0VhNnRNNlpWVlZXLUYtVWh5T096NmxYbEsxdjF6T0JmZmZCM0lHQ01CT2NUcTdrUzJ0djdFbWRteWlNTWF4enhqajdoY2ZWcjBmc0lMYkpYczV1RDJVdmxZWFctNDI3bHFxOTBySmZvbHNDRXM5QmxqWUtieXFJYjZnUmNONVUzUnBTYTlMdlNqaDdzdkYweVRHZ2w?oc=5",
-      "description": "AI surge could strain US capacity and overheat economy, Fed's Goolsbee says &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Fed's Barr worried regulatory changes may increase financial sector risks",
-      "source": "Reuters",
-      "published": "2026-11-19T20:56:48+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObGNlZHpfREZsS2VzTkI1dGxhQ1FLYk9ta0YzRHp6Wl9JRlF2ZVBFZTlJTmo3NjNoZXkyYUdQeFVwYVdGRW9wM25ldlozX3ZnRncyNktWTkk4RGdILXFaWGxnaVRMSUJvY0IzYUhuVGw3VmVyWGl2bmFXTVFZZ1FiblBqLXBsNThZMFRiRWxwYkg4Z2Y5Mk9YYkpWcHoyT1JhdnVXM01KeTYzaVBsUk9TUmZueTEzbU44?oc=5",
-      "description": "Fed's Barr worried regulatory changes may increase financial sector risks &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Brazil’s central bank steps in to stem real’s slide since Lula’s re-election",
-      "source": "FT",
-      "published": "2026-11-19T19:25:18+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbE1uTUdsZ1kzaFBJUnFZbF9Bb20tRXRzTXpBek9NZmhHTU5PWGZWdTQ1SmptZXczZjVGVU83T0RWLXRQVGxSQVlMcFZOWlYyMW10YU5CM19nR2ZKYWFTX2d1TnRqNWtOTEFqS0ZhMUVhNjRRMFhaRG13d0hKTkIyeXhxTkY?oc=5",
-      "description": "Brazil’s central bank steps in to stem real’s slide since Lula’s re-election &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "J.P. Morgan sees Fed rate hikes at next three meetings as inflation persists",
-      "source": "Reuters",
-      "published": "2026-11-19T18:53:15+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWkZwc3MzeGxPMldOWGxwZnk4UFBSWGtfVC1pTnBnQXVRZzBrNTBzdGxCc05WSU5KNjVoTk1XSm82Q2UxSms1WnhkT05tTG5xU3JULWRtUTVOSlpmeXgyNTFWRVVOX1BTS3ZNaDZEendqbkJJNXlMSndLb0JiQjJ0dEhnMWs3bm5RX0hDNTZ4SVlaamJTU2ZDZVJ1VG8ycVpNdXR3NFdKMHhDVjdlUWMyWmhwVQ?oc=5",
-      "description": "J.P. Morgan sees Fed rate hikes at next three meetings as inflation persists &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Jefferson, Monetary Policy amid Frequent and Complex Shocks",
-      "source": "Fed Speech",
-      "published": "2026-11-19T14:25:00+00:00",
-      "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261119a.htm",
-      "description": "Speech At the International Monetary Fund and Central Bank of Brazil Conference “A Quarter Century of Inflation Targeting in Latin America: Progress, Challenges, and the Road Ahead,” Bras&iacute;lia, Brazil"
-    },
-    {
-      "title": "Wall Street ends sharply lower as Anthropic's debut fails to revive AI fervor",
-      "source": "Reuters",
-      "published": "2026-11-19T09:03:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONFhTcEs0ZXJTOXhCWUVEQlBXR3BaeFdLVjdiNkNXdVFrNWtaVjFJRVc0cTcyRUJBRXBqV0JZUHUza3I0TndGYzZRX3N3eU4zR3plNl9wUkR5VU1FQ0phSjZEODlXYjJYQk5QaVRoTFotemhuTWFwSkhrYzFfNE1tM0JJNlBFY1BmNFNhS0FTeURyaGtHM2xJb3VoRE5LY0I1SVUxeko5dDJvRGlGam1ITllSRFU1OEV6T0tF?oc=5",
-      "description": "Wall Street ends sharply lower as Anthropic's debut fails to revive AI fervor &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Gold hits 14-month low as strong dollar, rate bets weigh",
-      "source": "Reuters",
-      "published": "2026-11-19T06:53:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ0RVRVVhd0g1djYyRGpzbTcyZXFtSXd3cTV1T0REekJaYm9FOTlzblJzU3hlMmsxSkF0UmtzZ1gwWVFiUzI3VXdGNzJLTndoZC1oVkpXSnRmZ0ZmNkEybVRFSnhIVzFCNnlTS2hQRGV2bnNGTHVsaUZ5RmllU0otWWcxV2wwejMwcXpTOWFxam1xb2dRMXMyQ1c0T0RkZy1SX09YR3lYdmxkQQ?oc=5",
-      "description": "Gold hits 14-month low as strong dollar, rate bets weigh &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Migrants fuelled Spain's boom - now investors fear an anti-immigration government could stifle economy",
-      "source": "Reuters",
-      "published": "2026-11-19T06:03:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOU0Q3SEdsRURCR25kZEEwX3NUQWtNd2tvaVR3MkVuUF81MGI1U3JWQ0EzRFI5R1FEVTBTMlhuQ2dYT1ppNVY0WkwyTFd2bmxSOXZhX3poOW1femJNelJJQzBNRkdHQXJZYWhfalgyYVV5ZXdlTUVOQ0tjUzJwRUlrNVpLVzR1NEV3QnRxVG1GT012VHd1YlFfX21PRGN1eUhsNzlrUzFtMzlaRlJFelExYVNHbmpET3lXZWtnTkNtZWpURHVVbEhSUnBHaw?oc=5",
-      "description": "Migrants fuelled Spain's boom - now investors fear an anti-immigration government could stifle economy &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Whey too much cheese",
-      "source": "FT",
-      "published": "2026-11-19T06:00:07+00:00",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YNHQ1OXBpUHZ4aGNXLXAyYW5QTEdqRjdNSWRCQ05ueVJVZzc2clhtTVJRZE9SN3dzZ1RaYXhabGJqS2ZZR1dJN3FpaUh0S1JoQUYyRnZ2WUFTVE1JYlhUYXpTZ0V2dUtNRlNZVkh4TGw?oc=5",
-      "description": "Whey too much cheese &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Gold loses its lustre for investors",
-      "source": "FT",
-      "published": "2026-11-19T05:33:22+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWWt2V0dObzlXMDV5M2drblMwOVRkbEJxQTF4MHoyU3VKSkZDS0lpYURmV25JU3FqWDV5QnlXX3RMLVM2NmR2aDdpNDNDSXNUMndlNGw4V2doU21RbXdyR09aUklpa0llUWdxMWpqX0J1WFFqd0lHbGxSZUhMbERNLTVLODI?oc=5",
-      "description": "Gold loses its lustre for investors &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Energy markets can ‘manage without’ the Strait of Hormuz, says IEA",
-      "source": "FT",
-      "published": "2026-11-19T05:01:36+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQclpkNktKMTQyVEd2elBKSFpFaHVBM0FXTEdaLVRIcVVUbEpNZk5nLXZWR0FiZ0FtUTVNcjh3aXNkYXBzOE91NFFfOTJtQjlMWFFIenprVF83QUk1ZDlpYmlSTW9qRFZZLXk4ZlhSMEJnZ3Z6clJ2T3BJOXkxNENzTThUOU8?oc=5",
-      "description": "Energy markets can ‘manage without’ the Strait of Hormuz, says IEA &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Citi settles sex harassment case alleging threats to managing director",
-      "source": "FT",
-      "published": "2026-11-18T19:52:21+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPajJFVmFjWW4ybjQtQUNSQ2RCVXRKZ2I4cVBORWstTDFEQ3B4SGtWVmRRZXhJQVdzSHdOTTljYVEzcDlMNjNxSm9kYWJtYm15azRVakxWLU5ITy1VRjBNWmphbHVSUWJCOERRdDI1ZXljUno2dktuVTN3bDEzajBUTGpGcW8?oc=5",
-      "description": "Citi settles sex harassment case alleging threats to managing director &nbsp;&nbsp; Financial Times"
+      "published": "2026-11-20T01:46:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORTBuejlwS3Nua0szT1dTbnYtSElZYjI2RUg0NnRsVHNlOW1SMTBlUFIxdmtVcnB2TFd0N19aU1RlbzVWREhqYnZmWF9HRG5odm55UUxLMnJzckZpWjh6UHdrZGtZNlBIMVh3cU1QcUNIQlZRNXJMTW54TjdkaVdGbE9yVQ?oc=5",
+      "description": "Tech leads global stocks rout, Treasury yields fall &nbsp;&nbsp; Reuters"
     }
   ]
 }
