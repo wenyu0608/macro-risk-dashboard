@@ -9,19 +9,19 @@
       "message": "Normal: 2bps"
     },
     "vix": {
-      "level": "danger",
-      "message": "VIX extreme fear: 35.9"
+      "level": "warning",
+      "message": "VIX elevated: 27.8"
     },
     "absorption_ratio": {
       "level": "danger",
-      "message": "AR=0.897\uff0c\u504f\u79bb\u5747\u503c 2.1 \u4e2a\u6807\u51c6\u5dee\uff0c\u5e02\u573a\u9ad8\u5ea6\u8026\u5408"
+      "message": "AR=0.904\uff0c\u504f\u79bb\u5747\u503c 2.4 \u4e2a\u6807\u51c6\u5dee\uff0c\u5e02\u573a\u9ad8\u5ea6\u8026\u5408"
     },
     "turbulence": {
-      "level": "ok",
-      "message": "Normal: 22.5"
+      "level": "warning",
+      "message": "Elevated turbulence: 33.3 (>P90)"
     }
   },
-  "last_updated": "2026-11-23T08:02:08.181477",
+  "last_updated": "2026-11-24T10:18:06.049964",
   "indicators_available": [
     "term_spread",
     "credit_spread",
@@ -35,18 +35,18 @@
     "momentum"
   ],
   "composite_score": {
-    "score": 70.4,
+    "score": 67.0,
     "label": "High Risk",
     "level": "high",
     "color": "#fb923c",
     "action": "\u51cf\u4ed3/\u589e\u52a0\u5bf9\u51b2",
     "components": {
       "term_spread": 43.3,
-      "vix": 97.0,
-      "absorption_ratio": 13.2,
-      "turbulence": 48.5,
-      "breadth": 74.9
+      "vix": 76.0,
+      "absorption_ratio": 16.7,
+      "turbulence": 65.2,
+      "breadth": 59.0
     },
-    "date": "2026-11-20"
+    "date": "2026-11-23"
   }
 }
