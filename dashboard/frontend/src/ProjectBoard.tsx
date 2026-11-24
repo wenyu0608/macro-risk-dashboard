@@ -1,17 +1,17 @@
 const PHASES = [
   {
     id: 'foundation',
-    title: 'Multi-Agent Foundation',
+    title: 'Research Pipeline Foundation',
     weeks: 'Week 1-2',
     status: 'complete' as const,
     color: '#3a82d6',
     tasks: [
-      { name: '6-Agent Pipeline Architecture', done: true, detail: 'DataEngineer → Researcher → Backtester → Critic → RiskManager → PM' },
+      { name: 'Six-Stage Pipeline Architecture', done: true, detail: 'DataEngineer → Researcher → Backtester → Critic → RiskManager → PM' },
       { name: 'MessageBus Communication', done: true, detail: 'Shared state store with pub/sub pattern' },
       { name: '5-Factor Model Implementation', done: true, detail: 'Momentum, Value (B/P), Size, Low-Vol, Reversal' },
-      { name: 'SP500 Core Universe (107 stocks)', done: true, detail: 'yfinance OHLCV + fundamentals download' },
+      { name: 'Initial SP500 Research Universe', done: true, detail: 'yfinance OHLCV + fundamentals download' },
       { name: 'Alphalens Factor Analysis', done: true, detail: 'IC, quantile returns, factor charts' },
-      { name: 'Flask Dashboard', done: true, detail: 'Real-time pipeline monitoring' },
+      { name: 'Flask Dashboard', done: true, detail: 'Research workflow monitoring' },
     ],
   },
   {
@@ -21,11 +21,11 @@ const PHASES = [
     status: 'complete' as const,
     color: '#8b5cf6',
     tasks: [
-      { name: 'PCA Orthogonalization A/B', done: true, detail: 'Decorrelate factors before IC-weighting' },
+      { name: 'PCA Orthogonalization Audit', done: true, detail: 'Only per-fold PCA is admissible; full-sample PCA is quarantined' },
       { name: 'Industry Neutralization A/B', done: true, detail: 'Cross-sectional z-score within sectors' },
-      { name: 'Universe Size Comparison', done: true, detail: 'SP500-107 vs Russell-1000' },
-      { name: 'Golden Baseline Locked', done: true, detail: '29.8% gross, Sharpe 1.68, MDD -15.8%' },
-      { name: 'Lookahead Bias Identification', done: true, detail: 'Full-sample PCA inflates results' },
+      { name: 'Universe Size Comparison', done: true, detail: 'Initial and expanded research universes compared' },
+      { name: 'Legacy Baseline Quarantined', done: true, detail: 'Full-sample PCA retained only as an audit lesson' },
+      { name: 'Lookahead Bias Identification', done: true, detail: 'Full-sample PCA is non-comparable and retained only as an audit lesson' },
     ],
   },
   {
@@ -37,7 +37,7 @@ const PHASES = [
     tasks: [
       { name: 'OHLCV → Qlib Binary Dump', done: true, detail: 'calendars/instruments/features/*.day.bin' },
       { name: 'Price Match Verification', done: true, detail: 'Qlib reads match yfinance prices exactly' },
-      { name: 'Baseline Backtest Replay', done: true, detail: 'Qlib reproduces baseline within 0.24%' },
+      { name: 'Baseline Backtest Replay', done: true, detail: 'Qlib net annual return differs by 0.02 percentage points (2 bp) on the locked SP500 baseline' },
       { name: 'Reusable Backtest Library', done: true, detail: 'qlib_backtest_lib.py — shared by all experiments' },
     ],
   },
@@ -48,12 +48,12 @@ const PHASES = [
     status: 'complete' as const,
     color: '#ea580c',
     tasks: [
-      { name: 'Extended Factor Panel (2016-2024)', done: true, detail: '9,737 rows × 91 months × 107 instruments' },
-      { name: 'Walk-Forward Protocol', done: true, detail: '24M train / 3M test / 3M step, 23 folds' },
+      { name: 'Extended Factor Panel (2016-2024)', done: true, detail: 'Multi-year panel assembled for the initial ablation study' },
+      { name: 'Walk-Forward Protocol', done: true, detail: '24M train / 3M test / 3M step; 23-fold schedule with OOS starting in 2019' },
       { name: 'Per-Fold PCA (No Lookahead)', done: true, detail: 'Honest feature engineering per fold' },
       { name: 'LambdaRank LightGBM', done: true, detail: 'Decile labels + group, 120 rounds' },
       { name: 'Honest Linear Baseline', done: true, detail: '6-month trailing IC-weighted PCs' },
-      { name: 'Key Finding: ML < Linear', done: true, detail: 'LightGBM 11.3% vs Linear 15.3% (gross)' },
+      { name: 'Key Finding: ML < Linear', done: true, detail: 'Complexity did not improve risk-adjusted performance in the locked evaluation' },
     ],
   },
   {
@@ -63,11 +63,11 @@ const PHASES = [
     status: 'complete' as const,
     color: '#d6457a',
     tasks: [
-      { name: 'Russell-1000 Universe (~459 stocks)', done: true, detail: '41,769 rows, ~11k samples/fold (4.3× v1)' },
+      { name: 'Expanded Russell Universe', done: true, detail: 'Broader cross-section prepared for the locked evaluation' },
       { name: 'Regression Objective (raw returns)', done: true, detail: 'Direct prediction of forward returns' },
       { name: 'LambdaRank on Wide Universe', done: true, detail: 'Same ranking approach, more data' },
       { name: 'Raw Features vs PCA', done: true, detail: 'Trees benefit from non-orthogonalized inputs' },
-      { name: 'Best LightGBM: Raw+Rank', done: true, detail: '16.0% gross — competitive with linear' },
+      { name: 'Best LightGBM: Raw+Rank', done: true, detail: 'Ranking was the strongest LightGBM variant in the locked comparison' },
       { name: 'Qlib Backtest on Russell 1000', done: true, detail: '459 instruments in Qlib binary format' },
     ],
   },
@@ -77,7 +77,6 @@ interface BacktestResult {
   model: string;
   universe: string;
   features: string;
-  grossAnn: number;
   sharpe: number;
   mdd: number;
   netAnn: number;
@@ -85,14 +84,9 @@ interface BacktestResult {
 }
 
 const RESULTS: BacktestResult[] = [
-  { model: 'IC-Weighted Linear', universe: 'Russell-459', features: 'PCA', grossAnn: 17.0, sharpe: 0.86, mdd: -25.7, netAnn: 15.4, highlight: true },
-  { model: 'LambdaRank LightGBM', universe: 'Russell-459', features: 'Raw 5-Factor', grossAnn: 16.0, sharpe: 0.51, mdd: -26.2, netAnn: 13.7 },
-  { model: 'IC-Weighted Linear', universe: 'Russell-459', features: 'Raw 5-Factor', grossAnn: 13.8, sharpe: 0.63, mdd: -21.0, netAnn: 12.1 },
-  { model: 'LambdaRank LightGBM', universe: 'Russell-459', features: 'PCA', grossAnn: 11.2, sharpe: 0.37, mdd: -31.3, netAnn: 8.9 },
-  { model: 'LambdaRank LightGBM', universe: 'SP500-107', features: 'PCA', grossAnn: 11.3, sharpe: 0.61, mdd: -23.9, netAnn: 9.5 },
-  { model: 'IC-Weighted Linear', universe: 'SP500-107', features: 'PCA', grossAnn: 15.3, sharpe: 0.95, mdd: -23.0, netAnn: 13.9 },
-  { model: 'Regression LightGBM', universe: 'Russell-459', features: 'Raw 5-Factor', grossAnn: 7.6, sharpe: 0.25, mdd: -37.0, netAnn: 5.2 },
-  { model: 'Regression LightGBM', universe: 'Russell-459', features: 'PCA', grossAnn: 6.4, sharpe: 0.20, mdd: -38.4, netAnn: 3.9 },
+  { model: 'IC-Weighted Linear', universe: 'Russell-459', features: 'Raw 5-Factor', sharpe: 0.56, mdd: -21.5, netAnn: 12.1, highlight: true },
+  { model: 'LambdaRank LightGBM', universe: 'Russell-459', features: 'Raw 5-Factor', sharpe: 0.44, mdd: -26.9, netAnn: 13.7 },
+  { model: 'Regression LightGBM', universe: 'Russell-459', features: 'Raw 5-Factor', sharpe: 0.17, mdd: -38.0, netAnn: 5.2 },
 ];
 
 const AGENTS = [
@@ -107,27 +101,68 @@ const AGENTS = [
 const FINDINGS = [
   {
     title: 'ML 不是免费午餐',
-    detail: 'Walk-forward 评估下，LightGBM 始终未能在风险调整基础上超越简单 IC 加权线性模型。选择正确的工具比默认使用复杂模型更重要。',
+    detail: '在该锁定样本和评估期内，LightGBM 未能在风险调整基础上超越简单 IC 加权线性模型。选择正确的工具比默认使用复杂模型更重要。',
     icon: '⚖️',
     color: '#3a82d6',
   },
   {
-    title: 'PCA 帮助线性但伤害树',
-    detail: 'PCA 正交化让线性模型从 13.8% 提升到 17.0%，但让 LightGBM 从 16.0% 下降到 11.2%。正交化移除了树可以利用的因子交互信息。',
+    title: '复杂度必须经过样本外检验',
+    detail: '公开主结果只使用可映射到 canonical manifest 的 raw-feature 实验。PCA 只有在每个训练折内拟合且 provenance 完整时才可比较。',
     icon: '🔄',
     color: '#8b5cf6',
   },
   {
-    title: '更宽宇宙改善 ML',
-    detail: 'Russell-459 让 LightGBM 每折训练从 ~2.6k 增加到 ~11k 样本，年化从 11.3% 提升到 16.0%。更多截面数据是关键。',
+    title: '结果口径锁定',
+    detail: '459 个有效标的、24M/3M walk-forward、Top-20 月度等权与单边 10bps 成本构成公开结果的固定口径。',
     icon: '📐',
     color: '#16a34a',
   },
   {
-    title: '全样本 PCA 存在严重前瞻偏差',
-    detail: '锁定 baseline (30%) 与诚实 walk-forward (17%) 之间的巨大差距确认了全样本特征工程会悄然膨胀回测结果。',
+    title: '全样本 PCA 结果不可比较',
+    detail: '旧版全样本 PCA 在各训练折之外拟合，因此被隔离为审计案例，不作为可比较的业绩证据。',
     icon: '⚠️',
     color: '#ea580c',
+  },
+];
+
+const SHOWCASE_LINKS = [
+  { label: 'Live pipeline', href: 'https://wenyu0608.github.io/macro-risk-dashboard/#pipeline' },
+  { label: 'GitHub', href: 'https://github.com/wenyu0608/macro-risk-dashboard' },
+  { label: 'Methodology', href: 'https://github.com/wenyu0608/macro-risk-dashboard#readme' },
+  { label: 'Canonical manifest', href: 'https://github.com/wenyu0608/macro-risk-dashboard/blob/main/research/canonical_results.json' },
+  { label: 'Alpha Deck', href: 'https://wenyu0608.github.io/macro-risk-dashboard/#factorlab' },
+];
+
+const PROTOCOL_FACTS = [
+  '459 instruments',
+  '23-fold schedule (OOS starts 2019)',
+  '24M train / 3M test',
+  'Monthly Top-20',
+  '10 bps / side',
+  'Quoted backtest: Apr 2022 - Dec 2024',
+];
+
+const RESEARCH_DISCIPLINE = [
+  {
+    kicker: 'PREREGISTRATION',
+    title: 'Three null results retained',
+    detail: 'F001-F003 completed the S0-S7 protocol and were archived as null results rather than promoted as signals.',
+    href: 'https://github.com/wenyu0608/macro-risk-dashboard/blob/main/factor_pipeline/DEAD_REVIEW.md',
+    linkLabel: 'Read the audit review',
+  },
+  {
+    kicker: 'DATA AUDIT',
+    title: 'Reverse-split error corrected',
+    detail: 'The UVIX benchmark was recomputed after identifying a reverse-split handling error; the corrected result remained a failure.',
+    href: 'https://github.com/wenyu0608/macro-risk-dashboard/blob/main/factor_pipeline/DEAD_REVIEW.md',
+    linkLabel: 'Inspect the correction',
+  },
+  {
+    kicker: 'REPRODUCTION',
+    title: 'Qlib baseline reproduced',
+    detail: 'Net annual return matched within 0.02 percentage points (2 bp) for the locked SP500 portfolio-construction baseline only; this does not validate the Russell model scores.',
+    href: 'https://github.com/wenyu0608/macro-risk-dashboard/blob/main/research/canonical_results.json',
+    linkLabel: 'Check the scope',
   },
 ];
 
@@ -171,7 +206,7 @@ export function ProjectBoard() {
     <div className="board-container">
       <header className="board-header">
         <div>
-          <h1>Multi-Agent Quant Platform</h1>
+          <h1>Quant Research Pipeline</h1>
           <p className="board-subtitle">项目进度看板 — Factor Research & Portfolio Construction</p>
         </div>
         <div className="board-stats">
@@ -190,14 +225,39 @@ export function ProjectBoard() {
         </div>
       </header>
 
-      {/* Agent Pipeline */}
+      <section className="showcase-hero" aria-labelledby="showcase-question">
+        <div className="showcase-boundary">RESEARCH PROTOTYPE · NO LIVE CAPITAL</div>
+        <div className="showcase-hero-grid">
+          <div>
+            <p className="showcase-kicker">RESEARCH QUESTION</p>
+            <h2 id="showcase-question">
+              Can a simple, reproducible factor pipeline outperform more complex models after leakage-aware walk-forward evaluation and transaction costs?
+            </h2>
+            <p className="showcase-takeaway">
+              In this sample, the IC-weighted linear model delivered the strongest risk-adjusted result. Absolute performance is modest and sample-specific; it is not evidence of stable alpha.
+            </p>
+          </div>
+          <nav className="showcase-links" aria-label="Project evidence links">
+            {SHOWCASE_LINKS.map(link => (
+              <a key={link.label} href={link.href} target="_blank" rel="noreferrer">
+                {link.label}
+              </a>
+            ))}
+          </nav>
+        </div>
+        <div className="showcase-facts" aria-label="Evaluation protocol">
+          {PROTOCOL_FACTS.map(fact => <span key={fact}>{fact}</span>)}
+        </div>
+      </section>
+
+      {/* Research Pipeline */}
       <section className="board-card">
         <div className="ab-header">
-          <h2>Agent Pipeline Architecture</h2>
-          <span className="ab-badge">6 AGENTS</span>
-          <span className="ab-badge" style={{ background: '#dcfce7', color: '#15803d', border: '1px solid #86efac' }}>OPERATIONAL</span>
+          <h2>Research Pipeline Architecture</h2>
+          <span className="ab-badge">6 STAGES</span>
+          <span className="ab-badge" style={{ background: '#dcfce7', color: '#15803d', border: '1px solid #86efac' }}>RESEARCH PROTOTYPE</span>
         </div>
-        <p className="lab-card-desc">六个自治 Agent 通过 MessageBus 协作，逐步完成数据获取、因子计算、回测验证、风险管理和组合构建</p>
+        <p className="lab-card-desc">六个确定性、角色化阶段通过 MessageBus 顺序执行，逐步完成数据获取、因子计算、回测验证、风险管理和组合构建</p>
         <div className="agent-pipeline">
           {AGENTS.map((agent, i) => (
             <div key={agent.name} className="agent-node" style={{ '--agent-color': agent.color } as React.CSSProperties}>
@@ -214,7 +274,7 @@ export function ProjectBoard() {
       {/* Factor Table */}
       <section className="board-card">
         <h2>Five-Factor Model</h2>
-        <p className="lab-card-desc">基本面因子延迟2个月使用，模拟~60天财报披露延迟，避免前视偏差</p>
+        <p className="lab-card-desc">基本面因子延迟2个月只是披露时滞代理；当前快照并非 point-in-time 历史财报，残余前视风险仍存在</p>
         <div className="lab-table-wrap">
           <table className="lab-table">
             <thead>
@@ -294,7 +354,11 @@ export function ProjectBoard() {
           <span className="ab-badge">2022-04 ~ 2024-12</span>
           <span className="ab-badge" style={{ background: '#fef3c7', color: '#b45309', border: '1px solid #fcd34d' }}>TOP20 EW MONTHLY</span>
         </div>
-        <p className="lab-card-desc">所有模型在相同 Walk-Forward 协议下的诚实样本外表现。参照: 锁定基线 (全样本 PCA) 30.0% gross, Sharpe 1.77</p>
+        <p className="lab-card-desc">Canonical manifest 中可对外引用的样本外结果；仅适用于该样本和评估区间，不代表稳定 alpha</p>
+
+        <div className="result-takeaway">
+          <strong>Restrained conclusion.</strong> The linear baseline ranks first on risk-adjusted performance in this locked evaluation, while the absolute Sharpe remains modest. Model complexity did not produce a stable advantage in this sample.
+        </div>
 
         <div className="lab-table-wrap">
           <table className="lab-table">
@@ -303,7 +367,6 @@ export function ProjectBoard() {
                 <th>Model</th>
                 <th>Universe</th>
                 <th>Features</th>
-                <th>Gross Ann.</th>
                 <th>Sharpe</th>
                 <th>Max DD</th>
                 <th>Net Ann.</th>
@@ -318,9 +381,6 @@ export function ProjectBoard() {
                   </td>
                   <td style={{ fontSize: 12 }}>{r.universe}</td>
                   <td style={{ fontSize: 12 }}>{r.features}</td>
-                  <td className="lab-td-mono" style={{ color: pctColor(r.grossAnn, [10, 15]) }}>
-                    {r.grossAnn.toFixed(1)}%
-                  </td>
                   <td className="lab-td-mono" style={{ color: pctColor(r.sharpe, [0.5, 0.8]) }}>
                     {r.sharpe.toFixed(2)}
                   </td>
@@ -338,9 +398,28 @@ export function ProjectBoard() {
 
         <div className="ref-baseline">
           <span className="ref-label">REF</span>
-          <span>Golden Baseline (全样本 PCA Linear, 含前瞻偏差): </span>
-          <span className="lab-td-mono" style={{ fontWeight: 700, color: '#dc2626' }}>30.0% gross</span>
-          <span style={{ color: '#8a7882' }}> / Sharpe 1.77 / Net 28.7%</span>
+          <span>Legacy full-sample PCA baseline is quarantined as an audit lesson and is not performance evidence.</span>
+        </div>
+      </section>
+
+      <section className="board-card research-discipline">
+        <div className="ab-header">
+          <h2>Research Discipline</h2>
+          <span className="ab-badge">AUDITABLE EVIDENCE</span>
+        </div>
+        <p className="lab-card-desc">Negative results, data corrections and reproduction boundaries remain part of the public research record.</p>
+        <div className="discipline-grid">
+          {RESEARCH_DISCIPLINE.map(item => (
+            <article key={item.title} className="discipline-card">
+              <span>{item.kicker}</span>
+              <h3>{item.title}</h3>
+              <p>{item.detail}</p>
+              <a href={item.href} target="_blank" rel="noreferrer">{item.linkLabel}</a>
+            </article>
+          ))}
+        </div>
+        <div className="scope-banner">
+          The exact historical raw-feature command was not preserved. Provenance is reconstructed from checked-in artifacts, and fundamental inputs are not genuine point-in-time snapshots.
         </div>
       </section>
 
@@ -371,7 +450,7 @@ export function ProjectBoard() {
       </section>
 
       <footer className="board-footer">
-        <div>Multi-Agent Quant Factor Platform — Walk-forward factor research on US equities</div>
+        <div>Quant Research Hub — reproducible walk-forward factor research on US equities</div>
         <div style={{ marginTop: '4px', fontSize: '10px', opacity: 0.6, letterSpacing: '0.3px' }}>
           Built with <strong>auto-dashboard</strong> · design © Coco
         </div>

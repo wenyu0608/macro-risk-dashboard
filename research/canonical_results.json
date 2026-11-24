@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "run_id": "russell459_raw_walkforward_reconstructed_2022-04_2024-12",
+  "claim_status": "canonical_with_reconstructed_provenance",
+  "reconstructed_provenance": true,
+  "source_commit": "88a8013580fdb5d96002b88c309b2a3446c1191e",
+  "source_paths": {
+    "model_comparison": "qlib_migration/compare_result_v2.json",
+    "qlib_cross_check": "qlib_migration/qlib_result.json",
+    "fold_schedule": "qlib_migration/folds_v2.csv"
+  },
+  "experiment": {
+    "universe": "Russell 1000 liquidity-filtered panel",
+    "effective_instruments": 459,
+    "feature_mode": "raw_5_factor",
+    "factor_panel_period": "2016-01 to 2024-12",
+    "backtest_period": "2022-04-01 to 2024-12-27",
+    "train_months": 24,
+    "test_months": 3,
+    "step_months": 3,
+    "fold_schedule_rows": 23,
+    "portfolio": "Top-20 equal-weight",
+    "rebalance": "monthly",
+    "transaction_cost_per_side": 0.001
+  },
+  "canonical_net_results": {
+    "ic_weighted_linear": {
+      "annual_return": 0.1209,
+      "sharpe": 0.56,
+      "max_drawdown": -0.2146,
+      "total_cost": 0.0456
+    },
+    "lightgbm_lambdarank": {
+      "annual_return": 0.1374,
+      "sharpe": 0.44,
+      "max_drawdown": -0.2689,
+      "total_cost": 0.0622
+    },
+    "lightgbm_regression": {
+      "annual_return": 0.0516,
+      "sharpe": 0.17,
+      "max_drawdown": -0.3801,
+      "total_cost": 0.0662
+    }
+  },
+  "qlib_cross_check": {
+    "scope": "locked SP500 portfolio-construction baseline only",
+    "net_annual_return_absolute_difference": 0.0002,
+    "does_not_validate": "Russell 1000 model scores or all LightGBM findings"
+  },
+  "limitations": [
+    "The exact historical raw-feature command was not preserved; provenance is reconstructed from checked-in artifacts.",
+    "Fundamental inputs use current snapshots with a two-month lag proxy and are not genuine point-in-time fundamentals.",
+    "The current-constituent universe is exposed to survivorship bias.",
+    "No live capital or real-money performance is represented.",
+    "Results are sample-specific and do not establish stable alpha."
+  ],
+  "quarantined_claims": [
+    "Full-sample PCA performance",
+    "Sharpe 0.86 / net annual return 15.4% PCA row",
+    "Locked SP500 baseline as evidence for Russell 1000 model validity"
+  ]
+}

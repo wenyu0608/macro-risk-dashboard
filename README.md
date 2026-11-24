@@ -1,6 +1,8 @@
-# Multi-Agent Quant Factor Platform
+# Quant Research Hub
 
-A multi-agent pipeline for US equity factor research and portfolio construction. Six autonomous agents collaborate through a shared message bus, each with a defined role, input contract, and output contract. The architecture mirrors LLM multi-agent systems: task decomposition, inter-agent communication, autonomous validation, and risk gating.
+An agent-structured research pipeline for US equity factor research and portfolio construction. Six deterministic, role-based stages run sequentially through a shared message bus, each with a defined input and output contract. This is a research prototype, not an autonomous trading system.
+
+**Live research showcase:** [Quant Research Pipeline](https://wenyu0608.github.io/macro-risk-dashboard/#pipeline) · [Alpha Deck](https://wenyu0608.github.io/macro-risk-dashboard/#factorlab)
 
 ## Architecture
 
@@ -17,11 +19,11 @@ graph LR
     style MB fill:#1a1a2e,stroke:#58a6ff,color:#c9d1d9
 ```
 
-All agents communicate through a `MessageBus` (shared state store with pub/sub). The Orchestrator runs them sequentially and handles failure/reject logic.
+All stages communicate through a `MessageBus` (shared state store with pub/sub). The Orchestrator runs them sequentially and handles failure/reject logic.
 
 ## Key Results
 
-Walk-forward backtest on Russell 1000, 2022-04 to 2024-12, Top-20 equal-weight monthly rebalance, 10bps/side transaction cost:
+Canonical, sample-specific results on an effective 459-instrument Russell panel, 2022-04 to 2024-12, Top-20 equal-weight monthly rebalance, 10bps/side transaction cost:
 
 | Model | Sharpe | Ann. Return (net) | Max Drawdown | Total Cost |
 |---|---|---|---|---|
@@ -29,15 +31,15 @@ Walk-forward backtest on Russell 1000, 2022-04 to 2024-12, Top-20 equal-weight m
 | LightGBM LambdaRank | 0.44 | 13.7% | -26.9% | 6.2% |
 | LightGBM Regression | 0.17 | 5.2% | -38.0% | 6.6% |
 
-Cross-validation against Qlib: locked SP500 baseline reproduced within 0.02% (net annual return), confirming implementation correctness.
+Qlib cross-check: the locked SP500 portfolio-construction baseline was reproduced within 0.02 percentage points (2 bp) in net annual return. This validates that baseline implementation only; it does not independently validate the Russell model scores or all LightGBM findings.
 
 ## Design Decisions
 
-**Why multi-agent architecture.** Each agent has a single responsibility and a well-defined contract (input keys, output keys on the MessageBus). The Critic agent autonomously validates the pipeline for look-ahead bias, survivorship bias, and overfitting. The RiskManager gates the pipeline when drawdown or VaR exceeds thresholds. This is the same orchestration pattern used in LLM agent systems: task decomposition, tool use, and validation loops.
+**Why role-based stages.** Each stage has a single responsibility and a well-defined contract (input keys and output keys on the MessageBus). The Critic applies deterministic research checks, while the RiskManager records drawdown, VaR and stress tests. The separation makes assumptions and failures easier to audit.
 
-**Why IC-weighted linear beats LightGBM OOS.** Walk-forward ablation on Russell 1000 (24M train / 3M test, 8 folds) shows that simple IC-weighting achieves the best risk-adjusted return. LightGBM models have higher raw returns but worse Sharpe and significantly deeper drawdowns. On rolling factor data with limited cross-sectional signal, complex models overfit to noise in the training window. This is a deliberate finding, not a failure -- choosing the right tool matters more than defaulting to deep learning.
+**Why IC-weighted linear beats LightGBM OOS.** The checked-in fold schedule contains 23 rolling 24M-train/3M-test windows; the quoted backtest covers the 2022-04 to 2024-12 evaluation period. In this sample, simple IC-weighting has the best risk-adjusted result. This is evidence for this evaluation period, not stable alpha.
 
-**Why PCA orthogonalization.** Raw factors (momentum, value, size, low-vol, reversal) have non-trivial correlations (e.g., size vs value ~0.4). PCA decorrelates them before IC-weighting, preventing double-counting of shared signal.
+**PCA quarantine.** PCA is valid only when fit within each walk-forward training fold. Full-sample PCA is excluded from externally quoted performance and retained only as an audit lesson. The generic pipeline therefore uses raw factors by default.
 
 ## Factors
 
@@ -49,7 +51,13 @@ Cross-validation against Qlib: locked SP500 baseline reproduced within 0.02% (ne
 | Low Volatility | -20D rolling std of returns | Low-risk anomaly |
 | Reversal | -1M return | Short-term mean reversion |
 
-Fundamental factors are lagged 2 months to mitigate look-ahead bias (simulating ~60-day reporting delay).
+Fundamental factors use a two-month lag as a reporting-delay proxy. The source is still a current fundamental snapshot rather than a genuine point-in-time database, so residual look-ahead and survivorship risk remains.
+
+The sole external-claim manifest and limitations are in [`research/canonical_results.json`](research/canonical_results.json). No result represents live capital, real-money performance or validated stable alpha.
+
+## Research Discipline
+
+Three preregistered factor cases (F001-F003) completed the S0-S7 protocol and were retained as null results. The [audit review](factor_pipeline/DEAD_REVIEW.md) also records the UVIX reverse-split handling error, the corrected benchmark, and why the failed conclusions did not change. The Qlib reproduction within 0.02 percentage points (2 bp) in net annual return applies only to the locked SP500 portfolio-construction baseline.
 
 ## Project Structure
 
@@ -67,7 +75,7 @@ qlib_migration/       # Walk-forward LightGBM experiments, Qlib cross-validation
 ## Quick Start
 
 ```bash
-git clone <repo-url> && cd quant
+git clone https://github.com/wenyu0608/macro-risk-dashboard.git && cd macro-risk-dashboard
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 

@@ -35,10 +35,10 @@ export const SITE_NAV: Record<PageId, NavItem> = {
   pipeline: {
     id: 'pipeline',
     hash: 'pipeline',
-    title: 'Multi-Agent Pipeline',
-    subtitle: '6-Agent 因子研究 · 组合构建 · Qlib 回测',
+    title: 'Research Pipeline',
+    subtitle: 'Leakage-aware walk-forward evaluation · 可复现因子研究',
     level: 1,
-    metrics: '107→459 stocks · 5 phases',
+    metrics: '459 stocks · 23-fold schedule · 10 bps/side',
   },
   ch3: {
     id: 'ch3',
@@ -53,7 +53,7 @@ export const SITE_NAV: Record<PageId, NavItem> = {
     id: 'risk',
     hash: 'risk',
     title: 'Macro Risk Dashboard',
-    subtitle: '宏观风控指标监控 · 综合风险评分 · 每日更新',
+    subtitle: '宏观风控指标监控 · 综合风险评分 · 展示最新数据快照',
     level: 2,
     metrics: '7 indicators · composite score',
   },

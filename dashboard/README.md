@@ -1,6 +1,6 @@
 # Macro Risk Dashboard
 
-Real-time US macro risk indicator monitoring dashboard, deployed on GitHub Pages.
+US macro risk research dashboard, deployed on GitHub Pages. It displays the latest successful data snapshot and is not a live trading or execution system.
 
 ## Indicators
 
@@ -55,8 +55,10 @@ cp -r ../data dist/data
 
 ## Deployment
 
-- **Data**: Updated daily at 00:30 UTC via `.github/workflows/update-data.yml`
+- **Data**: Scheduled for 00:30 UTC via `.github/workflows/update-data.yml`; the page shows the latest successful snapshot and may be stale if the workflow is unhealthy
 - **Frontend**: Auto-deployed to GitHub Pages on push via `.github/workflows/deploy-dashboard.yml`
+
+Check `summary.last_updated` before using the dashboard. A configured schedule is not evidence that daily refreshes are currently healthy; use a manual workflow dispatch and inspect the run history when the snapshot is stale.
 
 ## Setup GitHub Pages
 

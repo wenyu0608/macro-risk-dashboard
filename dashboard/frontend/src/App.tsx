@@ -13,7 +13,7 @@ const staggerContainer = {
 };
 const staggerItem = {
   initial: { opacity: 0, y: 10 },
-  animate: { opacity: 1, y: 0, transition: { duration: 0.3, ease: [0.25, 0.1, 0.25, 1] } },
+  animate: { opacity: 1, y: 0, transition: { duration: 0.3, ease: [0.25, 0.1, 0.25, 1] as [number, number, number, number] } },
 };
 
 interface DashboardData {
@@ -240,6 +240,14 @@ export default function App() {
 
   const { summary } = data;
   const compositeScoreInfo = resolveCompositeScore(summary, data.compositeScore);
+  const lastUpdatedDate = summary.last_updated ? new Date(summary.last_updated) : null;
+  const hasValidLastUpdated = Boolean(
+    lastUpdatedDate && Number.isFinite(lastUpdatedDate.getTime()),
+  );
+  const snapshotAgeMs = hasValidLastUpdated
+    ? Date.now() - lastUpdatedDate!.getTime()
+    : Number.POSITIVE_INFINITY;
+  const snapshotIsStale = snapshotAgeMs > 3 * 24 * 60 * 60 * 1000;
 
   const hasDanger = Object.values(summary.alerts).some((a) => a.level === 'danger');
   const hasWarning = Object.values(summary.alerts).some((a) => a.level === 'warning');
@@ -260,9 +268,15 @@ export default function App() {
       <header className="header">
         <h1>Macro Risk Dashboard</h1>
         <span className="updated">
-          Last updated: {summary.last_updated ? new Date(summary.last_updated).toLocaleString() : 'N/A'}
+          Last updated: {hasValidLastUpdated ? lastUpdatedDate!.toLocaleString() : 'unavailable'}
         </span>
       </header>
+
+      {snapshotIsStale && (
+        <div className="global-warning-banner">
+          STALE SNAPSHOT — Scheduled refresh is not the same as a confirmed successful update. Verify the timestamp before use.
+        </div>
+      )}
 
       <AlertsPanel alerts={summary.alerts} />
 
@@ -393,7 +407,7 @@ export default function App() {
       </motion.div>
 
       <footer className="footer">
-        <div>Data sources: FRED (US Treasury, Credit Spreads), Yahoo Finance (VIX, S&P 500, Sector ETFs). Updated daily via GitHub Actions.</div>
+        <div>Data sources: FRED (US Treasury, Credit Spreads), Yahoo Finance (VIX, S&P 500, Sector ETFs). Latest successful snapshot: {hasValidLastUpdated ? lastUpdatedDate!.toLocaleString() : 'unavailable'}.</div>
         <div style={{ marginTop: '4px', fontSize: '10px', opacity: 0.6, letterSpacing: '0.3px' }}>
           Built with <strong>auto-dashboard</strong> · design © Coco
         </div>

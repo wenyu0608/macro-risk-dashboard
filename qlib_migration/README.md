@@ -1,13 +1,13 @@
 # Walk-Forward Ablation: IC-Weighted Linear vs LightGBM
 
-Ablation study comparing three scoring models on Russell 1000 (~495 stocks after liquidity filter), using the same 5 factors (momentum, B/P, log market cap, low volatility, reversal) and the same backtest setup (Top-20 equal-weight, monthly rebalance, 10bps/side cost).
+Ablation study comparing three scoring models on an effective 459-instrument Russell 1000 panel, using the same 5 factors (momentum, B/P, log market cap, low volatility, reversal) and the same backtest setup (Top-20 equal-weight, monthly rebalance, 10bps/side cost).
 
 ## Setup
 
 - **Universe:** Russell 1000, $5M+ average daily volume filter
 - **Period:** 2016-01 to 2024-12 (factor panel), backtest 2022-04 to 2024-12
-- **Walk-forward:** 24-month training / 3-month test, 8 rolling folds
-- **PCA:** Applied per fold (fit on train, transform test) to orthogonalize factors
+- **Walk-forward schedule:** 24-month training / 3-month test / 3-month step, 23 rows in `folds_v2.csv`
+- **Canonical feature mode:** Raw five factors. PCA experiments are quoted only when their per-fold provenance is explicit.
 - **Backtest engine:** Microsoft Qlib (`qlib_backtest_lib.py`)
 
 ## Models
@@ -36,7 +36,9 @@ This is consistent with the broader quant finding that simple, robust models oft
 
 ## Cross-Validation Against Qlib
 
-The locked SP500 baseline (Sharpe 1.77, 30.0% gross annual) was independently reproduced using Microsoft Qlib's backtest engine. The difference between the custom pipeline and Qlib was <0.02% in net annual return, confirming that the portfolio construction logic is correctly implemented.
+The locked SP500 baseline was independently reproduced using Microsoft Qlib's backtest engine. The net annual return difference was 0.02 percentage points (2 bp), validating that baseline's portfolio-construction implementation only. It does not independently validate the Russell model scores, factor inputs or all LightGBM findings.
+
+The exact command for the historical raw-feature bundle was not preserved, so the current claim manifest records reconstructed provenance. See `../research/canonical_results.json` before quoting results.
 
 ## Scripts
 
