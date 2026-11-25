@@ -54,9 +54,10 @@ class ManifestIntegrityTests(unittest.TestCase):
         self.assertIn("reverse-split handling error", board)
         self.assertIn("locked SP500 portfolio-construction baseline only", board)
         self.assertIn("0.02 percentage points (2 bp)", board)
-        self.assertIn("https://wenyu0608.github.io/macro-risk-dashboard/#pipeline", board)
         self.assertIn("https://github.com/wenyu0608/macro-risk-dashboard", board)
-        self.assertIn("https://wenyu0608.github.io/macro-risk-dashboard/#factorlab", board)
+        self.assertIn("/blob/main/research/canonical_results.json", board)
+        self.assertIn("/blob/main/factor_pipeline/DEAD_REVIEW.md", board)
+        self.assertNotRegex(board, r"[\u3400-\u9fff]")
 
         self.assertIn("No result represents live capital", readme)
         self.assertIn("Three preregistered factor cases (F001-F003)", readme)

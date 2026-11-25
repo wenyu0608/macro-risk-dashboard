@@ -36,7 +36,7 @@ export const SITE_NAV: Record<PageId, NavItem> = {
     id: 'pipeline',
     hash: 'pipeline',
     title: 'Research Pipeline',
-    subtitle: 'Leakage-aware walk-forward evaluation · 可复现因子研究',
+    subtitle: 'Leakage-aware walk-forward evaluation · US-equity factor research',
     level: 1,
     metrics: '459 stocks · 23-fold schedule · 10 bps/side',
   },
@@ -231,7 +231,7 @@ export interface SidebarGroup {
 
 export const SIDEBAR_TREE: SidebarGroup[] = [
   {
-    label: '量化架构',
+    label: 'Quant Research',
     items: [
       { id: 'pipeline' },
       { id: 'ch3' },
@@ -241,7 +241,7 @@ export const SIDEBAR_TREE: SidebarGroup[] = [
     ],
   },
   {
-    label: '风控研究',
+    label: 'Risk Research',
     items: [
       { id: 'risk', children: ['ch1', 'ch2', 'ch2_1', 'ch3_risk'] },
       { id: 'ch2_2' },
