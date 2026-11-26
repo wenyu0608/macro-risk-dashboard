@@ -1,33 +1,117 @@
 {
-  "fetched_at": "2026-11-25T09:00:25.597740+00:00",
+  "fetched_at": "2026-11-26T08:47:13.729693+00:00",
   "headlines": [
     {
-      "title": "Wall Street set to follow Asian markets lower as AI fears return",
+      "title": "Nvidia halts chip shipments to south-east Asia",
       "source": "FT",
-      "published": "2026-11-25T08:15:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSU4xMm9XeS02RlVfRHptOVoyRXNfa2cxRmxISXhnOFBrVnYtSk94bnVDWklKQzVhODdtbEViRThXVkdIYWw4aUpLME9fc3cxQ01WZ0ZTejdGTXJZdnNESmxlRl9Tb2ZEaElSRExXTWs3Ymg5QmxjZVdZNDdnT3ZNSWV3bDE?oc=5",
-      "description": "Wall Street set to follow Asian markets lower as AI fears return &nbsp;&nbsp; Financial Times"
+      "published": "2026-11-26T08:07:01+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbDFtRGxaSmJxdndYb1VMbTBjLWJGOExCdUdULWNlRXF6RG90SDQzQkdYb29GbmI3Q1J5UHp2Yk80N3R1Wkl4UXlfWFdFd0VmQ2FEYUZXdnFpbnR3SndRWkh6dVJYQlY1cHhQMWVkTEpJaV9lbHJteGc1ai0tS0ppYWxuWVI?oc=5",
+      "description": "Nvidia halts chip shipments to south-east Asia &nbsp;&nbsp; Financial Times"
     },
     {
-      "title": "Indian stocks close to wiping out 2026 losses as foreign money floods back",
+      "title": "Bank of Korea raises interest rates amid AI chip boom",
+      "source": "FT",
+      "published": "2026-11-26T07:00:55+00:00",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBN0dJNnpodXdkck0yNWZDUkVadF9Fbkh0ZzZKMzZFbTBxYkF4MHE5Q0JtY3lpdTZodGJWa0ZicXVydEpzaWdnQVhnX243dE45M3pmR0JONjRDa3JCZlZscVUyMGxoYkp2cVZjdW5tNVI?oc=5",
+      "description": "Bank of Korea raises interest rates amid AI chip boom &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "The invisible strength of the UK economy",
+      "source": "FT",
+      "published": "2026-11-26T05:00:19+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQU5xY1IwRFdwZmZ3Y1NZWmh5dGJzSC1WNHBZSUxXUXgzb1BiR1ZhejBNaGc2UURxcXp5YXJlZEV4aElkQXNYX0ROdmVWY0U5M3JJZzRNbFJWQkdyaE5CNzRVRVl5NFJyUlFubGNyeHVDRm4zTDZtLTI1SzB1ZEh2dEJETjg?oc=5",
+      "description": "The invisible strength of the UK economy &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "Gold steadies after hitting over 1-year low; Fed outlook in focus",
       "source": "Reuters",
-      "published": "2026-11-25T02:17:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSUlQam9xSF9JMnNpU2k0QVJHYTkwNEIyQ3ZMbGFyajBJYmczT2RXaGNWMnlHckJ6TlBSLVNQdEFpRWE4MXdUVVIyWmF0YnhoN2FlTXIzMEY2QzVmeVdnRTVQXy0tQ0JzazhDTkpabWszMFlOTE5jdUxfVXF2TWlkSUZCd3hvbkI1UFVueG83MUEtdUp2OElDT2pJNkVYLWRMWFlieHl0ei1mSmxiNHI3RERaUTJtWWpNWVZTMEFYaURFQQ?oc=5",
-      "description": "Indian stocks close to wiping out 2026 losses as foreign money floods back &nbsp;&nbsp; Reuters"
+      "published": "2026-11-26T03:39:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNczNWcXJNQVFwUEZ5UjlTc1o0ZFE5NVFYZzA2eTJURHRsMmRMRmc1LTZ1TWszbFYyN05QRHRiQ1VIb1ZxUE9pTUs5WDVya1M0WFJEQ3lCN3J0T3h4bndfa1NyZFB4VFFaby1NWVdRRlFZeGlKdDNnYkRZN0c0eFZQY3VSWS11NW9SbUdndElMZk9oNk1kd0haVWh0Rl9VcTA1MDg1REE1cHZXWk14Umc?oc=5",
+      "description": "Gold steadies after hitting over 1-year low; Fed outlook in focus &nbsp;&nbsp; Reuters"
     },
     {
-      "title": "Stocks retreat as AI rebound stumbles, tariff threats loom",
+      "title": "Stocks rally in Asia, US tariffs not as dire as feared",
+      "source": "Reuters",
+      "published": "2026-11-26T01:35:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUWRTQ2N0czgwTVhPdVhvZDUzeDNDRUJ6cFd0MWx1N05aSTJHaUlOdTQ5X2xieEVueHJ3VTRrb0ppNEtzbFVBRm1fU3VvV0xpMWVlUWg3c0NvWXJxS2ZabkwwejhwenhCVmhYRUdweUwwdHhTTWd1bTh2QlR1dFpvVDFHVQ?oc=5",
+      "description": "Stocks rally in Asia, US tariffs not as dire as feared &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "UK university ‘grade inflation’ highest in degrees with more coursework, says study",
+      "source": "FT",
+      "published": "2026-11-26T00:01:07+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcXlCeFFNbU1sdXpPcG9pMW1BNXNJcGV6VHNsUHFVZTc0QWVMc0RSaTNVM0lVNHpGYU8xekhaazVNUXg1cng0bW1QUnRXMzFLN2xhUU9vMGRGYWtLWmxIRnExVWZ1Wktac1MxN0hHUnJmMDRZdUV5WFFCTWVabVVhejJRY2o?oc=5",
+      "description": "UK university ‘grade inflation’ highest in degrees with more coursework, says study &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "AI stock rout deepens but damage is limited by afternoon bounce",
+      "source": "Reuters",
+      "published": "2026-11-25T23:39:08+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMmNMM0doWElDVk9BdjNGZnJHakNCUFg1blQzSlk0eW9zeVduV3ZKcEtJd0hpUkxDMVhnRE9rY1lLUzF1eENZaFh0SUNKbmRjanN3YWtZakZud2RYUnlSRkk5b1RZT2VfbFJPXzhZVEVyYnFnRHBwYVlGdFQzaEt2Z2VjaGVXWUE0Qmd5bjZYandmR2M2QXBSY2tKem80OGNlSzh3?oc=5",
+      "description": "AI stock rout deepens but damage is limited by afternoon bounce &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "US economy roars ahead in third quarter, inflation remains high in October",
+      "source": "Reuters",
+      "published": "2026-11-25T22:06:55+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNalBrRjhRWHdhRDduMzduLU1kN1lGVFpzNFllX0RzdjJXMjdtajRZS1l1dms2MFJFbkhJQmx3Qzgydi1nTTJnQ1JPLUtoa1R5LWZjWjItUXJhXzhoZG51NU9ENzVBQjVSZWFpdHlqbV9PSkVncWtjUlptdXhjd0ZKRXZ6d2Y1dw?oc=5",
+      "description": "US economy roars ahead in third quarter, inflation remains high in October &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Fed policymakers at odds over causes of high inflation",
+      "source": "Reuters",
+      "published": "2026-11-25T20:50:24+00:00",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ2Vtdjdia2xUaVF5bWxRSVlPUTZjc1JmWG9Uam1QSHpNcXZuREdQVmRyX2hkNEtMbWhFd1VFb3l6QVJGYkJHZlZXUDJLVlM4cDdDR0RSVTRPMmZaUHAtMlhtSDlQeFF4UGJadUhrQmhlaWlJT1cwSG9IRnF1cC1COEtKdTBsUWVsXzhkYWhUWHNKTjJsUVJuNw?oc=5",
+      "description": "Fed policymakers at odds over causes of high inflation &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Fed survey shows continued economic growth, sticky inflation in recent weeks",
+      "source": "Reuters",
+      "published": "2026-11-25T20:42:46+00:00",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZm5vWXNOWWIxaUVxUEVsRDBCWmpwYmd6eWJMLW1tcnJMVmxvR08ybXFaYWlFcVZ2YU1fYk9hbWotWlBXTzVValBHSFFzNjM1QlpyVWNCXzFPTFRZMUtWeHp0SThmaWxRMTVYVXp3UlM2R3pKQnVNS2hiZ1VERU9EVnFGNlA5dGZEa1NtZ1o5REVxM3ZzX2ZpOXRaN0lydzlDZk1VQ2FlS212U3dw?oc=5",
+      "description": "Fed survey shows continued economic growth, sticky inflation in recent weeks &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Upgrade to US GDP figures keeps December rate rise in play for Fed",
+      "source": "FT",
+      "published": "2026-11-25T16:07:13+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ3R4eVpFN2VlYjJKVXJvNlZuYzd4RVkxZ25DUGRhVE1WQkFZNTZpcENETUdXZXlSbkwzVGI3Z0VIZExHUDI0STVHQ2JWa1AtS1FsWG40WlRIUWFnTVdYeV80eFN0bVlTUnpNSG5veFdvaHczcUwxWWx5R1lKd01CbXE3Ums?oc=5",
+      "description": "Upgrade to US GDP figures keeps December rate rise in play for Fed &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "US third-quarter GDP growth revised sharply higher",
+      "source": "Reuters",
+      "published": "2026-11-25T14:28:47+00:00",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONjZ1Y2k2ZHFiNlFJRV9fUWVWNXk5R0puemhyQTF6X2xiV0NTblNua3dFVTlQWE1keGQ0TDVMdHNSUHZlYURmbUE3cVZpRDlLdDRiSXNRTTYzZEpXcjViSGd2SV83emptZFRrUWtTczl4b3ItMVdBOEpNOHFSOVFWN096T083eV9KaWVCbXgwczlLLVl1VHNRNGZ0clRZS3NFXzRwQnVR?oc=5",
+      "description": "US third-quarter GDP growth revised sharply higher &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "Bowman, Modernizing Banking Supervision: A Shared Agenda for the Americas",
+      "source": "Fed Speech",
+      "published": "2026-11-25T12:25:00+00:00",
+      "url": "https://www.federalreserve.gov/newsevents/speech/bowman20261125a.htm",
+      "description": "Speech At the ASBA–BCBS–FSI High-Level Meeting for the Americas on Banking Supervision, Bras&iacute;lia, Brazil (via pre-recorded video)"
+    },
+    {
+      "title": "AI vs the railways: a tale of two investment booms",
+      "source": "FT",
+      "published": "2026-11-25T05:01:50+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNLThIbFdFbUxwSHBTSzlFZENIc1JSOThfcGlVMEhITHVzMEZqdm9VeldlVTIzLUVMbGZIbUMzejBqUEV1b1FFc0MtOUV3WTJKNTY3QVNZV2hDZWNudXd6aElMNTdMWS02LS1LbGNxTXN2VUhLSnpPcHM0dnlheFhoSVd2dUc?oc=5",
+      "description": "AI vs the railways: a tale of two investment booms &nbsp;&nbsp; Financial Times"
+    },
+    {
+      "title": "World stocks tumble as Trump tariffs rattle markets, AI rally fades",
       "source": "Reuters",
       "published": "2026-11-25T01:50:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRFVsTjFROGtER0loSkZOcnF2NDRLUWFmcjBHZ01ybE51N19idjFFMXI1dnFqZ21JYS1HVVpicTJ1V1RfVU4zd3pkVEZMWHdqMUJWRENOQWJ2VjFqT1Y3WS0xYTV3bzd2RnRraFhtOVpzVE9yYThzdV9tdWxJbUpjNzFraw?oc=5",
-      "description": "Stocks retreat as AI rebound stumbles, tariff threats loom &nbsp;&nbsp; Reuters"
+      "description": "World stocks tumble as Trump tariffs rattle markets, AI rally fades &nbsp;&nbsp; Reuters"
     },
     {
-      "title": "Dollar rallies before key inflation reading; Aussie and sterling slump",
-      "source": "Reuters",
-      "published": "2026-11-25T01:19:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUUFucHFRbGxzR3laOUhHVU5fQ215SV82VkdMcExqZy1DMmpLalE4RHkyUDgyaEVLQmhVQ3l1VFZXcUV2ZV9UQmlqX1p2X09UbjlfbzlTY1EwUld2Z2dFV0d3cTI0bDlUejkxbFRsczJ5Q2ZmdXVaTkNNTXNKLUZkYkxLVVhFejU1VjdVTXp4d3ctRmc2NWhDbFdJV1NDRTE4UFQzOGQ4eXI4bXdjLWJB?oc=5",
-      "description": "Dollar rallies before key inflation reading; Aussie and sterling slump &nbsp;&nbsp; Reuters"
+      "title": "US stocks close lower in volatile session as AI trade remains under pressure",
+      "source": "FT",
+      "published": "2026-11-25T01:42:18+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSU4xMm9XeS02RlVfRHptOVoyRXNfa2cxRmxISXhnOFBrVnYtSk94bnVDWklKQzVhODdtbEViRThXVkdIYWw4aUpLME9fc3cxQ01WZ0ZTejdGTXJZdnNESmxlRl9Tb2ZEaElSRExXTWs3Ymg5QmxjZVdZNDdnT3ZNSWV3bDE?oc=5",
+      "description": "US stocks close lower in volatile session as AI trade remains under pressure &nbsp;&nbsp; Financial Times"
     },
     {
       "title": "Argentina expected to suffer technical recession in blow to Javier Milei",
@@ -35,90 +119,6 @@
       "published": "2026-11-24T20:54:16+00:00",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVVJLZnVfcHJFaVhtU2hZTFFTYXFLTlMzMnNpUm94UW1FdGhjdF9MNmFnc0NJQy16bi1WeTJ3SlZINFkwVVE2NC1Icmd3OFNabmpDV0dLbmI2RjAtX1V4RWU2SHpwNXI2RDIzOG5OakZXa2V2YVRtbW1Pc1Z2Y3dTOVBkTTc?oc=5",
       "description": "Argentina expected to suffer technical recession in blow to Javier Milei &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
-      "source": "Fed FOMC",
-      "published": "2026-11-24T19:00:00+00:00",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261124a.htm",
-      "description": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026"
-    },
-    {
-      "title": "Longer battery storage durations reshape US power markets",
-      "source": "Reuters",
-      "published": "2026-11-24T17:08:50+00:00",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMEpMYkJwLXVfeTlRZFB4SlI3LXBRb2RUMFhtTm9TSGRtODVzT2RjUXJBODVXdDVhalRWU1I5T3d2YjlNWFNiM2h2OFZOcl9JUWROb19HQ0dlQi1Vcy1QOVV1WF9QZ3FvUUNFR05TeUtSWENfVFdtamlIZGdUcmY4Y3dScUJ6ak0ybkwzczZuMVdlQ3lkX0ZXejNiN0RCRG5OQ0hlbUtES0JNdzNOMHdMVHJEakMyU00?oc=5",
-      "description": "Longer battery storage durations reshape US power markets &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "AI boom looms over Warsh's Fed as inflation worries grow",
-      "source": "Reuters",
-      "published": "2026-11-24T11:25:29+00:00",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLTBqVnllWWdXMThBVk1EbTYyUVgwVW9RYTR6TW1faTkwM2R3eV9yRVQ4VUkteFBMbS1TdDRCb2VzZXNCT0kySThGTUg2d3EyalZpMHZrZEltcko1Ui1lTGdlSS1PZUpiQlo1WGlxbG1hclV2NC1pUU5YU01GbjB2R2dPMFZQUVBoSGRBMXBhNnRDZ1JUdURuamtRWkpTdw?oc=5",
-      "description": "AI boom looms over Warsh's Fed as inflation worries grow &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Nasdaq, S&P 500 slip following Monday's Nvidia-fueled rally",
-      "source": "Reuters",
-      "published": "2026-11-24T10:52:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSTdTSVk1YVg0WC1SRVJKVW1XYTZJbjRhRVctYkNzZHZRcW5TaVE3MVdSd2JfYUNaV3otX1FzR1lxYkwyWWZtbS1ONDdiem9UVUI0ckV6c2tiOEt0TGViNlUxZFdSeDV0aVJ4cjZkSkE5Nk9veE1UTmxad0xxaXhScndGMV9IdWVrNUpOQnY0Y0hXVmpZVFgwbTFQMDZiX0NqdExaejlYMzJnbjg?oc=5",
-      "description": "Nasdaq, S&amp;P 500 slip following Monday's Nvidia-fueled rally &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "China wanted families to put savings in shares not homes — then markets fell",
-      "source": "FT",
-      "published": "2026-11-24T08:37:14+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa0hjaURGMW5BTlZHUS1iS1RsTC1uZExaQWhjbXpEdVBJdjc5VFVBcFBTeU1JenJoQ3A1dmdpSHFCVlRia2s2amptaTFCbGZEeldVVDI0MmRCd2FqVTBLLUtmem5FYlFTWC1BejdHUXZLa09qY0xDeklEeTQ3UnBxblE5ODc?oc=5",
-      "description": "China wanted families to put savings in shares not homes — then markets fell &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "The Jensen put",
-      "source": "FT",
-      "published": "2026-11-24T06:30:41+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQM3FqUEZrdk9TNllyVXV2cXB2TlFOYkZ4dDhYUE1qM0FCdzllZm9yR19MZDJqR2dBamI5eGFRVW5KNExvSUtrQ2VLSUhPM0dlTEN5RGU0Y1hWUHdVZWNCWkFzc1BYZGFJOG1WMkxnUDJNSktsMF9XRzJfV19IZEJJS1hLR2s?oc=5",
-      "description": "The Jensen put &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Does Jensen Huang’s return to Nvidia mean the chip group is too big to fail?",
-      "source": "FT",
-      "published": "2026-11-24T05:05:43+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNmc0bG5LSmRJLWtldy03VUs4ODFpM0ozbFZzS0VQcmpqMWhKUGVZVy1JYUMyRkpUQVBSZWc5MDA1U0h4NnpKbVZEUmE3ZTV4RHgwbV9uZEJQdTg5R2F6TURRa1VhZVcyOGZWOGRNN2xqZ0Fndm9kV1p2OHNxX3JwazR2blk?oc=5",
-      "description": "Does Jensen Huang’s return to Nvidia mean the chip group is too big to fail? &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "SpaceX-Tesla: the directors negotiating the biggest merger ever",
-      "source": "FT",
-      "published": "2026-11-24T05:01:52+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeEdHa3JaV1FnaExBWDEtY1FaT0hubE5OcXZHSDNFNlRWYkw4Nk5YbWtmRkxIaTVUMHRLZ042V1llZlV2VWRaZ2pieEpKbXFpNlZtNHNWY0tWWDI2YWNrMjFPd1EySzVXWnh2ZGJqRzNIbDZXUUE1Wnc3ZFI0dFlhWHR4N3k?oc=5",
-      "description": "SpaceX-Tesla: the directors negotiating the biggest merger ever &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "US stocks slide as Nvidia rally fizzles out, dollar falls",
-      "source": "Reuters",
-      "published": "2026-11-24T01:29:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVGQ3cVhHXzJBLXEybDVWX21xeWcxbUVEOHA1ZV9IU0lacEM2a3dKbmFLSGk2Y1MwLXk0OVFzWV8yT1JNQ3FnX3hWNGxidEZvbDZwTl8tdjNoUDV6MU45ZnJSa3lSMnZJNXdwWk5VRUFOYzJlTk11TmZaS1hocXhPVUE4bw?oc=5",
-      "description": "US stocks slide as Nvidia rally fizzles out, dollar falls &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Gold falls 2% on hawkish Fed bets, US inflation data in focus",
-      "source": "Reuters",
-      "published": "2026-11-24T00:57:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOX2lLRXdXdmpCM0FsdHVpNkdYTWttMDRZd294U3VSZGtqczloSEN5N1VfTzBpbjJLZGYwWm55RDlXSmY0b2tod0tBUl9lbkl4TW13VDBuWEVDYjgxamc4anBNdGhtWTdvUUNiYUp5MDlJVU81Sl9qa283bUIzTUNCU0lZZ1VBdXo2UW5hQmoyT191dFpWODY2aldnOVJmRzVaaV9tZDF2U0hKbmRubUg0TllIendaRzg?oc=5",
-      "description": "Gold falls 2% on hawkish Fed bets, US inflation data in focus &nbsp;&nbsp; Reuters"
-    },
-    {
-      "title": "Anthropic closes below IPO price as tech rally fades",
-      "source": "FT",
-      "published": "2026-11-24T00:31:11+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPal9tdUdZVTJvVTB5aGJHZ0FwTk1GVW8zRWFzNlFEdU9YTERXNlNPcGFzbHUyaXd5U3I4WlMzTGNFUUtPVlA2VmpYSW94TFZKMFhGOFlsU19WV09kVkFGRk9IQ3h3MkRLUGlqWms3akdWTUNaR1hxX2VXakFVMm1tNWk0MW8?oc=5",
-      "description": "Anthropic closes below IPO price as tech rally fades &nbsp;&nbsp; Financial Times"
-    },
-    {
-      "title": "Top Fed official probed over whether she breached ‘blackout period’",
-      "source": "FT",
-      "published": "2026-11-23T23:18:55+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTmJyOUFmRmd5eE9ua2hLR3dXQmI5WDlzRW1CSy11UUdGTGZLUmZIZlFqWHJJM1YtMkJqMks2Yk1yazExM0VCMlY3WldSdjRkWFpyTW9KRzJOOEdna2lBZmdndXNRVVBHZF9XbXAzMk1xQ3hQWElUSllzbm1ndWtOZWVUSnk?oc=5",
-      "description": "Top Fed official probed over whether she breached ‘blackout period’ &nbsp;&nbsp; Financial Times"
     }
   ]
 }
