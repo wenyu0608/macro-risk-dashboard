@@ -10,7 +10,7 @@
     },
     "vix": {
       "level": "warning",
-      "message": "VIX elevated: 27.0"
+      "message": "VIX elevated: 24.7"
     },
     "absorption_ratio": {
       "level": "danger",
@@ -21,7 +21,7 @@
       "message": "Normal: 10.7"
     }
   },
-  "last_updated": "2026-11-26T08:47:06.058541",
+  "last_updated": "2026-11-27T08:58:11.240503",
   "indicators_available": [
     "term_spread",
     "credit_spread",
